@@ -1,0 +1,650 @@
+<?php
+ include('includes/html_header.php');
+ ?>
+ <?php
+ include('includes/navbar.php');
+ ?>
+
+<section id="banner">
+  <div class="content">
+      <!-- <h2 class="my-5 text-center">Carousel #3</h2> -->
+      <div class="owl-carousel owl-1">
+
+        <div class="media-29121 overlay" style="background-image: url('img/hero_1.jpg');">
+          <div class="container">
+            <div class="row  align-items-center">
+              <div class="col-md-8">
+                <h6>Great Experience In Building. </h6>
+                <h2>7 YEARS <br> OF PROGRESS</h2>
+                <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
+                 <!-- <a href="" class="btn btn-primary mt-1">explore more</a> -->
+                 <!-- <div class="button" id="button-2">
+                    <div id="slide"></div>
+                   <a href="#">explore more</a>
+                  </div> -->
+                <a href="what_we_do.php">  <button class="slide_from_left">explore more</button> </a>
+              </div>
+            </div>
+          </div>
+        </div> <!-- .item -->
+        <div class="media-29121 overlay" style="background-image: url('img/hero_2.jpg');">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col-md-8">
+                <h6>Great Experience In Building. </h6>
+                <h2>Investing in Tourism</h2>
+                <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
+                <button class="slide_from_left">explore more</button>
+              </div>
+            </div>
+          </div>
+        </div> <!-- .item -->
+        <div class="media-29121 overlay" style="background-image: url('img/hero_3.jpg');">
+          <div class="container">
+            <div class="row align-items-center">
+              <div class="col-md-8">
+                <h6>Great Experience In Building. </h6>
+                <h2>Bandipur Cable Car </h2>
+                <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
+                <a href="about_bandipur.php">  <button class="slide_from_left">explore more</button> </a>
+              </div>
+            </div>
+          </div>
+        </div> <!-- .item -->
+
+      </div>
+  </div>       
+</section>
+
+<section id="marquee_section">
+<div class="simple-marquee-container">
+				<div class="marquee-sibling">
+				breaking news
+				</div>
+				<div class="marquee">
+					<ul class="marquee-content-items">
+						<li> NRB Refinance Facility Availed Borrowers updated list 2078 Poush End  </li>
+						<li>Item 2</li>
+						<li>Item 3</li>
+						<li>Item 4</li>
+						<li>Item 5</li>
+					</ul>
+				</div>
+			</div>
+</section>
+<!-- company intro start -->
+<section id="company__intro">
+   <div class="container-fluid"> 
+      <div class="row">
+         <div class="col-lg-3">
+            <a href="">
+                <div class="intro__details active" data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+                data-aos-duration="1000">
+                    <h5 class="title__secondary">Yearly 5 Lakhs Visitors</h5>
+                    <p class="card-text">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
+                    <!-- <div class="go-corner" href="#"> <div class="go-arrow"> → </div> </div> -->
+                </div>
+            </a>
+         </div>
+         <div class="col-lg-3">
+          <a href="">
+              <div class="intro__details" data-aos="flip-left"
+              data-aos-easing="ease-out-cubic"
+              data-aos-duration="1500">
+                  <h5  class="title__secondary">500 Passenger Per Hour</h5>
+                  <p class="card-text">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
+                   <!-- <div class="go-corner" href="#"> <div class="go-arrow"> →</div></div>                       -->
+              </div>
+          </a>
+         </div>
+        <div class="col-lg-3">
+          <a href="">
+              <div class="intro__details" data-aos="flip-left"
+              data-aos-easing="ease-out-cubic"
+              data-aos-duration="2000">
+                  <h5 class="title__secondary">Complete Holiday Package</h5>
+                  <p class="card-text">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
+                   <!-- <div class="go-corner" href="#"> <div class="go-arrow">  →</div></div>              -->
+              </div>
+          </a>
+        </div>
+        <div class="col-lg-3">
+            <a href="">
+                <div class="intro__details" data-aos="flip-left"
+                data-aos-easing="ease-out-cubic"
+                data-aos-duration="2500">
+                    <h5 class="title__secondary">South Asia Unique Cable Car</h5>
+                    <p class="card-text">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
+                    <!-- <div class="go-corner" href="#">  <div class="go-arrow">   → </div> </div>     -->
+              </div>
+            </a>
+        </div>
+      </div>
+   </div>
+
+</section>
+<!-- about us content start -->
+<section id="about-us">
+  <div class="container">
+    <div class="row">
+      <div class="col-xl-6">
+        <div class="work-together__left" data-aos="fade-right"data-aos-easing="linear" data-aos-duration="2500">
+            <div class="work-together__img-box">
+                <div class="work-together-shape-1"><img src="assets/images/shapes/work-together-shape-1.png" alt=""></div>
+                <div class="about__img-1">
+                    <img src="img/about/about-img1.jpg" class="about-img1" alt="">
+                    <div class="about__img-2">
+                        <img src="img/for-video.png"class="about-img2" alt="">
+                          <div class="video-main">
+                             <div class="promo-video">
+                                 <div class="waves-block">
+                                   <div class="waves wave-1"></div>
+                                   <div class="waves wave-2"></div>
+                                   <div class="waves wave-3"></div>
+                                 </div>
+                             </div>
+                             <a href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=135s&ab_channel=BandipurCablecar" class="video video-popup mfp-iframe" data-lity><i class="icon-play"></i></a>
+                          </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+       <div class="col-lg-6 align-self-center">
+        <div class="about-us-info-wrap">
+            <div class="section-title-area ltn__section-title-2--- mb-20">
+                <h6 class="">About Us</h6>
+                <h2 class="section-title"> Cable Car With Tourism </h2 >
+                <p>Bandipur Cable Car Pvt. Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahu formerly Bandipur VDC Ward no.3, Tanahu. </p>
+                 <div class="double-check-list font-title mb-xxl-5">
+                  <!-- <ul class="list-unstyled aboutus__points">
+                    <li>
+                        <div class="text"> <p>Subsidary Company</p> </div>
+                    </li>
+                    <li>
+                        <div class="text"><p>Civil Consultant</p></div>
+                    </li>
+                    <li>
+                        <div class="text"><p>Mechanical Construction</p></div>
+                    </li>
+                    <li>
+                        <div class="text"><p>Financial Consultant</p> </div>
+                    </li>
+                    <li>
+                      <div class="text"><p>banking partner</p> </div>
+                  </li>
+                    <li>
+                      <div class="text"><p>Guide Liner</p> </div>
+                  </li>
+                 </ul> -->
+                  </div>
+                  <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
+                       <div class="clearfix">
+                         <h2 class="mb-4">Promoter Structure Percentage(%)</h2>
+                           <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
+                               <div class="inner">
+                                  <div class="count-outer count-box counted">
+                                      <div class="value" akhi="61">0</div>  <span>%</span>
+                                         <h4 class="counter-title">RKD Tourism</h4>
+                                  </div>
+                               </div>
+                           </div>
+                           <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
+                               <div class="inner">
+                                  <div class="count-outer count-box counted">
+                                      <div class="value" akhi="25">0</div>  <span>%</span>
+                                         <h4 class="counter-title">panchase</h4>
+                                  </div>
+                               </div>
+                           </div>
+                           <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
+                               <div class="inner">
+                                  <div class="count-outer count-box counted">
+                                     <div class="value" akhi="14">0</div>  <span>%</span>
+                                        <h4 class="counter-title">others</h4>
+                                  </div>
+                               </div>
+                           </div>
+                       </div>
+                  </div>
+                  <button class="slide_from_left">explore more</button>
+              </div>                            
+        </div>
+    </div>
+    </div>
+  </div>
+</section>
+<section id="company-info">
+  <div class="container">
+      <div class="info__one">
+          <div class="row">
+              <div class="col-xl-6 col-lg-6">
+                  <div class="info__one__topleft">
+                      <div class="section-title text-left">
+                          <h6 data-aos="fade-up"
+                          data-aos-duration="2000">welcome to our agency</h6>
+                          <h2 class="section-title__title" data-aos="fade-up"
+                          data-aos-duration="2000" >Bandipur is a sovereign investor company managing a diverse portfolio of assets in Tourism Sector</h2>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-xl-6 col-lg-6">
+                  <div class="info__one__topright">
+                      <div class="info__one__counter">
+                          <ul class="info__one__counter__list list-unstyled">
+                              <li class="info__one__counter-single">
+                                <div class="value" akhi="822">0</div> 
+                                  <p class="info__one__counter__text">Promoter Share</p>
+                              </li>
+                              <li class="info__one__counter-single two">
+                                <div class="value" akhi="75">0</div> <span class="info__one__counter__text">crore</span>  
+                                  <p class="info__one__counter__text">Committed Share Amount</p>
+                              </li>
+                          </ul>
+                      </div>
+                      <div class="info__one__link">
+                          <a href="" class="video-popup">
+                              <div class="info__one__img">
+                                  <img src="img/about/about-img2.jpg" alt="">
+                              </div>
+                          </a>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+      <div class="info__one__bottom">
+          <ul class="list-unstyled info__one__feature">
+          <li class="info__one__feature__single ">
+                            <div class="info__one__feature__content">
+                                <h3 class="info__one__feature__title">
+                                  <a href="">Authorized Capital</a>
+                                </h3>                             
+                            </div>
+                            <div class="info__one__feature__icon">
+                                <span class="icon-wealth"></span>
+                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">    
+                                    <!-- <h4 class="value_currency">NPR</h4> -->
+                                    <div class="value" akhi="5.5">0 </div>
+                                    <h4 class="value_heading">Arba</h4>
+                                 </div>
+                            </div>
+          </li>
+          <li class="info__one__feature__single ">
+                            <div class="info__one__feature__content">
+                                <h3 class="info__one__feature__title">
+                                  <a href="">issued capital</a>
+                                </h3>                             
+                            </div>
+                            <div class="info__one__feature__icon">
+                               <span class="icon-dollar"></span>
+                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
+                                    <h4 class="value_currency">NPR</h4>
+                                    <div class="value" akhi="7.9">0 </div>
+                                    <h4 class="value_heading">crore</h4>
+                                 </div>
+                            </div>                          
+          </li>
+          <li class="info__one__feature__single ">
+                            <div class="info__one__feature__content">
+                                <h3 class="info__one__feature__title"><a href="">total project assets</a>
+                              </h3>                             
+                            </div>
+                            <div class="info__one__feature__icon">
+                                <span class="icon ti-stats-up"></span>
+                                <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
+                                <h4 class="value_currency">NPR</h4>
+                                    <div class="value" akhi="86.87">0 </div>
+                                    <h4 class="value_heading">crore</h4>
+                                 </div>
+                            </div>                           
+          </li>
+        </ul>
+      </div> 
+  </div>
+</section>
+<!-- about us content end -->
+<section id="features">
+	<div class="container">
+    <div class="row d-flex ">
+      <div class="col-lg-6">
+        <h6>our project </h6>
+        <h2 class="section-title">Featured Investments</h2>
+      </div>
+      <div class="col-lg-6"> 
+        <a href="what_we_do.php" class=" btn btn-viewmore ">view all  <i data-feather="arrow-right"></i></a>
+      </div>
+   </div>
+	 <div class="row">
+			<div class="col-md-12">
+         <p>We continuously evolve our business model to focus on our key strengths by collaborating with our shareholder, developing our talent and entering world-class partnerships.</p>
+					  <div class="featured-carousel owl-carousel">
+							<!-- <div class="item">
+                <div class="column_for_feature">
+                   <div class="card">
+                     <div class="content">
+                      <div class="front">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                          <div class="text w-100">
+									        		<h3><a href="#">4 star queen tower</a></h3>
+									      	</div>
+                        </div>
+                      </div>
+                      <div class="back from-left">
+                         <h2>queen tower 13 storey</h2>
+                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                      </div>
+                     </div>
+                   </div>
+                 </div>
+							</div> -->
+						<div class="item">
+              <div class="column_for_feature">
+                <div class="card">
+                  <div class="content">
+                     <div class="front">
+                       <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/transparent-cable-car.jpg);">
+                        <div class="text w-100">
+									    		<!-- <span class="cat">Web Design</span> -->
+										    	<h3><a href="#">Transparent Cable Car Box</a></h3>
+									    	</div>
+                       </div>
+                     </div>
+                    <div class="back from-left">
+                      <h2>Transparent Cable Car Box</h2>  
+                      <p class="des">पारदर्शी क्याविन २ वटा रहन्छ । जसमा यात्रा गर्दा हावामा उडेको महसुस गराउदँछ । यो दक्षिण एसियाकै पहिलो साहसिक पर्यटकिय फिचर हो ।</p>           
+                    </div>
+                  </div>
+                </div>
+              </div>
+				  	</div>
+            <div class="item">
+                <div class="column_for_feature">
+                   <div class="card">
+                     <div class="content">
+                      <div class="front">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                          <div class="text w-100">
+									        		<h3><a href="#">4 star queen tower</a></h3>
+									      	</div>
+                        </div>
+                      </div>
+                      <div class="back from-left">
+                         <h2>queen tower 13 storey</h2>
+                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                      </div>
+                     </div>
+                   </div>
+                 </div>
+						</div>
+            <div class="item">
+            <div class="column_for_feature">
+             <div class="card">
+               <div class="content">
+                <div class="front">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/wax-museum.jpg);">
+                    <div class="text w-100">
+											<!-- <span class="cat">Web Design</span> -->
+											<h3><a href="#">wax museum</a></h3>
+										</div>
+                  </div>
+                </div>
+                <div class="back from-left">
+                  <h2>wax museum</h2> 
+                  <p class="des">मैन मुर्ति संग्राहलय</p>            
+                </div>
+               </div>
+             </div>
+            </div>
+	        </div>
+          <div class="item">
+            <div class="column_for_feature">
+             <div class="card">
+               <div class="content">
+                <div class="front">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
+                     <div class="text w-100">
+										  	<!-- <span class="cat">Web Design</span> -->
+											  <h3><a href="#">mirror maze house</a></h3>
+										 </div>
+                  </div>
+                </div>
+                 <div class="back from-left">
+                   <h2>mirror maze house</h2>        
+                   <p class="des">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, in animi doloribus reprehenderit debitis voluptas pariatur eaque! Rem, accusamus tempora?</p>           
+                 </div>
+               </div>
+             </div>
+            </div>
+	       	</div>
+           <div class="item">
+            <div class="column_for_feature">
+             <div class="card">
+               <div class="content">
+                <div class="front">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
+                     <div class="text w-100">
+										  	<!-- <span class="cat">Web Design</span> -->
+											  <h3><a href="#">cable car restro service</a></h3>
+										 </div>
+                  </div>
+                </div>
+                 <div class="back from-left">
+                   <h2>mirror maze house</h2>        
+                   <p class="des">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, in animi doloribus reprehenderit debitis voluptas pariatur eaque! Rem, accusamus tempora?</p>           
+                 </div>
+               </div>
+             </div>
+            </div>
+	       	</div>
+           <div class="item">
+            <div class="column_for_feature">
+             <div class="card">
+               <div class="content">
+                <div class="front">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
+                     <div class="text w-100">
+										  	<!-- <span class="cat">Web Design</span> -->
+											  <h3><a href="#">landscaping & artificial waterfall</a></h3>
+										 </div>
+                  </div>
+                </div>
+                 <div class="back from-left">
+                   <h2>mirror maze house</h2>        
+                   <p class="des">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, in animi doloribus reprehenderit debitis voluptas pariatur eaque! Rem, accusamus tempora?</p>           
+                 </div>
+               </div>
+             </div>
+            </div>
+	       	</div>
+           <div class="item">
+            <div class="column_for_feature">
+             <div class="card">
+               <div class="content">
+                <div class="front">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
+                     <div class="text w-100">
+										  	<!-- <span class="cat">Web Design</span> -->
+											  <h3><a href="#">water funpark</a></h3>
+										 </div>
+                  </div>
+                </div>
+                 <div class="back from-left">
+                   <h2>mirror maze house</h2>        
+                   <p class="des">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, in animi doloribus reprehenderit debitis voluptas pariatur eaque! Rem, accusamus tempora?</p>           
+                 </div>
+               </div>
+             </div>
+            </div>
+	       	</div>
+	
+						<div class="item">
+              <div class="column_for_feature">
+                <div class="card">
+                  <div class="content">
+                    <div class="front">
+                      <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/swimming-pool.jpg);">
+                          <div class="text w-100">
+										        	<!-- <span class="cat">Web Design</span> -->
+											        <h3><a href="#">music watershow</a></h3>
+									      	</div>
+                      </div>
+                    </div>
+                    <div class="back from-left">
+                       <h2>Views room and swimming pool</h2>    
+                       <p class="des">टेलिस्कोप ग्लास जडित हुन्छ । जसले हिमालयल रेन्जलाई आँखै अगाडि महशुस हुने गरि अवलोकन गराउँछ । दश तला माथि स्वीमिङ् पुल यो नेपालमै नयाँ फिचर हो साथमा बुटिक रेष्ट्रो सुविधा राखिएको छ ।</p>    
+                    </div>
+                  </div>
+                </div>
+              </div>
+	        </div>
+ 
+   	   </div>
+     </div>
+   </div>
+</div>
+</section>
+<!-- featured partners -->
+
+<section id="client-slider">
+  <div class="container">
+  <div class="row">
+    <div class="col-sm-12">
+      <h6>who believed in us</h6>
+      <h2 class="section-title">Our supporters</h2>
+      <p class=""> Our Project Construction and Management Details</p>
+    </div>
+  </div>
+  <div class="brand-carousel owl-carousel">
+  <div class="single-logo">
+       <a href="" target="blank">
+       <h4 class="partner_type text-center">organised company</h4>
+          <p class="partner_name text-center">Conveyor & Ropeway Service Pvt. Ltd, India</p>
+          <img src="img/partner_company/crspl_logo.png" alt="">
+       </a>
+  </div>
+     <div class="single-logo">
+     <a href="https://nsbl.statebank/home" target="_blank">  
+          <h4 class="partner_type text-center">banking partner</h4>
+          <p class="partner_name text-center">Nepal SBI Bank Limited</p>
+          <img src="img/partner_company/sbi_bank.png" alt="">
+     </a>
+     </div>
+  <div class="single-logo">
+       <a href="" target="blank">
+       <h4 class="partner_type text-center">mechanical consultant</h4>
+          <p class="partner_name text-center">Conveyor & Ropeway Service Pvt. Ltd, India</p>
+          <img src="img/partner_company/crspl_logo.png" alt="">
+       </a>
+  </div>
+  <div class="single-logo">
+        <a href="" target="_blank">
+        <h4 class="partner_type text-center">Guide Liner</h4>
+          <p class="partner_name text-center">Bandipur Rural Municipality</p>
+          <img src="img/partner_company/bandipur_rural.png" alt="">
+        </a>
+  </div>
+  <div class="single-logo">
+      <a href="" target="_blank">
+          <h4 class="partner_type text-center">Civil Construction</h4>
+          <p class="partner_name text-center">Chandra Nirman Sewa Private Limited, Kathmandu</p>
+          <img src="img/partner_company/chandra_nirman.png" alt="">
+      </a>
+  </div>
+  <div class="single-logo">
+        <a href="" target="_blank">
+        <h4 class="partner_type text-center">Chairing Company</h4>
+          <p class="partner_name text-center">Panchase Cable Car & Tours Limited</p>
+          <img src="img/partner_company/panchase-logo.png" alt="">
+        </a>
+  </div>
+ 
+</div>
+  </div>
+</section>
+<section id="coops_principle">
+    <div class="container">
+        <div class="row">
+          <h2 class="section-title">our main principle</h2>
+          <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Corrupti iusto dolorem temporibus a eum eius explicabo animi ab mollitia voluptatibus itaque rerum delectus odit perspiciatis, ea neque pariatur blanditiis tempore.</p>
+           <div class="col-lg-6">
+           <div class="card border-0 col-sm-4 p-0">
+          <div class="card-body">
+            <h2 class="">coops <br> to govs</h2>
+            <p class="card-text font-weight-bold programme-title lead">International Relations</p>
+            <p class="card-text programme-summary">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          </div>
+        </div>
+           </div>
+           <div class="col-lg-6">
+              
+           </div>
+        </div>
+    </div>
+</section>
+<?php
+ include('includes/footer.php');
+ ?>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.js"></script>
+ <script>
+    feather.replace()
+  </script>
+ 
+<script src="js/popper.min.js"></script> 
+<script src="js/main2.js"></script> 
+<script>
+  // counter js
+const counters = document.querySelectorAll('.value');
+const speed = 200;
+
+counters.forEach( counter => {
+   const animate = () => {
+      const value = +counter.getAttribute('akhi');
+      const data = +counter.innerText;
+     
+      const time = value / speed;
+     if(data < value) {
+          counter.innerText = Math.ceil(data + time);
+          setTimeout(animate, 1);
+        }else{
+          counter.innerText = value;
+        }
+     
+   }
+   
+   animate();
+});
+</script>
+<script>
+			$(function (){
+
+				/* Example options:
+				
+					let options = {
+						autostart: true,
+						property: 'value',
+						onComplete: null,
+						duration: 20000,
+						padding: 10,
+						marquee_class: '.marquee',
+						container_class: '.simple-marquee-container',
+						sibling_class: 0,
+						hover: true,
+						velocity: 0.1
+						direction: 'right'
+					}
+
+					$('.simple-marquee-container').SimpleMarquee(options);
+					
+				*/
+
+				$('.simple-marquee-container').SimpleMarquee();
+				
+			});
+
+		</script>
+
