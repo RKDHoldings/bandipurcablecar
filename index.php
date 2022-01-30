@@ -261,7 +261,7 @@
                             <div class="info__one__feature__icon">
                                <span class="icon-dollar"></span>
                                  <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
-                                    <h4 class="value_currency">NPR</h4>
+                                    <!-- <h4 class="value_currency">NPR</h4> -->
                                     <div class="value" akhi="7.9">0 </div>
                                     <h4 class="value_heading">crore</h4>
                                  </div>
@@ -275,7 +275,7 @@
                             <div class="info__one__feature__icon">
                                 <span class="icon ti-stats-up"></span>
                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
-                                <h4 class="value_currency">NPR</h4>
+                                <!-- <h4 class="value_currency">NPR</h4> -->
                                     <div class="value" akhi="86.87">0 </div>
                                     <h4 class="value_heading">crore</h4>
                                  </div>

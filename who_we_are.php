@@ -29,7 +29,7 @@
       <div class="col-xl-6">
         <div class="about__us" data-aos="fade-right"
         data-aos-easing="linear"
-        data-aos-duration="2500">
+        data-aos-duration="2000">
             <img src="img/about/about-img2.jpg" class="w-100" alt="">
         </div>
     </div>
@@ -54,7 +54,7 @@
    <div class="container">
        <div class="row">
         <div class="col-lg-6">
-        <div class=""data-aos="fade-up" data-aos-duration="3000">
+        <div class=""data-aos="fade-up" data-aos-duration="1500">
         <h6 class="">About bandipur</h6>
         <h2 class="section-title">our core business values</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, voluptas impedit? Fugiat officia architecto iure, sint eaque accusantium tempore culpa soluta veritatis repellat, illum, maiores nam dicta! Animi, perferendis laboriosam!</p>

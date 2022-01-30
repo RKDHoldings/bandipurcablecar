@@ -83,24 +83,31 @@
             <li><a href="who_we_are.php">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
-                  <ul class="megamenu-list list-col-4">
-				    <h4 class="title">our company</h4>
-					<a href="#"> <button class="slide_from_left">know more</button></a>
+                  <ul class="megamenu-list list-col-4 ">
+				              <div class="d-flex align-items-center justify-content-center">
+                         <div class="nav_title">
+                         <h4 class="title">Our Company</h4>
+					<a href="#"> <button class="slide_from_left">know more</button></a>   
+                         </div>
+                      </div>
                   </ul>
                   <ul class="megamenu-list list-col-4">
-                    <li><a href="about_bandipur.php">about bandipur</a></li>
-					<li><a href="#">our structure</a>
+                   
+                   
+                    <ul class="nav-dropdown">
+                      <li><a href="#">about bandipur</a></li>
+                      <li><a href="#">our structure</a>
                   <ul class="nav-dropdown">
-                    <li><a href="#">board of directors</a></li>
-                    <li><a href="#">investment committee</a></li>
-                    <li><a href="#">Centered</a></li>
-                    <li><a href="#">Search Panel</a></li>
-                    
+                    <li><a href="#">Simple</a></li>
+                    <li><a href="#">Two Menus</a></li>                 
+                  </ul>
+                  <li><a href="#">Award & recognition</a></li>
+
+                 
                   </ul>
                 </li>
                     <li><a href="#">partnership</a></li>
                     <li><a href="#">Award & recognition</a></li>
-					<li><a href="#">Award & recognition</a></li>
 
                   </ul>
                   <!-- <ul class="megamenu-list list-col-4">
@@ -174,40 +181,15 @@
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-5">
-				  <h4 class="title">our company</h4>
+				  <h4 class="title">Our Company</h4>
 					<a href="#"> <button class="slide_from_left">know more</button></a>
                   </ul>
-                  <ul class="megamenu-list list-col-5">
-                    <li class="megamenu-list-title"><a href="#">Masonary No Gutter</a></li>
-					<li><a href="#">share information</a></li>
+                  <ul class="megamenu-list list-col-5">             
+			          		<li><a href="#">share information</a></li>
                     <li><a href="#">corporate governance</a></li>
                     <li><a href="#">financial information</a></li>
                   </ul>
-                  <ul class="megamenu-list list-col-5">
-                    <li class="megamenu-list-title"><a href="#">Grid</a></li>
-                    <li><a href="#">2 Column</a></li>
-                    <li><a href="#">3 Column</a></li>
-                    <li><a href="#">4 Column</a></li>
-                    <li><a href="#">6 Column</a></li>
-                    <li><a href="#">Full Width</a></li>
-                  </ul>
-                  <ul class="megamenu-list list-col-5">
-                    <li class="megamenu-list-title"><a href="#">Grid No Gutter</a></li>
-                    <li><a href="#">2 Column</a></li>
-                    <li><a href="#">3 Column</a></li>
-                    <li><a href="#">4 Column</a></li>
-                    <li><a href="#">6 Column</a></li>
-                    <li><a href="#">Full Width</a></li>
-                  </ul>
-                  <ul class="megamenu-list list-col-5">
-                    <li class="megamenu-list-title"><a href="#">Portfolio Details</a></li>
-                    <li><a href="#">Embed Video</a></li>
-                    <li><a href="#">Masonary Thumb</a></li>
-                    <li><a href="#">Single Thumb</a></li>
-                    <li><a href="#">Slider Gallery</a></li>
-                    <li><a href="#">YouTube Video</a></li>
-                    <li><a href="#">Vimeo Video</a></li>
-                  </ul>
+                 
                 </div>
               </div>
             </li>
