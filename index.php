@@ -7,9 +7,7 @@
 
 <section id="banner">
   <div class="content">
-      <!-- <h2 class="my-5 text-center">Carousel #3</h2> -->
       <div class="owl-carousel owl-1">
-
         <div class="media-29121 overlay" style="background-image: url('img/hero_1.jpg');">
           <div class="container">
             <div class="row  align-items-center">
@@ -157,28 +155,10 @@
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
                 <p>Bandipur Cable Car Pvt. Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahu formerly Bandipur VDC Ward no.3, Tanahu. </p>
-                 <div class="double-check-list font-title mb-xxl-5">
-                  <!-- <ul class="list-unstyled aboutus__points">
-                    <li>
-                        <div class="text"> <p>Subsidary Company</p> </div>
-                    </li>
-                    <li>
-                        <div class="text"><p>Civil Consultant</p></div>
-                    </li>
-                    <li>
-                        <div class="text"><p>Mechanical Construction</p></div>
-                    </li>
-                    <li>
-                        <div class="text"><p>Financial Consultant</p> </div>
-                    </li>
-                    <li>
-                      <div class="text"><p>banking partner</p> </div>
-                  </li>
-                    <li>
-                      <div class="text"><p>Guide Liner</p> </div>
-                  </li>
-                 </ul> -->
-                  </div>
+                 <!-- <div class="double-check-list font-title mb-xxl-5">
+              
+                  </div> -->
+                   <!-- promoter structure share in percentage counter -->
                   <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
                        <div class="clearfix">
                          <h2 class="mb-4">Promoter Structure Percentage(%)</h2>
@@ -215,6 +195,7 @@
     </div>
   </div>
 </section>
+<!-- about us  -->
 <section id="company-info">
   <div class="container">
       <div class="info__one">
@@ -256,7 +237,7 @@
       </div>
       <div class="info__one__bottom">
           <ul class="list-unstyled info__one__feature">
-          <li class="info__one__feature__single ">
+            <li class="info__one__feature__single ">
                             <div class="info__one__feature__content">
                                 <h3 class="info__one__feature__title">
                                   <a href="">Authorized Capital</a>
@@ -320,25 +301,7 @@
 			<div class="col-md-12">
          <p>We continuously evolve our business model to focus on our key strengths by collaborating with our shareholder, developing our talent and entering world-class partnerships.</p>
 					  <div class="featured-carousel owl-carousel">
-							<!-- <div class="item">
-                <div class="column_for_feature">
-                   <div class="card">
-                     <div class="content">
-                      <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
-                          <div class="text w-100">
-									        		<h3><a href="#">4 star queen tower</a></h3>
-									      	</div>
-                        </div>
-                      </div>
-                      <div class="back from-left">
-                         <h2>queen tower 13 storey</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
-                      </div>
-                     </div>
-                   </div>
-                 </div>
-							</div> -->
+			       <!--featured investment item start -->
 						<div class="item">
               <div class="column_for_feature">
                 <div class="card">
@@ -346,7 +309,6 @@
                      <div class="front">
                        <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/transparent-cable-car.jpg);">
                         <div class="text w-100">
-									    		<!-- <span class="cat">Web Design</span> -->
 										    	<h3><a href="#">Transparent Cable Car Box</a></h3>
 									    	</div>
                        </div>
@@ -359,16 +321,18 @@
                 </div>
               </div>
 				  	</div>
+            <!--featured investment item one end -->
+            <!--featured investment item two start -->
             <div class="item">
                 <div class="column_for_feature">
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
-                          <div class="text w-100">
-									        		<h3><a href="#">4 star queen tower</a></h3>
-									      	</div>
-                        </div>
+                          <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                             <div class="text w-100">
+									        	  	<h3><a href="#">4 star queen tower</a></h3>
+									       	   </div>
+                          </div>
                       </div>
                       <div class="back from-left">
                          <h2>queen tower 13 storey</h2>
@@ -376,8 +340,10 @@
                       </div>
                      </div>
                    </div>
-                 </div>
+                </div>
 						</div>
+             <!--featured investment item two end -->
+             <!--featured investment item third start -->
             <div class="item">
             <div class="column_for_feature">
              <div class="card">
@@ -385,7 +351,6 @@
                 <div class="front">
                   <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/wax-museum.jpg);">
                     <div class="text w-100">
-											<!-- <span class="cat">Web Design</span> -->
 											<h3><a href="#">wax museum</a></h3>
 										</div>
                   </div>
@@ -398,6 +363,8 @@
              </div>
             </div>
 	        </div>
+            <!--featured investment item third end -->
+            <!--featured investment item fourth start -->
           <div class="item">
             <div class="column_for_feature">
              <div class="card">
@@ -405,7 +372,6 @@
                 <div class="front">
                   <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
                      <div class="text w-100">
-										  	<!-- <span class="cat">Web Design</span> -->
 											  <h3><a href="#">mirror maze house</a></h3>
 										 </div>
                   </div>
@@ -418,6 +384,8 @@
              </div>
             </div>
 	       	</div>
+            <!--featured investment item fourth end -->
+            <!--featured investment item fifth start -->
            <div class="item">
             <div class="column_for_feature">
              <div class="card">
@@ -425,7 +393,6 @@
                 <div class="front">
                   <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
                      <div class="text w-100">
-										  	<!-- <span class="cat">Web Design</span> -->
 											  <h3><a href="#">cable car restro service</a></h3>
 										 </div>
                   </div>
@@ -438,6 +405,8 @@
              </div>
             </div>
 	       	</div>
+             <!--featured investment item fifth end -->
+             <!--featured investment item sixth start -->
            <div class="item">
             <div class="column_for_feature">
              <div class="card">
@@ -445,7 +414,6 @@
                 <div class="front">
                   <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
                      <div class="text w-100">
-										  	<!-- <span class="cat">Web Design</span> -->
 											  <h3><a href="#">landscaping & artificial waterfall</a></h3>
 										 </div>
                   </div>
@@ -458,6 +426,8 @@
              </div>
             </div>
 	       	</div>
+             <!--featured investment item sixth end -->
+             <!--featured investment item seventh start -->
            <div class="item">
             <div class="column_for_feature">
              <div class="card">
@@ -465,7 +435,6 @@
                 <div class="front">
                   <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
                      <div class="text w-100">
-										  	<!-- <span class="cat">Web Design</span> -->
 											  <h3><a href="#">water funpark</a></h3>
 										 </div>
                   </div>
@@ -478,7 +447,8 @@
              </div>
             </div>
 	       	</div>
-	
+	         <!--featured investment item seventh end -->
+           <!--featured investment item eighth start -->
 						<div class="item">
               <div class="column_for_feature">
                 <div class="card">
@@ -486,7 +456,6 @@
                     <div class="front">
                       <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/swimming-pool.jpg);">
                           <div class="text w-100">
-										        	<!-- <span class="cat">Web Design</span> -->
 											        <h3><a href="#">music watershow</a></h3>
 									      	</div>
                       </div>
@@ -499,14 +468,14 @@
                 </div>
               </div>
 	        </div>
- 
+        <!--featured investment item eighth end -->
    	   </div>
      </div>
    </div>
 </div>
 </section>
-<!-- featured partners -->
 
+<!-- featured partners -->
 <section id="client-slider">
   <div class="container">
   <div class="row">
@@ -517,50 +486,140 @@
     </div>
   </div>
   <div class="brand-carousel owl-carousel">
-  <div class="single-logo">
-       <a href="" target="blank">
-       <h4 class="partner_type text-center">organised company</h4>
-          <p class="partner_name text-center">Conveyor & Ropeway Service Pvt. Ltd, India</p>
-          <img src="img/partner_company/crspl_logo.png" alt="">
-       </a>
-  </div>
+    <!-- client single item -->
      <div class="single-logo">
-     <a href="https://nsbl.statebank/home" target="_blank">  
-          <h4 class="partner_type text-center">banking partner</h4>
-          <p class="partner_name text-center">Nepal SBI Bank Limited</p>
-          <img src="img/partner_company/sbi_bank.png" alt="">
-     </a>
+          <a href="" target="blank">
+             <h4 class="partner_type text-center">organised company</h4>
+             <p class="partner_name text-center">Bandipur cablecar & tourism limited</p>
+             <img src="img/logo.png" alt="">
+          </a>
      </div>
-  <div class="single-logo">
-       <a href="" target="blank">
-       <h4 class="partner_type text-center">mechanical consultant</h4>
-          <p class="partner_name text-center">Conveyor & Ropeway Service Pvt. Ltd, India</p>
-          <img src="img/partner_company/crspl_logo.png" alt="">
-       </a>
-  </div>
-  <div class="single-logo">
-        <a href="" target="_blank">
-        <h4 class="partner_type text-center">Guide Liner</h4>
-          <p class="partner_name text-center">Bandipur Rural Municipality</p>
-          <img src="img/partner_company/bandipur_rural.png" alt="">
+       <!-- client single item -->
+     <div class="single-logo">
+          <a href="" target="blank">
+             <h4 class="partner_type text-center">Holding company</h4>
+             <p class="partner_name text-center">RKD Holdings Limited</p>
+             <img src="img/partner_company/crspl_logo.png" alt="">
+          </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+          <a href="" target="_blank">
+             <h4 class="partner_type text-center">Chairing Company</h4>
+             <p class="partner_name text-center">Panchase Cable Car & Tours Limited</p>
+             <img src="img/partner_company/panchase-logo.png" alt="">
+          </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+          <a href="" target="_blank">
+             <h4 class="partner_type text-center">Associate Company</h4>
+             <p class="partner_name text-center">Tourism Investment Fund limited</p>
+             <img src="img/partner_company/panchase-logo.png" alt="">
+          </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">Civil Consultant</h4>
+            <p class="partner_name text-center">Cage Consultant, Kathmandu</p>
+            <img src="img/partner_company/chandra_nirman.png" alt="">
+         </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+          <a href="" target="blank">
+             <h4 class="partner_type text-center">mechanical consultant</h4>
+             <p class="partner_name text-center">CRS India & Breco England </p>
+             <img src="img/partner_company/crspl_logo.png" alt="">
+          </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">Civil Construction</h4>
+            <p class="partner_name text-center">Chandra Nirman Sewa Private Limited, Kathmandu</p>
+            <img src="img/partner_company/chandra_nirman.png" alt="">
+         </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">Mechanical construction</h4>
+            <p class="partner_name text-center">Conveyor & ropeway services pvt.Ltd. , India</p>
+            <img src="img/partner_company/bandipur_rural.png" alt="">
+         </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">Financial consultant</h4>
+            <p class="partner_name text-center">DG & Associates</p>
+            <img src="img/partner_company/bandipur_rural.png" alt="">
+         </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+          <a href="https://nsbl.statebank/home" target="_blank">  
+             <h4 class="partner_type text-center">banking partner</h4>
+             <p class="partner_name text-center">Nepal SBI Bank Limited</p>
+             <img src="img/partner_company/sbi_bank.png" alt="">
+          </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">Guide Liner</h4>
+            <p class="partner_name text-center">Bandipur Rural Municipality</p>
+            <img src="img/partner_company/bandipur_rural.png" alt="">
         </a>
-  </div>
-  <div class="single-logo">
-      <a href="" target="_blank">
-          <h4 class="partner_type text-center">Civil Construction</h4>
-          <p class="partner_name text-center">Chandra Nirman Sewa Private Limited, Kathmandu</p>
-          <img src="img/partner_company/chandra_nirman.png" alt="">
-      </a>
-  </div>
-  <div class="single-logo">
-        <a href="" target="_blank">
-        <h4 class="partner_type text-center">Chairing Company</h4>
-          <p class="partner_name text-center">Panchase Cable Car & Tours Limited</p>
-          <img src="img/partner_company/panchase-logo.png" alt="">
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">event and entire management</h4>
+            <p class="partner_name text-center">RKD Holdings Limited</p>
+            <img src="img/partner_company/bandipur_rural.png" alt="">
         </a>
-  </div>
- 
-</div>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">finance management</h4>
+            <p class="partner_name text-center">tourism investment fund limited</p>
+            <img src="img/partner_company/bandipur_rural.png" alt="">
+         </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">management bheting</h4>
+            <p class="partner_name text-center">policy planning beauro</p>
+            <img src="img/partner_company/bandipur_rural.png" alt="">
+         </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">focal management</h4>
+            <p class="partner_name text-center">on time completion unit (OCU)</p>
+
+
+
+            
+            <img src="img/partner_company/bandipur_rural.png" alt="">
+         </a>
+     </div>
+       <!-- client single item -->
+     <div class="single-logo">
+         <a href="" target="_blank">
+            <h4 class="partner_type text-center">Mechanical inspection</h4>
+            <p class="partner_name text-center">TUV India Pvt Ltd(TUV NURD Group)</p>
+            <img src="img/partner_company/bandipur_rural.png" alt="">
+         </a>
+     </div>
+   <!-- client single item end -->
+    </div>
   </div>
 </section>
 <section id="coops_principle">
@@ -571,7 +630,7 @@
            <div class="col-lg-6">
            <div class="card border-0 col-sm-4 p-0">
           <div class="card-body">
-            <h2 class="">coops <br> to govs</h2>
+            <h2 class="">Coops <br> to Govs</h2>
             <p class="card-text font-weight-bold programme-title lead">International Relations</p>
             <p class="card-text programme-summary">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           </div>
@@ -583,6 +642,51 @@
         </div>
     </div>
 </section>
+<!-- tabular content -->
+<section id="tabular_structure">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+               <div class="table_details">
+                    <table>
+                      <tr>
+                        <th>S.N.</th>
+                        <th>District</th>
+                        <th>Gaupalika</th>
+                        <th>Map no.</th>
+                        <th>Kitta no.</th>
+                        <th>Area</th>
+                        <th>registered Date</th>
+                        <th>Price</th>
+                      </tr>
+                      <tr>
+                        <td>1</td>
+                        <td>Kaski</td>
+                        <td>Bandipur</td>
+                        <td>5</td>
+                        <td>4</td>
+                        <td>1-12-2-0</td>
+                        <td>2075/09/28</td>
+                        <td>18,00,000 /- Per aana</td>
+                      
+                      </tr>
+                      <tr>
+                        <td>1</td>
+                        <td>Kaski</td>
+                        <td>Bandipur</td>
+                        <td>5</td>
+                        <td>4</td>
+                        <td>1-12-2-0</td>
+                        <td>2075/09/28</td>
+                        <td>18,00,000 /- Per aana</td>
+                      
+                      </tr>
+                    </table>
+               </div>
+            </div>
+        </div>
+    </div> 
+</section>
 <?php
  include('includes/footer.php');
  ?>
@@ -590,9 +694,9 @@
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.js"></script>
- <script>
-    feather.replace()
-  </script>
+    <script>
+       feather.replace()
+    </script>
  
 <script src="js/popper.min.js"></script> 
 <script src="js/main2.js"></script> 
