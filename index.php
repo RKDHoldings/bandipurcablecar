@@ -219,7 +219,7 @@
                                   <p class="info__one__counter__text">Promoter Share</p>
                               </li>
                               <li class="info__one__counter-single two">
-                                <div class="value" akhi="75">0</div> <span class="info__one__counter__text">crore</span>  
+                                <div class="value" akhi="75">0</div> <span class="info__one__counter__text ms-1">Crore</span>  
                                   <p class="info__one__counter__text">Committed Share Amount</p>
                               </li>
                           </ul>
@@ -622,7 +622,7 @@
     </div>
   </div>
 </section>
-<section id="coops_principle">
+<!-- <section id="coops_principle">
     <div class="container">
         <div class="row">
           <h2 class="section-title">our main principle</h2>
@@ -641,50 +641,50 @@
            </div>
         </div>
     </div>
-</section>
+</section> -->
 <!-- tabular content -->
 <section id="tabular_structure">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
-               <div class="table_details">
-                    <table>
-                      <tr>
+               <div class="table_details" data-aos="fade-up" data-aos-duration="1000">
+                  <h2 class="section-title">lower station</h2>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum enim officiis reiciendis veritatis magni beatae id quo nemo optio? Voluptates, repudiandae fuga nisi rerum doloribus alias impedit saepe exercitationem quidem.</p>
+               <table class="rwd-table">
+                     <tr>
                         <th>S.N.</th>
                         <th>District</th>
-                        <th>Gaupalika</th>
-                        <th>Map no.</th>
-                        <th>Kitta no.</th>
+                        <th>Municipality</th>
+                        <th>Map No.</th>
+                        <th>Kitta No.</th>
                         <th>Area</th>
                         <th>registered Date</th>
                         <th>Price</th>
-                      </tr>
-                      <tr>
-                        <td>1</td>
-                        <td>Kaski</td>
-                        <td>Bandipur</td>
-                        <td>5</td>
-                        <td>4</td>
-                        <td>1-12-2-0</td>
-                        <td>2075/09/28</td>
-                        <td>18,00,000 /- Per aana</td>
-                      
-                      </tr>
-                      <tr>
-                        <td>1</td>
-                        <td>Kaski</td>
-                        <td>Bandipur</td>
-                        <td>5</td>
-                        <td>4</td>
-                        <td>1-12-2-0</td>
-                        <td>2075/09/28</td>
-                        <td>18,00,000 /- Per aana</td>
-                      
-                      </tr>
-                    </table>
-               </div>
-            </div>
-        </div>
+                     </tr>
+                     <tr>
+                        <td data-th="Movie Title">1</td>
+                        <td data-th="Genre">Tanahu</td>
+                        <td data-th="Year">Bandipur</td>
+                        <td data-th="Gross">4 ga</td>
+                        <td data-th="Gross">594</td>
+                        <td data-th="Gross">5-0-0-0</td>
+                        <td data-th="Gross">2070/06/10</td>
+                        <td data-th="Gross">10,00,000 /- Per aana</td>
+                     </tr>
+                     <tr>
+                        <td data-th="Movie Title">2</td>
+                        <td data-th="Genre">Tanahu</td>
+                        <td data-th="Year">Bandipur</td>
+                        <td data-th="Gross">4 ga</td>
+                        <td data-th="Gross">816</td>
+                        <td data-th="Gross">3-0-0-0</td>
+                        <td data-th="Gross">2076/09/18</td>
+                        <td data-th="Gross">10,00,000 /- Per aana</td>
+                     </tr>
+                </table>
+              </div>
+          </div>
+       </div>
     </div> 
 </section>
 <?php

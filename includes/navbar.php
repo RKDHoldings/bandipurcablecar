@@ -95,8 +95,61 @@
                    
                    
                     <ul class="nav-dropdown">
-                      <li><a href="#">about bandipur</a></li>
-                      <li><a href="#">our structure</a>
+                      <li><a href="about_bandipur.php">about bandipur</a></li>
+                      <li><a href="our_structure.php">our structure</a>
+                  <ul class="nav-dropdown">
+                    <li><a href="#">Simple</a></li>
+                    <li><a href="#">Two Menus</a></li>                 
+                  </ul>
+                  <li><a href="award_recognition.php">Award & recognition</a></li>
+
+                 
+                  </ul>
+                </li>
+                    <li><a href="#">partnership</a></li>
+                    <li><a href="#">Award & recognition</a></li>
+
+                  </ul>
+                  <!-- <ul class="megamenu-list list-col-4">
+                    <li><a href="#">Fitness &amp; Gym</a></li>
+                    <li><a href="#">Gardening</a></li>
+                    <li><a href="#">Hosting</a></li>
+                    <li><a href="#">HTML5 Video</a></li>
+                    <li><a href="#">Medical</a></li>
+                    <li><a href="#">Minimal Portfolio</a></li>
+                    <li><a href="#">Photography</a></li>
+                    <li><a href="#">Product Showcase</a></li>
+                  </ul> -->
+                  <!-- <ul class="megamenu-list list-col-4">
+                    <li><a href="#">Restaurant</a></li>
+                    <li><a href="#">Resume &amp; CV</a></li>
+                    <li><a href="#">Service Landing</a></li>
+                    <li><a href="#">Slideshows</a></li>
+                    <li><a href="#">Spa &amp; Beauty</a></li>
+                    <li><a href="#">Startup</a></li>
+                    <li><a href="#">Vimeo Video</a></li>
+                    <li><a href="#">YouTube Video</a></li>
+                  </ul> -->
+                </div>
+              </div>
+            </li>
+            <li><a href="what_we_do.php">What we do</a>
+              <div class="megamenu-panel">
+                <div class="megamenu-lists">
+                  <ul class="megamenu-list list-col-4 ">
+				              <div class="d-flex align-items-center justify-content-center">
+                         <div class="nav_title">
+                         <h4 class="title">Our Company</h4>
+					<a href="#"> <button class="slide_from_left">know more</button></a>   
+                         </div>
+                      </div>
+                  </ul>
+                  <ul class="megamenu-list list-col-4">
+                   
+                   
+                    <ul class="nav-dropdown">
+                      <li><a href="#">Transaparent Cablecar</a></li>
+                      <li><a href="#">queen tower</a>
                   <ul class="nav-dropdown">
                     <li><a href="#">Simple</a></li>
                     <li><a href="#">Two Menus</a></li>                 
@@ -132,50 +185,6 @@
                   </ul> -->
                 </div>
               </div>
-            </li>
-            <li><a href="what_we_do.php">what we do</a>
-              <ul class="nav-dropdown">
-                <li><a href="#">Header</a>
-                  <ul class="nav-dropdown">
-                    <li><a href="#">Simple</a></li>
-                    <li><a href="#">Two Menus</a></li>
-                    <li><a href="#">Centered</a></li>
-                    <li><a href="#">Search Panel</a></li>
-                   
-                  </ul>
-                </li>
-                <li><a href="investors_relation.php">investors relation</a>
-                  <ul class="nav-dropdown">
-                    <li><a href="#">Contact Layout 1</a></li>
-                    <li><a href="#">Contact Layout 2</a></li>
-                    <li><a href="#">Contact Layout 3</a></li>
-                        <li><a href="#">Level 3</a>
-                        <ul class="nav-dropdown">
-                          <li><a href="#">Contact Layout 1</a></li>
-                          <li><a href="#">Contact Layout 2</a></li>
-                          <li><a href="#">Contact Layout 3</a></li>
-                          <li><a href="#">Contact Layout 4</a></li>
-                          <li><a href="#">Contact Layout 5</a></li>
-                          <li><a href="#">Contact Layout 6</a></li>
-                          <li><a href="#">Contact Layout 7</a></li>
-                        </ul>
-                      </li>
-                    <li><a href="#">Contact Layout 5</a></li>
-                    <li><a href="#">Contact Layout 6</a></li>
-                    <li><a href="#">Contact Layout 7</a></li>
-                  </ul>
-                </li>
-                <li><a href="progress_stories.php">progress stories</a>
-                  <ul class="nav-dropdown">
-                    <li><a href="#">Coming Soon - 1</a></li>
-                    <li><a href="#">Coming Soon - 2</a></li>
-                    <li><a href="#">Coming Soon - 3</a></li>
-                    <li><a href="#">Coming Soon - 4</a></li>
-                    <li><a href="#">Coming Soon - 5</a></li>
-                  </ul>
-                </li>
-               
-              </ul>
             </li>
             <li><a href="investors_relation.php">investors relation</a>
               <div class="megamenu-panel">
