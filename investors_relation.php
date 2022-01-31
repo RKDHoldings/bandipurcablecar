@@ -79,34 +79,34 @@
                  <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation"> 
                             <button class="nav-link active" id="faq_tab_1-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1" aria-selected="true">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>2021</span> </div>
+                               <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>2078</span> </div>
                             </button> 
                     </li>
                     <li class="nav-item" role="presentation">
                          <button class="nav-link" id="faq_tab_2-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_2" type="button" role="tab" aria-controls="faq_tab_2" aria-selected="false">
-                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>2020</span> </div>
+                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>2077</span> </div>
                          </button>
                     </li>
                     <li class="nav-item" role="presentation"> 
                         <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                            <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2019</span> </div>
+                            <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2076</span> </div>
                         </button> </li>
                         <li class="nav-item" role="presentation">
                              <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2018</span> </div>
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2075</span> </div>
                              </button>
                         </li>
                         <li class="nav-item" role="presentation"> 
                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2017</span> </div>
+                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2074</span> </div>
                             </button> 
                         </li>
                         <li class="nav-item" role="presentation"> 
                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2016</span> </div>
+                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2073</span> </div>
                             </button> 
                         </li>
-                        <li class="nav-item" role="presentation"> 
+                        <!-- <li class="nav-item" role="presentation"> 
                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2015</span> </div>
                             </button> 
@@ -120,7 +120,7 @@
                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2014</span> </div>
                             </button> 
-                        </li>
+                        </li> -->
 
                 </ul>
                 <div class="tab-content" id="myTabContent">
@@ -133,7 +133,7 @@
                                <div class="title">
                                  <h3>
                                     <span class="wrap-title">           
-                                       <a target="_blank" href="" title="Half Year 2021 Consolidated Financial Statements" class="">Half Year 2021 Consolidated Financial Statements</a> </span>
+                                       <a target="_blank" href="img/reports/2076-2077 Audit Report.pdf" download="" title="Audit report" class="">Audit report of 2076-2077</a> </span>
                                  </h3>
                               </div>           
                            </li> 
@@ -261,7 +261,110 @@
 
    </div>
 </section>  
-    
+ <!-- investment strategy -->
+<section id="investment_strategy">
+    <div class="container">
+        <div class="row">
+            <h6>we plan</h6>
+            <h2 class="section-title">investment strategy</h2>
+            <p>Best Solutions For Your Business</p>
+            <div class="inner_container">
+				<div class="row g-0">
+				
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-blackboard"></span>
+							</div>
+							<h5><a href="">Strategy</a></h5>
+							<div class="text">Thought leadership pass the clap hackathon wearables.</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-stats-up"></span>
+							</div>
+							<h5><a href="">Financial</a></h5>
+							<div class="text">Platform omnichannel click thought leadership pivot</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-shield"></span>
+							</div>
+							<h5><a href="">Insurance</a></h5>
+							<div class="text">Disrupt taste makers help council emerging.</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-home"></span>
+							</div>
+							<h5><a href="">Estate</a></h5>
+							<div class="text">Mobile ready proprietary dedication intuitive</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-stamp"></span>
+							</div>
+							<h5><a href="">Audit &amp; Evaluation</a></h5>
+							<div class="text">Thought leadership pass the clap hackathon wearables.</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-money"></span>
+							</div>
+							<h5><a href="">Taxes &amp; Efficiency</a></h5>
+							<div class="text">Disrupt taste makers help council emerging.</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-shopping-cart-full"></span>
+							</div>
+							<h5><a href="">Consumer Market</a></h5>
+							<div class="text">Mobile ready proprietary dedication intuitive</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+								<span class="icon ti-truck"></span>
+							</div>
+							<h5><a href="">Logistic</a></h5>
+							<div class="text">Platform omnichannel click thought leadership pivot</div>
+						</div>
+					</div>
+					
+				</div>
+				
+			</div>
+        </div>
+    </div>
+</section>   
 <!-- graph -->
 <section id="share_graph">
    <div class="container">
@@ -319,7 +422,7 @@
 			</ul>
 		</div>
 		<div id="pie_ico">Pie &raquo;</div>
-		<div id="pyr_ico">&laquo; Pyramid</div>
+		<!-- <div id="pyr_ico">&laquo; Pyramid</div> -->
 		<div id="percentage_wrapper">
 			<div id="percentage">
 				<ul>
@@ -347,7 +450,7 @@
 						<li id="c5_l"><p><span class="pie_right"></span></p></li>
 					</ul>
 				</div>
-				<div id="pyr_chart">
+				<!-- <div id="pyr_chart">
 					<ul>
 						<li></li>
 						<li></li>
@@ -357,7 +460,7 @@
 						<li></li>
 						<li></li>
 					</ul>
-				</div>
+				</div> -->
 			</div>
 		</div>
 		<div id="btn_panel">

@@ -29,14 +29,14 @@
       <div class="col-xl-6">
         <div class="about__us" data-aos="fade-right"
         data-aos-easing="linear"
-        data-aos-duration="2000">
+        data-aos-duration="1000">
             <img src="img/about/about-img2.jpg" class="w-100" alt="">
         </div>
     </div>
        <div class="col-lg-6 align-self-center">
         <div class="about-us-info-wrap" data-aos="fade-left"
         data-aos-easing="linear"
-        data-aos-duration="2500">
+        data-aos-duration="1000">
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About bandipur</h6>
                 <h2 class="section-title">The Leading Real Estate
@@ -61,14 +61,12 @@
                 <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation"> <button class="nav-link active" id="faq_tab_1-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1" aria-selected="true">
                             <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>misson</span> </div>
-                        </button> </li>
+                        </button> 
+                    </li>
                     <li class="nav-item" role="presentation"> <button class="nav-link" id="faq_tab_2-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_2" type="button" role="tab" aria-controls="faq_tab_2" aria-selected="false">
                             <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>vision</span> </div>
-                        </button> </li>
-                    <!-- <li class="nav-item" role="presentation"> <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                            <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>values</span> </div>
-                        </button> </li> -->
-
+                        </button> 
+                    </li>
                 </ul>
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade active show" id="faq_tab_1" role="tabpanel" aria-labelledby="faq_tab_1-tab">

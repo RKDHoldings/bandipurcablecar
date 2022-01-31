@@ -151,9 +151,9 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/shiva_prasad_sharma.jpg" class="img-responsive" alt="">
                                          <div class="social">
-                                           <ul class="list-inline">
+                                           <!-- <ul class="list-inline">
                                              <li><a href="team_inner.php">more info</a></li>
-                                           </ul>
+                                           </ul> -->
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -167,9 +167,9 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/taranath_upadhyaya.jpg" class="img-responsive" alt="">
                                          <div class="social">
-                                              <ul class="list-inline">
+                                              <!-- <ul class="list-inline">
                                                  <li><a href="team_inner.php">more info</a></li>
-                                              </ul>
+                                              </ul> -->
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -183,9 +183,9 @@
                                   <div class="img-area">
                                        <img src="img/directer_team/krishnaraj_adhikari.jpg" class="img-responsive" alt="">
                                        <div class="social">
-                                            <ul class="list-inline">
+                                            <!-- <ul class="list-inline">
                                                <li><a href="team_inner.php">more info</a></li>
-                                            </ul>
+                                            </ul> -->
                                        </div>
                                   </div>
                                 <div class="img-text">
@@ -204,9 +204,9 @@
                                  <div class="img-area">
                                       <img src="img/directer_team/nawaraj_karki.jpg" class="img-responsive" alt="">
                                       <div class="social">
-                                         <ul class="list-inline">
+                                         <!-- <ul class="list-inline">
                                              <li><a href="team_inner.php">more info</a></li>
-                                         </ul>
+                                         </ul> -->
                                       </div>
                                   </div>
                                 <div class="img-text">
@@ -220,9 +220,9 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/hari_datta_paudel.jpg" class="img-responsive" alt="">
                                          <div class="social">
-                                              <ul class="list-inline">
+                                              <!-- <ul class="list-inline">
                                                  <li><a href="team_inner.php">more info</a></li>
-                                              </ul>
+                                              </ul> -->
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -236,9 +236,9 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/harka_bahadur_adhikari.jpg" class="img-responsive" alt="">
                                          <div class="social">
-                                              <ul class="list-inline">
+                                              <!-- <ul class="list-inline">
                                                  <li><a href="team_inner.php">more info</a></li>
-                                              </ul>
+                                              </ul> -->
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -252,9 +252,9 @@
                                   <div class="img-area">
                                        <img src="img/directer_team/kiran_pokharel.jpg" class="img-responsive" alt="">
                                          <div class="social">
-                                           <ul class="list-inline">
+                                           <!-- <ul class="list-inline">
                                              <li><a href="team_inner.php">more info</a></li>
-                                           </ul>
+                                           </ul> -->
                                          </div>
                                   </div>
                                 <div class="img-text">
@@ -595,112 +595,6 @@
         </div>
     </div>
 </section> -->
-
-<!-- investment strategy -->
-<section id="investment_strategy">
-    <div class="container">
-        <div class="row">
-            <h6>we plan</h6>
-            <h2 class="section-title">investment strategy</h2>
-            <p>Best Solutions For Your Business</p>
-            <div class="inner_container">
-				<div class="row g-0">
-				
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-blackboard"></span>
-							</div>
-							<h5><a href="">Strategy</a></h5>
-							<div class="text">Thought leadership pass the clap hackathon wearables.</div>
-						</div>
-					</div>
-					
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-stats-up"></span>
-							</div>
-							<h5><a href="">Financial</a></h5>
-							<div class="text">Platform omnichannel click thought leadership pivot</div>
-						</div>
-					</div>
-					
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-shield"></span>
-							</div>
-							<h5><a href="">Insurance</a></h5>
-							<div class="text">Disrupt taste makers help council emerging.</div>
-						</div>
-					</div>
-					
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-home"></span>
-							</div>
-							<h5><a href="">Estate</a></h5>
-							<div class="text">Mobile ready proprietary dedication intuitive</div>
-						</div>
-					</div>
-					
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-stamp"></span>
-							</div>
-							<h5><a href="">Audit &amp; Evaluation</a></h5>
-							<div class="text">Thought leadership pass the clap hackathon wearables.</div>
-						</div>
-					</div>
-					
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-money"></span>
-							</div>
-							<h5><a href="">Taxes &amp; Efficiency</a></h5>
-							<div class="text">Disrupt taste makers help council emerging.</div>
-						</div>
-					</div>
-					
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-shopping-cart-full"></span>
-							</div>
-							<h5><a href="">Consumer Market</a></h5>
-							<div class="text">Mobile ready proprietary dedication intuitive</div>
-						</div>
-					</div>
-					
-					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-truck"></span>
-							</div>
-							<h5><a href="">Logistic</a></h5>
-							<div class="text">Platform omnichannel click thought leadership pivot</div>
-						</div>
-					</div>
-					
-				</div>
-				
-			</div>
-        </div>
-    </div>
-</section>
-
 <!-- governance -->
 <section id="governance-info">
    <div class="container">

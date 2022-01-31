@@ -58,142 +58,80 @@
   <div class="main_header_area animated">
     <div class="container">
       <nav id="navigation1" class="navigation">
-        <!-- Logo Area Start -->
+        <!-- Logo section -->
         <div class="nav-header">
           <a class="nav-brand" href="index.php">
-			  <img src="img/logo.png" width="70" alt="">
-		  </a>
+			       <img src="img/logo.png" width="70" alt="">
+		      </a>
           <div class="nav-toggle"></div>
         </div>
-        <!-- Search panel Start -->
-        <!-- <div class="nav-search">
-          <div class="nav-search-button">
-            <i class="nav-search-icon"></i>
-          </div>
-          <form>
-            <div class="nav-search-inner">
-              <input type="search" name="search" placeholder="Search Here">
-              <input name='max-results' type='hidden' value='6'>
-            </div>
-          </form>
-        </div> -->
+
         <!-- Main Menus Wrapper -->
         <div class="nav-menus-wrapper">
           <ul class="nav-menu align-to-right">
             <li><a href="who_we_are.php">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
-                  <ul class="megamenu-list list-col-4 ">
-				              <div class="d-flex align-items-center justify-content-center">
-                         <div class="nav_title">
-                         <h4 class="title">Our Company</h4>
-					<a href="#"> <button class="slide_from_left">know more</button></a>   
-                         </div>
+                  <ul class="megamenu-list list-col-3 ">
+				              <div class="inner_nav">
+                             <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
                       </div>
                   </ul>
-                  <ul class="megamenu-list list-col-4">
-                   
-                   
+                  <ul class="megamenu-list list-col-3">  
+                     <h4 class="nav_title">who we are</h4>
                     <ul class="nav-dropdown">
                       <li><a href="about_bandipur.php">about bandipur</a></li>
                       <li><a href="our_structure.php">our structure</a>
-                  <ul class="nav-dropdown">
-                    <li><a href="#">Simple</a></li>
-                    <li><a href="#">Two Menus</a></li>                 
-                  </ul>
-                  <li><a href="award_recognition.php">Award & recognition</a></li>
-
-                 
+                         <ul class="nav-dropdown">
+                             <li><a href="#">board of directors</a></li>
+                       <!-- <li><a href="#">investment committee</a></li>         -->
+                       <!-- <li><a href="#">operating model</a></li>  -->
+                            <li><a href="#">co-operative governance</a></li>
+                            <li><a href="#">investment strategy</a></li>                                
+                         </ul>
+                      <!-- <li><a href="about_bandipur.php">our mission vision & values</a></li> -->
+                      <li><a href="award_recognition.php">Award & recognition</a></li>            
                   </ul>
                 </li>
                     <li><a href="#">partnership</a></li>
                     <li><a href="#">Award & recognition</a></li>
-
                   </ul>
-                  <!-- <ul class="megamenu-list list-col-4">
-                    <li><a href="#">Fitness &amp; Gym</a></li>
-                    <li><a href="#">Gardening</a></li>
-                    <li><a href="#">Hosting</a></li>
-                    <li><a href="#">HTML5 Video</a></li>
-                    <li><a href="#">Medical</a></li>
-                    <li><a href="#">Minimal Portfolio</a></li>
-                    <li><a href="#">Photography</a></li>
-                    <li><a href="#">Product Showcase</a></li>
-                  </ul> -->
-                  <!-- <ul class="megamenu-list list-col-4">
-                    <li><a href="#">Restaurant</a></li>
-                    <li><a href="#">Resume &amp; CV</a></li>
-                    <li><a href="#">Service Landing</a></li>
-                    <li><a href="#">Slideshows</a></li>
-                    <li><a href="#">Spa &amp; Beauty</a></li>
-                    <li><a href="#">Startup</a></li>
-                    <li><a href="#">Vimeo Video</a></li>
-                    <li><a href="#">YouTube Video</a></li>
-                  </ul> -->
                 </div>
               </div>
             </li>
             <li><a href="what_we_do.php">What we do</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
-                  <ul class="megamenu-list list-col-4 ">
-				              <div class="d-flex align-items-center justify-content-center">
-                         <div class="nav_title">
-                         <h4 class="title">Our Company</h4>
-					<a href="#"> <button class="slide_from_left">know more</button></a>   
-                         </div>
+                  <ul class="megamenu-list list-col-3 ">
+                      <div class="inner_nav">
+                             <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
                       </div>
                   </ul>
-                  <ul class="megamenu-list list-col-4">
+                  <ul class="megamenu-list list-col-3">
                    
                    
                     <ul class="nav-dropdown">
                       <li><a href="#">Transaparent Cablecar</a></li>
                       <li><a href="#">queen tower</a>
-                  <ul class="nav-dropdown">
-                    <li><a href="#">Simple</a></li>
-                    <li><a href="#">Two Menus</a></li>                 
-                  </ul>
-                  <li><a href="#">Award & recognition</a></li>
-
-                 
-                  </ul>
+                      <li><a href="#">Award & recognition</a></li>               
+                    </ul>
                 </li>
                     <li><a href="#">partnership</a></li>
                     <li><a href="#">Award & recognition</a></li>
 
                   </ul>
-                  <!-- <ul class="megamenu-list list-col-4">
-                    <li><a href="#">Fitness &amp; Gym</a></li>
-                    <li><a href="#">Gardening</a></li>
-                    <li><a href="#">Hosting</a></li>
-                    <li><a href="#">HTML5 Video</a></li>
-                    <li><a href="#">Medical</a></li>
-                    <li><a href="#">Minimal Portfolio</a></li>
-                    <li><a href="#">Photography</a></li>
-                    <li><a href="#">Product Showcase</a></li>
-                  </ul> -->
-                  <!-- <ul class="megamenu-list list-col-4">
-                    <li><a href="#">Restaurant</a></li>
-                    <li><a href="#">Resume &amp; CV</a></li>
-                    <li><a href="#">Service Landing</a></li>
-                    <li><a href="#">Slideshows</a></li>
-                    <li><a href="#">Spa &amp; Beauty</a></li>
-                    <li><a href="#">Startup</a></li>
-                    <li><a href="#">Vimeo Video</a></li>
-                    <li><a href="#">YouTube Video</a></li>
-                  </ul> -->
                 </div>
               </div>
             </li>
             <li><a href="investors_relation.php">investors relation</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
-                  <ul class="megamenu-list list-col-5">
-				  <h4 class="title">Our Company</h4>
-					<a href="#"> <button class="slide_from_left">know more</button></a>
+                  <ul class="megamenu-list list-col-3">
+                      <div class="inner_nav">
+                             <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
+                      </div>
                   </ul>
-                  <ul class="megamenu-list list-col-5">             
+                  <ul class="megamenu-list list-col-3">             
 			          		<li><a href="#">share information</a></li>
                     <li><a href="#">corporate governance</a></li>
                     <li><a href="#">financial information</a></li>
