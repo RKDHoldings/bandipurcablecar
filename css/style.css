@@ -179,7 +179,7 @@ h4.nav_title{
 .navigation-portrait .nav-menu{width:100%}
 .navigation-landscape .nav-menu.nav-menu-centered{float:none;text-align:center}
 .navigation-landscape .nav-menu.nav-menu-centered>li{float:none}
-.nav-menu>li{display:inline-block;float:left;text-align:left}
+.nav-menu>li{display:inline-block; text-align:left}
 .navigation-portrait .nav-menu>li{width:100%;position:relative;border-top:solid 1px #f0f0f0}
 .navigation-portrait .nav-menu>li:last-child{border-bottom:solid 1px #f0f0f0}
 .nav-menu+.nav-menu>li:first-child{border-top:none}
@@ -934,7 +934,7 @@ p.des{
 #client-slider{
   padding: 6rem 0 6rem 0; background-color: #fff;
 }
-h4.partner_type {
+h5.partner_type {
  color: #000; text-transform: capitalize;  font-family:  'Philosopher', sans-serif ;
 }
 p.partner_name{ color: #FF7800; margin: 0 0 0 0; text-transform: capitalize; }  
@@ -2166,6 +2166,13 @@ img.ceo_img{
   .testimonial{
     padding: 50px 25px 10px;
     position: relative; color: #fff;
+}
+#investment_budget{
+  padding: 6rem 0 6rem 0;
+}
+#chart {
+  height: 400px;
+  width: 400px;
 }
 .testimonial small{
     display: block;
@@ -3903,13 +3910,35 @@ h5.heading_title_two{
   display: none;
   text-align: center;
 }
-.value-items:hover .text.value-item {
+.value_icon{
+  width: 100%;
+    height: 165px;
+    background: #004f8a;
+    /* border-radius: 50%; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.value_icon.two{
+  background-color: #ff7800;
+}
+.value_icon.three{
+  background-color: #004f8aeb;
+}
+.value_icon.four{
+  background-color: #0092B9;
+}
+.value_icon i{
+  color: #fff;
+  font-size: 3rem;
+}
+/* .value-items:hover .text.value-item {
   display: block;
   
 }
 .value-items:hover .value-image {
   display: none;
-}
+} */
 #about_ethics{
   padding: 6rem 0 6rem 0;
 }

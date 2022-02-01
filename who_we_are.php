@@ -60,18 +60,18 @@
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, voluptas impedit? Fugiat officia architecto iure, sint eaque accusantium tempore culpa soluta veritatis repellat, illum, maiores nam dicta! Animi, perferendis laboriosam!</p>
                 <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation"> <button class="nav-link active" id="faq_tab_1-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1" aria-selected="true">
-                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>misson</span> </div>
+                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>परिलक्ष्य (mission)</span> </div>
                         </button> 
                     </li>
                     <li class="nav-item" role="presentation"> <button class="nav-link" id="faq_tab_2-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_2" type="button" role="tab" aria-controls="faq_tab_2" aria-selected="false">
-                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>vision</span> </div>
+                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>परिदृश्य (vision)</span> </div>
                         </button> 
                     </li>
                 </ul>
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade active show" id="faq_tab_1" role="tabpanel" aria-labelledby="faq_tab_1-tab">
                         <div class="container p-3">
-                            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto ex aperiam recusandae nisi ullam id suscipit explicabo numquam unde temporibus, distinctio iure ratione ea accusantium eveniet mollitia obcaecati, maiores placeat.</p>
+                            <p>जीवन स्तरमा परिवर्तन दिने । जनधन कर्पोरेट संस्कृतिको अभिन्न अंग, बन्दीपुर सर्वाङ्गीर्ण पर्यटनको रुपमा स्थापित हुनेछ । स्वभाविक आय आर्जनको अनुभूति सबैमा गराउँनेछ । केवलकार पर्यटकको मुख्य अंगको रुपमा अगाडि बढाउनेछ ।</p>
                            
                           
                         </div>
@@ -79,7 +79,7 @@
                     <div class="tab-pane fade" id="faq_tab_2" role="tabpanel" aria-labelledby="faq_tab_2-tab">
                         <div class="container p-3 scroll-y">
                             <div class="p-3 d-flex justify-content-between align-items-center">
-                                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente nulla a itaque similique beatae ut aliquid commodi impedit alias molestias, ea eligendi ratione voluptas, perspiciatis eum, voluptates totam possimus cupiditate.</p>
+                                <p>यो नै एक सिद्धान्त बनाउनु छ । जो पर्यटकको पर्यायवाची बन्ने छ । जसको अध्ययनले प्रत्येक परियोजनालाई कर्मजीवीले जीवनमा खुसी ल्याईरहन सकिन्छ भन्ने कुरामा आस्वस्थ गराउँदछ र कर्पोरेट संस्कृतिको तागत उजागर गरिरहने छ ।</p>
                             </div>
                            
                         </div>
@@ -109,29 +109,32 @@
        <h6>what we value</h6>
        <h2 class="section-title">our core values</h2>
         <div class="core-values mt-3">
-          <div class="value-items col-md-2 col-12">
-            <div class="value-image"> 
-              <img class="skip-lazy" src="https://salic.com/wp-content/uploads/2021/01/Group-5181.png"></div>
-                <div class="title value-item"> TeamWork</div>
-                   <div class="text value-item"> We aspire to be a world-class leading company through promoting leadership and teamwork at all levels.</div></div>
-                     <div class="value-items col-md-2 col-12">
-                       <div class="value-image">
-                           <img class="skip-lazy" src="https://salic.com/wp-content/uploads/2021/01/Group-5195.png">
-                       </div>
-                        <div class="title value-item"> Trust</div>
-                        <div class="text value-item"> We trust each other to achieve SALIC's strategy.</div></div>
-                    <div class="value-items col-md-2 col-12"><div class="value-image"> 
-                      <img class="skip-lazy" src="https://salic.com/wp-content/uploads/2021/01/Group-5208.png">
-                    </div><div class="title value-item"> Integrity</div>
-                    <div class="text value-item"> We behave with integrity and respect.</div></div>
-                    <div class="value-items col-md-2 col-12"><div class="value-image"> 
-                      <img class="skip-lazy" src="https://salic.com/wp-content/uploads/2021/01/Group-5359.png"></div>
-                      <div class="title value-item"> Commitment</div><div class="text value-item"> We adhere to the highest professional standards in our performance</div></div>
-                      <div class="value-items col-md-2 col-12"><div class="value-image"> <img class="skip-lazy" src="https://salic.com/wp-content/uploads/2021/01/Group-5221.png"></div>
-                      <div class="title value-item"> Accountability</div><div class="text value-item"> We take pride in conducting our business with responsibility and accountability.</div></div>
-                      <div class="value-items col-md-2 col-12"><div class="value-image"> <img class="skip-lazy" src="https://salic.com/wp-content/uploads/2021/01/Group-5225.png"></div><div class="title value-item"> Ambition</div><div class="text value-item"> We eagerly seek ways to innovate new ideas competitively.</div></div></div>
-                  </div>
-         </div>
+          <div class="value-items col-md-3 col-12">
+               <div class="value_icon"> 
+                  <i class="icon-lightbulb_outline"></i>
+               </div>
+               <div class="title value-item"> Accountability </div>
+          </div>
+          <div class="value-items col-md-3 col-12">    
+               <div class="value_icon two"> 
+                   <i class="icon-people"></i>
+               </div>
+               <div class="title value-item"> Inspiration </div>
+          </div>
+          <div class="value-items col-md-3 col-12">
+               <div class="value_icon three"> 
+                   <i class="icon-balance-scale"></i>
+               </div>
+               <div class="title value-item"> Integrity </div>
+          </div>
+          <div class="value-items col-md-3 col-12">
+               <div class="value_icon four"> 
+                   <i class="icon-handshake-o"></i>
+               </div>
+               <div class="title value-item">Partnership </div>
+          </div>
+     </div>
+  </div>
 </section>
 
 

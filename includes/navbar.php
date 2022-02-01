@@ -72,7 +72,7 @@
             <li><a href="who_we_are.php">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
-                  <ul class="megamenu-list list-col-3 ">
+                  <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
                              <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
                       </div>
@@ -102,7 +102,7 @@
             <li><a href="what_we_do.php">What we do</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
-                  <ul class="megamenu-list list-col-3 ">
+                  <ul class="megamenu-list list-col-4 ">
                       <div class="inner_nav">
                              <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
                       </div>

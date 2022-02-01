@@ -603,12 +603,16 @@
             <h6>governance</h6>
            <!-- <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit</h2> -->
            <h2 class="section-title"> our committes</h2> 
-            <p>The governance of Bandipur is achieved through the delegation of certain authorities including to various active committees that regularly report to and operate under the overall oversight of the Board of Directors.</p>
+            <p> कम्पनीले संस्थागत सुशाासन नै भावी दिशा फराकिलो र विश्वसनीय बनाउने कडी हो भन्ने कुरालाई गम्भीर 
+रुपमा बुझेको छ । सुशासनको अनुभूति व्यवहारिक रुपमा नै अनुभूति हुने गरी प्रर्दशन गर्नु कम्पनीको संस्कृति 
+बनेको छ । कम्पनीले आफूलाई पारदर्शी, चुस्त, दुरुस्त राख्नका लागि कम्पनीको Management मा निरन्तर 
+अद्यावधिक गर्ने नीति लिएर हरेक कार्यलाई व्यवस्थापन गरिरहेको छ । सञ्चालक समितिको कार्य अवधारणा 
+म्याप, योजना कार्यान्वयनमा केन्द्रित गरिएको छ । </p>
             <!-- committees accordion -->
             <div class="accordion accordion-flush" id="myAccordion">
 
             <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive"> Investment Committee </button> </h2>
+            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive"> नीति विभाग  </button> </h2>
             <div id="flush-collapseFive" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
                 <div class="accordion-body p-0">
                     <ul class="list-unstyled m-0">
@@ -619,7 +623,7 @@
             </div>
         </div>
         <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button active collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne"> Audit Committee </button> </h2>
+            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button active collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne"> आर्थिक व्यवस्थापन </button> </h2>
             <div id="flush-collapseOne" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
                 <div class="accordion-body p-0">
                     <ul class="list-unstyled m-0">
@@ -629,7 +633,7 @@
             </div>
         </div>
         <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo"> risk management Committee </button> </h2>
+            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo"> कानुनी व्यवस्थापन  </button> </h2>
             <div id="flush-collapseTwo" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
                 <div class="accordion-body p-0">
                     <ul class="list-unstyled m-0">
@@ -645,7 +649,7 @@ All employees have a responsibility for managing risk and this is reflected in I
             </div>
         </div>
         <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree"> manangement committee </button> </h2>
+            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree"> लेखा परीक्षण</button> </h2>
             <div id="flush-collapseThree" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
                 <div class="accordion-body p-0">
                     <ul class="list-unstyled m-0">
@@ -655,7 +659,7 @@ All employees have a responsibility for managing risk and this is reflected in I
             </div>
         </div>
         <div class="accordion-item">
-            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour"> Remuneration Committee</button> </h2>
+            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">मानव संसाधन व्यवस्थापन</button> </h2>
             <div id="flush-collapseFour" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
                 <div class="accordion-body p-0">
                     <ul class="list-unstyled m-0">
@@ -663,7 +667,34 @@ All employees have a responsibility for managing risk and this is reflected in I
                     </ul>
                 </div>
             </div>
-        </div>   
+        </div>  
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree"> इन्जिनियरिङ विभाग</button> </h2>
+            <div id="flush-collapseThree" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
+                <div class="accordion-body p-0">
+                    <ul class="list-unstyled m-0">
+                        <li>The Management Committee comprises the senior management team of Bandipur Cablecar and has the responsibility for overseeing its day-to-day operations.</li>
+                    </ul>
+                </div>
+            </div>
+        </div> 
+        <div class="accordion-item">
+            <h2 class="accordion-header" id="flush-headingOne"> <button class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree"> STU(Special Task Unit)</button> </h2>
+            <div id="flush-collapseThree" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
+                <div class="accordion-body p-0">
+                    <ul class="list-unstyled m-0">
+                        <li>निर्माणको दौरान प्राविधिक जटिलता र असहजताको व्यवस्थापन गर्न, विवादहरुको सामान्यीकरण 
+गर्न, पूर्वाधारको संरक्षण गरेर कम्पनीमा पूर्णतया सुरक्षाको प्रत्याभूत गराउन, विभिन्न क्षेत्रबाट 
+हुने हस्तक्षेप र आक्रमणलाई नियन्त्रणमा राख्नुका साथै परियोजना समयमा सञ्चालनमा ल्याउने 
+वातावरण बनाउने जिम्मेवारी क्त्ग् लाई हस्तान्तरण गरी व्यवस्थापन गरिएको छ । परियोजनामा 
+अप्ठयारो पर्ने खालको कुनै अवरोध सिर्जना भएका छैनन् । क्त्ग् व्यवस्थित रुपले कोभिडको 
+अवरोधलाई किनारा लगाउँदै आफ्नो कर्तव्य निर्वाह गरेको छ र परियोजना निरन्तर निर्माणमा 
+जान सकेको छ ।
+</li>
+                    </ul>
+                </div>
+            </div>
+        </div> 
       </div>   
     </div>
     <div class="col-lg-3">

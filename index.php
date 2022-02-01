@@ -8,7 +8,7 @@
 <section id="banner">
   <div class="content">
       <div class="owl-carousel owl-1">
-        <div class="media-29121 overlay" style="background-image: url('img/hero_1.jpg');">
+        <div class="media-29121 overlay" style="background-image: url('img/hero_1.png');">
           <div class="container">
             <div class="row  align-items-center">
               <div class="col-md-8">
@@ -25,7 +25,7 @@
             </div>
           </div>
         </div> <!-- .item -->
-        <div class="media-29121 overlay" style="background-image: url('img/hero_2.jpg');">
+        <div class="media-29121 overlay" style="background-image: url('img/hero_2.png');">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
@@ -37,7 +37,7 @@
             </div>
           </div>
         </div> <!-- .item -->
-        <div class="media-29121 overlay" style="background-image: url('img/hero_3.jpg');">
+        <div class="media-29121 overlay" style="background-image: url('img/hero_12.jpg');">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
@@ -131,7 +131,7 @@
             <div class="work-together__img-box">
                 <div class="work-together-shape-1"><img src="assets/images/shapes/work-together-shape-1.png" alt=""></div>
                 <div class="about__img-1">
-                    <img src="img/about/about-img1.jpg" class="about-img1" alt="">
+                    <img src="img/about/about-img1.jpeg" class="about-img1" alt="">
                     <div class="about__img-2">
                         <img src="img/for-video.png"class="about-img2" alt="">
                           <div class="video-main">
@@ -398,8 +398,10 @@
                   </div>
                 </div>
                  <div class="back from-left">
-                   <h2>mirror maze house</h2>        
-                   <p class="des">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, in animi doloribus reprehenderit debitis voluptas pariatur eaque! Rem, accusamus tempora?</p>           
+                   <h2>cable car restro service</h2>        
+                   <p class="des">कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । यसै मुताविक दक्षिण एसियामा 
+नै भिन्न स्वाद पस्कन खोजिरहेको छ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ। 
+प्रत्येक दिनको अफ आवर साँझ ५ बजेदेखि ९ बजेसम्म यो सेवा पस्कने तयारीमा कम्पनी लागेको छ । </p>           
                  </div>
                </div>
              </div>
@@ -419,8 +421,8 @@
                   </div>
                 </div>
                  <div class="back from-left">
-                   <h2>mirror maze house</h2>        
-                   <p class="des">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, in animi doloribus reprehenderit debitis voluptas pariatur eaque! Rem, accusamus tempora?</p>           
+                   <h2>landscaping & artificial waterfall</h2>        
+                   <p class="des">परियोजनाको बटमस्टेशनलाई त्यगचष्कत कोर्टको रुपमा पूर्ण प्रयोगमा ल्याउनु पर्नेछ । यसलाई अझ पर्यटकीय र प्रतिफलमूलक आकर्षण ल्याउनका लागि प्राकृतिक ढुङगाहरुलाई कुदेर आकर्षण डिजाईन दिइनेछ। जमिनलाई पूर्णत पर्यटनमैत्री समय व्यवस्थित गर्न स्ट्रेको रुपमा आकर्षक बनाइनेछ ।</p>           
                  </div>
                </div>
              </div>
@@ -440,8 +442,8 @@
                   </div>
                 </div>
                  <div class="back from-left">
-                   <h2>mirror maze house</h2>        
-                   <p class="des">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ea, in animi doloribus reprehenderit debitis voluptas pariatur eaque! Rem, accusamus tempora?</p>           
+                   <h2>water funpark</h2>        
+                   <p class="des">वटम स्टेशन नजिक सिद्धगुफा केवलकारको प्रस्तावित बटम स्टेशनमा कम्पनीको नाममा रहेको जग्गामा आकर्षक वाटरपार्क एवं आधुनिक फनपार्क निर्माणका लागि डि.पि.आर तयार गरी पर्यटकहरुलाई भुलाउने अवस्था बनाउन टुरिस्ट प्वाइन्टहरु निर्माण गरिने योजना बनाइएको छ ।</p>           
                  </div>
                </div>
              </div>
@@ -456,12 +458,12 @@
                     <div class="front">
                       <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/swimming-pool.jpg);">
                           <div class="text w-100">
-											        <h3><a href="#">music watershow</a></h3>
+											        <h3><a href="#">planetterum</a></h3>
 									      	</div>
                       </div>
                     </div>
                     <div class="back from-left">
-                       <h2>Views room and swimming pool</h2>    
+                       <h2>planetterum</h2>    
                        <p class="des">टेलिस्कोप ग्लास जडित हुन्छ । जसले हिमालयल रेन्जलाई आँखै अगाडि महशुस हुने गरि अवलोकन गराउँछ । दश तला माथि स्वीमिङ् पुल यो नेपालमै नयाँ फिचर हो साथमा बुटिक रेष्ट्रो सुविधा राखिएको छ ।</p>    
                     </div>
                   </div>
@@ -489,7 +491,7 @@
     <!-- client single item -->
      <div class="single-logo">
           <a href="" target="blank">
-             <h4 class="partner_type text-center">organised company</h4>
+             <h5 class="partner_type text-center">organised company</h5>
              <p class="partner_name text-center">Bandipur cablecar & tourism limited</p>
              <img src="img/logo.png" alt="">
           </a>
@@ -497,7 +499,7 @@
        <!-- client single item -->
      <div class="single-logo">
           <a href="" target="blank">
-             <h4 class="partner_type text-center">Holding company</h4>
+             <h5 class="partner_type text-center">Holding company</h5>
              <p class="partner_name text-center">RKD Holdings Limited</p>
              <img src="img/partner_company/crspl_logo.png" alt="">
           </a>
@@ -505,7 +507,7 @@
        <!-- client single item -->
      <div class="single-logo">
           <a href="" target="_blank">
-             <h4 class="partner_type text-center">Chairing Company</h4>
+             <h5 class="partner_type text-center">Chairing Company</h5>
              <p class="partner_name text-center">Panchase Cable Car & Tours Limited</p>
              <img src="img/partner_company/panchase-logo.png" alt="">
           </a>
@@ -513,7 +515,7 @@
        <!-- client single item -->
      <div class="single-logo">
           <a href="" target="_blank">
-             <h4 class="partner_type text-center">Associate Company</h4>
+             <h5 class="partner_type text-center">Associate Company</h5>
              <p class="partner_name text-center">Tourism Investment Fund limited</p>
              <img src="img/partner_company/panchase-logo.png" alt="">
           </a>
@@ -521,7 +523,7 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">Civil Consultant</h4>
+            <h5 class="partner_type text-center">Civil Consultant</h5>
             <p class="partner_name text-center">Cage Consultant, Kathmandu</p>
             <img src="img/partner_company/chandra_nirman.png" alt="">
          </a>
@@ -529,7 +531,7 @@
        <!-- client single item -->
      <div class="single-logo">
           <a href="" target="blank">
-             <h4 class="partner_type text-center">mechanical consultant</h4>
+             <h5 class="partner_type text-center">mechanical consultant</h5>
              <p class="partner_name text-center">CRS India & Breco England </p>
              <img src="img/partner_company/crspl_logo.png" alt="">
           </a>
@@ -537,7 +539,7 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">Civil Construction</h4>
+            <h5 class="partner_type text-center">Civil Construction</h5>
             <p class="partner_name text-center">Chandra Nirman Sewa Private Limited, Kathmandu</p>
             <img src="img/partner_company/chandra_nirman.png" alt="">
          </a>
@@ -545,7 +547,7 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">Mechanical construction</h4>
+            <h5 class="partner_type text-center">Mechanical construction</h5>
             <p class="partner_name text-center">Conveyor & ropeway services pvt.Ltd. , India</p>
             <img src="img/partner_company/bandipur_rural.png" alt="">
          </a>
@@ -553,7 +555,7 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">Financial consultant</h4>
+            <h5 class="partner_type text-center">Financial consultant</h5>
             <p class="partner_name text-center">DG & Associates</p>
             <img src="img/partner_company/bandipur_rural.png" alt="">
          </a>
@@ -561,7 +563,7 @@
        <!-- client single item -->
      <div class="single-logo">
           <a href="https://nsbl.statebank/home" target="_blank">  
-             <h4 class="partner_type text-center">banking partner</h4>
+             <h5 class="partner_type text-center">banking partner</h5>
              <p class="partner_name text-center">Nepal SBI Bank Limited</p>
              <img src="img/partner_company/sbi_bank.png" alt="">
           </a>
@@ -569,7 +571,7 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">Guide Liner</h4>
+            <h5 class="partner_type text-center">Guide Liner</h5>
             <p class="partner_name text-center">Bandipur Rural Municipality</p>
             <img src="img/partner_company/bandipur_rural.png" alt="">
         </a>
@@ -577,15 +579,15 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">event and entire management</h4>
+            <h5 class="partner_type text-center">event and entire management</h5>
             <p class="partner_name text-center">RKD Holdings Limited</p>
-            <img src="img/partner_company/bandipur_rural.png" alt="">
+            <img src="img/partner_company/rkd_logo.png" alt="">
         </a>
      </div>
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">finance management</h4>
+            <h5 class="partner_type text-center">finance management</h5>
             <p class="partner_name text-center">tourism investment fund limited</p>
             <img src="img/partner_company/bandipur_rural.png" alt="">
          </a>
@@ -593,7 +595,7 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">management bheting</h4>
+            <h5 class="partner_type text-center">management bheting</h5>
             <p class="partner_name text-center">policy planning beauro</p>
             <img src="img/partner_company/bandipur_rural.png" alt="">
          </a>
@@ -601,19 +603,15 @@
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">focal management</h4>
-            <p class="partner_name text-center">on time completion unit (OCU)</p>
-
-
-
-            
-            <img src="img/partner_company/bandipur_rural.png" alt="">
+            <h5 class="partner_type text-center">focal management</h5>
+            <p class="partner_name text-center">on time completion unit (OCU)</p>           
+            <img src="img/partner_company/focal_management_logo.jpg" alt="">
          </a>
      </div>
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
-            <h4 class="partner_type text-center">Mechanical inspection</h4>
+            <h5 class="partner_type text-center">Mechanical inspection</h5>
             <p class="partner_name text-center">TUV India Pvt Ltd(TUV NURD Group)</p>
             <img src="img/partner_company/bandipur_rural.png" alt="">
          </a>

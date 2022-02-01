@@ -79,17 +79,17 @@
                  <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation"> 
                             <button class="nav-link active" id="faq_tab_1-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1" aria-selected="true">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>2078</span> </div>
+                               <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>2077-2078</span> </div>
                             </button> 
                     </li>
                     <li class="nav-item" role="presentation">
                          <button class="nav-link" id="faq_tab_2-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_2" type="button" role="tab" aria-controls="faq_tab_2" aria-selected="false">
-                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>2077</span> </div>
+                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>2076-2077</span> </div>
                          </button>
                     </li>
                     <li class="nav-item" role="presentation"> 
                         <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                            <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2076</span> </div>
+                            <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2074-2075</span> </div>
                         </button> </li>
                         <li class="nav-item" role="presentation">
                              <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
@@ -133,7 +133,7 @@
                                <div class="title">
                                  <h3>
                                     <span class="wrap-title">           
-                                       <a target="_blank" href="img/reports/2076-2077 Audit Report.pdf" download="" title="Audit report" class="">Audit report of 2076-2077</a> </span>
+                                       <a target="_blank" href="img/reports/2077-2078 Audit Report.pdf"  title="Audit report" class="">Audit report of 2077-2078</a> </span>
                                  </h3>
                               </div>           
                            </li> 
@@ -148,38 +148,12 @@
                                     <div class="title">
                                         <h3>
                                             <span class="wrap-title">           
-                                              <a target="_blank" href="" title="2020 Annual Report" class="">2020 bandipur Annual Report</a> 
+                                              <a target="_blank" href="img/reports/2076-2077 Audit Report.pdf" title="Audit Report" class="">Audit report of 2076-2077</a> 
                                              </span>
                                             </h3>
                                     </div>           
                                   </li>
-                                  <li class="tset pdf microsite">
-                                     <div class="title">
-                                         <h3>
-                                             <span class="wrap-title">           
-                                                <a target="_blank" href="" title="2020  Annual Review" class="">2020 bandipur Annual Review</a>           
-                                             </span>
-                                         </h3>
-                                     </div>           
-                                  </li>
-                                  <li class="tset pdf">
-                                     <div class="title">
-                                         <h3>
-                                           <span class="wrap-title">           
-                                              <a target="_blank" href="https://www.mubadala.com/generic/download?file=MDGH YE 2020 FS FINAL.pdf&amp;id=16596" title="Full Year 2020 Consolidated Financial Statement" class="">Full Year 2020 Consolidated Financial Statement</a>           
-                                           </span>
-                                        </h3>
-                                    </div>           
-                                  </li>
-                                  <li class="tset pdf">
-                                     <div class="title">
-                                         <h3>
-                                             <span class="wrap-title">           
-                                              <a target="_blank" href="https://www.mubadala.com/generic/download?file=MDGH 30 June 2020 FS[2].pdf&amp;id=16272" title="Half Year 2020 Consolidated Financial Statements" class="">Half Year 2020 Consolidated Financial Statements</a>           
-                                             </span>
-                                         </h3>
-                                     </div>           
-                                  </li>                 
+                                                 
                               </ul>
                             </div>                           
                         </div>
@@ -191,7 +165,7 @@
                                <div class="title">
                                  <h3>
                                     <span class="wrap-title">           
-                                       <a target="_blank" href="" title="Half Year 2021 Consolidated Financial Statements" class="">Half Year 2021 Consolidated Financial Statements</a> </span>
+                                       <a target="_blank" href="img/reports/2074-2075 Audit Report.pdf" title="Half Year 2021 Consolidated Financial Statements" class="">Audit report of 2074-2075</a> </span>
                                  </h3>
                               </div>           
                            </li> 
@@ -260,7 +234,17 @@
    </div>
 
    </div>
-</section>  
+</section>
+  <!--ivestment budget  -->
+<section id="investment_budget">
+   <div class="container">
+      <div class="row">
+        <div id="chart">
+           <canvas id="myChart" width="400" height="400"></canvas>
+        </div>
+      </div>
+   </div>
+</section>
  <!-- investment strategy -->
 <section id="investment_strategy">
     <div class="container">
@@ -588,3 +572,31 @@ $(document).ready(function(){
     });
 });
 	</script>
+    <!-- for pie chart -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.5/Chart.min.js"></script>
+<script>
+    var data = {
+  labels: [
+    "Red",
+    "Yellow"
+  ],
+  datasets: [{
+    data: [300,  100],
+    backgroundColor: [
+      "#FF6384",
+      
+      "#FFCE56"
+    ],
+    hoverBackgroundColor: [
+      "#FF6384",
+     
+      "#FFCE56"
+    ]
+  }]
+};
+var ctx = $("#myChart");
+var myChart = new Chart(ctx, {
+  type: 'pie',
+  data: data
+});
+</script>

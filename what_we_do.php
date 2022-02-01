@@ -41,7 +41,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/hero_1.png);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#">transparent cablecar</a></h3>
@@ -50,7 +50,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                       </div>
                       <div class="back from-left">
                          <h2>transparent cablecar</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <p class="des">पारदर्शी क्याविन २ वटा रहन्छ । जसमा यात्रा गर्दा हावामा उडेको महसुस गराउदँछ । यो दक्षिण एसियाकै पहिलो साहसिक पर्यटकिय फिचर हो ।</p>    
                       </div>
                      </div>
                    </div>
@@ -65,7 +65,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.png);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">4 star queen tower</a></h3>
@@ -73,7 +73,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                         </div>
                       </div>
                       <div class="back from-left">
-                         <h2>>4 star queen tower</h2>
+                         <h2>4 star queen tower</h2>
                          <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
                       </div> 
                      </div>
@@ -89,7 +89,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/wax-museum.jpg);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">wax museum</a></h3>
@@ -170,7 +170,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                       </div>
                       <div class="back from-left">
                          <h2>>landscaping & artificial waterfall</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <p class="des">परियोजनाको बटमस्टेशनलाई त्यगचष्कत कोर्टको रुपमा पूर्ण प्रयोगमा ल्याउनु पर्नेछ । यसलाई अझ पर्यटकीय र प्रतिफलमूलक आकर्षण ल्याउनका लागि प्राकृतिक ढुङगाहरुलाई कुदेर आकर्षण डिजाईन दिइनेछ। जमिनलाई पूर्णत पर्यटनमैत्री समय व्यवस्थित गर्न स्ट्रेको रुपमा आकर्षक बनाइनेछ ।</p>    
                       </div>
                      </div>
                    </div>
@@ -229,8 +229,8 @@ Our most valuable asset is our people; we develop world-class talent in a values
    <div class="container">
       <div class="row">
 		  <h6>transparent cablecar</h6>
-         <h2 class="section-title">queen tower 13 storey</h2>
-		 <p>We will operate 4 Star hotel named as “Queen Tower” Hotel.  It will have minimum of 84 and maximum of 100 rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and operation.</p>
+         <h2 class="section-title">transparent cablecar</h2>
+		     <p> हाम्रो केवलकार मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टममा आधारित १९ गोण्डोला मार्फत् (मेटेरियल क्यावीन सहित) प्रति घण्टा ३०० यात्रीहरु बोक्न सक्ने क्षमतामा रहेको थियो । बजारको माग र चापका कारण यसलाई विस्तारित गर्दै २५ वटा गोण्डोला मेटेरियल क्यावीन सहित) प्रति घण्टा ५०० यात्रीहरु बोक्ने र दैनिक १६ घण्टा माथि सेवा दिन सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ ।  </p>
 	       <!--inner contents of queen tower 13 storey  -->
          <div class="card col-lg-4">
             <div class="face face1">
