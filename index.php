@@ -25,14 +25,14 @@
             </div>
           </div>
         </div> <!-- .item -->
-        <div class="media-29121 overlay" style="background-image: url('img/hero_2.png');">
+        <div class="media-29121 overlay" style="background-image: url('img/videos/queen_tower2.mp4');">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
                 <h6>Great Experience In Building. </h6>
                 <h2>Investing in Tourism</h2>
                 <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
-                <button class="slide_from_left">explore more</button>
+                 <a href="investors_relation.php"> <button class="slide_from_left">explore more</button></a>
               </div>
             </div>
           </div>
@@ -188,7 +188,7 @@
                            </div>
                        </div>
                   </div>
-                  <button class="slide_from_left">explore more</button>
+                 <a href="about_bandipur.php"> <button class="slide_from_left">explore more</button></a>
               </div>                            
         </div>
     </div>
@@ -493,7 +493,7 @@
           <a href="" target="blank">
              <h5 class="partner_type text-center">organised company</h5>
              <p class="partner_name text-center">Bandipur cablecar & tourism limited</p>
-             <img src="img/logo.png" alt="">
+                  <img src="img/logo.png" alt="">
           </a>
      </div>
        <!-- client single item -->
@@ -501,7 +501,9 @@
           <a href="" target="blank">
              <h5 class="partner_type text-center">Holding company</h5>
              <p class="partner_name text-center">RKD Holdings Limited</p>
-             <img src="img/partner_company/crspl_logo.png" alt="">
+             <div class="single_client_img">
+               <img src="img/partner_company/rkd_logo.png" alt="">
+             </div>
           </a>
      </div>
        <!-- client single item -->
@@ -509,7 +511,7 @@
           <a href="" target="_blank">
              <h5 class="partner_type text-center">Chairing Company</h5>
              <p class="partner_name text-center">Panchase Cable Car & Tours Limited</p>
-             <img src="img/partner_company/panchase-logo.png" alt="">
+                 <img src="img/partner_company/panchase-logo.png" alt="">
           </a>
      </div>
        <!-- client single item -->
@@ -517,7 +519,7 @@
           <a href="" target="_blank">
              <h5 class="partner_type text-center">Associate Company</h5>
              <p class="partner_name text-center">Tourism Investment Fund limited</p>
-             <img src="img/partner_company/panchase-logo.png" alt="">
+                <img src="img/partner_company/panchase-logo.png" alt="">
           </a>
      </div>
        <!-- client single item -->
@@ -525,7 +527,9 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Civil Consultant</h5>
             <p class="partner_name text-center">Cage Consultant, Kathmandu</p>
-            <img src="img/partner_company/chandra_nirman.png" alt="">
+            <div class="single_client_img">
+               <img src="img/partner_company/cage_consultant.png" alt="">
+            </div>
          </a>
      </div>
        <!-- client single item -->
@@ -533,7 +537,9 @@
           <a href="" target="blank">
              <h5 class="partner_type text-center">mechanical consultant</h5>
              <p class="partner_name text-center">CRS India & Breco England </p>
-             <img src="img/partner_company/crspl_logo.png" alt="">
+             <div class="single_client_img">
+               <img src="img/partner_company/crspl_logo.png" alt="">
+             </div>
           </a>
      </div>
        <!-- client single item -->
@@ -541,7 +547,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Civil Construction</h5>
             <p class="partner_name text-center">Chandra Nirman Sewa Private Limited, Kathmandu</p>
-            <img src="img/partner_company/chandra_nirman.png" alt="">
+               <img src="img/partner_company/chandra_nirman.png" alt="">
          </a>
      </div>
        <!-- client single item -->
@@ -549,7 +555,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Mechanical construction</h5>
             <p class="partner_name text-center">Conveyor & ropeway services pvt.Ltd. , India</p>
-            <img src="img/partner_company/bandipur_rural.png" alt="">
+               <img src="img/partner_company/crspl_logo.png" alt="">
          </a>
      </div>
        <!-- client single item -->
@@ -557,7 +563,9 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Financial consultant</h5>
             <p class="partner_name text-center">DG & Associates</p>
-            <img src="img/partner_company/bandipur_rural.png" alt="">
+            <div class="single_client_img">
+               <img src="img/partner_company/bandipur_rural.png" alt="">
+            </div>
          </a>
      </div>
        <!-- client single item -->
@@ -565,7 +573,9 @@
           <a href="https://nsbl.statebank/home" target="_blank">  
              <h5 class="partner_type text-center">banking partner</h5>
              <p class="partner_name text-center">Nepal SBI Bank Limited</p>
-             <img src="img/partner_company/sbi_bank.png" alt="">
+             <div class="single_client_img">
+                <img src="img/partner_company/sbi_bank.png" alt="">
+             </div>
           </a>
      </div>
        <!-- client single item -->
@@ -573,15 +583,19 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Guide Liner</h5>
             <p class="partner_name text-center">Bandipur Rural Municipality</p>
-            <img src="img/partner_company/bandipur_rural.png" alt="">
-        </a>
+           <div class="single_client_img">
+              <img src="img/partner_company/bandipur_rural.png" alt="">
+           </div>
+          </a>
      </div>
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
             <h5 class="partner_type text-center">event and entire management</h5>
             <p class="partner_name text-center">RKD Holdings Limited</p>
-            <img src="img/partner_company/rkd_logo.png" alt="">
+           <div class="single_client_img">
+               <img src="img/partner_company/rkd_logo.png" alt="">
+           </div>
         </a>
      </div>
        <!-- client single item -->
@@ -589,7 +603,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">finance management</h5>
             <p class="partner_name text-center">tourism investment fund limited</p>
-            <img src="img/partner_company/bandipur_rural.png" alt="">
+              <img src="img/partner_company/bandipur_rural.png" alt="">
          </a>
      </div>
        <!-- client single item -->
@@ -597,7 +611,9 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">management bheting</h5>
             <p class="partner_name text-center">policy planning beauro</p>
-            <img src="img/partner_company/bandipur_rural.png" alt="">
+            <div class="single_client_img">
+               <img src="img/partner_company/bandipur_rural.png" alt="">
+            </div>
          </a>
      </div>
        <!-- client single item -->
@@ -605,15 +621,17 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">focal management</h5>
             <p class="partner_name text-center">on time completion unit (OCU)</p>           
-            <img src="img/partner_company/focal_management_logo.jpg" alt="">
+           <div class="single_client_img">
+              <img src="img/partner_company/focal_management_logo.jpg" alt="">
+           </div>
          </a>
      </div>
        <!-- client single item -->
      <div class="single-logo">
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Mechanical inspection</h5>
-            <p class="partner_name text-center">TUV India Pvt Ltd(TUV NURD Group)</p>
-            <img src="img/partner_company/bandipur_rural.png" alt="">
+            <p class="partner_name text-center">TUV India Pvt Ltd(TUV NURD Group)</p>      
+              <img src="img/partner_company/bandipur_rural.png" alt="">       
          </a>
      </div>
    <!-- client single item end -->
@@ -640,51 +658,7 @@
         </div>
     </div>
 </section> -->
-<!-- tabular content -->
-<section id="tabular_structure">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12">
-               <div class="table_details" data-aos="fade-up" data-aos-duration="1000">
-                  <h2 class="section-title">lower station</h2>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum enim officiis reiciendis veritatis magni beatae id quo nemo optio? Voluptates, repudiandae fuga nisi rerum doloribus alias impedit saepe exercitationem quidem.</p>
-               <table class="rwd-table">
-                     <tr>
-                        <th>S.N.</th>
-                        <th>District</th>
-                        <th>Municipality</th>
-                        <th>Map No.</th>
-                        <th>Kitta No.</th>
-                        <th>Area</th>
-                        <th>registered Date</th>
-                        <th>Price</th>
-                     </tr>
-                     <tr>
-                        <td data-th="Movie Title">1</td>
-                        <td data-th="Genre">Tanahu</td>
-                        <td data-th="Year">Bandipur</td>
-                        <td data-th="Gross">4 ga</td>
-                        <td data-th="Gross">594</td>
-                        <td data-th="Gross">5-0-0-0</td>
-                        <td data-th="Gross">2070/06/10</td>
-                        <td data-th="Gross">10,00,000 /- Per aana</td>
-                     </tr>
-                     <tr>
-                        <td data-th="Movie Title">2</td>
-                        <td data-th="Genre">Tanahu</td>
-                        <td data-th="Year">Bandipur</td>
-                        <td data-th="Gross">4 ga</td>
-                        <td data-th="Gross">816</td>
-                        <td data-th="Gross">3-0-0-0</td>
-                        <td data-th="Gross">2076/09/18</td>
-                        <td data-th="Gross">10,00,000 /- Per aana</td>
-                     </tr>
-                </table>
-              </div>
-          </div>
-       </div>
-    </div> 
-</section>
+
 <?php
  include('includes/footer.php');
  ?>

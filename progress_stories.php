@@ -78,25 +78,25 @@
                     <a href="#bandipur_start">
                       <article class="text-left">
                         <h2>bandipur <br>cablecar</h2>
-                        <h4>Descripción corta de la imagen en cuestión</h4>
+                        <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
                       </article>
-                      <img src="https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg" alt="">
+                      <img src="img/hero_1.png" alt="">
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
                     <a href="#queentower_start">
                        <article class="text-left">
                         <h2>queen  <br>tower</h2>
-                        <h4>Descripción corta de la imagen en cuestión</h4>
+                        <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
                        </article>
-                       <img src="https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg" alt="">
+                       <img src="img/features/3d-cover.jpeg" alt="">
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
                  <a href="#restrozone_start">
                      <article class="text-left">
                         <h2>restro <br>zone</h2>
-                        <h4>Descripción corta de la imagen en cuestión</h4>
+                        <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
                      </article>
                     <img src="https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg" alt="">
                  </a>
@@ -110,8 +110,14 @@
 <section id="work_timeline">
 <div class="container">
   <h6>our milestones</h6>
-  <h2 class="section-title">what we have done so far</h2>
-  <p class="timeline_head">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere voluptatibus rem explicabo enim animi modi ea, vel commodi distinctio fugit minima provident vitae quisquam quo eligendi dignissimos cum veniam maiores!</p>
+  <h2 class="section-title">समय तालिका</h2>
+  <p class="timeline_head">परियोजना निर्माणको कार्य तीव्र गतिमा अगाडि बढेको छ । सिभिल मेकानिकल, सिभिल कन्सल्टेन्ट, 
+मेकानिकल कन्सल्टेन्ट, फाइनान्सियल कन्सल्टेन्ट र भोटिङ्ग गर्ने गरी सम्झौता गरिए मुताविक कार्यहरु गरिएको 
+छ । परियोजनाको कामलाई विभाजन गरेर गरिएको छ । </p>
+<p>यी विविध क्षेत्रमा एकै पटक एकै साथ अन्य कार्यहरु पनि भएका छन् । अपर स्टेशनको भवन र तल्लो 
+स्टेशनको भवनमा दैनिक म्बथ ल्ष्नजत गरी म्यगदभि क्षत मा काम गरी समयमा परियोजना सञ्चालनमा 
+ल्याउने रणनीतिमा कम्पनी हिँडेको छ । कम्पनीले माइक्रो मेनेजमेन्ट नगर्ने नीतिअनुसार व्यवस्थापनलाई करार 
+सम्झौता मार्फत् मात्र हल गरिरहने तयारी थालेको छ । </p>
   <div class="timeline">
     <div class="timeline-nav">
       <!-- <div class="timeline-nav__item">1985</div>
@@ -121,55 +127,64 @@
       <div class="timeline-nav__item">2008</div>
       <div class="timeline-nav__item">2012</div>
       <div class="timeline-nav__item">2010</div> -->
-      <div class="timeline-nav__item">2013</div>
-      <div class="timeline-nav__item">2015</div>
-      <div class="timeline-nav__item" >2016</div>
-      <div class="timeline-nav__item">2017</div>
-      <div class="timeline-nav__item">2018</div>
-      <div class="timeline-nav__item" id="restrozone_start">2019</div>
+      <div class="timeline-nav__item">२०७८</div>
+      <div class="timeline-nav__item">२०७९</div>
+      <div class="timeline-nav__item" >२०८०</div>
+      <div class="timeline-nav__item">४ वर्ष भित्र </div>
+      <div class="timeline-nav__item">३ वर्ष भित्र </div>
+      <div class="timeline-nav__item" id="restrozone_start">५ वर्ष भित्र</div>
+      <div class="timeline-nav__item" id="restrozone_start">अन्य वर्ष </div>
     </div>
     <div class="timeline-wrapper">
       <div class="timeline-slider">
         <div class="timeline-slide" id="bandipur_start" style="background-image: url(https://unsplash.it/1920/600?image=11" data-year="1985">      <span class="timeline-year">2013</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our first project</h4>
-            <p class="timeline-text">First project for the leading film actress Jamuna Barua, wife of Pramathesh Barua the legendary actor, director, and screenwriter</p>
+            <h4 class="timeline-title">२०७८ फागुन १ गते </h4>
+            <p class="timeline-text">रेष्ट्रो जोन सञ्चालनमा ल्याउने ।</p>
           </div>
         </div>
         <div class="timeline-slide"  id="queentower_start" style="background-image: url(https://unsplash.it/1920/600?image=12" data-year="1988">      <span class="timeline-year">1988</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our first project</h4>
-            <p class="timeline-text">First project for the leading film actress Jamuna Barua, wife of Pramathesh Barua the legendary actor, director, and screenwriter</p>
+            <h4 class="timeline-title">२०७९ फागुन १ गते</h4>
+            <p class="timeline-text">बटम स्टेशनको सम्पूर्ण कार्यहरु सम्पन्न गर्ने र केवलकारको सम्पूर्ण काम सकेर व्यवसायिक सञ्चालन गर्ने ।</p>
           </div>
         </div>
         <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="1998">      <span class="timeline-year">1998</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h4 class="timeline-title">२०८० असोज १ गते </h4>
+            <p class="timeline-text">अपर स्टेशनको बहु आयामिक "Queen Tower" चारतारे होटलसहितको निर्माण पूर्णतया सम्पन्न गरी परियोजना मूल योजना सञ्चालनमा 
+ल्याउनका लागि औपचारिक रुपमा लन्चिङ्ग गर्नेछ । जिपलाइन सञ्चालनमा ल्याई सक्नेछ ।</p>
           </div>
         </div>
         <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2006">      <span class="timeline-year">2006</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h4 class="timeline-title">४ वर्ष भित्र </h4>
+            <p class="timeline-text">ठुलोढुङ्गा – सिद्धगुफा केवलकार सञ्चालनमा ल्याउँछ ।
+साथमा वाटर पार्क÷फन पार्क एवं मिराकल गार्डेनको पूर्वाधार बनाउँछ । 
+माथिल्लो स्टेशनमा बन्जीजम्पको पूर्वाधार निर्माण गर्नेछ ।</p>
           </div>
         </div>
         <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2008">      <span class="timeline-year">2008</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h4 class="timeline-title">३ वर्ष भित्र </h4>
+            <p class="timeline-text">आँबु खैरेनी पृथ्वीराजमार्ग देखि छिम्केश्वरी काली माँ केवलकारको काम 
+सम्पन्न गरी सञ्चालनमा ल्याउँछ । जसको लम्वाई ३६०० मिटर लामो 
+रहेको छ ।</p>
           </div>
         </div>
         <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2010">      <span class="timeline-year">2010</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h4 class="timeline-title">५ वर्ष भित्र</h4>
+            <p class="timeline-text">छिम्केश्वरी क्षेत्रमा कलात्मक बहुआयामिक रिर्सोट सञ्चालनमा ल्याउँछ । </p>
           </div>
         </div>
         <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2012">      <span class="timeline-year">2012</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <h4 class="timeline-title">अन्य वर्ष </h4>
+            <p class="timeline-text">अध्यक्ष कम्पनी पञ्चासे केवलकार एण्ड टुर्स लि.ले सुरु गर्न लागेको 
+बृहत्तर पञ्चासे पर्यटन पूर्वाधारयुक्त केवलकार परियोजनाको निर्माण 
+सम्पन्न गर्नका लागि विशेष भूमिका खेल्दछ ।
+</p>
           </div>
         </div>
         <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2013">      <span class="timeline-year">2013</span>
@@ -195,86 +210,6 @@
   </div>
 </div>
 </section>
-
-<section id="impact_stories">
-    <div class="container">
-        <div class="row">
-           <h6>impact stories</h6>
-           <h2 class="section-title">our stories</h2>
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p>
-           <!-- impact stories card column -->           
-        <div class="col-lg-3 mb-4">
-           <div class="card">
-           <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
-            </div>
-            <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
-                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
-                    </div>
-                </div>
-            </div>
-           </div>            
-        </div>
-        <div class="col-lg-3 mb-4">
-           <div class="card">
-           <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
-            </div>
-            <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
-                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
-                    </div>
-                </div>
-            </div>
-           </div>            
-        </div>
-        <div class="col-lg-3 mb-4">
-           <div class="card">
-           <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
-            </div>
-            <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
-                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
-                    </div>
-                </div>
-            </div>
-           </div>            
-        </div>
-        <div class="col-lg-3 mb-4">
-           <div class="card">
-           <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
-            </div>
-            <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
-                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
-                    </div>
-                </div>
-            </div>
-           </div>            
-        </div>     
-    </div>
-</section>
-
-
 
 
 <?php

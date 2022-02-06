@@ -31,41 +31,41 @@
           <div class="row main_media">
                   <div class="col-lg-4">
                      <div class="media_img" data-aos="fade-right" data-aos-duration="3000">
-                        <img src="img/about/about-img1.jpg" class="w-100" alt="">
+                        <img src="img/news/main-news.jpg" class="w-100" alt="">
                      </div>
                   </div>
                   <div class="col-lg-8">
                      <div class="media_content_right" data-aos="fade-left" data-aos-duration="3000">
-                         <h2><a href="" title="">Bandipur Cable Car Pvt. Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu</a></h2>
-                         <small>December 16 2021</small>
-                         <p><strong>The partnership will entail a three-year close cooperation plan</strong></p>
-                         <a href="" class=" media_more" title="Read more">Read more</a>
+                         <h2><a href="https://www.tourismmail.com/260-billion-investment-in-bandipur-cable-car-and-5-star-hotel" target="_blank" title="">2.60 billion investment in Bandipur cable car and 5 star hotel</a></h2>
+                         <small>30th Jan, 2022 | Tourism Mail Crew</small>
+                         <p><strong>TANAHU, Jan 30: Investment in cable cars with five-star hotels under construction in Bandipur of Tanahu has increased.</strong></p>
+                         <a href="https://www.tourismmail.com/260-billion-investment-in-bandipur-cable-car-and-5-star-hotel" target="_blank" class=" media_more" title="Read more">Read more</a>
                      </div>
                   </div>          
           </div> 
           <div class="row news_listing" data-aos="fade-up" data-aos-duration="2000">
                <div class="col-lg-4">
-                  <div class="thumb"><a href=""><img src="https://www.mubadala.com/sites/default/files/styles/news_listing_small/public/news/Medallia%20image.jpg?itok=w4RBlZxx" alt="" title="" class="img-responsive"></a></div>
+                  <div class="thumb"><a href="https://nepalnews.com/s/travel-and-tourism/bandipur-cable-car-in-final-stage" taget="_blank"><img src="img/news/news-1.jpg"></a></div>
                   <div class="details">		
-	                  	<h3><a href="" title="">bandipur Invests alongside Thoma Bravo in Medallia, the...</a></h3>
-                      <small>December 15 2021</small>
-	                   	<a href="" class="media_more" title="Read more">Read more</a>
+	                  	<h3><a href="https://english.lokaantar.com/news/detail/24875/" title="">Bandipur cable car in final stage</a></h3>
+                      <small> FEBRUARY 4, 2022</small>
+	                   	<a href="https://english.lokaantar.com/news/detail/24875/" class="media_more" title="Read more">Read more</a>
 	                </div>
                </div>
                <div class="col-lg-4">
-                  <div class="thumb"><a href=""> <img src="https://www.mubadala.com/sites/default/files/styles/news_listing_small/public/news/Medallia%20image.jpg?itok=w4RBlZxx" alt="" title="" class="img-responsive"></a></div>
+                  <div class="thumb"><a href="https://english.lokaantar.com/news/detail/24875/" taget="_blank">  <img src="img/news/news-1.jpg" alt="" title="" class="img-responsive"></a></div>
                      <div class="details">		
-	                    	<h3><a href="" title="">bandipur Invests alongside Thoma Bravo in Medallia, the...</a></h3>
-                        <small>December 15 2021</small>
-	                    	<a href="" class="media_more" title="Read more">Read more</a>
+	                    	<h3><a href="https://english.lokaantar.com/news/detail/24875/" title="">Bandipur cable car project reports 95% progress</a></h3>
+                        <small> FEBRUARY 4, 2022</small>
+	                    	<a href="https://english.lokaantar.com/news/detail/24875/" class="media_more" title="Read more">Read more</a>
 	                   </div>
                 </div> 
                 <div class="col-lg-4">
-                  <div class="thumb"><a href=""> <img src="https://www.mubadala.com/sites/default/files/styles/news_listing_small/public/news/Medallia%20image.jpg?itok=w4RBlZxx" alt="" title="" class="img-responsive"></a></div>
+                  <div class="thumb"><a href="https://thehimalayantimes.com/nepal/bandipur-cable-car-to-operate-in-six-months"> <img src="img/news/news-3.webp" alt="" title="" class="img-responsive"></a></div>
                      <div class="details">		
-	                    	<h3><a href="" title="">bandipur Invests alongside Thoma Bravo in Medallia, the...</a></h3>
-                        <small>December 15 2021</small>
-	                    	<a href="" class="media_more" title="Read more">Read more</a>
+	                    	<h3><a href="https://thehimalayantimes.com/nepal/bandipur-cable-car-to-operate-in-six-months" title="">Bandipur cable car to operate in six months</a></h3>
+                        <small>FEBRUARY 4, 2022</small>
+	                    	<a href="https://thehimalayantimes.com/nepal/bandipur-cable-car-to-operate-in-six-months" class="media_more" title="Read more">Read more</a>
 	                   </div>
                   </div>         
           </div>
@@ -83,24 +83,24 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/about/about-img2.jpg" class="d-block w-100" alt="...">
+                                    <img src="img/news/event-1.jpg" class="d-block w-100" alt="...">
                                     <div class="carousel-caption d-none d-md-block">
-                                      <h5>First slide label</h5>
-                                      <p>Some representative placeholder content for the first slide.</p>
+                                      <h5>5th AGM Bandipur Cable Car</h5>
+                                      <!-- <p>Some representative placeholder content for the first slide.</p> -->
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/about/about-img1.jpg" class="d-block w-100" alt="...">
+                                    <img src="img/news/event-2.jpg" class="d-block w-100" alt="...">
                                      <div class="carousel-caption d-none d-md-block">
-                                       <h5>Second slide label</h5>
-                                       <p>Some representative placeholder content for the second slide.</p>
+                                       <h5>5th AGM Bandipur Cable Car</h5>
+                                       <!-- <p>Some representative placeholder content for the second slide.</p> -->
                                      </div>
                                </div>
                                <div class="carousel-item">
-                                  <img src="img/about/about-img2.jpg" class="d-block w-100" alt="...">
+                                  <img src="img/news/event-3.jpg" class="d-block w-100" alt="...">
                                    <div class="carousel-caption d-none d-md-block">
                                      <h5>Third slide label</h5>
-                                     <p>Some representative placeholder content for the third slide.</p>
+                                     <!-- <p>Some representative placeholder content for the third slide.</p> -->
                                    </div>
                                </div>
                       </div>
@@ -120,36 +120,37 @@
                   <ul class="video-list">
 							       	<li>
                          	<div class="thumb">
-						               	<a title="" href=""><span class="play"></span><img height="92" width="122" title="Mubadala Trends - Investing in talent with Homaid Al Shimmari" alt="Mubadala Trends - Investing in talent with Homaid Al Shimmari" src="img/about/about-img1.jpg"></a>
+						               	<a title="" href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=148s&ab_channel=BandipurCablecar"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_1.png"></a>
 						              </div>
 					     	          <div class="details">
-						               	<h3 class="video_heading"><a title="" href="">Episode 9: Sustainability and Clean Energy</a></h3>
+						               	<h3 class="video_heading"><a title="" href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=148s&ab_channel=BandipurCablecar" target="_blank">परिकल्पना ! नेपालमा एक बिशाल परियोजनाको ! अब तनहुँ जिल्लाको बन्दीपुरमा करिब १ बर्षमा यस्तो केबुलकार!</a></h3>
 						              </div>
 				            	</li>
 									  	<li>			
 					         	      <div class="thumb">
-						              	<a title="" href=""><span class="play"></span><img height="92" width="122" title="Episode 9: Sustainability and Clean Energy" alt="Episode 9: Sustainability and Clean Energy" src="https://i.ytimg.com/vi/NFBRAGl451M/mqdefault.jpg"></a>
+						              	<a title="" href="https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_2.png"></a>
 					              	</div>
 					              	<div class="details">
-						               	<h3 class="video_heading"><a title="" href="">Episode 9: Sustainability and Clean Energy</a></h3>
+						               	<h3 class="video_heading"><a title="" href=" https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar" taget="_blank">|| बन्दीपुरमा केवलकार निर्माण तिब्र गतिमा हुदै || तल्लो स्टेशन ||</a></h3>
 					              	</div>
 				            	</li>
 									   	<li>			
 					              	<div class="thumb">
-							               <a title="Episode 3: Space" href=""><span class="play"></span><img height="92" width="122" title="Episode 3: Space" alt="Episode 3: Space" src="https://i.ytimg.com/vi/57AjvCZ9aF8/mqdefault.jpg"></a>
+							               <a title="Episode 3: Space" href="https://www.youtube.com/watch?v=Reo9yTqD9KA&ab_channel=BandipurCablecar"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/news/event-1.jpg"></a>
 					              	</div>
 					              	<div class="details">
-						               	<h3 class="video_heading"><a title="Episode 3: Space" href="">Episode 3: Space</a></h3>
+						               	<h3 class="video_heading"><a title="Episode 3: Space" href="https://www.youtube.com/watch?v=Reo9yTqD9KA&ab_channel=BandipurCablecar" target="_blank">RKD Group: Business Summit 2076/12/01</a></h3>
 					              	</div>
 				            	</li>
 						      </ul>    
-                  <a title="" class="media_more btn-viewmore float-start border-0" href="">View all videos  <i data-feather="arrow-right"></i></a>     
+                  <a title="" class="media_more btn-viewmore float-start border-0" href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ/videos" target="_blank">View all videos  <i data-feather="arrow-right"></i></a>     
                </div> 
                <div class="col-lg-4"> 
                    <div class="portfolio_inner">
                       <h3 class="news_heading">about bandipur</h3>
                       <img src="img/about/about-img2.jpg" class="w-100" alt="">  
-                      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores repellat in aut, maxime temporibus velit minus quos tempora. Impedit voluptatum tempora repellendus tenetur nisi deleniti assumenda odio voluptatem suscipit aliquam.</p>               
+                      <p>Bandipur Cable Car and Tourism Limited  is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu .</p> 
+                      <a href="about_bandipur.php">  <button class="slide_from_left">explore more</button> </a>              
                    </div>            
                </div>
          </div>       

@@ -70,6 +70,9 @@
         left: 22%;
     }
     .scrollup{display: none !important;}
+    #download_reports .card{
+        margin-bottom: 2rem; height: auto;
+    }
   }
   @media screen and (max-width: 700px) {
     /* .info__one__feature{

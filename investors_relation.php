@@ -39,13 +39,13 @@
                          <div class="col-lg-4">   
                                  <div id="testimonial-slider" class="owl-carousel">
                                         <div class="testimonial">
-                                             <small>TOTAL COMPRENSIVE INCOME</small>
-                                             <h3>NPR 6 BILLION </h3>
-                                             <p>US $230 billion</p>
+                                             <small>Promoter Share</small>
+                                             <h3>822 </h3>
+                                             <!-- <p>US $230 billion</p> -->
                                         </div>
                                         <div class="testimonial">
-                                            <small>ASSET UNDER MANAGEMENT</small>
-                                            <h3>NPR 6BILLION </h3>                           
+                                            <small>Committed Share Amount</small>
+                                            <h3>75 crore</h3>                           
                                         </div>
                                         <div class="testimonial">
                                             <small>invesments</small>
@@ -62,14 +62,14 @@
         </div>       
        </div>
 </section>
-<section id="">
+<section id="financial_report">
    <div class="container">
       <div class="row">
            <div class="col-lg-9">
            <div class="share_info_details"> 
                      <h6>share info</h6> 
                      <h2 class="section-title">Financial information and reports</h2>
-                     <p>As the debt issuing entity under Mubadala Investment Company, Mamoura Diversified Global Holding reports bi-annually consolidated financial statements. Before the consent solicitation exercise conducted in 2018, IPIC was also required to report bi-annually, and for historical purposes, their financial statements are included below.</p>                   
+                     <p>As the debt issuing entity under Bandipur Investment Company, Mamoura Diversified Global Holding reports bi-annually consolidated financial statements. Before the consent solicitation exercise conducted in 2018, IPIC was also required to report bi-annually, and for historical purposes, their financial statements are included below.</p>                   
                  </div> 
                  <div class="investor_info_block text-center">
                      <h2 class="text-capitalize">Bandipur cablecar and tourism limited(powered by RKD Holdings)</h2>
@@ -208,7 +208,7 @@
       </div>
       <!-- row end -->
       <!-- new row -->
-      <div class="row extra_finance_info mt-4">
+      <!-- <div class="row extra_finance_info mt-4">
            <h6>investment</h6>
            <h2 class="section-title">investment programs</h2>
            <div class="col-lg-4"> 
@@ -231,17 +231,29 @@
               </div>
            </div>
        </div>
-   </div>
-
+   </div> -->
    </div>
 </section>
   <!--ivestment budget  -->
 <section id="investment_budget">
    <div class="container">
-      <div class="row">
-        <div id="chart">
-           <canvas id="myChart" width="400" height="400"></canvas>
-        </div>
+          <h2>फाइनान्सियल क्लोजरः</h2>
+          <p>Project Value 1,67,00,00,000/-</p>
+      <div class="pie_data_details">
+      <div class="row text-center">
+          <div class="col-lg-6">
+              <div id="chart">
+                <canvas id="myChart" width="350" height="350"></canvas>
+                <h3>Investment Stucture</h3>
+              </div>
+          </div>
+          <div class="col-lg-6">
+            <div id="chart">
+                <canvas id="myChart2" width="350" height="350"></canvas>
+                <h3>Promoter Share Structure</h3>
+            </div>
+          </div>
+      </div>
       </div>
    </div>
 </section>
@@ -261,8 +273,11 @@
 							<div class="icon_box">
 								<span class="icon ti-blackboard"></span>
 							</div>
-							<h5><a href="">Strategy</a></h5>
-							<div class="text">Thought leadership pass the clap hackathon wearables.</div>
+						    <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">लगानीको सिमा</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">आम रुपमा ५ देखि ५० लाख रुपैयाँसम्म</div>
 						</div>
 					</div>
 					
@@ -272,8 +287,11 @@
 							<div class="icon_box">
 								<span class="icon ti-stats-up"></span>
 							</div>
-							<h5><a href="">Financial</a></h5>
-							<div class="text">Platform omnichannel click thought leadership pivot</div>
+                            <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">सुविधा</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">परियोजना सञ्चालन पछाडि आएको नाफा नियमपूर्वक वितरण गर्ने नीति</div>
 						</div>
 					</div>
 					
@@ -283,8 +301,11 @@
 							<div class="icon_box">
 								<span class="icon ti-shield"></span>
 							</div>
-							<h5><a href="">Insurance</a></h5>
-							<div class="text">Disrupt taste makers help council emerging.</div>
+                            <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">शेयरधनी कल्याणकारी अग्राधिकार कोष</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">आजको शेयर धनी १० वर्ष पछाडि तेब्बर शेयरको मालिक</div>
 						</div>
 					</div>
 					
@@ -294,8 +315,11 @@
 							<div class="icon_box">
 								<span class="icon ti-home"></span>
 							</div>
-							<h5><a href="">Estate</a></h5>
-							<div class="text">Mobile ready proprietary dedication intuitive</div>
+                            <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">RAID</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">शेयरधनीहरुको हरेक अप्ठ्यारामा सहयोग र राहत दिनकालागि आर.के.डी. सहयोग कार्यक्रम</div>
 						</div>
 					</div>
 					
@@ -305,8 +329,11 @@
 							<div class="icon_box">
 								<span class="icon ti-stamp"></span>
 							</div>
-							<h5><a href="">Audit &amp; Evaluation</a></h5>
-							<div class="text">Thought leadership pass the clap hackathon wearables.</div>
+							<div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">बैंक सुविधा</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">कम्पनीले प्रतिस्पर्धात्मक रुपमा बैंकको कर्जा उपयोग </div>
 						</div>
 					</div>
 					
@@ -350,7 +377,7 @@
     </div>
 </section>   
 <!-- graph -->
-<section id="share_graph">
+<!-- <section id="share_graph">
    <div class="container">
        <div class="row">
            <div class="col-lg-5">
@@ -406,7 +433,6 @@
 			</ul>
 		</div>
 		<div id="pie_ico">Pie &raquo;</div>
-		<!-- <div id="pyr_ico">&laquo; Pyramid</div> -->
 		<div id="percentage_wrapper">
 			<div id="percentage">
 				<ul>
@@ -434,17 +460,6 @@
 						<li id="c5_l"><p><span class="pie_right"></span></p></li>
 					</ul>
 				</div>
-				<!-- <div id="pyr_chart">
-					<ul>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
-						<li></li>
-					</ul>
-				</div> -->
 			</div>
 		</div>
 		<div id="btn_panel">
@@ -457,17 +472,17 @@
 				<li><a href="#q2_2010"><span>Q2</span><span>2010</span></a></li>
 			</ul>
 		</div>
-	</div> <!--q1_2005-->
-	</div> <!--q2_2009-->
-	</div> <!--q3_2009-->
-	</div> <!--q4_2009-->
-	</div> <!--q1_2010-->
-	</div> <!--q2_2010-->
+	</div> 
+	</div>
+	</div> 
+	</div> 
+	</div> 
+	</div>
 			  </div>
            </div>
 	   </div>
    </div>
-</section>
+</section> -->
 <section id="share_calculator">
    
 </section>
@@ -477,62 +492,71 @@
    <div class="container">
         <div class="row">
             <div class="col-lg-9" data-aos="fade-up" data-aos-duration="2000">
-              <h6>Financial Reports</h6> 
-              <h2 class="section-title">Financial Reports of bandipur</h2> 
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugiat dolores repellendus pariatur sunt voluptates blanditiis, doloribus dolor numquam ullam necessitatibus rem soluta assumenda perferendis ab, nam unde enim! Excepturi, illum.</p>   
+              <h6>risk management</h6> 
+              <h2 class="section-title">जोखिम व्यवस्थापन</h2> 
+              <p>पूर्वाधार निर्माण, व्यवस्थापन र सञ्चालनको दौरान अत्याधिक जोखिमहरुसँग कम्पनी जोडिरहेको हुन्छ । 
+जोखिम नियन्त्रणका लागि निम्नअनुरुपको नीति अख्तियार गरिरहेको छ ।</p>   
                 <div class="accordion accordion-flush" id="faqlist">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button active collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-1">
-                              Audited Financial Result
+                              Insurance Policy
                             </button>
                         </h2>
                         <div id="content-accordion-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
-                                Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                            प्रत्येक संरचना, काम, पूर्वाधार, एएद्य, इऋग्, कर्मचारी, कन्ट्रयाक्टर र मजदुरहरुको पूर्ण विमा गर्ने नीति कार्यान्वयन गरेको छ ।
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-2">  Quarterly Report </button>
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-2"> Transparency </button>
                         </h2>
                         <div id="content-accordion-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
-                                It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here.
+                            अभिभाज्य वित्तीय व्यवस्थापन प्रणालीअन्तर्गत एकद्धार विधि अपनाइ वित्त परिचालन नीतिको 
+अधीनमा रहेर कम्पनीलाई पारदर्शी एवं चुस्त, दुरुस्त राखेको छ ।
                             </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-3">
-                            Basel Disclosure 
+                            इमर्जेन्सी रेस्क्यु टिम (ERT)
                             </button>
                         </h2>
                         <div id="content-accordion-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                            <div class="accordion-body">
-                                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-                            </div>
+                          <div class="accordion-body">
+                            परियोजना निर्माणको क्रममा अप्रत्यासित रूपमा लागत Escalation हुन सक्छ । आकस्मिक आर्थिक दुर्घटनाहरु निम्तिन सक्छन् भन्ने सोचेर जुनसुकै परिवेशको सामना गर्न सक्ने गरी परियोजनालाई विना रोकावट समयमा सम्पन्न गर्न पुँजीको जोहो गर्नका लागि “Back up reserve force” को रुपमा सम्भावित लगानीकर्ताहरुको टिम बनाएर राखेको छ । स्थानीयहरुलाई 
+                            छुट्याइएको रकम उनीहरुले लगानी गर्नका लागि भरपुर चासो देखाएर लगानी लगाउने प्रतिवद्धता 
+                            जनाई रहेको र कार्यान्वयन समेत गरिरहेकाले ERT को पूर्णरुपमा प्रयोग गर्नु नपर्ने राम्रो संकेत 
+                            बनेको छ ।
+                          </div>
                         </div>
                     </div>
                     <div class="accordion-item">
                         <h2 class="accordion-header">
                             <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-4">
-                            Audited Financial Result
+                            स्पेशल टास्क युनिट (STU)
                             </button>
                         </h2>
                         <div id="content-accordion-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                            <div class="accordion-body">
-                                Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+                           <div class="accordion-body">
+                              निर्माणको दौरान प्राविधिक जटिलता र असहजताको व्यवस्थापन गर्न, विवादहरुको सामान्यीकरण गर्न, पूर्वाधारको संरक्षण गरेर कम्पनीमा पूर्णतया सुरक्षाको प्रत्याभूत गराउन, विभिन्न क्षेत्रबाट 
+                              हुने हस्तक्षेप र आक्रमणलाई नियन्त्रणमा राख्नुका साथै परियोजना समयमा सञ्चालनमा ल्याउने वातावरण बनाउने जिम्मेवारी STU लाई हस्तान्तरण गरी व्यवस्थापन गरिएको छ । परियोजनामा 
+                              अप्ठयारो पर्ने खालको कुनै अवरोध सिर्जना भएका छैनन् । STU व्यवस्थित रुपले कोभिडको 
+                               अवरोधलाई किनारा लगाउँदै आफ्नो कर्तव्य निर्वाह गरेको छ र परियोजना निरन्तर निर्माणमा 
+                               जान सकेको छ ।
                             </div>
                         </div>
                     </div>
                 </div>
        </div>
-       <div class="col-lg-3 sidebar">
+       <div class="col-lg-3 ">
              <div class="side-menu" data-aos="fade-up" data-aos-duration="3000">
                 <ul>
-                   <li> <a href="">Financial Reports</a> </li>
+                   <li> <a href="#financial_report">Financial Reports</a> </li>
                    <li><a href="">financial calender</a></li>
                 </ul>
                 <div class="clear"></div>
@@ -574,29 +598,40 @@ $(document).ready(function(){
 	</script>
     <!-- for pie chart -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.5/Chart.min.js"></script>
+
+<!--debt equity  -->
 <script>
-    var data = {
-  labels: [
-    "Red",
-    "Yellow"
-  ],
-  datasets: [{
-    data: [300,  100],
-    backgroundColor: [
-      "#FF6384",
-      
-      "#FFCE56"
-    ],
-    hoverBackgroundColor: [
-      "#FF6384",
-     
-      "#FFCE56"
-    ]
-  }]
-};
-var ctx = $("#myChart");
+    var ctx = document.getElementById("myChart").getContext('2d');
 var myChart = new Chart(ctx, {
   type: 'pie',
-  data: data
+  data: {
+    labels: [ "Debt % ", "Equity %"],
+    datasets: [{
+      backgroundColor: [
+       
+        "#004f8a",
+        "#ff7800"
+      ],
+      data: [ 61, 39]
+    }]
+  }
 });
+</script>
+<script>
+      var ctx = document.getElementById("myChart2").getContext('2d');
+var myChart = new Chart(ctx, {
+  type: 'pie',
+  data: {
+    labels: [ "RKD Tourism % ", "Panchase %","Others %"],
+    datasets: [{
+      backgroundColor: [
+       
+        "#004f8a",
+        "#6dacdceb",
+        "#ff7800"
+      ],
+      data: [ 61, 25, 14]
+    }]
+  }
+}); 
 </script>

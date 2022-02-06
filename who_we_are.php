@@ -33,15 +33,22 @@
             <img src="img/about/about-img2.jpg" class="w-100" alt="">
         </div>
     </div>
-       <div class="col-lg-6 align-self-center">
+       <div class="col-lg-6">
         <div class="about-us-info-wrap" data-aos="fade-left"
         data-aos-easing="linear"
         data-aos-duration="1000">
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About bandipur</h6>
-                <h2 class="section-title">The Leading Real Estate
-                    Rental Marketplace<span>.</span></h2 >
-                <p>Bandipur Cable Car Pvt. Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahu formerly Bandipur VDC Ward no.3, Tanahu. Similarly, the company is also registered with Tax office on 2069.11.13 B.S (24.02.2013 AD) under PAN No 600918925. The company is also registered with VAT on 2075.07.19 B.S. (05.11.2018 AD). The registration and renewals and VAT filing of the company are up to date. The corporate/administrative office of the company is located at Sabhagriha Chowk-8, New Road, Pokhara. </p>
+                <h2 class="section-title">Cable Car With Tourism<span>.</span></h2 >
+                <p>बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले
+प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर
+अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन ग¥यो भने
+इमानदार र सत्यको बाटो प्राप्त गर्ने वरदान पाइन्छ भन्ने विश्वास रहेको छ । विशेष गरी वर्षमा दशैंको समयमा
+सप्तमी र अष्टमीको दिन मन्दिर खुल्ला हुने गर्दछ । प्रायः जसो दशैंमा पिङ्ग खेल्ने गर्छन् । सो समयमा मन्दिर
+दर्शन गर्दा सबैलाई फल मिल्छ भन्ने र्धािर्मक विश्वास रहेको छ । यसकारण सीमित समय मात्र वर्षको २ दिन
+मन्दिर खुल्ला गरिने गरिएको छ । केवलकार बनेपछि मन्दिर नियमित दैनिक खुल्ला गराउने एवं दर्शनार्थीलाई
+दर्शनकालागि नियमित ढोका खोलिदिने अभिप्रायले केवलकार कम्पनीले मन्दिर व्यवस्थापन समितिसँग मिलेर
+ठोस योजना बनाउँदै छ । </p>
                   <a href="about_bandipur.php"><button class="slide_from_left">explore more</button></a>
                   <!-- <button class="slide_from_left">explore more</button> -->
               </div>                            
@@ -56,8 +63,10 @@
         <div class="col-lg-6">
         <div class=""data-aos="fade-up" data-aos-duration="1500">
         <h6 class="">About bandipur</h6>
-        <h2 class="section-title">our core business values</h2>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt, voluptas impedit? Fugiat officia architecto iure, sint eaque accusantium tempore culpa soluta veritatis repellat, illum, maiores nam dicta! Animi, perferendis laboriosam!</p>
+        <h2 class="section-title">our  business visions </h2>
+        <p>बन्दीपुरको अलौकिक आवासीय पर्यटनको अलग्गै र भिन्न मज्जा पाउने कुरा केवलकारको एजेण्डामा ब्रान्डिङ्ग 
+गरेर व्यवसायिक आम्दानीको लक्ष्य हासिल गर्नु हो । खड्गदेवी मन्दिरको महिमा एवं दर्शनको सार्थकता अनुभूत 
+गराउन जहाँ हजारौँले आत्मनिर्भताको बाटो देख्न सकून् भन्ने कम्पनीको उद्देश्य हो ।</p>
                 <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation"> <button class="nav-link active" id="faq_tab_1-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1" aria-selected="true">
                             <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>परिलक्ष्य (mission)</span> </div>
@@ -67,12 +76,16 @@
                             <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span>परिदृश्य (vision)</span> </div>
                         </button> 
                     </li>
+                    <li class="nav-item" role="presentation"> <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
+                            <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i> <span> उद्देश्य (Objective)</span> </div>
+                        </button> 
+                    </li>
                 </ul>
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade active show" id="faq_tab_1" role="tabpanel" aria-labelledby="faq_tab_1-tab">
                         <div class="container p-3">
                             <p>जीवन स्तरमा परिवर्तन दिने । जनधन कर्पोरेट संस्कृतिको अभिन्न अंग, बन्दीपुर सर्वाङ्गीर्ण पर्यटनको रुपमा स्थापित हुनेछ । स्वभाविक आय आर्जनको अनुभूति सबैमा गराउँनेछ । केवलकार पर्यटकको मुख्य अंगको रुपमा अगाडि बढाउनेछ ।</p>
-                           
+              
                           
                         </div>
                     </div>
@@ -84,12 +97,14 @@
                            
                         </div>
                     </div>
-                    <!-- <div class="tab-pane fade" id="faq_tab_3" role="tabpanel" aria-labelledby="faq_tab_3-tab">
+                    <div class="tab-pane fade" id="faq_tab_3" role="tabpanel" aria-labelledby="faq_tab_3-tab">
                         <div class="container p-3 mt-4">
-                          <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aperiam, veritatis accusantium? Nesciunt voluptatem molestiae quam at repellat nulla, amet repudiandae ab iusto reprehenderit accusantium necessitatibus sed, beatae eum voluptatibus quas.</p> 
+                          <p>बन्दीपुरको अलौकिक आवासीय पर्यटनको अलग्गै र भिन्न मज्जा पाउने कुरा केवलकारको एजेण्डामा ब्रान्डिङ्ग
+गरेर व्यवसायिक आम्दानीको लक्ष्य हासिल गर्नु हो । खड्गदेवी मन्दिरको महिमा एवं दर्शनको सार्थकता अनुभूत
+गराउन जहाँ हजारौँले आत्मनिर्भताको बाटो देख्न सकून् भन्ने कम्पनीको उद्देश्य हो ।</p> 
                     
                         </div>
-                    </div> -->
+                    </div>
                    
                 </div>
             </div>
@@ -143,7 +158,7 @@
      <div class="row">
          <h6>the way we do business</h6>
          <h2 class="section-title">how do we work</h2>
-         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consectetur rerum dolore minus, nostrum cumque aut, voluptatum nulla reiciendis, quis illo molestiae perspiciatis amet! Cum vitae corporis distinctio nam unde minus.</p>
+         <p>कम्पनीले निर्माण–– स्वामित्वकरण – सञ्चालन र नियमित सञ्चालन लाई सन्चालनको मार्गदर्शक मानी परियोजना पूर्वाधार निर्माण तथा लगानी गरिरहेको छ ।</p>
          <div class="row justify-content-center justify-content-lg-between text-center gy-4">
              <div class="col-sm-6 col-lg-3 col-xl-auto process-grid" data-aos="fade-left"  data-aos-duration="1000">
                   <!-- <div class="process-indicator">
@@ -152,9 +167,9 @@
                   <div class="process-body">
                        <div class="process-shape"></div>
                           <span class="process-number">01</span>
-                             <div class="process-icon"><i class="icon-info_outline"></i>
+                             <div class="process-icon"><img src="img/icon_pack/hook.png" alt="">
                              </div>
-                             <h3 class="process-title">Info</h3>
+                             <h3 class="process-title">निर्माण</h3>
                        </div>
                     </div>
              <div class="col-sm-6 col-lg-3 col-xl-auto process-grid"  data-aos="fade-left"  data-aos-duration="1500">
@@ -164,8 +179,8 @@
                  <div class="process-body">
                      <div class="process-shape"></div>
                      <span class="process-number">02</span>
-                      <div class="process-icon"><i class="icon-file-o"></i></div>
-                     <h3 class="process-title">Planing</h3>
+                      <div class="process-icon"><img src="img/icon_pack/ownership.png" alt=""></div>
+                     <h3 class="process-title">स्वामित्वकरण</h3>
                  </div>
              </div>
              <div class="col-sm-6 col-lg-3 col-xl-auto process-grid"  data-aos="fade-left"  data-aos-duration="2000">
@@ -174,8 +189,8 @@
                 <div class="process-body">
                     <div class="process-shape"></div>
                        <span class="process-number">03</span>
-                         <div class="process-icon"><i class="icon-clock-o"></i></div>
-                          <h3 class="process-title">Design</h3>
+                         <div class="process-icon"><img src="img/icon_pack/cogwheel.png" alt=""></div>
+                          <h3 class="process-title"> सञ्चालन</h3>
                         </div>
                     </div>
              <div class="col-sm-6 col-lg-3 col-xl-auto process-grid"  data-aos="fade-left"  data-aos-duration="3000">
@@ -184,12 +199,85 @@
                   <div class="process-body">
                       <div class="process-shape"></div>
                         <span class="process-number">04</span>
-                        <div class="process-icon"><i class="icon-archive"></i></div><h3 class="process-title">Develop</h3>
+                        <div class="process-icon"><img src="img/icon_pack/engineering.png" alt=""></div><h3 class="process-title">नियमित सञ्चालन </h3>
                         </div>
                  </div>
             </div>
      </div>
   </div> 
+</section>
+<!-- investment strategy -->
+<section id="investment_strategy">
+    <div class="container">
+        <div class="row">
+            <h6>we plan</h6>
+            <h2 class="section-title">Investment Model</h2>
+            <p>Best Solutions For Your Business</p>
+            <div class="inner_container">
+				<div class="row g-0">
+				
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+                                <img src="img/icon_pack/for_features/corporate.png" alt="">
+							</div>
+						    <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">Corporate</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">संस्थागत</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+                               <img src="img/icon_pack/for_features/private.png" alt="">
+							</div>
+                            <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">Private</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">निजी</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+                                <img src="img/icon_pack/for_features/partner.png" alt="">
+							</div>
+                            <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">Co-operative</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">सहकारी</div>
+						</div>
+					</div>
+					
+					<!-- strategy Block -->
+					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+						<div class="inner_box">
+							<div class="icon_box">
+                                 <img src="img/icon_pack/for_features/cooperate.png" alt="">
+							</div>
+                            <div class="heading_arrow d-flex justify-content-between">
+                               <h5><a href="">Public & Government Venture & Settlement (Coop2Govs)</a></h5>   
+                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                            </div>
+							<div class="text">सामुदायिक र सरकारी उद्यम एवं व्यवस्थापन </div>
+						</div>
+					</div>
+													
+						
+				</div>
+				
+			</div>
+        </div>
+    </div>
 </section>
 <!-- code of ethics -->
 <section id="about_ethics">
@@ -216,7 +304,8 @@
         <!-- row end -->
         <div class="contact_ext">
             <div class="field-item even">
-                <p><strong>Report any questions or concerns to:</strong> <br>Ethics &amp; Compliance Office <br>+971 2 413 3333 <br><a class="activelink_contact"  href="mailto:info@bandipur.np" title="">compliance@bandipur.com.np</a></p>
+                <p><strong>Report any questions or concerns to:</strong> <br>Ethics &amp; Corporate Office <br>061-541430 <br><a class="activelink_contact"  href="mailto:info@bandipur.np" title="">info@bandipurcablecar.com.np
+</a></p>
             </div>
         </div>
     </div>

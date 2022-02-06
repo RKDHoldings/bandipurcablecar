@@ -276,14 +276,26 @@
            <div class="col-lg-7">
               <h6>our ceo</h6>
               <h2 class="section-title"> CEO message</h2>
-              <p>Mr. Ram Chandra Sharma, representative from <strong>Panchase Cable Car and Tours Ltd</strong>, is the Chairman &amp; Managing Director of the Company. He has been involved since the incorporation of the company. He is also the Chairman of the <strong><a href="https://rkdrealestate.com.np/">RKD Real Estate &amp; Construction Public Limited</a>.</strong> He has been involved in real estate, financial &amp; other business sector, having an experience of approximately over a decade. Mr. Sharma is a highly energetic, focused, collegiate team builder. Passionate about stakeholder’s engagement and opinions, he is committed to increasing value of the organization. He is responsible for the overall working of the company and is instrumental in making strategic decisions for the company.He holds a diploma degree in planning from India and BBS from Tribhuvan University. He has worked as a Chartered President of <strong>Bihani Saving &amp; Credit Co-operative president</strong> for a period of Ten years. Also, Currently he is the chairperson of the <a href="https://rkdrealestate.com.np/">RKD Real Estate &amp; Construction Public Limited</a> since its establishment. Further, he is also involved <strong>Lions club of Pokhara, New Road</strong> as a voluntary member as well as worked as a General Secretary in <strong>Center of Co-operative President Society (COPS).</strong></p>
+              <p>बन्दीपुर केवलकार एण्ड टुरिजम लिमिटेडका सातौँ साधारण सभाका प्रमुख
+अतिथिज्यू, विशिष्ट अतिथिज्यूहरु, अतिथिज्यूहरु, कम्पनीका निर्देशकज्यूहरु,
+OCU समूह, जग्गादाताज्यूहरु, पत्रकार मित्रहरु, उपस्थित शेयरधनीहरु र
+कर्मचारीहरुप्रति हार्दिक अभिवादन व्यक्त गर्दछु र कम्पनीका तत्कालीन निर्देशक
+दिवंगत स्वर्गीय राम प्रसाद शर्मा प्रति भावपूर्ण श्रद्धाञ्जली अर्पण गर्दछु ।</p>
+<p>नेपाल कला, संस्कृति, धार्मिक र ऐतिहासिक विरासतयुक्त देश हो । बन्दीपुर
+नेपाली पहिचानलाई अभिव्यक्त गर्ने ऐतिहासिक गन्तव्य हो । पहाडकी रानी उपमाले प्रसिद्ध यसको महिमा संसारभरका पर्यटकहरुका लागि सुप्रचारित छ । हरेक पर्यटकीय गन्तव्यहरुले
+ऐतिहासिक विरासतको मौलिक विकास गरेर यसको सौन्र्दयता र महिमामार्फत् समाज विकासको विशिष्टतालाई
+चित्रण गर्नु पर्दछ भन्ने कम्पनी दृष्टिकोण हो । तसर्थः बन्दीपुरको पर्यटनलाई नयाँ शिराका साथ आधुनिक ढङ्गबाट
+संसारभरिका पर्यटकलाई आकर्षित गर्न आधुनिक पर्यटन पूर्वाधारहरुको जरुरत पर्दछ । त्यसको आपूर्ति बन्दीपुरमा
+बनिरहेको, “पर्यटन पूर्वाधारयुक्त केवलकार परियोजना” को निर्विकल्प एजेण्डाले मात्र गर्दछ। यो परियोजना दक्षिण
+एसियाकै आश्चर्यजनक पर्यटकीय पूर्वाधारको श्रेणीमा भिन्न र अनुपम छ ।</p>
   
               <div class="about-quote">
-                    <p class="about-quote_text">We Transform Brands From The Inside Out and We love design, and care Code…</p>
+                    <p class="about-quote_text">“ स्वदेशी र प्रवासी नेपालीहरुको संयुक्त लगानी एवं सम्भार
+स्वागत पर्यटकीय गन्तव्य बन्दीपुर केवलकार र क्वीनटावर ”</p>
                     <span class="about-quote_author">ram chandra sharma</span>
               </div>  
               <div class="btn_wrapper">
-                 <a href="contact.php">  <button class="slide_from_left">contact us</button> </a>
+                 <a href="chairman_message.php">  <button class="slide_from_left">Read More</button> </a>
                  <div class="video-main">
                              <div class="promo-video">
                                  <!-- <div class="waves-block">
@@ -707,9 +719,9 @@ All employees have a responsibility for managing risk and this is reflected in I
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>finance team</h4>
+                           <h4>Govenance</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#governance-info">Committee <i data-feather="arrow-right"></i></a></li>
                                  <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>

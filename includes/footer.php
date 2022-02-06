@@ -1,51 +1,6 @@
 
 
 <section id="footer" class="d-flex justify-content-around">
-    <!-- <div class="container"> 
-       <div class="row" style="border-bottom: 1px solid #b1929240;">
-          <div class="col-lg-4">
-            <img src="img/logo.png" width="70" alt=""> 
-            <p><i class="icon-star"></i> <i class="icon-star"></i>  CARE-NP  BB [Double B]  rated by <a class="rating_link" href="https://careratingsnepal.com/" target="_blank"> CARE  Ratings Nepal </a> </p>
-           
-          </div>
-          <div class="col-lg-4">
-            <h4  class="footer_heading">Head Office:</h4>
-            <ul class="contact pt-2 ps-0">
-              <li>
-                <i data-feather="map"></i>
-                 <span class="text-white"> Thuldhunga,Bandipur Tanahun </span>      
-              </li>
-              <li class="pt-3">
-                 <a href="tel:"><i data-feather="phone-call"></i>
-                 <span class="text-white">Tel.:  065-580457/ 520007</span>
-                 </a>
-              </li>
-           </ul>
-          </div>
-          <div class="col-lg-4">
-            <h4 class="footer_heading">quick links</h4>
-            <ul class="contact pt-2 ps-0">
-              <li><a href="https://rkdrealestate.com.np/"><i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
-              <li><a href="https://tifl.com.np/"> <i class="icon-angle-double-right"></i> Tourism Investment Fund</a> </li>
-              <li><a href="https://bizbazar.com.np/"><i class="icon-angle-double-right"></i>  Bizbazar</a> </li>
-              <li><a href="https://www.lenden.app/"> <i class="icon-angle-double-right"></i> LenDen</a> </li>
-
-           </ul>
-          </div>
-       </div>
-    
-       <div class="mid-footer d-flex justify-content-between">
-          <ul class="extra-menus">
-            <li><a href="impact_stories.php">our impacts</a></li>
-            <li><a href="award_recognition.php">award & recognition</a></li>
-            <li><a href="gallery.php">gallery</a></li>
-            <li><a href="">privacy policy</a></li>
-          </ul>
-          <div class="footer-copyright">
-            <p>Copyright 2021. All Rights Reserved.</p>
-          </div>
-       </div>
-    </div> -->
     <div class="container">
                     <div class="footer_rating">
                         <!-- <p class="copyright-desc">Copyright 2022 © Bandipur Cablecar and tourism limited . All Rights Reserved.</p> -->
@@ -93,7 +48,7 @@
               <div class="col">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
-                         <li class="first leaf"><a href="/en/who-we-are/about-the-company" title="About Mubadala">queen tower</a></li>
+                         <li class="first leaf"><a href="" title="About Mubadala">queen tower</a></li>
                          <li class="leaf"><a href="" title="Our History">transparent cable car</a></li>
                          <li class="collapsed"><a href="" title="Board of Directors">wax museum</a></li>
                          <li class="collapsed"><a href="" title="Investment Committee">planetterium</a></li>                                                                                                
@@ -102,16 +57,16 @@
                <div class="col">
                     <ul class="menu">
                          <a href="investors_relation.php"> <h4 class="footer_heading">investors relation</h4> </a>         
-                         <li class="first leaf"><a href="/en/who-we-are/about-the-company" title="About Mubadala">share information</a></li>
-                         <li class="leaf"><a href="" title="Our History">co-operative gorvernance</a></li>
+                         <li class="first leaf"><a href="" title="">share information</a></li>
+                         <li class="leaf"><a href="co-operative_governance.php" title="co-operative gorvernance">co-operative gorvernance</a></li>
                          <li class="collapsed"><a href="" title="Board of Directors">financial information</a></li>                                                                   
                     </ul>  
                </div>  
                <div class="col">                   
                     <ul class="menu">
-                         <li class="first leaf"><a href="progress_stories.php" title="progress stories">progress stories</a></li>
-                         <li class="first leaf"><a href="media_center.php" title="media center">media center</a></li>
-                         <li class="leaf"><a href="impact_stories.php" title="impact stories">impact stories</a></li>
+                         <li class="first leaf"><a href="progress_stories.php" title="Progress Stories">progress stories</a></li>
+                         <li class="first leaf"><a href="media_center.php" title="Media Menter">media center</a></li>
+                         <li class="leaf"><a href="downloads.php" title="Download Documents">downloads</a></li>
                          <li class="collapsed"><a href="" title="Board of Directors">contact us</a></li>                      
                     </ul>
               </div>
@@ -121,7 +76,7 @@
                         <li><a href="https://rkdrealestate.com.np/" target="_blank"><i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
                         <li><a href="https://tifl.com.np/" target="_blank"> <i class="icon-angle-double-right"></i> Tourism Investment Fund</a> </li>
                         <li><a href="https://bizbazar.com.np/" target="_blank"><i class="icon-angle-double-right"></i>  Bizbazar</a> </li>
-                        <!-- <li><a href="https://www.lenden.app/" target="_blank"> <i class="icon-angle-double-right"></i> LenDen</a> </li> -->
+
                     </ul>        
               </div>                      
              </div>                
