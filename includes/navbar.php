@@ -1,54 +1,29 @@
 <!--header one  -->
 <div class="top__header">
             <div class="container">
-                <div class="row d-flex align-items-center">
+                <div class="row">
                     <div class="col-md-7">
                         <div class="topbar__menu">
                             <ul>
-                                <li><a href=""><i data-feather="mail"></i> 	info@bandipurcablecar.com.np
-</a></li>
+                                <li><a href=""><i data-feather="mail"></i> 	info@bandipurcablecar.com.np</a></li>
                                 <li><a href=""><i data-feather="clock"></i> Sunday – Friday 10 AM – 5 PM</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-md-5">
-                        <div class="topbar__right text-end">
-                            <div class="topbar__menu">
-                                <ul>
-                                    <li class="d-none">
-                                        <!--language-menu -->
-                                        <div class="ltn__drop-menu ltn__currency-menu ltn__language-menu">
-                                            <ul>
-                                                <li><a href="#" class="dropdown-toggle"><span class="active-currency">English</span></a>
-                                                    <!-- <ul>
-                                                        <li><a href="#">Arabic</a></li>
-                                                        <li><a href="#">English</a></li>
-                                                       
-                                                    </ul> -->
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </li>
+                    <div class="col-md-5">                                               
+                                <ul class="text-end">
                                     <li>
-                                        <!--social-media -->
+                                      <!--social-media -->
                                         <div class="topbar__social-media">
-                                            <ul>
-                                                <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i data-feather="facebook"></i></a></li>
-                                                <li><a href="#" title="Twitter"><i data-feather="instagram"></i></a></li>
-                                                <li><a href="#" title="Instagram"><i data-feather="youtube"></i></a></li>
+                                           <ul>
+                                              <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i data-feather="facebook"></i></a></li>
+                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="you-tube"><i data-feather="youtube"></i></a></li>
                                                 
                                             </ul>
                                         </div>
                                     </li>
-                                    <li>
-                                        <!-- header-top-btn -->
-                                        <!-- <div class="header-top-btn">
-                                            <a class="btn btn-primary" href="add-listing.html">notifications !</a>
-                                        </div> -->
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
+                                </ul>                            
+                       
                     </div>
                 </div>
             </div>
@@ -110,7 +85,7 @@
                   <ul class="megamenu-list list-col-3">
                   <h4 class="nav_title">what we do</h4>              
                     <ul class="nav-dropdown">
-                      <li><a href="#">Transaparent Cablecar</a></li>
+                      <li><a href="#">Transparent Cablecar</a></li>
                       <li><a href="#">queen tower</a>
                       <li><a href="#">Award & recognition</a></li>               
                     </ul>
@@ -129,10 +104,12 @@
                              <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
                       </div>
                   </ul>
-                  <ul class="megamenu-list list-col-3">             
-			          		<li><a href="#">share information</a></li>
-                    <li><a href="#">corporate governance</a></li>
-                    <li><a href="#">financial information</a></li>
+                  <ul class="megamenu-list list-col-3">  
+                    <h4 class="nav_title">Investors Relation</h4>             
+			          		<li><a href="#investment_budget">share structure</a></li>
+                    <li><a href="#financial_report">financial information</a></li>
+                    <li><a href="#investment_strategy">Investment_strategy</a></li>
+                    <li><a href="#management_team">Risk Management</a></li>
                   </ul>
                  
                 </div>

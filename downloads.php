@@ -117,16 +117,16 @@
          <div class="row care_rating mt-5"> 
              <h2 class="section-title">CARE Ratings</h2>            
          <div class="col-lg-3">
-                     <a target="_blank" href="img/care_rating/care rating A.pdf" title=" Report">
+                     <a target="_blank" href="img/care_rating/care ratingsBB.pdf" title=" Report">
                        <div class="card">
                             <div class="card-body">
-                               <h5 class="heading_title">care rating A</h5>
+                               <h5 class="heading_title">CARE-NP BB</h5>
                                <img src="img/icon-document.svg" class="download_icon" alt="">
                             </div>
                        </div>
                      </a>
                  </div>
-                 <div class="col-lg-3">
+                 <!-- <div class="col-lg-3">
                      <a target="_blank" href="img/care_rating/care rating A2.pdf" title=" Report"> 
                          <div class="card">
                             <div class="card-body">
@@ -135,8 +135,8 @@
                             </div>
                          </div>
                      </a>
-                 </div>
-                 <div class="col-lg-3">
+                 </div> -->
+                 <!-- <div class="col-lg-3">
                      <a target="_blank" href="img/care_rating/care rating A3.pdf" title="Audit Report">
                         <div class="card">
                              <div class="card-body">
@@ -145,8 +145,8 @@
                              </div>
                         </div>
                      </a>   
-                 </div>
-                 <div class="col-lg-3">
+                 </div> -->
+                 <!-- <div class="col-lg-3">
                     <a href="img/care_rating/care rating A4.pdf" target="_blank">
                       <div class="card">
                           <div class="card-body">
@@ -155,7 +155,7 @@
                           </div>
                       </div>
                     </a>
-                 </div>
+                 </div> -->
          </div>
         
           <!-- care_rating end -->

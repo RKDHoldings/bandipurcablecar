@@ -72,7 +72,6 @@ Our most valuable asset is our people; we develop world-class talent in a values
                       <div class="front">
                         <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.png);">
                           <div class="text w-100">
-									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">4 star queen tower</a></h3>
 									      	</div>
                         </div>
@@ -270,7 +269,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
         <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">
-                    <img src="img/about/about-img1.jpg">
+                    <img src="img/features/game-zone.jpg">
                     <h3>Game Zone</h3>
                 </div>
             </div>
@@ -325,7 +324,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
             <div class="face face1">
                 <div class="content">
                     <img src="img/features/swimming_pool.jpg">
-                    <h3>Swimming Pool</h3>
+                    <h3>Queen Tower Swimming Pool</h3>
                 </div>
             </div>
             <div class="face face2">

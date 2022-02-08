@@ -8,13 +8,16 @@
 <section id="banner">
   <div class="content">
       <div class="owl-carousel owl-1">
-        <div class="media-29121 overlay" style="background-image: url('img/hero_1.png');">
+        <div class="media-29121 overlay">
+        <video autoplay muted loop playsinline preload="metadata" controls="controls">
+	            <source src="img/videos/lower_station.mp4"  type="video/mp4">
+          </video>
           <div class="container">
             <div class="row  align-items-center">
               <div class="col-md-8">
                 <h6>Great Experience In Building. </h6>
                 <h2>7 YEARS <br> OF PROGRESS</h2>
-                <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
+                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
                  <!-- <a href="" class="btn btn-primary mt-1">explore more</a> -->
                  <!-- <div class="button" id="button-2">
                     <div id="slide"></div>
@@ -31,7 +34,7 @@
               <div class="col-md-8">
                 <h6>Great Experience In Building. </h6>
                 <h2>Investing in Tourism</h2>
-                <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
+                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
                  <a href="investors_relation.php"> <button class="slide_from_left">explore more</button></a>
               </div>
             </div>
@@ -43,7 +46,7 @@
               <div class="col-md-8">
                 <h6>Great Experience In Building. </h6>
                 <h2>Bandipur Cable Car </h2>
-                <p>It is a long established fact that a reader will be distracted by the readable content of a</p>
+                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
                 <a href="about_bandipur.php">  <button class="slide_from_left">explore more</button> </a>
               </div>
             </div>
@@ -54,21 +57,18 @@
   </div>       
 </section>
 
+
 <section id="marquee_section">
-<div class="simple-marquee-container">
-				<div class="marquee-sibling">
-				breaking news
-				</div>
-				<div class="marquee">
-					<ul class="marquee-content-items">
-						<li> NRB Refinance Facility Availed Borrowers updated list 2078 Poush End  </li>
-						<li>Item 2</li>
-						<li>Item 3</li>
-						<li>Item 4</li>
-						<li>Item 5</li>
-					</ul>
-				</div>
-			</div>
+<div class="marquee_container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="d-flex justify-content-between align-items-center breaking-news">
+                <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
+                <marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="#">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
+            </div>
+        </div>
+    </div>
+</div>
 </section>
 <!-- company intro start -->
 <section id="company__intro">
@@ -154,14 +154,14 @@
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
-                <p>Bandipur Cable Car Pvt. Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahu formerly Bandipur VDC Ward no.3, Tanahu. </p>
+                <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahu formerly Bandipur VDC Ward no.3, Tanahu. </p>
                  <!-- <div class="double-check-list font-title mb-xxl-5">
               
                   </div> -->
                    <!-- promoter structure share in percentage counter -->
                   <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
                        <div class="clearfix">
-                         <h2 class="mb-4">Promoter Structure Percentage(%)</h2>
+                         <h2 class="mb-4 mt-4">Promoter Structure Percentage(%)</h2>
                            <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
                                <div class="inner">
                                   <div class="count-outer count-box counted">
@@ -204,7 +204,7 @@
                   <div class="info__one__topleft">
                       <div class="section-title text-left">
                           <h6 data-aos="fade-up"
-                          data-aos-duration="2000">welcome to our agency</h6>
+                          data-aos-duration="2000">welcome to our company</h6>
                           <h2 class="section-title__title" data-aos="fade-up"
                           data-aos-duration="2000" >Bandipur is a sovereign investor company managing a diverse portfolio of assets in Tourism Sector</h2>
                       </div>
@@ -219,8 +219,8 @@
                                   <p class="info__one__counter__text">Promoter Share</p>
                               </li>
                               <li class="info__one__counter-single two">
-                                <div class="value" akhi="75">0</div> <span class="info__one__counter__text ms-1">Crore</span>  
-                                  <p class="info__one__counter__text">Committed Share Amount</p>
+                                <div class="value" akhi="42">0</div> <span class="info__one__counter__text ms-1">Crore</span>  
+                                  <p class="info__one__counter__text">Total Paid Up Share Amount</p>
                               </li>
                           </ul>
                       </div>
@@ -244,10 +244,10 @@
                                 </h3>                             
                             </div>
                             <div class="info__one__feature__icon">
-                                <span class="icon-wealth"></span>
+                                 <img src="img/icon_pack/capital/capital.png" alt="">
                                  <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">    
                                     <!-- <h4 class="value_currency">NPR</h4> -->
-                                    <div class="value" akhi="5.5">0 </div>
+                                    <div class="value" akhi="1">0 </div>
                                     <h4 class="value_heading">Arba</h4>
                                  </div>
                             </div>
@@ -259,10 +259,10 @@
                                 </h3>                             
                             </div>
                             <div class="info__one__feature__icon">
-                               <span class="icon-dollar"></span>
+                               <img src="img/icon_pack/capital/coin.png" alt="">
                                  <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                                     <!-- <h4 class="value_currency">NPR</h4> -->
-                                    <div class="value" akhi="7.9">0 </div>
+                                    <div class="value" akhi="75">0 </div>
                                     <h4 class="value_heading">crore</h4>
                                  </div>
                             </div>                          
@@ -273,7 +273,7 @@
                               </h3>                             
                             </div>
                             <div class="info__one__feature__icon">
-                                <span class="icon ti-stats-up"></span>
+                               <img src="img/icon_pack/capital/value.png" alt="">
                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                                 <!-- <h4 class="value_currency">NPR</h4> -->
                                     <div class="value" akhi="86.87">0 </div>
@@ -307,7 +307,7 @@
                 <div class="card">
                   <div class="content">
                      <div class="front">
-                       <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/transparent-cable-car.jpg);">
+                       <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/hero_1.png);">
                         <div class="text w-100">
 										    	<h3><a href="#">Transparent Cable Car Box</a></h3>
 									    	</div>
@@ -451,7 +451,7 @@
 	       	</div>
 	         <!--featured investment item seventh end -->
            <!--featured investment item eighth start -->
-						<div class="item">
+						<!-- <div class="item">
               <div class="column_for_feature">
                 <div class="card">
                   <div class="content">
@@ -469,7 +469,7 @@
                   </div>
                 </div>
               </div>
-	        </div>
+	        </div> -->
         <!--featured investment item eighth end -->
    	   </div>
      </div>
@@ -563,9 +563,9 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Financial consultant</h5>
             <p class="partner_name text-center">DG & Associates</p>
-            <div class="single_client_img">
+            <!-- <div class="single_client_img">
                <img src="img/partner_company/bandipur_rural.png" alt="">
-            </div>
+            </div> -->
          </a>
      </div>
        <!-- client single item -->
@@ -611,9 +611,9 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">management bheting</h5>
             <p class="partner_name text-center">policy planning beauro</p>
-            <div class="single_client_img">
+            <!-- <div class="single_client_img">
                <img src="img/partner_company/bandipur_rural.png" alt="">
-            </div>
+            </div> -->
          </a>
      </div>
        <!-- client single item -->
@@ -621,9 +621,9 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">focal management</h5>
             <p class="partner_name text-center">on time completion unit (OCU)</p>           
-           <div class="single_client_img">
+           <!-- <div class="single_client_img">
               <img src="img/partner_company/focal_management_logo.jpg" alt="">
-           </div>
+           </div> -->
          </a>
      </div>
        <!-- client single item -->

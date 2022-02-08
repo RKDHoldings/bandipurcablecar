@@ -44,12 +44,12 @@
                                              <!-- <p>US $230 billion</p> -->
                                         </div>
                                         <div class="testimonial">
-                                            <small>Committed Share Amount</small>
-                                            <h3>75 crore</h3>                           
+                                            <small>Total Paid Up Share Amount</small>
+                                            <h3>42 crore</h3>                           
                                         </div>
                                         <div class="testimonial">
                                             <small>investments</small>
-                                            <h3>NPR 6 BILLION </h3> 
+                                            <h3>NPR 2.10 Arba </h3> 
                                             <p>*Attributable to the owner of the group</p>                       
                                         </div>
                                  </div>          
@@ -91,7 +91,7 @@
                         <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                             <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2074-2075</span> </div>
                         </button> </li>
-                        <li class="nav-item" role="presentation">
+                        <!-- <li class="nav-item" role="presentation">
                              <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2075</span> </div>
                              </button>
@@ -105,7 +105,7 @@
                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2073</span> </div>
                             </button> 
-                        </li>
+                        </li> -->
                         <!-- <li class="nav-item" role="presentation"> 
                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2015</span> </div>
@@ -205,7 +205,7 @@
                          <div class="sidebar_news1">
                            <h4>financial calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/report/final-calender.pdf" target="_blank">yearly calender<i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
@@ -249,7 +249,7 @@
 <section id="investment_budget">
    <div class="container">
           <h2>फाइनान्सियल क्लोजरः</h2>
-          <p>Project Value 1,67,00,00,000/-</p>
+          <p>Project Value 2,10,00,00,000/-</p>
       <div class="pie_data_details">
       <div class="row text-center">
           <div class="col-lg-6">
@@ -321,16 +321,18 @@
 					
 					<!-- strategy Block -->
 					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
+						<a href="raid.php">
+                        <div class="inner_box">
 							<div class="icon_box">
                             <img src="img/icon_pack/raid.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">RAID</a></h5>   
-                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                               <h5><a href="raid.php">RAID</a></h5>   
+                                   <a href="raid.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                             </div>
 							<div class="text">शेयरधनीहरुको हरेक अप्ठ्यारामा सहयोग र राहत दिनकालागि आर.के.डी. सहयोग कार्यक्रम</div>
 						</div>
+                        </a>
 					</div>
 					
 					<!-- strategy Block -->
@@ -461,7 +463,7 @@
              <div class="side-menu" data-aos="fade-up" data-aos-duration="3000">
                 <ul>
                    <li> <a href="#financial_report">Financial Reports</a> </li>
-                   <li><a href="">financial calender</a></li>
+                   <li><a href="img/reports/final-calender.pdf" target="_blank">financial calender</a></li>
                 </ul>
                 <div class="clear"></div>
              </div>

@@ -11,7 +11,7 @@
 	  <source src="img/videos/lower_station.mp4"  type="video/mp4">
   </video>
    <div id="fashion">
-   <a class="video-play" href="javascript:void(0)" title="Play">Play</a>
+   <a class="video-play" href="" title="Play">Play</a>
    </div>
    <h2 class="breadcrumb-title">about bandipur</h2>
    </div>
@@ -24,29 +24,18 @@
          <div class="col-lg-9">
              <div class="more_about-bandipur">
                   <h2 class="section-title">बन्दिपुर केवलकार परियोजना</h2>
-                  <p class="">बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले
-प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर
-अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन ग¥यो भने
-इमानदार र सत्यको बाटो प्राप्त गर्ने वरदान पाइन्छ भन्ने विश्वास रहेको छ । विशेष गरी वर्षमा दशैंको समयमा
-सप्तमी र अष्टमीको दिन मन्दिर खुल्ला हुने गर्दछ । प्रायः जसो दशैंमा पिङ्ग खेल्ने गर्छन् । सो समयमा मन्दिर
-दर्शन गर्दा सबैलाई फल मिल्छ भन्ने र्धािर्मक विश्वास रहेको छ । यसकारण सीमित समय मात्र वर्षको २ दिन
-मन्दिर खुल्ला गरिने गरिएको छ । केवलकार बनेपछि मन्दिर नियमित दैनिक खुल्ला गराउने एवं दर्शनार्थीलाई
-दर्शनकालागि नियमित ढोका खोलिदिने अभिप्रायले केवलकार कम्पनीले मन्दिर व्यवस्थापन समितिसँग मिलेर
-ठोस योजना बनाउँदै छ । व्यवसायिक पर्यटकीय गतिविधि मुख्य बजारको रुपमा हुदाँहुँदै पनि सहायक रुपमा
-धार्मिक पर्यटकहरुलाई आकर्षित गराई शुद्धमनले दर्शन गराई पर्यटन प्रवद्र्धन योजनाका साथ परियोजनालाई
-उपयोगमा लगाइनेछ । यसको काम अन्तिम गन्तव्यतर्फ लागेको छ । मुख्य गरी तेश्रो मुलकका पर्यटन र अन्य
-पर्यटनका बहुआयमिक पक्षको अनुपम मज्जा दिने र बन्दीपुरको पर्यटनको संवर्धन एवं प्रर्वद्धन गर्ने र धार्मिक
-गन्तव्यको फ्युजनको रुपमा स्थापित गर्न मुख्य एजेण्डा पर्यटन पूर्वाधारयुक्त केवलकार परियोजना प्रमुख
-साधन बन्छ भन्ने आम बुझाई स्थापित भइसकेको छ । अब बन्दीपुरमा प्राकृतिक, ऐतिहासिक, पुरातात्विक,
-कलात्मक संस्कृतिको अवलोकन गरी नवीन मज्जा लिन सकिन्छ । खड्ग देवी, थानीमाई मन्दिर, तीन धारे
-महादेव लगायतका धार्मिक शक्तिपीठ एवं देवालयहरुको एकै ठाउँमा दर्शन गर्न सकिने धार्मिक संयोग प्राप्त
-गर्न सकिन्छ। यसले केवलकार निर्माणको योजनालाई झन् सार्थकता बनाएको छ । यो “पर्यटन पूर्वाधारयुक्त
-केवलकार गुरुयोजना हो र सर्वाङ्गीर्ण पर्यटनको आधार शिला हो ।”</p>
+                  <p class="">बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन ग¥यो भने
+                               इमानदार र सत्यको बाटो प्राप्त गर्ने वरदान पाइन्छ भन्ने विश्वास रहेको छ । विशेष गरी वर्षमा दशैंको समयमा सप्तमी र अष्टमीको दिन मन्दिर खुल्ला हुने गर्दछ । प्रायः जसो दशैंमा पिङ्ग खेल्ने गर्छन् । सो समयमा मन्दिर दर्शन गर्दा सबैलाई फल मिल्छ भन्ने र्धािर्मक विश्वास रहेको छ । यसकारण सीमित समय मात्र वर्षको २ दिन
+                              मन्दिर खुल्ला गरिने गरिएको छ । केवलकार बनेपछि मन्दिर नियमित दैनिक खुल्ला गराउने एवं दर्शनार्थीलाई दर्शनकालागि नियमित ढोका खोलिदिने अभिप्रायले केवलकार कम्पनीले मन्दिर व्यवस्थापन समितिसँग मिलेर ठोस योजना बनाउँदै छ । व्यवसायिक पर्यटकीय गतिविधि मुख्य बजारको रुपमा हुदाँहुँदै पनि सहायक रुपमा
+                              धार्मिक पर्यटकहरुलाई आकर्षित गराई शुद्धमनले दर्शन गराई पर्यटन प्रवद्र्धन योजनाका साथ परियोजनालाई उपयोगमा लगाइनेछ । यसको काम अन्तिम गन्तव्यतर्फ लागेको छ । मुख्य गरी तेश्रो मुलकका पर्यटन र अन्य पर्यटनका बहुआयमिक पक्षको अनुपम मज्जा दिने र बन्दीपुरको पर्यटनको संवर्धन एवं प्रर्वद्धन गर्ने र धार्मिक
+                              गन्तव्यको फ्युजनको रुपमा स्थापित गर्न मुख्य एजेण्डा पर्यटन पूर्वाधारयुक्त केवलकार परियोजना प्रमुख साधन बन्छ भन्ने आम बुझाई स्थापित भइसकेको छ । अब बन्दीपुरमा प्राकृतिक, ऐतिहासिक, पुरातात्विक, कलात्मक संस्कृतिको अवलोकन गरी नवीन मज्जा लिन सकिन्छ । खड्ग देवी, थानीमाई मन्दिर, तीन धारे
+                              महादेव लगायतका धार्मिक शक्तिपीठ एवं देवालयहरुको एकै ठाउँमा दर्शन गर्न सकिने धार्मिक संयोग प्राप्त गर्न सकिन्छ। यसले केवलकार निर्माणको योजनालाई झन् सार्थकता बनाएको छ । यो “पर्यटन पूर्वाधारयुक्त केवलकार गुरुयोजना हो र सर्वाङ्गीर्ण पर्यटनको आधार शिला हो ।”
+                  </p>
                   <div class="double-check-list font-title mb-xxl-5">
                   <ul class="list-unstyled aboutus__points">
                     <li>
                         <div class="icon"><i data-feather="arrow-right"></i></div>
-                        <div class="text"> <p>बन्दिपुर केबलकार परियोजना लक्षित लागत ९रु।१६८,००,०००० अक्षरुपी एक अर्ब सठ्सठी करोड रुपैयाँ रहेको छ ।</p> </div>
+                        <div class="text"> <p>बन्दिपुर केबलकार परियोजना लक्षित लागत (रु२१०,००,००००) अक्षरुपी एक अर्ब सठ्सठी करोड रुपैयाँ रहेको छ ।</p> </div>
                     </li>
                     <li>
                         <div class="icon"><i data-feather="arrow-right"></i></div>
@@ -59,13 +48,14 @@
                   
                    
                  </ul>
-                  </div>
-                
+                  </div>                
                    <div class="company_stats d-flex">
                        <!-- about bandipur stats -->
                       <div class="more_stats">
                         <div class="about_who_icon">
-                         	<div class="field-item even"><span class="icon ti-home"></span></div>
+                         	<div class="field-item even">
+                              <img src="img/icon_pack/capital/office-building.png" alt="">
+                            </div>
                         </div>
                         <div class="about_who_text">
 			                  <div class="field-item even"><span> <em class="count" data-count="6">2</em></span></div>
@@ -75,7 +65,9 @@
                       <!--2nd stats  -->
                       <div class="more_stats">
                         <div class="about_who_icon">
-                         	<div class="field-item even"><span class="icon ti-stats-up"></span></div>
+                         	<div class="field-item even">
+                               <img src="img/icon_pack/capital/investment.png" alt="">   
+                           </div>
                         </div>
                         <div class="about_who_text">
 			                  <div class="field-item even"><span> <em class="count" data-count="6">10+</em></span></div>
@@ -85,7 +77,9 @@
                        <!-- 3rd stats -->
                        <div class="more_stats">
                         <div class="about_who_icon">
-                         	<div class="field-item even"><span class="icon ti-blackboard"></span></div>
+                         	<div class="field-item even">
+                            <img src="img/icon_pack/capital/value.png" alt="">
+                            </div>
                         </div>
                         <div class="about_who_text">
 			                  <div class="field-item even"><span> <em class="count" data-count="6">2.1 Arba</em></span></div>
@@ -113,7 +107,7 @@
                               </ul>
                      </div>
                      <div class="sidebar_news1">
-                           <h4>Features ofv Bandipur</h4>
+                           <h4>Features of Bandipur</h4>
                               <ul class="nav flex-column" id="nav_accordion">
                                  <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">Cablecar  <i data-feather="arrow-right"></i></span></a></li>
                                  <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">Queen tower <i data-feather="arrow-right"></i></span> </a> </li>
@@ -125,10 +119,10 @@
                               <ul class="nav flex-column" id="nav_accordion">
                                  <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">जिप लाइन  <i data-feather="arrow-right"></i></span></a></li>
                                  <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">सिद्ध गुफा केवलकार <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">टुडिखेल वार्क भ्यु/सिसाको पुल  <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">स्काइ साइक्लिङ/ साइकल सेवा  <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">रानीवन चियर लिफ्ट जंगल रिर्सोट <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">विविध साहसिक पर्यटकीय फिचरहरु  <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline"> वार्क भ्यु/सिसाको पुल  <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">स्काइ साइक्लिङ <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">रानीवन जंगल रिर्सोट <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">विविध पर्यटकीय फिचरहरु  <i data-feather="arrow-right"></i></span> </a> </li>
                               </ul>
                      </div>
           
@@ -180,7 +174,7 @@
             <div class="col-lg-12">
                <div class="table_details" id="lower_station" data-aos="fade-up" data-aos-duration="1000">
                   <h3 class="secondary_heading">lower station</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum enim officiis reiciendis veritatis magni beatae id quo nemo optio? Voluptates, repudiandae fuga nisi rerum doloribus alias impedit saepe exercitationem quidem.</p>
+                  <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum enim officiis reiciendis veritatis magni beatae id quo nemo optio? Voluptates, repudiandae fuga nisi rerum doloribus alias impedit saepe exercitationem quidem.</p> -->
                <table class="rwd-table">
                      <tr>
                         <th>क्र.स</th>
