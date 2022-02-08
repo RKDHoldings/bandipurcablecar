@@ -27,7 +27,7 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="work-together-two__left wow slideInLeft animated" data-wow-delay="100ms" data-wow-duration="2500ms" style="visibility: visible; animation-duration: 2500ms; animation-delay: 100ms; animation-name: slideInLeft;">
                             <div class="work-1_img">
-                                <img src="img/features/1.jpg" alt="">
+                                <img src="img/features/queen-tower.png" alt="">
                             </div>
                         </div>
                     </div>

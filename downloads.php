@@ -157,7 +157,32 @@
                     </a>
                  </div>
          </div>
-
+        
+          <!-- care_rating end -->
+        
+          <div class="row  mt-5"> 
+             <h2 class="section-title">Project Flow</h2>            
+         <div class="col-lg-3">
+                     <a target="_blank" href="img/reports/graph_talika.pdf" title=" Report">
+                       <div class="card">
+                            <div class="card-body">
+                               <h5 class="heading_title">Work Schedule</h5>
+                               <img src="img/icon-document.svg" class="download_icon" alt="">
+                            </div>
+                       </div>
+                     </a>
+                 </div>
+                 <div class="col-lg-3">
+                     <a target="_blank" href="img/reports/work_talika.pdf" title=" Report"> 
+                         <div class="card">
+                            <div class="card-body">
+                                <h5 class="heading_title">Work Schedule</h5>
+                                <img src="img/icon-document.svg" class="download_icon" alt="">
+                            </div>
+                         </div>
+                     </a>
+                 </div>                    
+         </div>
     </div>
 </section>
 

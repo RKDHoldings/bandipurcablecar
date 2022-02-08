@@ -46,7 +46,7 @@
                   <ul class="list-unstyled aboutus__points">
                     <li>
                         <div class="icon"><i data-feather="arrow-right"></i></div>
-                        <div class="text"> <p>बन्दिपुर केबलकार परियोजना लक्षित लागत ९रु।१६८,००,०००० अक्षरुपी एक अर्ब सठ्सठी करोड रुपैयाँ रहेको छ ।</p> </div>
+                        <div class="text"> <p>बन्दिपुर केबलकार परियोजना लक्षित लागत (रु२१०,००,००००) अक्षरुपी एक अर्ब सठ्सठी करोड रुपैयाँ रहेको छ ।</p> </div>
                     </li>
                     <li>
                         <div class="icon"><i data-feather="arrow-right"></i></div>
@@ -65,7 +65,9 @@
                        <!-- about bandipur stats -->
                       <div class="more_stats">
                         <div class="about_who_icon">
-                         	<div class="field-item even"><span class="icon ti-home"></span></div>
+                         	<div class="field-item even">
+                              <img src="img/icon_pack/capital/office-building.png" alt="">
+                            </div>
                         </div>
                         <div class="about_who_text">
 			                  <div class="field-item even"><span> <em class="count" data-count="6">2</em></span></div>
@@ -75,7 +77,9 @@
                       <!--2nd stats  -->
                       <div class="more_stats">
                         <div class="about_who_icon">
-                         	<div class="field-item even"><span class="icon ti-stats-up"></span></div>
+                         	<div class="field-item even">
+                               <img src="img/icon_pack/capital/investment.png" alt="">   
+                           </div>
                         </div>
                         <div class="about_who_text">
 			                  <div class="field-item even"><span> <em class="count" data-count="6">10+</em></span></div>
@@ -85,7 +89,9 @@
                        <!-- 3rd stats -->
                        <div class="more_stats">
                         <div class="about_who_icon">
-                         	<div class="field-item even"><span class="icon ti-blackboard"></span></div>
+                         	<div class="field-item even">
+                            <img src="img/icon_pack/capital/value.png" alt="">
+                            </div>
                         </div>
                         <div class="about_who_text">
 			                  <div class="field-item even"><span> <em class="count" data-count="6">2.1 Arba</em></span></div>
@@ -96,66 +102,43 @@
                </div>
          </div>
          <div class="col-lg-3">
-         <div class="sidebar d-flex flex-column align-items-center align-items-sm-start px-3 pt-2">
-                <ul class="nav nav-pills flex-column mb-sm-auto mb-0 align-items-center align-items-sm-start" id="menu">
-                    <li class="nav-item">
-                        <a href="who_we_are.php" class="nav-link align-middle px-0">
+              <div class="sidebar d-flex flex-column align-items-center align-items-sm-start px-3 pt-2">
+                     <div class="sidebar_news1">
                            <h4>about bandipur</h4>
-                        </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="about_bandipur.php" class="nav-link align-middle px-0">
-                          <span class="ms-1 d-none d-sm-inline">बन्दिपुर केवलकार परियोजना</span>
-                        </a>
-                        <a href="#" class="nav-link align-middle px-0">
-                          <span class="ms-1 d-none d-sm-inline">मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टम</span>
-                        </a>
-                    </li>
-                    <li>
-                        <a href="#submenu1" data-bs-toggle="collapse" class="nav-link px-0 align-middle">
-                           <h4>stations</h4>
-                        </a>
-                        <ul class="collapse nav flex-column ms-1" id="submenu1" data-bs-parent="#menu">
-                            <li class="w-100">
-                                <a href="#lower_station" class="nav-link px-0"> <span class="d-none d-sm-inline">Lower station</span></a>
-                            </li>
-                            <li>
-                                <a href="#upper_station" class="nav-link px-0"> <span class="d-none d-sm-inline">Upper Station</span> </a>
-                            </li>
-                            <li>
-                                <a href="#land_details" class="nav-link px-0"> <span class="d-none d-sm-inline">Land Details</span> </a>
-                            </li>
-
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link px-0 align-middle">
-                           <span class="ms-1 d-none d-sm-inline">code of ethics</span></a>
-                    </li>
-                    <li>
-                        <a href="#submenu2" data-bs-toggle="collapse" class="nav-link px-0 align-middle ">
-                            <i class="fs-4 bi-bootstrap"></i> <span class="ms-1 d-none d-sm-inline">our structure</span></a>
-                        <ul class="collapse nav flex-column ms-1" id="submenu2" data-bs-parent="#menu">
-                            <li class="w-100">
-                                <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Item</span> 1</a>
-                            </li>
-                            <li>
-                                <a href="#" class="nav-link px-0"> <span class="d-none d-sm-inline">Item</span> 2</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link px-0 align-middle"> <span class="ms-1 d-none d-sm-inline">group of subsidiary companies</span> </a>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link px-0 align-middle"> <span class="ms-1 d-none d-sm-inline">associated partners</span> </a>
-                    </li>
-                    <li>
-                        <a href="#" class="nav-link px-0 align-middle">
-                            <i class="fs-4 bi-people"></i> <span class="ms-1 d-none d-sm-inline">awards and recognintions</span> </a>
-                    </li>
-                </ul>
-                <hr>
+                              <ul class="nav flex-column" id="nav_accordion">
+                                 <li class="nav-item"><a class="nav-link" href="#">बन्दिपुर केवलकार परियोजना <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#">मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टम <i data-feather="arrow-right"></i></a></li>
+                              </ul>
+                     </div>
+                     <div class="sidebar_news1">
+                           <h4>Table stations</h4>
+                              <ul class="nav flex-column" id="nav_accordion">
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">Lower station  <i data-feather="arrow-right"></i></span></a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">Upper Station  <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">Land Details  <i data-feather="arrow-right"></i></span> </a> </li>
+                              </ul>
+                     </div>
+                     <div class="sidebar_news1">
+                           <h4>Features of Bandipur</h4>
+                              <ul class="nav flex-column" id="nav_accordion">
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">Cablecar  <i data-feather="arrow-right"></i></span></a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">Queen tower <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">Cable Restro Bar  <i data-feather="arrow-right"></i></span> </a> </li>
+                              </ul>
+                     </div>
+                     <div class="sidebar_news1">
+                           <h4>Potential Investment</h4>
+                              <ul class="nav flex-column" id="nav_accordion">
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">जिप लाइन  <i data-feather="arrow-right"></i></span></a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">सिद्ध गुफा केवलकार <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline"> वार्क भ्यु/सिसाको पुल  <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">स्काइ साइक्लिङ <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">रानीवन जंगल रिर्सोट <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">विविध पर्यटकीय फिचरहरु  <i data-feather="arrow-right"></i></span> </a> </li>
+                              </ul>
+                     </div>
+          
+                  
             </div>
          </div>
      </div>
@@ -203,7 +186,7 @@
             <div class="col-lg-12">
                <div class="table_details" id="lower_station" data-aos="fade-up" data-aos-duration="1000">
                   <h3 class="secondary_heading">lower station</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum enim officiis reiciendis veritatis magni beatae id quo nemo optio? Voluptates, repudiandae fuga nisi rerum doloribus alias impedit saepe exercitationem quidem.</p>
+                  <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum enim officiis reiciendis veritatis magni beatae id quo nemo optio? Voluptates, repudiandae fuga nisi rerum doloribus alias impedit saepe exercitationem quidem.</p> -->
                <table class="rwd-table">
                      <tr>
                         <th>क्र.स</th>
@@ -520,7 +503,7 @@
                                <img src="img/icon_pack/for_features/golden-gate-bridge.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">परियोजना टुडिखेल वार्क भ्यु÷सिसाको पुल</a></h5> 
+                               <h5><a href="">टुडिखेल वार्क भ्यु/सिसाको पुल</a></h5> 
                             </div>
 							
 						</div>
@@ -533,7 +516,7 @@
                             <img src="img/icon_pack/for_features/cycling.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">स्काइ साइक्लिङ÷साइकल सेवा,पहाडी जंगल</a></h5>   
+                               <h5><a href="">स्काइ साइक्लिङ/ साइकल सेवा</a></h5>   
         
                             </div>
 							
@@ -546,7 +529,7 @@
                                <img src="img/icon_pack/for_features/resort.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">परियोजना रानीवन चियर लिफ्ट जंगल रिर्सोट</a></h5>   
+                               <h5><a href=""> रानीवन चियर लिफ्ट जंगल रिर्सोट</a></h5>   
      
                             </div>
 							

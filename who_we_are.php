@@ -30,7 +30,7 @@
         <div class="about__us" data-aos="fade-right"
         data-aos-easing="linear"
         data-aos-duration="1000">
-            <img src="img/about/about-img2.jpg" class="w-100" alt="">
+            <img src="img/hero_2.png" class="w-100" alt="">
         </div>
     </div>
        <div class="col-lg-6">
@@ -111,7 +111,7 @@
         </div>
         <div class="col-lg-6">
            <div class="mission__section" data-aos="fade-up"   data-aos-duration="3000">
-               <img src="img/about/about-img1.jpg" alt="">
+               <img src="img/about/about-img2.jpg" alt="">
            </div>
          </div>
        </div>
@@ -124,27 +124,27 @@
        <h6>what we value</h6>
        <h2 class="section-title">our core values</h2>
         <div class="core-values mt-3">
-          <div class="value-items col-md-3 col-12">
+          <div class="value-items col-lg-3 col-sm-12">
                <div class="value_icon"> 
-                  <i class="icon-lightbulb_outline"></i>
+                  <img src="img/icon_pack/core-values/list.png" alt="">
                </div>
                <div class="title value-item"> Accountability </div>
           </div>
-          <div class="value-items col-md-3 col-12">    
+          <div class="value-items col-lg-3 col-sm-12">    
                <div class="value_icon two"> 
-                   <i class="icon-people"></i>
+                   <img src="img/icon_pack/core-values/creativity.png" alt="">
                </div>
                <div class="title value-item"> Inspiration </div>
           </div>
-          <div class="value-items col-md-3 col-12">
+          <div class="value-items col-lg-3 col-sm-12">
                <div class="value_icon three"> 
-                   <i class="icon-balance-scale"></i>
+                    <img src="img/icon_pack/core-values/scales.png" alt="">
                </div>
                <div class="title value-item"> Integrity </div>
           </div>
-          <div class="value-items col-md-3 col-12">
+          <div class="value-items col-lg-3 col-sm-12">
                <div class="value_icon four"> 
-                   <i class="icon-handshake-o"></i>
+                    <img src="img/icon_pack/core-values/handshake.png" alt="">
                </div>
                <div class="title value-item">Partnership </div>
           </div>
@@ -212,7 +212,7 @@
         <div class="row">
             <h6>we plan</h6>
             <h2 class="section-title">Investment Model</h2>
-            <p>Best Solutions For Your Business</p>
+            <p>We follow Coops2Govs Principle</p>
             <div class="inner_container">
 				<div class="row g-0">
 				
@@ -265,7 +265,7 @@
                                  <img src="img/icon_pack/for_features/cooperate.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">Public & Government Venture & Settlement (Coop2Govs)</a></h5>   
+                               <h5><a href="">Public & Government Venture & Settlement</a></h5>   
                                    <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                             </div>
 							<div class="text">सामुदायिक र सरकारी उद्यम एवं व्यवस्थापन </div>
@@ -317,131 +317,51 @@
       <div class="row">
           <h6>our history</h6>
           <h2 class="section-title">history of bandipur</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quibusdam libero officiis, accusamus vel fugiat delectus odio, officia illum labore ducimus rerum animi laborum quas inventore optio, eos aspernatur aliquam!</p>
-          <div class="timeline"  data-aos="fade-left"  data-aos-duration="2500">
-             <ul>
-                <li>
-                    <div class="right_content">
-                      <h2>Sample Text</h2>
-                      <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                       journalistic styles, a paragraph can be just one sentence long. </p>
-                    </div>
-                    <div class="left_content">
-                      <h3>January 2019 </h3>
-                    </div>
-                </li>
-                <li>
-                    <div class="right_content">
-                      <h2>Sample Text</h2>
-                      <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                         journalistic styles, a paragraph can be just one sentence long.
-                      </p>
-                    </div>
-                    <div class="left_content">
-                        <h3>February 2019 </h3>
-                    </div>
-                </li>
-                <li>
-                  <div class="right_content">
-                     <h2>Sample Text</h2>
-                     <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                      journalistic styles, a paragraph can be just one sentence long.
-                     </p>
-                 </div>
-                 <div class="left_content">
-                     <h3>March 2019 </h3>
-                 </div>
-                 </li>
-                 <li>
-                <div class="right_content">
-                   <h2>Sample Text</h2>
-                   <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                      journalistic styles, a paragraph can be just one sentence long.
-                   </p>
-                </div>
-                <div class="left_content">
-                   <h3>April 2019 </h3>
-                </div>
-               </li>
-               <li>
-                <div class="right_content">
-                   <h2>Sample Text</h2>
-                   <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                       journalistic styles, a paragraph can be just one sentence long.
-                   </p>
-                </div>
-                <div class="left_content">
-                    <h3>May 2019 </h3>
-                </div>
-              </li>
-              <li>
-               <div class="right_content">
-                  <h2>Sample Text</h2>
-                  <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                     journalistic styles, a paragraph can be just one sentence long.
-                 </p>
-               </div>
-              <div class="left_content">
-                  <h3>June 2019 </h3>
-              </div>
-             </li>
-             <li>
-               <div class="right_content">
-                  <h2>Sample Text</h2>
-                  <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                       journalistic styles, a paragraph can be just one sentence long.
-                  </p>
-               </div>
-               <div class="left_content">
-                  <h3>July 2019 </h3>
-               </div>
-             </li>
-             <li>
-             <div class="right_content">
-                  <h2>Sample Text</h2>
-                  <p>A paragraph is defined as “a group of sentences or a single sentence that forms a unit” (Lunsford and Connors 116). Length and appearance do not determine whether a section in a paper is a paragraph. For instance, in some styles of writing, particularly
-                    journalistic styles, a paragraph can be just one sentence long.
-                  </p>
-             </div>
-             <div class="left_content">
-                 <h3>August 2019 </h3>
-             </div>
-          </li>
-        <div style="clear:both;"></div>
-      </ul>
-   </div>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quibusdam libero officiis, accusamus vel fugiat delectus odio, officia illum labore ducimus rerum animi laborum quas inventore optio, eos aspernatur aliquam!</p>	
+	<div class="timeline">
+		<ul>
+			<li>
+				<span> 2078/01/08</span>
+				<div class="content">
+					<h3> Registration of Chhimkeshwori Cablecar</h3>
+					<!-- <p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+					</p> -->
+				</div>
+			</li>
+			<li>
+				<span>2078/05/13</span>
+				<div class="content">
+					<h3>Conversion from Private to Public Limited Company</h3>
+					<!-- <p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+					</p> -->
+				</div>
+			</li>
+			<li>
+				<span>2078/06/21</span>
+				<div class="content">
+					<h3>7th AGM(Annual General Meeting) of Bandipur Cable Car Company</h3>
+					<!-- <p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+					</p> -->
+				</div>
+			</li>
+			<li>
+				<span>22nd Mars 2017</span>
+				<div class="content">
+					<h3>What Is Lorem Ipsum?</h3>
+					<!-- <p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard.
+					</p> -->
+				</div>
+			</li>
+		</ul>
+	</div>
   </div>
 </div>
 </section>
-<!-- <section id="ceo_info">
-   <div class="container">
-      <div class="row d-flex justify-content-center">
-        <div class="col-lg-10">
-          <div class="ceo_details_left" data-aos="fade-up"    data-aos-duration="2000">
-          <h6>our ceo</h6>
-           <img src="img/about/about-img1.jpg" class="ceo-img" alt="">
-           <div class="ceo_details row">
-              <div class="col-lg-7">
-                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit voluptas aspernatur possimus perferendis qui incidunt laborum, eligendi vitae ducimus. Corrupti provident voluptatum mollitia doloribus deserunt ad placeat maiores totam doloremque!</p>
-              </div>
-              <div class="col-lg-5">
-                  <div class="ceo_social">
-                    <h5 class="u-text u-text-default u-text-6">email</h5>
-                    <a href="mailto:adrian@yourwebsite.com" class="u-active-none u-btn u-button-style u-hover-none u-none u-text-body-alt-color u-btn-2">adrian@yourwebsite.com</a>
-                    <h5 class="u-text u-text-default u-text-9">Phone</h5>
-                    <a href="tel:+987987654321" class="u-active-none u-btn u-button-style u-hover-none u-none u-text-body-alt-color u-btn-3">(+987) 987 654 321</a>
-                    <h5 class="u-text u-text-default u-text-9">role</h5>
-                    <a href="tel:+987987654321" class="u-active-none u-btn u-button-style u-hover-none u-none u-text-body-alt-color u-btn-3">CEO</a>
-                  </div>
-              </div>
-           </div>
-          </div>
-        </div>
-       
-      </div>
-   </div>
-</section>
- -->
+
 
 
 

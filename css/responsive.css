@@ -73,6 +73,9 @@
     #download_reports .card{
         margin-bottom: 2rem; height: auto;
     }
+    .core-values{
+        display: block;
+    }
   }
   @media screen and (max-width: 700px) {
     /* .info__one__feature{

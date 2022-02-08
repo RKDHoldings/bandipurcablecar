@@ -17,7 +17,7 @@
                     </div>  
                     <div class="nav-footer">
 	                     <ul class="menu">
-                           <li class="first leaf"><a href="" title="Terms of use">Terms of use</a></li>
+                           <li class="first leaf"><a href="downloads.php" title="Downloads">Downloads</a></li>
                            <li class="last leaf"><a href="contact.php" title="Contact us">Contact us</a></li>
                        </ul>
                     </div>
@@ -37,10 +37,10 @@
           <div class="row"> 
                <div class="col">
                   <ul class="menu">
-                      <a href="who-we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
-                      <li class="first leaf"><a href="/en/who-we-are/about-the-company" title="About Mubadala">About Bandipur</a></li>
+                      <a href="who_we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
+                      <li class="first leaf"><a href="about_bandipur.php" title="About Bandipur">About Bandipur</a></li>
                       <li class="leaf"><a href="" title="Our History">Our History</a></li>
-                      <li class="collapsed"><a href="" title="Board of Directors">Board of Directors</a></li>
+                      <li class="collapsed"><a href="our_structure.php" title="Board of Directors">Board of Directors</a></li>
                       <li class="collapsed"><a href="our_structure.php" title="Our Structure">Our Structure</a></li>                         
                       <li class="last leaf"><a href="awar_recognition.php" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
@@ -48,7 +48,7 @@
               <div class="col">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
-                         <li class="first leaf"><a href="" title="About Mubadala">queen tower</a></li>
+                         <li class="first leaf"><a href="what_we_do.php" title="About queen tower">queen tower</a></li>
                          <li class="leaf"><a href="" title="Our History">transparent cable car</a></li>
                          <li class="collapsed"><a href="" title="Board of Directors">wax museum</a></li>
                          <li class="collapsed"><a href="" title="Investment Committee">planetterium</a></li>                                                                                                
@@ -67,7 +67,7 @@
                          <li class="first leaf"><a href="progress_stories.php" title="Progress Stories">progress stories</a></li>
                          <li class="first leaf"><a href="media_center.php" title="Media Menter">media center</a></li>
                          <li class="leaf"><a href="downloads.php" title="Download Documents">downloads</a></li>
-                         <li class="collapsed"><a href="" title="Board of Directors">contact us</a></li>                      
+                         <li class="collapsed"><a href="impact_stories.php" title="">events</a></li>                      
                     </ul>
               </div>
               <div class="col">
