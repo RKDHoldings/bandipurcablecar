@@ -34,15 +34,15 @@
            <a href="impact_details.php">
            <div class="card">
            <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
+            <div class="pic"> <img class="" src="img/events/event-1.jpeg" alt="">
+                <div class="date"> <span class="day">09</span> <span class="month">Mangsir</span> <span class="year">2077</span> </div>
             </div>
             <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
+               <h4 class="impact_heading">International Invitation for E-bids</h4>
                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                   <a href="impact_details1.php"> Read More</a>
+                    <div class="d-flex align-items-center  foot">
+                       <a href="impact_details1.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                     </div>
                 </div>
             </div>
@@ -52,15 +52,15 @@
         <div class="col-lg-3 mb-4">
            <div class="card">
            <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
+            <div class="pic"> <img class="" src="img/events/event-2.jpg" alt="">
+                <div class="date"> <span class="day">17</span> <span class="month">Sep</span> <span class="year">2021</span> </div>
             </div>
             <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
+               <h4 class="impact_heading">Call for 7th AGM(Annual General Meeting) of Bandipur Cable Car Company</h4>
                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                   <a href="impact_details2.php"> Read More</a>
+                    <div class="d-flex align-items-center foot">
+                       <a href="impact_details2.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                     </div>
                 </div>
             </div>
@@ -69,15 +69,15 @@
         <div class="col-lg-3 mb-4">
            <div class="card">
            <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
+            <div class="pic"> <img class="" src="img/events/event-3.jpg" alt="">
+                <div class="date"> <span class="day">09</span> <span class="month">Mangsir</span> <span class="year">2077</span> </div>
             </div>
             <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
+               <h4 class="impact_heading">Bandipur Cable Car financial closure from Nepal SBI & NMB Bankx</h4>
                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                   <a href="impact_details3.php"> Read More</a>
+                    <div class="d-flex align-items-center foot">
+                       <a href="impact_details3.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                     </div>
                 </div>
             </div>
@@ -86,15 +86,15 @@
         <div class="col-lg-3 mb-4">
            <div class="card">
            <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="https://images.pexels.com/photos/374016/pexels-photo-374016.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500" alt="">
-                <div class="date"> <span class="day">26</span> <span class="month">June</span> <span class="year">2019</span> </div>
+            <div class="pic"> <img class="" src="img/events/event-4.jpg" alt="">
+                <div class="date"> <span class="day">25</span> <span class="month">Magh</span> <span class="year">2076</span> </div>
             </div>
             <div class="content">
-               <h4 class="impact_heading">Finance And Legal Working Streams Occur Throughout</h4>
+               <h4 class="impact_heading">5th Annual General Meeting Decision of Bandipur Cable Car</h4>
                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href=""> Read More</a>
-                    <div class="d-flex align-items-center justify-content-center foot">
-                       <a href="impact_details.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                   <a href="impact_details4.php"> Read More</a>
+                    <div class="d-flex align-items-center foot">
+                       <a href="impact_details4.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                     </div>
                 </div>
             </div>

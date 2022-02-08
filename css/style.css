@@ -452,7 +452,6 @@ h2 {
   left:-8px; 
 }
 
-
 .simple-marquee-container *{
 	-webkit-box-sizing:border-box;
 	-moz-box-sizing:border-box;
@@ -515,27 +514,6 @@ h2 {
 	content: "|";
 	margin: 0 1em;
 }
-
-.go-corner {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: absolute;
-  width: 32px;
-  height: 32px;
-  overflow: hidden;
-  top: 0;
-  right: 0;
-  background-color: #004F8A;
-  border-radius: 0 4px 0 32px;
-}
-
-.go-arrow {
-  margin-top: -4px;
-  margin-right: -4px;
-  color: white;
-  font-family: courier, sans;
-}
 #company__keyfacts{
   background-color: #004F8A;
   padding: 3rem 0;
@@ -568,9 +546,8 @@ p{
   overflow: hidden;
   padding: 1rem 1rem 0.5rem 1rem;
   box-shadow: 0 4px 5px 0 rgb(0 0 0 / 10%);
-    background-color: #fff;
-    cursor: pointer;
-  
+  background-color: #fff;
+  cursor: pointer;  
 }
 
 .intro__details:hover:before {
@@ -1244,7 +1221,7 @@ a.rating_link{
 #footer-collapse{
   background-color: #004f8aeb; border-top: 1px solid #ddd;
 }
-.extra-menus li a::after {
+/* .extra-menus li a::after {
   content: '';
   display: block;
   width: 0;
@@ -1255,12 +1232,12 @@ a.rating_link{
 .extra-menus li a:hover::after {
   width: 100%;
   transition: width .3s;
-}
+} */
 .extra-menus li:first-child{padding: 0;}
-.mid-footer{
+/* .mid-footer{
   width: 100%;
   border-top: 1px solid #0000;
-}
+} */
 .sitemap-wrap {
   width: 100%;
   font-size: 12px;
@@ -2333,7 +2310,7 @@ img.ceo_img{
   #labels ul :nth-child(4) span{ background: #D97904; }
   #labels ul :nth-child(5) span{ background: #BC3603; }
   
-  #percentage p {
+  /* #percentage p {
     display: block;
     width: 50px;
     margin: 0;
@@ -2344,17 +2321,9 @@ img.ceo_img{
   #percentage ul {
     position: absolute;
     width: 300px;
-  }
+  } */
   
-  #q2_2010:target #percentage ul { left: -0px; }
-  #q1_2010:target #percentage ul { left: -50px; }
-  #q4_2009:target #percentage ul { left: -100px; }
-  #q3_2009:target #percentage ul { left: -150px; }
-  #q2_2009:target #percentage ul { left: -200px; }
-  #q1_2005:target #percentage ul { left: -250px; }
-  /* Label and percentage data end */
-  
-  /* Slider (contains two chart div) start */
+
   #slider {
     width:300px;
     height: 350px;
@@ -2374,14 +2343,7 @@ img.ceo_img{
     background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#8c8775), to(#7f7a6a));
     -webkit-border-radius: 6px; border-radius: 6px;
   }
-  
-  #pie_ico, #pyr_ico {
-    position: absolute;
-    width: 80px;
-    height: 26px;
-    top: 470px;
-    text-align: center;
-  }
+ 
   
   /* #pie_ico { left: 137px} */
   #pyr_ico { left: 293px}
@@ -2394,220 +2356,6 @@ img.ceo_img{
     margin: 0;
     padding: 0;
   }
-  
-  #pyr_chart , #pie_chart {
-    position: relative;
-    float: left;
-     width: 300px;
-     height: 300px;
-     margin: 0;
-     padding: 0;
-    -webkit-box-reflect: below 0px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.5, transparent), to(rgba(255, 255, 255, 0.2) ));
-  }
-  
-  #pyr_chart ul , #pie_chart ul {
-    list-style-type: none;
-    width: 300px;
-    height: 300px;
-    padding: 0;
-     margin: 0;
-  }
-    
-  #pyr_chart li, #pie_chart li {
-    position: absolute;
-    top: 0px;
-    width: 300px;
-    height: 300px;
-     padding: 0;
-     margin: 0;
-  }
-  
-  #pie_chart p {
-    width: 300px;
-    height: 300px;
-     padding: 0;
-     margin: 0;
-  }
-  
-  #pie_chart li p { -webkit-transition: all .7s ease-out;}
-  
-  #pie_chart span { display: block; width: 150px; height: 300px;}
-  
-  #pie_chart ul :nth-child(odd) { clip: rect(0px, 300px, 300px, 150px);}
-  
-  #pie_chart ul :nth-child(even) { clip: rect(0px, 150px, 300px, 0px);}
-  
-  .pie_left{
-    -moz-border-radius-topleft: 150px;
-    -moz-border-radius-bottomleft: 150px;
-    -webkit-border-top-left-radius: 150px;
-    -webkit-border-bottom-left-radius: 150px;
-    border-top-left-radius: 150px;
-    border-bottom-left-radius: 150px;
-  }
-  
-  .pie_right{
-    margin-left: 150px;
-    -moz-border-radius-topright: 150px;
-    -moz-border-radius-bottomright: 150px;
-    -webkit-border-top-right-radius: 150px;
-    -webkit-border-bottom-right-radius: 150px;
-    border-top-right-radius: 150px;
-    border-bottom-right-radius: 150px;
-  }
-  
-  #c1_l span {
-    background: #BC3603;
-    background-image: -moz-radial-gradient(left 45deg, circle closest-corner, #de3d00 10%, #BC3603 100%);
-    background-image: -webkit-gradient(radial, left center, 10, left center, 150, from(#de3d00), to(#BC3603));
-  }
-  
-  #c1_r span {
-    background: #BC3603;
-    background-image: -moz-radial-gradient(right 45deg, circle closest-corner, #de3d00 10%, #BC3603 100%);
-    background-image: -webkit-gradient(radial, right center, 10, right center, 150, from(#de3d00), to(#BC3603));
-  }
-   
-  #c2_l span {
-    background: #D97904;
-    background-image: -moz-radial-gradient(left 45deg, circle closest-corner, #fb8a00 10%, #D97904 100%);
-    background-image: -webkit-gradient(radial, left center, 10, left center, 150, from(#fb8a00), to(#D97904));
-  }
-  
-  #c2_r span {
-    background: #D97904;
-    background-image: -moz-radial-gradient(right 45deg, circle closest-corner, #fb8a00 10%, #D97904 100%);
-    background-image: -webkit-gradient(radial, right center, 10, right center, 150, from(#fb8a00), to(#D97904));
-  }
-  
-  #c3_l span {
-    background: #F2B705;
-    background-image: -moz-radial-gradient(left 45deg, circle closest-corner, #ffc517 10%, #F2B705 100%);
-    background-image: -webkit-gradient(radial, left center, 10, left center, 150, from(#ffc517), to(#F2B705));
-  }
-  
-  #c3_r span {
-    background: #F2B705;
-    background-image: -moz-radial-gradient(right 45deg, circle closest-corner, #ffc517 10%, #F2B705 100%);
-    background-image: -webkit-gradient(radial, right center, 10, right center, 150, from(#ffc517), to(#F2B705));
-  }
-  
-  #c4_l span {
-    background: #86AD00;
-    background-image: -moz-radial-gradient(left 45deg, circle closest-corner, #9bc800 10%, #86AD00 100%);
-    background-image: -webkit-gradient(radial, left center, 10, left center, 150, from(#9bc800), to(#86AD00));
-  }
-  
-  #c4_r span {
-    background: #86AD00;
-    background-image: -moz-radial-gradient(right 45deg, circle closest-corner, #9bc800 10%, #86AD00 100%);
-    background-image: -webkit-gradient(radial, right center, 10, right center, 150, from(#9bc800), to(#86AD00));
-  }
-  
-  #c5_l span{ 
-    background: #0092B9;
-    background-image: -moz-radial-gradient(left 45deg, circle closest-corner, #00addb 10%, #0092B9 100%);
-    background-image: -webkit-gradient(radial, left center, 10, left center, 150, from(#00addb), to(#0092B9));
-  }
-  
-  #c5_r span{
-    background: #0092B9;
-    background-image: -moz-radial-gradient(right 45deg, circle closest-corner, #00addb 10%, #0092B9 100%);
-    background-image: -webkit-gradient(radial, right center, 10, right center, 150, from(#00addb), to(#0092B9));
-  }
-  
-  /*Pie chart data (degree value) */
-  #pie_chart ul :nth-child(1) p, #q2_2010:target #pie_chart ul :nth-child(1) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #pie_chart ul :nth-child(2) p, #q2_2010:target #pie_chart ul :nth-child(2) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #pie_chart ul :nth-child(3) p, #q2_2010:target #pie_chart ul :nth-child(3) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #pie_chart ul :nth-child(4) p, #q2_2010:target #pie_chart ul :nth-child(4) p{ -moz-transform: rotate(170deg); -webkit-transform: rotate(170deg); -o-transform: rotate(170deg);}
-  #pie_chart ul :nth-child(5) p, #q2_2010:target #pie_chart ul :nth-child(5) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #pie_chart ul :nth-child(6) p, #q2_2010:target #pie_chart ul :nth-child(6) p{ -moz-transform: rotate(152deg); -webkit-transform: rotate(152deg); -o-transform: rotate(152deg);}
-  #pie_chart ul :nth-child(7) p, #q2_2010:target #pie_chart ul :nth-child(7) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #pie_chart ul :nth-child(8) p, #q2_2010:target #pie_chart ul :nth-child(8) p{ -moz-transform: rotate(126deg); -webkit-transform: rotate(126deg); -o-transform: rotate(126deg);}
-  #pie_chart ul :nth-child(9) p, #q2_2010:target #pie_chart ul :nth-child(9) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #pie_chart ul :nth-child(10) p, #q2_2010:target #pie_chart ul :nth-child(10) p{ -moz-transform: rotate(36deg); -webkit-transform: rotate(36deg); -o-transform: rotate(36deg);}
-  
-  #q1_2010:target #pie_chart ul :nth-child(1) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2010:target #pie_chart ul :nth-child(2) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2010:target #pie_chart ul :nth-child(3) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2010:target #pie_chart ul :nth-child(4) p{ -moz-transform: rotate(170deg); -webkit-transform: rotate(170deg); -o-transform: rotate(170deg);}
-  #q1_2010:target #pie_chart ul :nth-child(5) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2010:target #pie_chart ul :nth-child(6) p{ -moz-transform: rotate(153deg); -webkit-transform: rotate(153deg); -o-transform: rotate(153deg);}
-  #q1_2010:target #pie_chart ul :nth-child(7) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2010:target #pie_chart ul :nth-child(8) p{ -moz-transform: rotate(131deg); -webkit-transform: rotate(131deg); -o-transform: rotate(131deg);}
-  #q1_2010:target #pie_chart ul :nth-child(9) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2010:target #pie_chart ul :nth-child(10) p{ -moz-transform: rotate(42deg); -webkit-transform: rotate(42deg); -o-transform: rotate(42deg);}
-  
-  #q4_2009:target #pie_chart ul :nth-child(1) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q4_2009:target #pie_chart ul :nth-child(2) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q4_2009:target #pie_chart ul :nth-child(3) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q4_2009:target #pie_chart ul :nth-child(4) p{ -moz-transform: rotate(171deg); -webkit-transform: rotate(171deg); -o-transform: rotate(171deg);}
-  #q4_2009:target #pie_chart ul :nth-child(5) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q4_2009:target #pie_chart ul :nth-child(6) p{ -moz-transform: rotate(154deg); -webkit-transform: rotate(154deg); -o-transform: rotate(154deg);}
-  #q4_2009:target #pie_chart ul :nth-child(7) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q4_2009:target #pie_chart ul :nth-child(8) p{ -moz-transform: rotate(139deg); -webkit-transform: rotate(139deg); -o-transform: rotate(139deg);}
-  #q4_2009:target #pie_chart ul :nth-child(9) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q4_2009:target #pie_chart ul :nth-child(10) p{ -moz-transform: rotate(50deg); -webkit-transform: rotate(50deg); -o-transform: rotate(50deg);}
-  
-  #q3_2009:target #pie_chart ul :nth-child(1) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q3_2009:target #pie_chart ul :nth-child(2) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q3_2009:target #pie_chart ul :nth-child(3) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q3_2009:target #pie_chart ul :nth-child(4) p{ -moz-transform: rotate(172deg); -webkit-transform: rotate(172deg); -o-transform: rotate(172deg);}
-  #q3_2009:target #pie_chart ul :nth-child(5) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q3_2009:target #pie_chart ul :nth-child(6) p{ -moz-transform: rotate(156deg); -webkit-transform: rotate(156deg); -o-transform: rotate(156deg);}
-  #q3_2009:target #pie_chart ul :nth-child(7) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q3_2009:target #pie_chart ul :nth-child(8) p{ -moz-transform: rotate(145deg); -webkit-transform: rotate(145deg); -o-transform: rotate(145deg);}
-  #q3_2009:target #pie_chart ul :nth-child(9) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q3_2009:target #pie_chart ul :nth-child(10) p{ -moz-transform: rotate(61deg); -webkit-transform: rotate(61deg); -o-transform: rotate(61deg);}
-  
-  #q2_2009:target #pie_chart ul :nth-child(1) p{ transform: rotate(180deg);-moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q2_2009:target #pie_chart ul :nth-child(2) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q2_2009:target #pie_chart ul :nth-child(3) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q2_2009:target #pie_chart ul :nth-child(4) p{ -moz-transform: rotate(172deg); -webkit-transform: rotate(172deg); -o-transform: rotate(172deg);}
-  #q2_2009:target #pie_chart ul :nth-child(5) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q2_2009:target #pie_chart ul :nth-child(6) p{ -moz-transform: rotate(158deg); -webkit-transform: rotate(158deg); -o-transform: rotate(158deg);}
-  #q2_2009:target #pie_chart ul :nth-child(7) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q2_2009:target #pie_chart ul :nth-child(8) p{ -moz-transform: rotate(149deg); -webkit-transform: rotate(149deg); -o-transform: rotate(149deg);}
-  #q2_2009:target #pie_chart ul :nth-child(9) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q2_2009:target #pie_chart ul :nth-child(10) p{ -moz-transform: rotate(66deg); -webkit-transform: rotate(66deg); -o-transform: rotate(66deg);}
-  
-  #q1_2005:target #pie_chart ul :nth-child(1) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2005:target #pie_chart ul :nth-child(2) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2005:target #pie_chart ul :nth-child(3) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2005:target #pie_chart ul :nth-child(4) p{ -moz-transform: rotate(176deg); -webkit-transform: rotate(176deg); -o-transform: rotate(176deg);}
-  #q1_2005:target #pie_chart ul :nth-child(5) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2005:target #pie_chart ul :nth-child(6) p{ -moz-transform: rotate(167deg); -webkit-transform: rotate(167deg); -o-transform: rotate(167deg);}
-  #q1_2005:target #pie_chart ul :nth-child(7) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2005:target #pie_chart ul :nth-child(8) p{ -moz-transform: rotate(167deg); -webkit-transform: rotate(167deg); -o-transform: rotate(167deg);}
-  #q1_2005:target #pie_chart ul :nth-child(9) p{ -moz-transform: rotate(180deg); -webkit-transform: rotate(180deg); -o-transform: rotate(180deg);}
-  #q1_2005:target #pie_chart ul :nth-child(10) p{ -moz-transform: rotate(143deg); -webkit-transform: rotate(143deg); -o-transform: rotate(143deg);}
-  /*Pyramid chart data (height value) */
-  #q1_2010:target #pyr_chart ul :nth-child(2) { height: 292px;}
-  #q1_2010:target #pyr_chart ul :nth-child(3) { height: 277px;}
-  #q1_2010:target #pyr_chart ul :nth-child(4) { height: 259px;}
-  #q1_2010:target #pyr_chart ul :nth-child(5) { height: 185px;}
-  
-  #q4_2009:target #pyr_chart ul :nth-child(2) { height: 292px;}
-  #q4_2009:target #pyr_chart ul :nth-child(3) { height: 279px;}
-  #q4_2009:target #pyr_chart ul :nth-child(4) { height: 266px;}
-  #q4_2009:target #pyr_chart ul :nth-child(5) { height: 192px;}
-  
-  #q3_2009:target #pyr_chart ul :nth-child(2) { height: 293px;}
-  #q3_2009:target #pyr_chart ul :nth-child(3) { height: 280px;}
-  #q3_2009:target #pyr_chart ul :nth-child(4) { height: 271px;}
-  #q3_2009:target #pyr_chart ul :nth-child(5) { height: 201px;}
-  
-  #q2_2009:target #pyr_chart ul :nth-child(2) { height: 293px;}
-  #q2_2009:target #pyr_chart ul :nth-child(3) { height: 282px;}
-  #q2_2009:target #pyr_chart ul :nth-child(4) { height: 274px;}
-  #q2_2009:target #pyr_chart ul :nth-child(5) { height: 205px;}
-  
-  #q1_2005:target #pyr_chart ul :nth-child(2) { height: 297px;}
-  #q1_2005:target #pyr_chart ul :nth-child(3) { height: 290px;}
-  #q1_2005:target #pyr_chart ul :nth-child(4) { height: 290px;}
-  #q1_2005:target #pyr_chart ul :nth-child(5) { height: 269px;}
-  /* Charts end */
   
   /* button panel start */
   #btn_panel {
@@ -2649,18 +2397,12 @@ img.ceo_img{
     -moz-box-shadow: #c0bca7 0px 1px 0px;
       -webkit-box-shadow: #c0bca7 0px 1px 0px;
     box-shadow: #c0bca7 0px 1px 0px;
-    -webkit-transition: all .3s ease-out;
+    -webkit-transition: all .3s ease-out; transition: all .3s ease-out;
     opacity:.5;
   }
    
-  #btn_panel li:last-child a{color:#c33702; -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); opacity:1;}
-  
-  #q1_2005:target #btn_panel li:last-child a, #q2_2009:target #btn_panel li:last-child a, #q3_2009:target #btn_panel li:last-child a, #q4_2009:target #btn_panel li:last-child a, #q1_2010:target #btn_panel li:last-child a{color:#565446; -moz-transform: scale(1); -webkit-transform: scale(1); -o-transform: scale(1); opacity:.5;}
-  #q1_2005:target #btn_panel li:nth-child(1) a{color:#c33702; -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); opacity:1;}
-  #q2_2009:target #btn_panel li:nth-child(2) a{color:#c33702; -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); opacity:1;}
-  #q3_2009:target #btn_panel li:nth-child(3) a{color:#c33702; -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); opacity:1;}
-  #q4_2009:target #btn_panel li:nth-child(4) a{color:#c33702; -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); opacity:1;}
-  #q1_2010:target #btn_panel li:nth-child(5) a{color:#c33702; -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); opacity:1;}
+  /* #btn_panel li:last-child a{color:#c33702; -moz-transform: scale(1.1); -webkit-transform: scale(1.1); -o-transform: scale(1.1); opacity:1;} */
+
   /* button panel end */
   /* financial-reports */
   #financial-reports{
@@ -3003,19 +2745,20 @@ h3.process_heading{
   opacity: 1;
 }
     .container_foto {
-      background-color: #27475e;
+      background-color: #344048;
       padding: 0;
       overflow: hidden;
       max-width: 350px;
       margin: 9px;
       position: relative;
+      display: flex;
+    justify-content: center;
+    align-items: center;
     }
     
     .container_foto article {
       padding: 10%;
       position: absolute;
-      top: 12rem;
-    
       z-index: 1;
       -webkit-transition: all 0.5s ease;
       -moz-transition: all 0.5s ease;
@@ -3033,70 +2776,41 @@ h3.process_heading{
     }   
     .container_foto h4 {    font-weight: 300;    color: #fff;    font-size: 16px; }
     .container_foto img {
-      width: 100%;     height: 100%;
+      width: 100%;     height: 378px;
       top: 0;
       left: 0;
-      opacity: 0.4;
+      filter: brightness(0.5);
       -webkit-transition: all 4s ease;
       -moz-transition: all 4s ease;
       -o-transition: all 4s ease;
       -ms-transition: all 4s ease;
       transition: all 4s ease;
     }   
-    /* .ver_mas {
-      background-color: #FF7800;
-      position: absolute;
-      width: 350px;
-      height: 70px;
-      bottom: 0;
-      z-index: 1;
-      opacity: 0;
-      transform: translate(0px, 70px);
-      -webkit-transform: translate(0px, 70px);
-      -moz-transform: translate(0px, 70px);
-      -o-transform: translate(0px, 70px);
-      -ms-transform: translate(0px, 70px);
-      -webkit-transition: all 0.2s ease-in-out;
-      -moz-transition: all 0.2s ease-in-out;
-      -o-transition: all 0.2s ease-in-out;
-      -ms-transition: all 0.2s ease-in-out;
-      transition: all 0.2s ease-in-out;
-    }
-    
-    .ver_mas span {
-      font-size: 40px;
-      color: #fff;
-      position: relative;
-      margin: 0 auto;
-      width: 100%;
-      top: 13px;
-    }
-     */
     
     .container_foto:hover {
       cursor: pointer;
     }
     
     .container_foto:hover img {
-      opacity: 0.1;
+      /* opacity: 0.1; */
       transform: scale(1.5);
     }
     
-    .container_foto:hover article {
+    /* .container_foto:hover article {
       transform: translate(2px, -69px);
       -webkit-transform: translate(2px, -69px);
       -moz-transform: translate(2px, -69px);
       -o-transform: translate(2px, -69px);
       -ms-transform: translate(2px, -69px);
-    }   
-    .container_foto:hover .ver_mas {
+    }    */
+    /* .container_foto:hover .ver_mas {
       transform: translate(0px, 0px);
       -webkit-transform: translate(0px, 0px);
       -moz-transform: translate(0px, 0px);
       -o-transform: translate(0px, 0px);
       -ms-transform: translate(0px, 0px);
       opacity: 1;
-    }  
+    }   */
     /* impact stories */
     #impact_stories{
       padding: 6rem 0 6rem 0;
@@ -3224,7 +2938,7 @@ h3.process_heading{
       padding: 10px 17px 0 17px;
   }
   h4.impact_heading{
-    font-family: 'Philosopher', sans-serif;  }
+    font-family: 'Philosopher', sans-serif; font-size: 1.3rem;  }
  #impact_stories  .card .content .btn {
       display: flex;
       align-items: center;
@@ -3602,7 +3316,7 @@ h3.video-heading{
 }
 
 
-#bandipur_single{padding: 6rem 0 6rem 0;}
+#bandipur_single{padding: 1rem 0 6rem 0;}
 #trusted_one{padding: 6rem 0 0rem 0; background-color: #fff;}
 .trusted-one__inner {
   position: relative;
@@ -4521,7 +4235,7 @@ p.name{
   margin-left: 6px;
 }
 .impact_details_meta li a svg{
-  width: 1.1rem; color: #FF7800;
+  width: 1.1rem; color: #FF7800; margin-right: 0.4rem;
 }
 .sidebar__category-list li a:hover {
   background-color: rgb(255, 255, 255);
@@ -4611,10 +4325,7 @@ p.name{
 	top: 0;
 	left: 0;
 	opacity: 1;
-	-webkit-transform: scale(1,1);
-	-webkit-transform: rotate(0deg);
-  overflow: hidden;
-}
+	-webkit-transform: scale(1,1); -webkit-transform: rotate(0deg); transform: rotate(0deg); overflow: hidden;}
 
 .pcss3t-height-auto > ul {
 	height: auto !important;
@@ -5208,7 +4919,7 @@ img.logo_panchase{
 #investment_strategy .inner_container .service_block:nth-child(4n + 0) {
   border-right: none;
 }
-.pie_data_details{ border: 1px solid #e3e3e3; padding: 1rem;}
+.pie_data_details{ border: 1px solid #e3e3e3; padding: 3rem;}
 #future_features{
   padding:  0 0 6rem 0;
 }
@@ -5495,7 +5206,7 @@ color: #ff7800;
   padding: 1rem; height: 100%;
 }
 img.download_icon{
-  width: 18%;
+  width: 15%;
 }
 .download-two{
   margin: 2rem 0 0 0;
@@ -5538,11 +5249,206 @@ color: #ff7800;
   z-index: 0;
   transition: all 0.35s ease;
 }
-/* 
-.card-img, .card-img-top {
-  z-index: 1;
+
+/* progress timeline */
+/*
+!!!!
+This pen is being refactored
+!!!!
+*/
+
+/*
+=====
+DEPENDENCES
+=====
+*/
+
+.r-title {
+  margin-top: var(--rTitleMarginTop, 0) !important;
+  margin-bottom: var(--rTitleMarginBottom, 0) !important;
 }
 
-.card-text {
-  margin-bottom: 1rem;
+p:not([class]) {
+  line-height: var(--cssTypographyLineHeight, 1.78);
+  margin-top: var(--cssTypographyBasicMargin, 1em);
+  margin-bottom: 0;
+}
+
+p:not([class]):first-child {
+  margin-top: 0;
+}
+
+/*
+text component
+*/
+
+.text {
+  display: var(--textDisplay, inline-flex);
+  font-size: var(--textFontSize, 1rem);
+}
+
+.time {
+  display: var(--timeDisplay, inline-flex);
+}
+
+/*
+extensions
+*/
+
+.time__month {
+  margin-left: var(--timelineMounthMarginLeft, 0.25em);
+}
+
+/*
+skin
+*/
+
+.time {
+  padding: var(--timePadding, 0.25rem 1.25rem 0.25rem);
+  background-color: var(--timeBackgroundColor, #f0f0f0);
+
+  font-size: var(--timeFontSize, 0.75rem);
+  font-weight: var(--timeFontWeight, 700);
+  text-transform: var(--timeTextTransform, uppercase);
+  color: var(--timeColor, currentColor);
+}
+
+
+#progress_timeline .card__content {
+  margin-top: var(--cardContentMarginTop, 0.5rem);
+}
+
+#progress_timeline .card {
+  border-radius: var(--timelineCardBorderRadius, 2px);
+  border-left: var(--timelineCardBorderLeftWidth, 3px) solid
+    var(--timelineCardBorderLeftColor, var(--uiTimelineMainColor));
+  box-shadow: var(
+    --timelineCardBoxShadow,
+    0 1px 3px 0 rgba(0, 0, 0, 0.12),
+    0 1px 2px 0 rgba(0, 0, 0, 0.24)
+  );
+  background-color: var(--timelineCardBackgroundColor, #fff);
+  padding: var(--timelineCardPadding, 1.5rem 1.5rem 1.25rem);
+}
+
+#progress_timeline .card__title {
+  --rTitleMarginTop: var(--cardTitleMarginTop, 1rem);
+  font-size: var(--cardTitleFontSize, 1.25rem);
+}
+
+
+#progress_timeline .timeline {
+  display: var(--timelineDisplay, grid);
+  grid-row-gap: var(--timelineGroupsGap, 2rem);
+}
+
+/*
+1. If timeline__year isn't displaed the gap between it and timeline__cards isn't displayed too
+*/
+
+#progress_timeline .timeline__year {
+  margin-bottom: 1.25rem; /* 1 */
+}
+
+#progress_timeline .timeline__cards {
+  display: var(--timeloneCardsDisplay, grid);
+  grid-row-gap: var(--timeloneCardsGap, 1.5rem);
+}
+
+
+#progress_timeline .timeline {
+  --uiTimelineMainColor: var(--timelineMainColor, #222);
+  --uiTimelineSecondaryColor: var(--timelineSecondaryColor, #fff);
+
+  border-left: var(--timelineLineWidth, 3px) solid
+    var(--timelineLineBackgroundColor, var(--uiTimelineMainColor));
+  padding-top: 1rem;
+  padding-bottom: 1.5rem;
+}
+
+#progress_timeline .timeline__year {
+  --timePadding: var(--timelineYearPadding, 0.5rem 1.5rem);
+  --timeColor: var(--uiTimelineSecondaryColor);
+  --timeBackgroundColor: var(--uiTimelineMainColor);
+  --timeFontWeight: var(--timelineYearFontWeight, 400);
+}
+
+#progress_timeline .timeline__card {
+  position: relative;
+  margin-left: var(--timelineCardLineGap, 1rem);
+}
+
+
+#progress_timeline .timeline__cards {
+  overflow: hidden;
+  padding-top: 0.25rem; /* 1 */
+  padding-bottom: 0.25rem; /* 1 */
+}
+
+#progress_timeline .timeline__card::before {
+  content: "";
+  width: 100%;
+  height: var(--timelineCardLineWidth, 2px);
+  background-color: var(
+    --timelineCardLineBackgroundColor,
+    var(--uiTimelineMainColor)
+  );
+
+  position: absolute;
+  top: var(--timelineCardLineTop, 1rem);
+  left: -50%;
+  z-index: -1;
+}
+
+
+#progress_timeline .timeline {
+  --timelineMainColor: #044f8a;
+}
+
+/* p:last-child {
+  margin-bottom: 0;
 } */
+
+.page {
+  /* max-width: 47rem; */
+  /* padding: 5rem 2rem 3rem; */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.substack {
+  border: 1px solid #eee;
+  background-color: #fff;
+  width: 100%;
+  max-width: 480px;
+  height: 280px;
+  margin: 1rem auto;
+}
+
+.linktr {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(209, 246, 255);
+  padding: 2rem;
+  text-align: center;
+}
+
+.linktr__goal {
+  border: 2px solid rgb(255, 255, 255);
+  background-color: rgb(255, 255, 255);
+  color: rgb(8, 49, 112);
+  box-shadow: rgb(8 49 112 / 24%) 0px 2px 8px 0px;
+  border-radius: 2rem;
+  padding: 0.5rem 1.25rem;
+}
+
+.r-link {
+  --uirLinkDisplay: var(--rLinkDisplay, inline-flex);
+  --uirLinkTextColor: var(--rLinkTextColor);
+  --uirLinkTextDecoration: var(--rLinkTextDecoration, none);
+
+  display: var(--uirLinkDisplay) !important;
+  color: var(--uirLinkTextColor) !important;
+  text-decoration: var(--uirLinkTextDecoration) !important;
+}
+#progress_timeline{padding: 0 0 6rem 0;}

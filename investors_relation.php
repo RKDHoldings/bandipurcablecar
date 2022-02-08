@@ -48,7 +48,7 @@
                                             <h3>75 crore</h3>                           
                                         </div>
                                         <div class="testimonial">
-                                            <small>invesments</small>
+                                            <small>investments</small>
                                             <h3>NPR 6 BILLION </h3> 
                                             <p>*Attributable to the owner of the group</p>                       
                                         </div>
@@ -133,7 +133,8 @@
                                <div class="title">
                                  <h3>
                                     <span class="wrap-title">           
-                                       <a target="_blank" href="img/reports/2077-2078 Audit Report.pdf"  title="Audit report" class="">Audit report of 2077-2078</a> </span>
+                                       <a target="_blank" href="img/reports/2077-2078 Audit Report.pdf"  title="Audit report" class="">Audit report of 2077-2078</a> 
+                                    </span>
                                  </h3>
                               </div>           
                            </li> 
@@ -178,17 +179,27 @@
            <div class="col-lg-3">
            <nav class="sidebar card py-2 mb-4">
                          <div class="sidebar_news1">
-                            <h4>leadership team</h4>
+                           <h4>financial Reports</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#">Audit Reports <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>finance team</h4>
+                           <h4>financial Closure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#"> Investment Structure <i data-feather="arrow-right"></i></a></li>
+                              </ul>
+                         </div>
+                         <div class="sidebar_news1">
+                            <h4>Committees</h4>
+                              <ul class="nav flex-column" id="nav_accordion">
+                                 <li class="nav-item"><a class="nav-link" href="#management_team ">Risk Management <i data-feather="arrow-right"></i></a></li>
+                              </ul>
+                         </div>
+                         <div class="sidebar_news1">
+                            <h4>Investment strategies</h4>
+                              <ul class="nav flex-column" id="nav_accordion">
+                                 <li class="nav-item"><a class="nav-link" href="#investment_strategy">strategies factors <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
@@ -243,14 +254,14 @@
       <div class="row text-center">
           <div class="col-lg-6">
               <div id="chart">
-                <canvas id="myChart" width="350" height="350"></canvas>
-                <h3>Investment Stucture</h3>
+                <canvas id="myChart" width="300" height="300"></canvas>
+                <h3 class="secondary_heading mt-1">Investment Stucture</h3>
               </div>
           </div>
           <div class="col-lg-6">
             <div id="chart">
-                <canvas id="myChart2" width="350" height="350"></canvas>
-                <h3>Promoter Share Structure</h3>
+                <canvas id="myChart2" width="300" height="300"></canvas>
+                <h3  class="secondary_heading mt-1">Promoter Share Structure</h3>
             </div>
           </div>
       </div>
@@ -266,12 +277,11 @@
             <p>Best Solutions For Your Business</p>
             <div class="inner_container">
 				<div class="row g-0">
-				
-					<!-- strategy Block -->
+				 	<!-- strategy Block -->
 					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
-								<span class="icon ti-blackboard"></span>
+                                <img src="img/icon_pack/loan.png" alt="">
 							</div>
 						    <div class="heading_arrow d-flex justify-content-between">
                                <h5><a href="">लगानीको सिमा</a></h5>   
@@ -285,7 +295,7 @@
 					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
-								<span class="icon ti-stats-up"></span>
+                                <img src="img/icon_pack/welfare.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
                                <h5><a href="">सुविधा</a></h5>   
@@ -299,7 +309,7 @@
 					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
-								<span class="icon ti-shield"></span>
+                                <img src="img/icon_pack/shareholder.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
                                <h5><a href="">शेयरधनी कल्याणकारी अग्राधिकार कोष</a></h5>   
@@ -313,7 +323,7 @@
 					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
-								<span class="icon ti-home"></span>
+                            <img src="img/icon_pack/raid.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
                                <h5><a href="">RAID</a></h5>   
@@ -324,7 +334,7 @@
 					</div>
 					
 					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
 								<span class="icon ti-stamp"></span>
@@ -335,10 +345,10 @@
                             </div>
 							<div class="text">कम्पनीले प्रतिस्पर्धात्मक रुपमा बैंकको कर्जा उपयोग </div>
 						</div>
-					</div>
+					</div> -->
 					
 					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
 								<span class="icon ti-money"></span>
@@ -346,10 +356,10 @@
 							<h5><a href="">Taxes &amp; Efficiency</a></h5>
 							<div class="text">Disrupt taste makers help council emerging.</div>
 						</div>
-					</div>
+					</div> -->
 					
 					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
 								<span class="icon ti-shopping-cart-full"></span>
@@ -357,10 +367,10 @@
 							<h5><a href="">Consumer Market</a></h5>
 							<div class="text">Mobile ready proprietary dedication intuitive</div>
 						</div>
-					</div>
+					</div> -->
 					
 					<!-- strategy Block -->
-					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
+					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
 						<div class="inner_box">
 							<div class="icon_box">
 								<span class="icon ti-truck"></span>
@@ -368,7 +378,7 @@
 							<h5><a href="">Logistic</a></h5>
 							<div class="text">Platform omnichannel click thought leadership pivot</div>
 						</div>
-					</div>
+					</div> -->
 					
 				</div>
 				
@@ -376,119 +386,14 @@
         </div>
     </div>
 </section>   
-<!-- graph -->
-<!-- <section id="share_graph">
-   <div class="container">
-       <div class="row">
-           <div class="col-lg-5">
-               <div class="share_graph_details"  data-aos="fade-right"  data-aos-duration="2000">
-				   <h6>share info</h6>
-                   <h2 class="section-title">share graph</h2>
-				   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod quo reiciendis unde neque exercitationem est voluptatem amet nemo facilis in quis distinctio repellendus ut animi sed iure voluptatibus, magni quasi.</p>
-				   <div class="double-check-list font-title mb-xxl-5">
-                  <ul class="list-unstyled aboutus__points">
-                    <li>
-                        <div class="icon"><i data-feather="arrow-right"></i></div>
-                        <div class="text"> <p>Subsidary Company</p> </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i data-feather="arrow-right"></i></div>
-                        <div class="text"><p>Civil Consultant</p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i data-feather="arrow-right"></i></div>
-                        <div class="text"><p>Mechanical Construction</p></div>
-                    </li>
-                    <li>
-                        <div class="icon"> <i data-feather="arrow-right"></i></div>
-                        <div class="text"><p>Financial Consultant</p> </div>
-                    </li>
-                    <li>
-                      <div class="icon"> <i data-feather="arrow-right"></i></div>
-                      <div class="text"><p>banking partner</p> </div>
-                  </li>
-                    <li>
-                      <div class="icon"> <i data-feather="arrow-right"></i></div>
-                      <div class="text"><p>Guide Liner</p> </div>
-                  </li>
-                 </ul>
-                  </div>
-			   </div>
-		   </div>
-		   <div class="col-lg-7">
-		      <div class="inner_share_graph"  data-aos="fade-left"  data-aos-duration="2000">
-			  <div id="q2_2010">
-	<div id="q1_2010">
-	<div id="q4_2009">
-	<div id="q3_2009">
-	<div id="q2_2009">
-	<div id="q1_2005">
-		<div id="labels">
-			<ul>
-				<li><span></span>Internet Explorer</li>
-				<li><span></span>Mozilla Firefox</li>
-				<li><span></span>Google Chrome</li>
-				<li><span></span>Safari</li>
-				<li><span></span>Opera</li>
-			</ul>
-		</div>
-		<div id="pie_ico">Pie &raquo;</div>
-		<div id="percentage_wrapper">
-			<div id="percentage">
-				<ul>
-					<li><p>60.14%</p><p>61.79%</p><p>63.90%</p><p>67.02%</p><p>68.28%</p><p>89.68%</p></li>
-					<li><p>24.98%</p><p>24.56%</p><p>24.39%</p><p>23.28%</p><p>23.22%</p><p>6.83%</p></li>
-					<li><p>7.14%</p><p>6.03%</p><p>4.27%</p><p>3.08%</p><p>2.35%</p><p>0%</p></li>
-					<li><p>5.10%</p><p>4.91%</p><p>4.64%</p><p>4.35%</p><p>3.89%</p><p>2.36%</p></li>
-					<li><p>2.66%</p><p>2.73%</p><p>2.52%</p><p>2.29%</p><p>2.27%</p><p>1.15%</p></li>
-				</ul>
-			</div>
-		</div>
-		<div id="slider">
-			<div id="chart_holder">
-				<div id="pie_chart">
-					<ul>
-						<li id="c1_r"><p><span class="pie_left"></span></p></li> 	
-						<li id="c1_l"><p><span class="pie_right"></span></p></li>
-						<li id="c2_r"><p><span class="pie_left"></span></p></li> 	
-						<li id="c2_l"><p><span class="pie_right"></span></p></li>
-						<li id="c3_r"><p><span class="pie_left"></span></p></li> 	
-						<li id="c3_l"><p><span class="pie_right"></span></p></li>
-						<li id="c4_r"><p><span class="pie_left"></span></p></li> 	
-						<li id="c4_l"><p><span class="pie_right"></span></p></li>
-						<li id="c5_r"><p><span class="pie_left"></span></p></li> 	
-						<li id="c5_l"><p><span class="pie_right"></span></p></li>
-					</ul>
-				</div>
-			</div>
-		</div>
-		<div id="btn_panel">
-			<ul>
-				<li><a href="#q1_2005"><span>Q1</span><span>2005</span></a></li>
-				<li><a href="#q2_2009"><span>Q2</span><span>2009</span></a></li>
-				<li><a href="#q3_2009"><span>Q3</span><span>2009</span></a></li>
-				<li><a href="#q4_2009"><span>Q4</span><span>2009</span></a></li>
-				<li><a href="#q1_2010"><span>Q1</span><span>2010</span></a></li>
-				<li><a href="#q2_2010"><span>Q2</span><span>2010</span></a></li>
-			</ul>
-		</div>
-	</div> 
-	</div>
-	</div> 
-	</div> 
-	</div> 
-	</div>
-			  </div>
-           </div>
-	   </div>
-   </div>
-</section> -->
+
+
 <section id="share_calculator">
    
 </section>
 
 <!-- financial analysis -->
-<section id="financial-reports">
+<section id="management_team">
    <div class="container">
         <div class="row">
             <div class="col-lg-9" data-aos="fade-up" data-aos-duration="2000">
@@ -515,8 +420,7 @@
                         </h2>
                         <div id="content-accordion-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body">
-                            अभिभाज्य वित्तीय व्यवस्थापन प्रणालीअन्तर्गत एकद्धार विधि अपनाइ वित्त परिचालन नीतिको 
-अधीनमा रहेर कम्पनीलाई पारदर्शी एवं चुस्त, दुरुस्त राखेको छ ।
+                            अभिभाज्य वित्तीय व्यवस्थापन प्रणालीअन्तर्गत एकद्धार विधि अपनाइ वित्त परिचालन नीतिको अधीनमा रहेर कम्पनीलाई पारदर्शी एवं चुस्त, दुरुस्त राखेको छ ।
                             </div>
                         </div>
                     </div>

@@ -117,7 +117,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/mirror-maze.jpg);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">mirror maze</a></h3>
@@ -144,7 +144,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/3d-cover.jpeg);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">cablecar restro service</a></h3>
@@ -153,7 +153,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                       </div>
                       <div class="back from-left">
                          <h2>cablecar restro service</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <p class="des">कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । यसै मुताविक दक्षिण एसियामा नै भिन्न स्वाद पस्कन खोजिरहेको छ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ। प्रत्येक दिनको अफ आवर साँझ ५ बजेदेखि ९ बजेसम्म यो सेवा पस्कने तयारीमा कम्पनी लागेको छ ।</p>    
                       </div>
                      </div>
                    </div>
@@ -166,7 +166,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/waterfall.jpg);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">landscaping & artificial waterfall</a></h3>
@@ -174,7 +174,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                         </div>
                       </div>
                       <div class="back from-left">
-                         <h2>>landscaping & artificial waterfall</h2>
+                         <h2>landscaping & artificial waterfall</h2>
                          <p class="des">परियोजनाको बटमस्टेशनलाई त्यगचष्कत कोर्टको रुपमा पूर्ण प्रयोगमा ल्याउनु पर्नेछ । यसलाई अझ पर्यटकीय र प्रतिफलमूलक आकर्षण ल्याउनका लागि प्राकृतिक ढुङगाहरुलाई कुदेर आकर्षण डिजाईन दिइनेछ। जमिनलाई पूर्णत पर्यटनमैत्री समय व्यवस्थित गर्न स्ट्रेको रुपमा आकर्षक बनाइनेछ ।</p>    
                       </div>
                      </div>
@@ -188,7 +188,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/water_funpark.jpg);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">water funpark</a></h3>
@@ -197,7 +197,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                       </div>
                       <div class="back from-left">
                          <h2>water funpark</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <p class="des">वटम स्टेशन नजिक सिद्धगुफा केवलकारको प्रस्तावित बटम स्टेशनमा कम्पनीको नाममा रहेको जग्गामा आकर्षक वाटरपार्क एवं आधुनिक फनपार्क निर्माणका लागि डि.पि.आर तयार गरी पर्यटकहरुलाई भुलाउने अवस्था बनाउन टुरिस्ट प्वाइन्टहरु निर्माण गरिने योजना बनाइएको छ ।</p>    
                       </div>
                      </div>
                    </div>
@@ -210,7 +210,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/water_show.jpg);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#features-queentower">musical watershow</a></h3>
@@ -218,8 +218,10 @@ Our most valuable asset is our people; we develop world-class talent in a values
                         </div>
                       </div>
                       <div class="back from-left">
-                         <h2>>musical watershow</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <h2>musical watershow</h2>
+                         <p class="des"> नेपालमा नै पहिलो फिचर “म्युजिकल वाटर शो” बन्दीपुरको सांस्कृतिक चित्रमा पानीमार्फत् म्युजिकसहित पानीको आकर्षक नाच देखाउने म्युजिकल कल्चरल वाटर डान्सीङ फ्लोराको रुपमा लगाएर साँझमा हजारौँ पर्यटकलाई भित्र्याउने आकर्षण दिने कम्पनीको ठोस 
+                              योजना रहेको छ ।
+                         </p>    
                       </div>
                      </div>
                    </div>
@@ -240,7 +242,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
          <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">
-                    <img src="img/about/about-img1.jpg">
+                    <img src="img/hero_2.png">
                     <h3>transparent cablecar</h3>
                 </div>
             </div>
@@ -260,7 +262,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
             </div>
             <div class="face face2">
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cum cumque minus iste veritatis provident at.</p>
+                    <p>कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ।</p>
                         <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
@@ -294,7 +296,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
          <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">
-                    <img src="img/about/about-img1.jpg">
+                    <img src="img/features/conference.jpg">
                     <h3>Conference Theatre</h3>
                 </div>
             </div>
@@ -309,12 +311,12 @@ Our most valuable asset is our people; we develop world-class talent in a values
             <div class="face face1">
                 <div class="content">
                     <img src="img/about/hotel_room.png">
-                    <h3>Restro Zone</h3>
+                    <h3>Restro Sewa</h3>
                 </div>
             </div>
             <div class="face face2">
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cum cumque minus iste veritatis provident at.</p>
+                    <p>कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ।</p>
                         <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
@@ -322,8 +324,8 @@ Our most valuable asset is our people; we develop world-class talent in a values
         <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">
-                    <img src="img/about/about-img1.jpg">
-                    <h3>Game Zone</h3>
+                    <img src="img/features/swimming_pool.jpg">
+                    <h3>Swimming Pool</h3>
                 </div>
             </div>
             <div class="face face2">
@@ -338,14 +340,13 @@ Our most valuable asset is our people; we develop world-class talent in a values
    </div>
 </section>
 <!-- features three -->
-<section id="features-museum">
-<div class="container">
+<!-- <section id="features-museum">
+   <div class="container">
       <div class="row">
 		  <h6>wax museum</h6>
          <h2 class="section-title">wax museum</h2>
 		 <p>We will operate 4 Star hotel named as “Queen Tower” Hotel.  It will have minimum of 84 and maximum of 100 rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and operation.</p>
-	       <!--inner contents of queen tower 13 storey  -->
-         <div class="card col-lg-4">
+=         <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">
                     <img src="img/about/about-img1.jpg">
@@ -355,8 +356,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
             <div class="face face2">
                 <div class="content">
                     <p>Capacity of 1000 people at one time.</p>
-                        <!-- <a href="#">Read More</a> -->
-                </div>
+=                </div>
             </div>
         </div>
         <div class="card col-lg-4">
@@ -369,7 +369,6 @@ Our most valuable asset is our people; we develop world-class talent in a values
             <div class="face face2">
                 <div class="content">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cum cumque minus iste veritatis provident at.</p>
-                        <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
         </div>
@@ -383,14 +382,13 @@ Our most valuable asset is our people; we develop world-class talent in a values
             <div class="face face2">
                 <div class="content">
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cum cumque minus iste veritatis provident at.</p>
-                        <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
         </div>
 
       </div>
    </div>
-</section>
+</section> -->
 
 <?php
  include('includes/footer.php');

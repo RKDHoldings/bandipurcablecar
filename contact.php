@@ -159,7 +159,7 @@
                 </div>
                 <div class="media-body">
                     <p class="info-media_text"><a href="mailto:example@mail.com">info@bandipurcablecar.com.np</a></p>
-                    <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p>
+                    <!-- <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p> -->
                 </div>
             </div>
                                  </div>
@@ -192,7 +192,7 @@
                 </div>
                 <div class="media-body">
                     <p class="info-media_text"><a href="mailto:example@mail.com">info@bandipurcablecar.com.np</a></p>
-                    <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p>
+                    <!-- <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p> -->
                 </div>
             </div>
                                  </div>

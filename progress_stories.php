@@ -75,30 +75,30 @@
          </div>
         <div class="row d-flex justify-content-center mt-5">
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
-                    <a href="#bandipur_start">
+                    <a href="#progress_cablecar">
                       <article class="text-left">
-                        <h2>bandipur <br>cablecar</h2>
+                        <h2>bandipur cablecar</h2>
                         <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
                       </article>
                       <img src="img/hero_1.png" alt="">
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
-                    <a href="#queentower_start">
+                    <a href="#progress_queentower">
                        <article class="text-left">
-                        <h2>queen  <br>tower</h2>
+                        <h2>queen tower</h2>
                         <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
                        </article>
                        <img src="img/features/3d-cover.jpeg" alt="">
                     </a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
-                 <a href="#restrozone_start">
+                 <a href="#progress_restro">
                      <article class="text-left">
-                        <h2>restro <br>zone</h2>
+                        <h2>restro zone</h2>
                         <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
                      </article>
-                    <img src="https://img-aws.ehowcdn.com/400x400/ds-img.studiod.com/Half_Dome_from_Glacier_Point0_1.jpg" alt="">
+                    <img src="img/features/queen-tower.png" alt="">
                  </a>
                 </div>
               </div>
@@ -107,102 +107,116 @@
     <!-- container end -->
 </section>
 <!-- work timeline -->
-<section id="work_timeline">
+<section id="progress_timeline">
 <div class="container">
-  <h6>our milestones</h6>
-  <h2 class="section-title">समय तालिका</h2>
-  <p class="timeline_head">परियोजना निर्माणको कार्य तीव्र गतिमा अगाडि बढेको छ । सिभिल मेकानिकल, सिभिल कन्सल्टेन्ट, 
-मेकानिकल कन्सल्टेन्ट, फाइनान्सियल कन्सल्टेन्ट र भोटिङ्ग गर्ने गरी सम्झौता गरिए मुताविक कार्यहरु गरिएको 
-छ । परियोजनाको कामलाई विभाजन गरेर गरिएको छ । </p>
-<p>यी विविध क्षेत्रमा एकै पटक एकै साथ अन्य कार्यहरु पनि भएका छन् । अपर स्टेशनको भवन र तल्लो 
-स्टेशनको भवनमा दैनिक म्बथ ल्ष्नजत गरी म्यगदभि क्षत मा काम गरी समयमा परियोजना सञ्चालनमा 
-ल्याउने रणनीतिमा कम्पनी हिँडेको छ । कम्पनीले माइक्रो मेनेजमेन्ट नगर्ने नीतिअनुसार व्यवस्थापनलाई करार 
-सम्झौता मार्फत् मात्र हल गरिरहने तयारी थालेको छ । </p>
+<h2 class="section-title">our progress stories</h2>
   <div class="timeline">
-    <div class="timeline-nav">
-      <!-- <div class="timeline-nav__item">1985</div>
-      <div class="timeline-nav__item">1988</div>
-      <div class="timeline-nav__item">1998</div>
-      <div class="timeline-nav__item">2006</div>
-      <div class="timeline-nav__item">2008</div>
-      <div class="timeline-nav__item">2012</div>
-      <div class="timeline-nav__item">2010</div> -->
-      <div class="timeline-nav__item">२०७८</div>
-      <div class="timeline-nav__item">२०७९</div>
-      <div class="timeline-nav__item" >२०८०</div>
-      <div class="timeline-nav__item">४ वर्ष भित्र </div>
-      <div class="timeline-nav__item">३ वर्ष भित्र </div>
-      <div class="timeline-nav__item" id="restrozone_start">५ वर्ष भित्र</div>
-      <div class="timeline-nav__item" id="restrozone_start">अन्य वर्ष </div>
+    <div class="timeline__group" id="progress_cablecar">
+      <span class="timeline__year time" aria-hidden="true">2073 (Bandipur Cablecar)</span>
+      <div class="timeline__cards">
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-02-02">
+              <span class="time__month">Baishakh</span>
+            </time>
+          </header>
+          <div class="card__content">
+            <p>Attends the Philadelphia Museum School of Industrial Art. Studies design with Alexey Brodovitch, art director at Harper's Bazaar, and works as his assistant.</p>
+          </div>
+        </div>
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-02-02">
+              <span class="time__month">Jeshtha</span>
+            </time>
+          </header>
+          <div class="card__content">
+            <p>Attends the Philadelphia Museum School of Industrial Art. Studies design with Alexey Brodovitch, art director at Harper's Bazaar, and works as his assistant.</p>
+          </div>
+        </div>
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-09-01">
+              <span class="time__month">Asar</span>
+            </time>
+            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
+          </header>
+          <div class="card__content">
+            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
+          </div>
+        </div>
+      </div>
     </div>
-    <div class="timeline-wrapper">
-      <div class="timeline-slider">
-        <div class="timeline-slide" id="bandipur_start" style="background-image: url(https://unsplash.it/1920/600?image=11" data-year="1985">      <span class="timeline-year">2013</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">२०७८ फागुन १ गते </h4>
-            <p class="timeline-text">रेष्ट्रो जोन सञ्चालनमा ल्याउने ।</p>
+    <div class="timeline__group" id="progress_queentower">
+      <span class="timeline__year time" aria-hidden="true">2014(Queen Tower)</span>
+      <div class="timeline__cards">
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-07-14">
+              <span class="time__month">Jul</span>
+            </time>
+          </header>
+          <div class="card__content">
+            <p>Travels to France, Italy, Spain, and Peru. After completing fashion editorial in Lima, prolongs stay to make portraits of local people in a daylight studio</p>
           </div>
         </div>
-        <div class="timeline-slide"  id="queentower_start" style="background-image: url(https://unsplash.it/1920/600?image=12" data-year="1988">      <span class="timeline-year">1988</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">२०७९ फागुन १ गते</h4>
-            <p class="timeline-text">बटम स्टेशनको सम्पूर्ण कार्यहरु सम्पन्न गर्ने र केवलकारको सम्पूर्ण काम सकेर व्यवसायिक सञ्चालन गर्ने ।</p>
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-09-01">
+              <span class="time__month">Asar</span>
+            </time>
+            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
+          </header>
+          <div class="card__content">
+            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="1998">      <span class="timeline-year">1998</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">२०८० असोज १ गते </h4>
-            <p class="timeline-text">अपर स्टेशनको बहु आयामिक "Queen Tower" चारतारे होटलसहितको निर्माण पूर्णतया सम्पन्न गरी परियोजना मूल योजना सञ्चालनमा 
-ल्याउनका लागि औपचारिक रुपमा लन्चिङ्ग गर्नेछ । जिपलाइन सञ्चालनमा ल्याई सक्नेछ ।</p>
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-09-01">
+              <span class="time__month">Asar</span>
+            </time>
+            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
+          </header>
+          <div class="card__content">
+            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2006">      <span class="timeline-year">2006</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">४ वर्ष भित्र </h4>
-            <p class="timeline-text">ठुलोढुङ्गा – सिद्धगुफा केवलकार सञ्चालनमा ल्याउँछ ।
-साथमा वाटर पार्क÷फन पार्क एवं मिराकल गार्डेनको पूर्वाधार बनाउँछ । 
-माथिल्लो स्टेशनमा बन्जीजम्पको पूर्वाधार निर्माण गर्नेछ ।</p>
+      </div>
+    </div>
+    <div class="timeline__group" id="progress_restro">
+      <span class="timeline__year time" aria-hidden="true">2016(Cablecar Restro )</span>
+      <div class="timeline__cards">
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-08-18">
+              <span class="time__month">Aug</span>
+            </time>          
+          </header>
+          <div class="card__content">
+            <p>Upon moving to Brooklyn that summer, I began photographing weddings in Chicago</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2008">      <span class="timeline-year">2008</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">३ वर्ष भित्र </h4>
-            <p class="timeline-text">आँबु खैरेनी पृथ्वीराजमार्ग देखि छिम्केश्वरी काली माँ केवलकारको काम 
-सम्पन्न गरी सञ्चालनमा ल्याउँछ । जसको लम्वाई ३६०० मिटर लामो 
-रहेको छ ।</p>
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-09-01">
+              <span class="time__month">Asar</span>
+            </time>
+            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
+          </header>
+          <div class="card__content">
+            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2010">      <span class="timeline-year">2010</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">५ वर्ष भित्र</h4>
-            <p class="timeline-text">छिम्केश्वरी क्षेत्रमा कलात्मक बहुआयामिक रिर्सोट सञ्चालनमा ल्याउँछ । </p>
-          </div>
-        </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2012">      <span class="timeline-year">2012</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">अन्य वर्ष </h4>
-            <p class="timeline-text">अध्यक्ष कम्पनी पञ्चासे केवलकार एण्ड टुर्स लि.ले सुरु गर्न लागेको 
-बृहत्तर पञ्चासे पर्यटन पूर्वाधारयुक्त केवलकार परियोजनाको निर्माण 
-सम्पन्न गर्नका लागि विशेष भूमिका खेल्दछ ।
-</p>
-          </div>
-        </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2013">      <span class="timeline-year">2013</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-        </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2015">      <span class="timeline-year">2015</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-        </div>
-        <div class="timeline-slide" id="restrozone_start" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2016">      <span class="timeline-year">2016</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <div class="timeline__card card">
+          <header class="card__header">
+            <time class="time" datetime="2008-09-01">
+              <span class="time__month">Asar</span>
+            </time>
+            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
+          </header>
+          <div class="card__content">
+            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
           </div>
         </div>
       </div>

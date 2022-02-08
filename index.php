@@ -25,7 +25,7 @@
             </div>
           </div>
         </div> <!-- .item -->
-        <div class="media-29121 overlay" style="background-image: url('img/videos/queen_tower2.mp4');">
+        <div class="media-29121 overlay" style="background-image: url('img/hero_1.png');">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
@@ -391,7 +391,7 @@
              <div class="card">
                <div class="content">
                 <div class="front">
-                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/3d-cover.jpeg);">
                      <div class="text w-100">
 											  <h3><a href="#">cable car restro service</a></h3>
 										 </div>
@@ -435,7 +435,7 @@
              <div class="card">
                <div class="content">
                 <div class="front">
-                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/water_funpark.jpg);">
                      <div class="text w-100">
 											  <h3><a href="#">water funpark</a></h3>
 										 </div>
@@ -519,7 +519,7 @@
           <a href="" target="_blank">
              <h5 class="partner_type text-center">Associate Company</h5>
              <p class="partner_name text-center">Tourism Investment Fund limited</p>
-                <img src="img/partner_company/panchase-logo.png" alt="">
+                <img src="img/partner_company/tourism_logo.png" alt="">
           </a>
      </div>
        <!-- client single item -->
@@ -603,7 +603,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">finance management</h5>
             <p class="partner_name text-center">tourism investment fund limited</p>
-              <img src="img/partner_company/bandipur_rural.png" alt="">
+              <img src="img/partner_company/tourism_logo.png" alt="">
          </a>
      </div>
        <!-- client single item -->
@@ -631,7 +631,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Mechanical inspection</h5>
             <p class="partner_name text-center">TUV India Pvt Ltd(TUV NURD Group)</p>      
-              <img src="img/partner_company/bandipur_rural.png" alt="">       
+              <img src="img/partner_company/logo_tuv_india.svg" alt="">       
          </a>
      </div>
    <!-- client single item end -->

@@ -37,8 +37,8 @@
           <div class="row"> 
                <div class="col">
                   <ul class="menu">
-                      <a href="who-we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
-                      <li class="first leaf"><a href="/en/who-we-are/about-the-company" title="About Mubadala">About Bandipur</a></li>
+                      <a href="who_we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
+                      <li class="first leaf"><a href="about_bandipur.php" title="About Mubadala">About Bandipur</a></li>
                       <li class="leaf"><a href="" title="Our History">Our History</a></li>
                       <li class="collapsed"><a href="" title="Board of Directors">Board of Directors</a></li>
                       <li class="collapsed"><a href="our_structure.php" title="Our Structure">Our Structure</a></li>                         

@@ -120,7 +120,7 @@
                   <ul class="video-list">
 							       	<li>
                          	<div class="thumb">
-						               	<a title="" href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=148s&ab_channel=BandipurCablecar"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_1.png"></a>
+						               	<a title="" href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=148s&ab_channel=BandipurCablecar" target="_blank"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_1.png"></a>
 						              </div>
 					     	          <div class="details">
 						               	<h3 class="video_heading"><a title="" href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=148s&ab_channel=BandipurCablecar" target="_blank">परिकल्पना ! नेपालमा एक बिशाल परियोजनाको ! अब तनहुँ जिल्लाको बन्दीपुरमा करिब १ बर्षमा यस्तो केबुलकार!</a></h3>
@@ -128,7 +128,7 @@
 				            	</li>
 									  	<li>			
 					         	      <div class="thumb">
-						              	<a title="" href="https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_2.png"></a>
+						              	<a title="" href="https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar" target="_blank"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_2.png"></a>
 					              	</div>
 					              	<div class="details">
 						               	<h3 class="video_heading"><a title="" href=" https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar" taget="_blank">|| बन्दीपुरमा केवलकार निर्माण तिब्र गतिमा हुदै || तल्लो स्टेशन ||</a></h3>
