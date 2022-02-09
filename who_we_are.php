@@ -82,9 +82,7 @@
                 <div class="tab-content" id="myTabContent">
                     <div class="tab-pane fade active show" id="faq_tab_1" role="tabpanel" aria-labelledby="faq_tab_1-tab">
                         <div class="container p-3">
-                            <p>जीवन स्तरमा परिवर्तन दिने । जनधन कर्पोरेट संस्कृतिको अभिन्न अंग, बन्दीपुर सर्वाङ्गीर्ण पर्यटनको रुपमा स्थापित हुनेछ । स्वभाविक आय आर्जनको अनुभूति सबैमा गराउँनेछ । केवलकार पर्यटकको मुख्य अंगको रुपमा अगाडि बढाउनेछ ।</p>
-              
-                          
+                            <p>जीवन स्तरमा परिवर्तन दिने । जनधन कर्पोरेट संस्कृतिको अभिन्न अंग, बन्दीपुर सर्वाङ्गीर्ण पर्यटनको रुपमा स्थापित हुनेछ । स्वभाविक आय आर्जनको अनुभूति सबैमा गराउँनेछ । केवलकार पर्यटकको मुख्य अंगको रुपमा अगाडि बढाउनेछ ।</p>                                      
                         </div>
                     </div>
                     <div class="tab-pane fade" id="faq_tab_2" role="tabpanel" aria-labelledby="faq_tab_2-tab">
@@ -283,7 +281,7 @@
             <div class="col-lg-6">
             <ul>
               <li>
-                <a class="l-pdf" href="img/care_rating/care ratingsBB.pdf" target="_blank">
+                <a class="l-pdf" href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" target="_blank">
                  <i class="icon-file"></i> <span>Credit Ratings for Bank Facilities</span></a>
               </li>
             </ul>
@@ -312,36 +310,36 @@
 	<div class="timeline">
 		<ul>
 			<li>
-				<span> 2078/01/08</span>
+				<span> 2069.09.22 (2013.01.06)</span>
 				<div class="content">
-					<h3> Registration of our company</h3>
+					<h3>Registered with Government of Nepal, Ministry of Industry, Company Registrar office, Kathmandu Bs under registration No 108644/069/70</h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 					</p> -->
 				</div>
 			</li>
 			<li>
-				<span>2078/05/13</span>
+				<span>2069.11.13 Bs( 2013.02.24)</span>
 				<div class="content">
-					<h3>Acquired by RKD Holding</h3>
+					<h3>Company Registered with Tax office under PAN no 600918925</h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p> -->
 				</div>
 			</li>
 			<li>
-				<span>2078/06/21</span>
+				<span>2018.08.03</span>
 				<div class="content">
-					<h3>Agreement with CRS India </h3>
+					<h3>Supplementgary meorandum of Understanding(MOU) entered into betweeen Bandipur Cable Car Pvt Ltd(BCCPL) and Coveyor & Ropeway services Pvt Ltd(CRSPL) Kolkata, India </h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p> -->
 				</div>
 			</li>
             <li>
-				<span>2078/06/21</span>
+				<span>2075.07.19 B.S (2018.11.05 A.D)</span>
 				<div class="content">
-					<h3>financial closure </h3>
+					<h3>Registration with VAT</h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p> -->
@@ -350,10 +348,22 @@
             <li>
 				<span>2078/05/13</span>
 				<div class="content">
-					<h3>Conversion from private to Public Limited </h3>
+					<h3>Agreement between Bandipur Cable Car Pvt Ltd and Conveyor & Rope way services Pvt Ltd(CRSPL) for the construction of Passenger Ropeway between Bandipur</h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p> -->
+				</div>
+			</li>
+            <li>
+				<span>2077/08/09</span>
+				<div class="content">
+					<h3>Bandipur Cable Car financial closure from Nepal SBI & NMB Bank</h3>
+				</div>
+			</li>
+            <li>
+				<span>2078/05/13</span>
+				<div class="content">
+					<h3>Conversion from private to Public Limited </h3>
 				</div>
 			</li>
 

@@ -17,13 +17,11 @@
                                         <div class="topbar__social-media">
                                            <ul>
                                               <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i data-feather="facebook"></i></a></li>
-                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="you-tube"><i data-feather="youtube"></i></a></li>
-                                                
-                                            </ul>
+                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="you-tube"><i data-feather="youtube"></i></a></li>                                               
+                                           </ul>
                                         </div>
                                     </li>
-                                </ul>                            
-                       
+                                </ul>                                                  
                     </div>
                 </div>
             </div>
@@ -58,11 +56,11 @@
                       <li><a href="about_bandipur.php">about bandipur</a></li>
                       <li><a href="our_structure.php">our structure</a>
                          <ul class="nav-dropdown">
-                             <li><a href="our_structure/#directors_team">board of directors</a></li>
+                             <li><a href="our_structure#directors_team">board of directors</a></li>
                        <!-- <li><a href="#">investment committee</a></li>         -->
                        <!-- <li><a href="#">operating model</a></li>  -->
                             <li><a href="co-operative_governance.php">co-operative governance</a></li>
-                            <li><a href="#">investment strategy</a></li>                                
+                            <!-- <li><a href="#">investment strategy</a></li>                                 -->
                          </ul>
                       <!-- <li><a href="about_bandipur.php">our mission vision & values</a></li> -->
                       <li><a href="award_recognition.php">Award & recognition</a></li>            
@@ -85,8 +83,8 @@
                   <ul class="megamenu-list list-col-3">
                   <h4 class="nav_title">what we do</h4>              
                     <ul class="nav-dropdown">
-                      <li><a href="what_we_do.php/#features-cablecar">Transparent Cablecar</a></li>
-                      <li><a href="#">queen tower</a>
+                      <li><a href="what_we_do.php#features-cablecar">Transparent Cablecar</a></li>
+                      <li><a href="what_we_do.php#features-queentower">queen tower</a>
                       <li><a href="#">Award & recognition</a></li>               
                     </ul>
                 </li>
@@ -106,10 +104,10 @@
                   </ul>
                   <ul class="megamenu-list list-col-3">  
                     <h4 class="nav_title">Investors Relation</h4>             
-			          		<li><a href="#investment_budget">share structure</a></li>
-                    <li><a href="#financial_report">financial information</a></li>
-                    <li><a href="#investment_strategy">Investment_strategy</a></li>
-                    <li><a href="#management_team">Risk Management</a></li>
+			          		<li><a href="investors_relation.php#investment_budget">share structure</a></li>
+                    <li><a href="investors_relation.php#financial_report">financial information</a></li>
+                    <li><a href="investors_relation.php#investment_strategy">Investment_strategy</a></li>
+                    <li><a href="investors_relation.php#management_team">Risk Management</a></li>
                   </ul>
                  
                 </div>

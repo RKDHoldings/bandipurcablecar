@@ -29,15 +29,8 @@
 	<div class="container">
 	 <div class="row">
         <h6>our recent work</h6>
-        <h2 class="section-title">Featured Investments</h2>
-         <!-- <p>We are commercially-focused, deploying capital across the portfolio in promising sectors and geographies.
-With our entrepreneurial mindset, we have evolved our business model to focus more on our shareholders, talent and world-class partnerships.
-Our most valuable asset is our people; we develop world-class talent in a values-driven, resilient corporate culture that inspires our employees to succeed.
-</p> -->
-        <p>कम्पनीले छैठाँै साधारण सभासम्म परियोजनालाई स्थानीय आवश्यकता राष्ट्रिय आवश्यकता र थप 
-पर्यटकीय प्रवर्धनको दृष्टिकोणमा आधारित रहेर निरन्तर परिष्कृत र विकसित गर्दै अगाडि बढेको छ र 
-प्रविधिको निरन्तर विकास र मागसँगै कम्पनी सदैव आफूलाई अद्यावधिक गर्न चाहन्छ । यसै मान्यताको 
-आधारमा परियोजनामा सँघारका कार्यक्रमहरु प्रस्तुत गरिएको छ ।</p>
+        <h2 class="section-title">Featured Investments</h2>   
+        <p>कम्पनीले छैठाँै साधारण सभासम्म परियोजनालाई स्थानीय आवश्यकता राष्ट्रिय आवश्यकता र थप पर्यटकीय प्रवर्धनको दृष्टिकोणमा आधारित रहेर निरन्तर परिष्कृत र विकसित गर्दै अगाडि बढेको छ र प्रविधिको निरन्तर विकास र मागसँगै कम्पनी सदैव आफूलाई अद्यावधिक गर्न चाहन्छ । यसै मान्यताको आधारमा परियोजनामा सँघारका कार्यक्रमहरु प्रस्तुत गरिएको छ ।</p>
 					  <!-- <div class="featured-carousel owl-carousel"> -->
 						<div class="col-lg-3">
               <a href="#features-cablecar">
@@ -255,7 +248,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
         <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">
-                    <img src="img/about/hotel_room.png">
+                    <img src="img/features/restro-zone.jpg">
                     <h3>cablecar Restro sewa</h3>
                 </div>
             </div>
@@ -309,7 +302,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
         <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">
-                    <img src="img/about/hotel_room.png">
+                    <img src="img/features/restro-zone.jpg">
                     <h3>Restro Sewa</h3>
                 </div>
             </div>

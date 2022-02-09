@@ -222,6 +222,7 @@
                               <li class="info__one__counter-single two">
                                 <div class="value" akhi="42">0</div> <span class="info__one__counter__text ms-1">Crore</span>  
                                   <p class="info__one__counter__text">Total Paid Up Share Amount</p>
+                                  <span>As per audit 2077/78</span>
                               </li>
                           </ul>
                       </div>

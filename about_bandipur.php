@@ -411,7 +411,8 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image" src="img/hero_1.png">
+                              <img class="content-image " src="img/hero_1.png" >
+                              <a class= "lightbox-close" href= "#">X</a>
                               <div class="content-details fadeIn-left">
                                 <h3>Transparent Cablecar</h3>
                                 <!-- <p>This is a short description</p> -->

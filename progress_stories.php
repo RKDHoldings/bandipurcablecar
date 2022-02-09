@@ -29,85 +29,87 @@
         <div class="row">
                <h6>process stories</h6>
               <h2 class="section-title">  Our project process   </h2>
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, maiores delectus molestias laborum suscipit a, voluptate beatae ab, sapiente aspernatur minus aut explicabo consectetur nemo facere recusandae consequatur corrupti molestiae!</p>
-                 <!-- bar graph for project process -->
-        </div>
-        <!-- row end -->
-         <div class="progress_content">
-         <div class="row d-flex justify-content-center">
-        <div class="col-md-4">
-            <div class="progress blue"  data-aos="fade-left"data-aos-duration="1000">
-                <span class="progress-left">
-                    <span class="progress-bar"></span>
-                </span>
-                <span class="progress-right">
-                    <span class="progress-bar"></span>
-                </span>
-                <div class="progress-value">90%</div>
-            </div>
-            <h3 class="process_heading">queen tower 13 storey</h3>
-        </div>
-        <div class="col-md-4">
-            <div class="progress yellow" data-aos="fade-left"data-aos-duration="2000">
-                <span class="progress-left">
-                    <span class="progress-bar"></span>
-                </span>
-                <span class="progress-right">
-                    <span class="progress-bar"></span>
-                </span>
-                <div class="progress-value">75%</div>
-            </div>
-            <h3  class="process_heading">bandipur cablecar</h3>
-        </div>
-        <div class="col-md-4">
-            <div class="progress yellow" data-aos="fade-left"data-aos-duration="3000">
-                <span class="progress-left">
-                    <span class="progress-bar"></span>
-                </span>
-                <span class="progress-right">
-                    <span class="progress-bar"></span>
-                </span>
-                <div class="progress-value">60%</div>
-            </div>
-            <h3  class="process_heading">restro zone</h3>
-        </div>
-        </div>
-         </div>
-        <div class="row d-flex justify-content-center mt-5">
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto ">
-                    <a href="#progress_cablecar">
-                      <article class="text-left">
-                        <h2>bandipur cablecar</h2>
-                        <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
-                      </article>
-                      <img src="img/hero_1.png" alt="">
-                    </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
-                    <a href="#progress_queentower">
-                       <article class="text-left">
-                        <h2>queen tower</h2>
-                        <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
-                       </article>
-                       <img src="img/features/3d-cover.jpeg" alt="">
-                    </a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
-                 <a href="#progress_restro">
-                     <article class="text-left">
-                        <h2>restro zone</h2>
-                        <!-- <h4>Descripción corta de la imagen en cuestión</h4> -->
-                     </article>
-                    <img src="img/features/queen-tower.png" alt="">
-                 </a>
-                </div>
-              </div>
+              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, maiores delectus molestias laborum suscipit a, voluptate beatae ab, sapiente aspernatur minus aut explicabo consectetur nemo facere recusandae consequatur corrupti molestiae!</p> -->
+                 <!-- progress bar for project process -->
            </div>
+        <div class="project_process row">
+              <div class="progress-bar col-lg-4">
+                  <div class="label" data-count="90" > 0% </div>
+                  <div class="line" style="width:300px">
+                       <span></span>
+                  </div>
+                  <h3 class="process_heading">queen tower</h3>
+              </div>
+
+              <div class="progress-bar  col-lg-4">
+                   <div class="label" data-count="80" > 0% </div>
+                        <div class="line" style="width:300px">
+                             <span> </span>
+                        </div>
+                        <h3 class="process_heading">bandipur Cablecar</h3>
+              </div>
+
+              <div class="progress-bar  col-lg-4">
+                  <div class="label" data-count="5" > 0% </div>
+                      <div class="line" style="width:300px">
+                          <span> </span>
+                      </div>
+                      <h3 class="process_heading">Restro Zone</h3>
+               </div>
+        </div>  
+        <!-- row end -->
+    
       </div>
     <!-- container end -->
 </section>
+<section id="features_cablecar">
+   <div class="container">
+        <div class="row">
+            <!-- <h2 class="section-title">Special features of bandipur cablecar</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime sed doloribus cupiditate at dolore ducimus rem. Officiis quod ea laboriosam veniam assumenda corrupti, cumque reiciendis tenetur dolores temporibus eaque possimus.</p> -->
+               <div class="col-lg-4">
+                    <div class="content_bandipur">
+                       <a href="" targ'''
+                       et="_blank">
+                              <div class="content-overlay"></div>
+                              <img class="content-image " src="img/hero_1.png" >
+                              <!-- <a class= "lightbox-close" href= "#">X</a> -->
+                              <div class="content-details fadeIn-left">
+                                <h3>Transparent Cablecar</h3>
+                                <!-- <p>This is a short description</p> -->
+                              </div>
+                       </a>
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="content_bandipur">
+                       <a href="" target="_blank">
+                              <div class="content-overlay"></div>
+                              <img class="content-image" src="img/features/queen-tower.png">
+                              <div class="content-details fadeIn-left">
+                                <h3>4 Star Queen Tower</h3>
+                                <!-- <p>This is a short description</p> -->
+                              </div>
+                       </a>
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="content_bandipur">
+                       <a href="" target="_blank">
+                              <div class="content-overlay"></div>
+                              <img class="content-image" src="img/features/3d-cover.jpeg">
+                              <div class="content-details fadeIn-left">
+                                <h3>Cablecar Restro Zone</h3>
+                                <!-- <p>This is a short description</p> -->
+                              </div>
+                       </a>
+                    </div>
+               </div>
+        </div>
+   </div>
+</section>
 <!-- work timeline -->
-<section id="progress_timeline">
+<!-- <section id="progress_timeline">
 <div class="container">
 <h2 class="section-title">our progress stories</h2>
   <div class="timeline">
@@ -223,6 +225,66 @@
     </div>
   </div>
 </div>
+</section> -->
+<!-- work progress -->
+<section id="project_work_process">
+     <div class="container">
+         <div class="row">
+                <h2>Bandipur Cablecar</h2>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/1.jpg" alt="">
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/2.jpg" alt="">
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/3.jpg" alt="">
+                    </div> 
+               </div>
+         </div>
+         <!-- row end -->
+         <!-- new row start -->
+         <div class="row mt-5">
+               <h2>5 star queen tower</h2>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/q1.jpeg" alt="">
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/q2.jpg" alt="">
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/q3.jpg" alt="">
+                    </div> 
+               </div>
+         </div>
+           <!-- row end -->
+         <!-- new row start -->
+         <!-- <div class="row">
+               <div class="col-lg-4">
+                     
+               </div>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/q2.jpg" alt="">
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="project-img"> 
+                        <img src="img/project_process/q3.jpg" alt="">
+                    </div> 
+               </div>
+         </div> -->
+     </div>
 </section>
 
 

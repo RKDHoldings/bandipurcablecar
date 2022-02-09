@@ -117,7 +117,7 @@
          <div class="row care_rating mt-5"> 
              <h2 class="section-title">CARE Ratings</h2>            
          <div class="col-lg-3">
-                     <a target="_blank" href="img/care_rating/care ratingsBB.pdf" title=" Report">
+                     <a target="_blank" href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" title=" Report">
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">CARE-NP BB</h5>
