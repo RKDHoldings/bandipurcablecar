@@ -27,6 +27,7 @@
      <p>Our employee-owners are among the best in the industry, many of whom have been honored as 40 Under 40 honorees in their communities or by ENR, an industry-leading publication. These accomplishments reflect the skill and grit of our employee-owners and the commitment we have to fulfilling our mission.</p>
      <div class="row">
          <div class="col-lg-4">
+            <a href="img/care_rating/care ratingsBB.pdf" target="_blank">
             <div class="item_award">
 							<div class="item__head">
 								<div class="item__image" style="background-image: url(https://secureservercdn.net/198.71.233.36/r85.227.myftpupload.com/wp-content/uploads/2019/08/icon-people@2x.png?time=1642195771);"></div><!-- /.item__image -->
@@ -36,12 +37,13 @@
 								<p>Care Ratings Nepal Limited (CRNL), A subsidiary of CARE Ratings Limited India has rated CARE-NP BB for Bandipur Cable Car. </p>
 							</div><!-- /.item__body -->
 		   	</div>
+            </a>
          </div>
          <div class="col-lg-4">
             <div class="item_award">
 						<div class="item__head">
                            <div class="item__image" style="background-image: url(https://secureservercdn.net/198.71.233.36/r85.227.myftpupload.com/wp-content/uploads/2019/08/icon-ribbon@2x.png?time=1642195771);"></div>
-                              <span>#54</span> <h3 class="text-uppercase"> Engineering News Record<br> Top 400 Contractors</h3>
+                               <h3 class="text-uppercase">Honoured by Bandipur Rural Municipality</h3>
 							  </div><!-- /.item__head -->
 							<div class="item__body">
 								<p>National Center for Employee Ownership/October 2021 </p>

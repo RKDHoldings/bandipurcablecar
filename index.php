@@ -217,6 +217,7 @@
                               <li class="info__one__counter-single">
                                 <div class="value" akhi="822">0</div> 
                                   <p class="info__one__counter__text">Promoter Share</p>
+                                  <span>As per audit 2077/78</span>
                               </li>
                               <li class="info__one__counter-single two">
                                 <div class="value" akhi="42">0</div> <span class="info__one__counter__text ms-1">Crore</span>  
@@ -276,8 +277,8 @@
                                <img src="img/icon_pack/capital/value.png" alt="">
                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                                 <!-- <h4 class="value_currency">NPR</h4> -->
-                                    <div class="value" akhi="86.87">0 </div>
-                                    <h4 class="value_heading">crore</h4>
+                                    <div class="value" akhi="2.10">0 </div>
+                                    <h4 class="value_heading">Arba</h4>
                                  </div>
                             </div>                           
           </li>
@@ -330,7 +331,7 @@
                       <div class="front">
                           <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.png);">
                              <div class="text w-100">
-									        	  	<h3><a href="#">4 star queen tower</a></h3>
+									        	  	<h3><a href="#">5 star queen tower</a></h3>
 									       	   </div>
                           </div>
                       </div>
@@ -414,7 +415,7 @@
              <div class="card">
                <div class="content">
                 <div class="front">
-                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/mirror-maze.jpg);">
+                  <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/waterfall.jpg);">
                      <div class="text w-100">
 											  <h3><a href="#">landscaping & artificial waterfall</a></h3>
 										 </div>
@@ -537,9 +538,9 @@
           <a href="" target="blank">
              <h5 class="partner_type text-center">mechanical consultant</h5>
              <p class="partner_name text-center">CRS India & Breco England </p>
-             <div class="single_client_img">
+             <!-- <div class="single_client_img">
                <img src="img/partner_company/crspl_logo.png" alt="">
-             </div>
+             </div> -->
           </a>
      </div>
        <!-- client single item -->

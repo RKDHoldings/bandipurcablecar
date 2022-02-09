@@ -174,7 +174,7 @@
             <div class="col-lg-12">
                <div class="table_details" id="lower_station" data-aos="fade-up" data-aos-duration="1000">
                   <h3 class="secondary_heading">lower station</h3>
-                  <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum enim officiis reiciendis veritatis magni beatae id quo nemo optio? Voluptates, repudiandae fuga nisi rerum doloribus alias impedit saepe exercitationem quidem.</p> -->
+                  <p>Valuation report of land</p>
                <table class="rwd-table">
                      <tr>
                         <th>क्र.स</th>
@@ -187,24 +187,24 @@
                         <th>मूल्य</th>
                      </tr>
                      <tr>
-                        <td data-th="Movie Title">१.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">४ ग</td>
-                        <td data-th="Gross">५९४</td>
-                        <td data-th="Gross">५–०–०–०</td>
-                        <td data-th="Gross">२०७०/०६/१०</td>
-                        <td data-th="Gross">१०,००,००० /- प्रति आना</td>
+                        <td data-th="number">१.</td>
+                        <td data-th="district">तनहुँ</td>
+                        <td data-th="municipality">बन्दीपुर</td>
+                        <td data-th="map_no">४ ग</td>
+                        <td data-th="kitta_no">५९४</td>
+                        <td data-th="area">५–०–०–०</td>
+                        <td data-th="registered_date">२०७०/०६/१०</td>
+                        <td data-th="price">१०,००,००० /- प्रति आना</td>
                      </tr>
                      <tr>
-                        <td data-th="Movie Title">२</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">४ ग</td>
-                        <td data-th="Gross">८१६</td>
-                        <td data-th="Gross">३–०–०–०</td>
-                        <td data-th="Gross">२०७६/०९/१८</td>
-                        <td data-th="Gross">१०,००,००० /- प्रति आना</td>
+                        <td data-th="number">२</td>
+                        <td data-th="district">तनहुँ</td>
+                        <td data-th="municipality">बन्दीपुर</td>
+                        <td data-th="map_no">४ ग</td>
+                        <td data-th="kitta_no">८१६</td>
+                        <td data-th="area">३–०–०–०</td>
+                        <td data-th="registered_date">२०७६/०९/१८</td>
+                        <td data-th="price">१०,००,००० /- प्रति आना</td>
                      </tr>
                      <tr>
                         <td data-th="Movie Title">३.</td>
@@ -405,7 +405,7 @@
 <section id="features_cablecar">
    <div class="container">
         <div class="row">
-            <h2 class="section-title">features of bandipur cablecar</h2>
+            <h2 class="section-title">Special features of bandipur cablecar</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime sed doloribus cupiditate at dolore ducimus rem. Officiis quod ea laboriosam veniam assumenda corrupti, cumque reiciendis tenetur dolores temporibus eaque possimus.</p>
                <div class="col-lg-4">
                     <div class="content_bandipur">

@@ -452,11 +452,7 @@ h2 {
   bottom: 4px;
   left:-8px; 
 }
-
-.news {
-  width: 160px; background-color: #004F8A;
-}
-
+.news { width: 160px; background-color: #004F8A;}
 .news-scroll a { text-decoration: none; color: #fff;}
 .breaking-news{
   background-color: #ff7800;
@@ -690,7 +686,6 @@ img.about-img2:hover a.video{
   /* background-color: #ffff; */
   padding: 3rem 0 3rem 0;
 }
-/* Style the counter cards */
 
 .card {
   box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.1);
@@ -922,14 +917,14 @@ blockquote{display: inline-block; font-weight: 700;}
   margin:-20px 0px 0px 55px;
   display: block;
   }
- .rating-card  .progress:after, .rating-card .progress-2:after, .rating-card .progress-3:after, .rating-card .progress-4:after,.rating-card .progress-5:after{
+ /* .rating-card  .progress:after, .rating-card .progress-2:after, .rating-card .progress-3:after, .rating-card .progress-4:after,.rating-card .progress-5:after{
   content: '';
   display: block;
   background: #004F8A;
   width:80%;
   height: 100%;
   border-radius: 9px;
-  }
+  } */
   .progress-2:after{
   width: 60%;
   }
@@ -1291,6 +1286,9 @@ ul.menu{padding: 0;}
   width: 100%; */
   float: left;
   text-align: right;
+}
+.info__one__counter-single span{
+  color:#a5a3b5 ;
 }
 .info__one__counter__text {
   font-size: 20px;

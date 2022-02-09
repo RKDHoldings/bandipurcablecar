@@ -314,7 +314,7 @@
 			<li>
 				<span> 2078/01/08</span>
 				<div class="content">
-					<h3> Registration of Chhimkeshwori Cablecar</h3>
+					<h3> Registration of our company</h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
 					</p> -->
@@ -323,7 +323,7 @@
 			<li>
 				<span>2078/05/13</span>
 				<div class="content">
-					<h3>Conversion from Private to Public Limited Company</h3>
+					<h3>Acquired by RKD Holding</h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p> -->
@@ -332,12 +332,31 @@
 			<li>
 				<span>2078/06/21</span>
 				<div class="content">
-					<h3>7th AGM(Annual General Meeting) of Bandipur Cable Car Company</h3>
+					<h3>Agreement with CRS India </h3>
 					<!-- <p>
 						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 					</p> -->
 				</div>
 			</li>
+            <li>
+				<span>2078/06/21</span>
+				<div class="content">
+					<h3>financial closure </h3>
+					<!-- <p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+					</p> -->
+				</div>
+			</li>
+            <li>
+				<span>2078/05/13</span>
+				<div class="content">
+					<h3>Conversion from private to Public Limited </h3>
+					<!-- <p>
+						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
+					</p> -->
+				</div>
+			</li>
+
 		</ul>
 	</div>
   </div>

@@ -58,7 +58,7 @@
                       <li><a href="about_bandipur.php">about bandipur</a></li>
                       <li><a href="our_structure.php">our structure</a>
                          <ul class="nav-dropdown">
-                             <li><a href="#directors_team">board of directors</a></li>
+                             <li><a href="our_structure/#directors_team">board of directors</a></li>
                        <!-- <li><a href="#">investment committee</a></li>         -->
                        <!-- <li><a href="#">operating model</a></li>  -->
                             <li><a href="co-operative_governance.php">co-operative governance</a></li>
@@ -85,7 +85,7 @@
                   <ul class="megamenu-list list-col-3">
                   <h4 class="nav_title">what we do</h4>              
                     <ul class="nav-dropdown">
-                      <li><a href="#">Transparent Cablecar</a></li>
+                      <li><a href="what_we_do.php/#features-cablecar">Transparent Cablecar</a></li>
                       <li><a href="#">queen tower</a>
                       <li><a href="#">Award & recognition</a></li>               
                     </ul>
@@ -101,7 +101,7 @@
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4">
                       <div class="inner_nav">
-                             <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
+                             <img src="img/investment/investing.jpg" class="nav_img" alt="">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  

@@ -72,12 +72,12 @@ Our most valuable asset is our people; we develop world-class talent in a values
                       <div class="front">
                         <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.png);">
                           <div class="text w-100">
-									        		<h3><a href="#features-queentower">4 star queen tower</a></h3>
+									        		<h3><a href="#features-queentower">5 star queen tower</a></h3>
 									      	</div>
                         </div>
                       </div>
                       <div class="back from-left">
-                         <h2>4 star queen tower</h2>
+                         <h2>5 star queen tower</h2>
                          <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
                       </div> 
                      </div>
@@ -290,7 +290,7 @@ Our most valuable asset is our people; we develop world-class talent in a values
       <div class="row">
 		  <h6>queen tower</h6>
          <h2 class="section-title">queen tower 13 storey</h2>
-		 <p>We will operate 4 Star hotel named as “Queen Tower” Hotel.  It will have minimum of 84 and maximum of 100 rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and operation.</p>
+		 <p>We will operate 5 Star hotel named as “Queen Tower” Hotel.  It will have minimum of 84 and maximum of 100 rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and operation.</p>
 	       <!--inner contents of queen tower 13 storey  -->
          <div class="card col-lg-4">
             <div class="face face1">
