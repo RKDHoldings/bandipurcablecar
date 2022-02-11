@@ -740,7 +740,14 @@ All employees have a responsibility for managing risk and this is reflected in I
   </div>
 </section>
 
-
+<!--  -->
+<section id="operating_model">
+    <div class="container">
+       <div class="row">
+       <img src="img/about/model.png" alt="">
+       </div>
+    </div>
+</section>
 
 <?php
  include('includes/footer.php');

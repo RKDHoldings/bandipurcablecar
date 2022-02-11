@@ -31,29 +31,29 @@
 <div class="filters filter-button-group">
 	<ul>
 		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
-		<li><a href="javascript:void(0);" data-filter="bike">events</a></li>
-		<li><a href="javascript:void(0);" data-filter="bus">team</a></li>
+		<li><a href="javascript:void(0);" data-filter="bike">5th AGM Bandipur Cablecar</a></li>
+		<li><a href="javascript:void(0);" data-filter="bus">Bandipur Cablecar Project</a></li>
       <li><a href="javascript:void(0);" data-filter="car">main office</a></li>
 	</ul>
 </div>
 	<div id="container" class="isotope"> 
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1WcNDZ4BGtgDsJF7guFJBqdsjOi28sTsk&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1WcNDZ4BGtgDsJF7guFJBqdsjOi28sTsk&export=download">
+        <a class="popupimg" href="img/gallery_icon/1.jpg">
+          <img src="img/gallery_icon/1.jpg">
         </a>
         <div class="overlay">Bike</div>
       </div>
 
       <div class="grid-item" data-filter="car">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1x1Ci8s3_dKgRVqqRfDao52wLqGoumKdB&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1x1Ci8s3_dKgRVqqRfDao52wLqGoumKdB&export=download">
+        <a class="popupimg" href="img/gallery_icon/2.jpg">
+          <img src="img/gallery_icon/2.jpg">
         </a>
         <div class="overlay">Car</div>
       </div>
             
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1Izd6KrrgNXGmAV7QgQRpd7WTM-AfkE6x&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1Izd6KrrgNXGmAV7QgQRpd7WTM-AfkE6x&export=download">
+        <a class="popupimg" href="img/gallery_icon/3.jpg">
+          <img src="img/gallery_icon/3.jpg">
         </a>
         <div class="overlay">Bike</div>
       </div>   
@@ -66,8 +66,8 @@
       </div>
     
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1WcNDZ4BGtgDsJF7guFJBqdsjOi28sTsk&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1WcNDZ4BGtgDsJF7guFJBqdsjOi28sTsk&export=download">
+        <a class="popupimg" href="img/gallery_icon/4.jpg">
+          <img src="img/gallery_icon/4.jpg">
         </a>
         <div class="overlay">Bike</div>
       </div> 
@@ -115,8 +115,8 @@
       </div>
         
       <div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1n7ZtvxDX6HpmCFJ6c0HhpeplMmLRBcou&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1n7ZtvxDX6HpmCFJ6c0HhpeplMmLRBcou&export=download">
+        <a class="popupimg" href="img/gallery_icon/5.jpg">
+          <img src="img/gallery_icon/5.jpg">
         </a>
         <div class="overlay">Bike</div>
       </div>
