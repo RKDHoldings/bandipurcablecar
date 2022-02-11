@@ -53,23 +53,23 @@
           <div class="col-lg-3">
           <nav class="sidebar card py-2 mb-4">
                          <div class="sidebar_news1">
-                            <h4>leadership team</h4>
+                               <a href="downloads.php">  <h4>Downloads</h4></a>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" target="_blank">CARE Ratings <i data-feather="arrow-right"></i></a></li>
                                  <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>finance team</h4>
+                           <h4>Our Structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team">Board of Directors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#governance-info">Governance committee <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>media center</h4>
+                           <h4>Yearly Calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly calender<i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">

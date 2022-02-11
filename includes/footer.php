@@ -51,9 +51,9 @@
                <div class="col">
                     <ul class="menu">
                          <a href="investors_relation.php"> <h4 class="footer_heading">investors relation</h4> </a>         
-                         <li class="first leaf"><a href="" title="">share information</a></li>
+                         <li class="first leaf"><a href="investors_relation#investment_budget" title="">share information</a></li>
                          <li class="leaf"><a href="co-operative_governance.php" title="co-operative governance">co-operative gorvernance</a></li>
-                         <li class=""><a href="investors_relation.php/#financial_report" title="financial Reports">financial reports</a></li>                                                                   
+                         <li class=""><a href="investors_relation.php#financial_report" title="financial Reports">financial reports</a></li>                                                                   
                     </ul>  
                </div>  
                <div class="col">                   

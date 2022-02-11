@@ -40,7 +40,7 @@
             </div>
           </div>
         </div> <!-- .item -->
-        <div class="media-29121 overlay" style="background-image: url('img/hero_12.jpg');">
+        <div class="media-29121 overlay" style="background-image: url('img/hero_2.png');">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">

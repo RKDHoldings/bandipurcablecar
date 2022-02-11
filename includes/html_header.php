@@ -36,7 +36,7 @@
 <script src="js/marquee.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
-<!-- <script src="js/main2.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 
 <script>
     feather.replace()

@@ -6,22 +6,17 @@
  include('includes/navbar.php');
  ?>
 
-  <!-- banner -->
-  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
-         <div class="container">
-            <div class="row">
-               <div class="col-sm-12">
-                  <h2 class="breadcrumb-title">what we do</h2>
-                  <nav aria-label="breadcrumb">
-                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">what we do</li>
-                     </ol>
-                  </nav>
-               </div>
-            </div>
-         </div>
+ <!-- banner -->
+ <section id="breadcrumb">
+   <div class="container">
+   <video autoplay muted loop playsinline preload="metadata" controls="controls">
+	  <source src="img/videos/queen_tower2.mp4"  type="video/mp4">
+  </video>
+   <div id="fashion">
+   <a class="video-play" href="" title="Play">Play</a>
+   </div>
+   <h2 class="breadcrumb-title">queen tower</h2>
+   </div>
 </section>
  
 <!--fearured investments  -->

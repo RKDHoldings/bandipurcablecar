@@ -710,7 +710,7 @@ All employees have a responsibility for managing risk and this is reflected in I
                          <div class="sidebar_news1">
                             <h4>our structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#directors_team">Board of Directors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team">Board of Directors <i data-feather="arrow-right"></i></a></li>
                                  <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
@@ -724,7 +724,7 @@ All employees have a responsibility for managing risk and this is reflected in I
                          <div class="sidebar_news1">
                            <h4>financial calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf">yearly calender<i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
@@ -744,6 +744,7 @@ All employees have a responsibility for managing risk and this is reflected in I
 <section id="operating_model">
     <div class="container">
        <div class="row">
+         <h2 class="section-title">chain of command </h2>
        <img src="img/about/model.png" alt="">
        </div>
     </div>

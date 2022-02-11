@@ -47,7 +47,7 @@
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
-                      <img src="img/about/Bandipur-Office.jpg" class="nav_img" alt="">
+                      <img src="img/about/Office_building.jpg" class="nav_img" alt="">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  
@@ -84,8 +84,7 @@
                   <h4 class="nav_title">what we do</h4>              
                     <ul class="nav-dropdown">
                       <li><a href="what_we_do.php#features-cablecar">Transparent Cablecar</a></li>
-                      <li><a href="what_we_do.php#features-queentower">queen tower</a>
-                      <li><a href="#">Award & recognition</a></li>               
+                      <li><a href="what_we_do.php#features-queentower">queen tower</a>             
                     </ul>
                 </li>
                     <li><a href="#">partnership</a></li>

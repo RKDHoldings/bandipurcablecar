@@ -576,48 +576,43 @@
     </div>
     <div class="timeline-wrapper">
       <div class="timeline-slider">
-        <div class="timeline-slide" id="bandipur_start" style="background-image: url(https://unsplash.it/1920/600?image=11" data-year="1985">      <span class="timeline-year">2013</span>
+        <div class="timeline-slide" id="bandipur_start" style="background-image: url(img/project_process/1.jpg" data-year="२०७८"> <span class="timeline-year">२०७८</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०७८ फागुन १ गते </h4>
             <p class="timeline-text">रेष्ट्रो जोन सञ्चालनमा ल्याउने ।</p>
           </div>
         </div>
-        <div class="timeline-slide"  id="queentower_start" style="background-image: url(https://unsplash.it/1920/600?image=12" data-year="1988">      <span class="timeline-year">1988</span>
+        <div class="timeline-slide"  id="queentower_start" style="background-image: url(img/project_process/2.jpg" data-year="२०७९"> <span class="timeline-year">२०७९</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०७९ फागुन १ गते</h4>
             <p class="timeline-text">बटम स्टेशनको सम्पूर्ण कार्यहरु सम्पन्न गर्ने र केवलकारको सम्पूर्ण काम सकेर व्यवसायिक सञ्चालन गर्ने ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="1998">      <span class="timeline-year">1998</span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/3.jpg" data-year="२०८०">      <span class="timeline-year">२०८०</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०८० असोज १ गते </h4>
-            <p class="timeline-text">अपर स्टेशनको बहु आयामिक "Queen Tower" चारतारे होटलसहितको निर्माण पूर्णतया सम्पन्न गरी परियोजना मूल योजना सञ्चालनमा 
-ल्याउनका लागि औपचारिक रुपमा लन्चिङ्ग गर्नेछ । जिपलाइन सञ्चालनमा ल्याई सक्नेछ ।</p>
+            <p class="timeline-text">अपर स्टेशनको बहु आयामिक "Queen Tower" चारतारे होटलसहितको निर्माण पूर्णतया सम्पन्न गरी परियोजना मूल योजना सञ्चालनमा ल्याउनका लागि औपचारिक रुपमा लन्चिङ्ग गर्नेछ । जिपलाइन सञ्चालनमा ल्याई सक्नेछ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2006">      <span class="timeline-year">2006</span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/q2.jpg" data-year="४ वर्ष भित्र">      <span class="timeline-year">४ वर्ष भित्र</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">४ वर्ष भित्र </h4>
-            <p class="timeline-text">ठुलोढुङ्गा – सिद्धगुफा केवलकार सञ्चालनमा ल्याउँछ ।
-साथमा वाटर पार्क÷फन पार्क एवं मिराकल गार्डेनको पूर्वाधार बनाउँछ । 
-माथिल्लो स्टेशनमा बन्जीजम्पको पूर्वाधार निर्माण गर्नेछ ।</p>
+            <p class="timeline-text">ठुलोढुङ्गा – सिद्धगुफा केवलकार सञ्चालनमा ल्याउँछ । साथमा वाटर पार्क÷फन पार्क एवं मिराकल गार्डेनको पूर्वाधार बनाउँछ । माथिल्लो स्टेशनमा बन्जीजम्पको पूर्वाधार निर्माण गर्नेछ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2008">      <span class="timeline-year">2008</span>
+        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="३ वर्ष भित्र ">      <span class="timeline-year">३ वर्ष भित्र </span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">३ वर्ष भित्र </h4>
-            <p class="timeline-text">आँबु खैरेनी पृथ्वीराजमार्ग देखि छिम्केश्वरी काली माँ केवलकारको काम 
-सम्पन्न गरी सञ्चालनमा ल्याउँछ । जसको लम्वाई ३६०० मिटर लामो 
-रहेको छ ।</p>
+            <p class="timeline-text">आँबु खैरेनी पृथ्वीराजमार्ग देखि छिम्केश्वरी काली माँ केवलकारको काम सम्पन्न गरी सञ्चालनमा ल्याउँछ । जसको लम्वाई ३६०० मिटर लामो रहेको छ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2010">      <span class="timeline-year">2010</span>
+        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="५ वर्ष भित्र">      <span class="timeline-year">५ वर्ष भित्र</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">५ वर्ष भित्र</h4>
             <p class="timeline-text">छिम्केश्वरी क्षेत्रमा कलात्मक बहुआयामिक रिर्सोट सञ्चालनमा ल्याउँछ । </p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2012">      <span class="timeline-year">2012</span>
+        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="अन्य वर्ष">      <span class="timeline-year">अन्य वर्ष</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">अन्य वर्ष </h4>
             <p class="timeline-text">अध्यक्ष कम्पनी पञ्चासे केवलकार एण्ड टुर्स लि.ले सुरु गर्न लागेको 

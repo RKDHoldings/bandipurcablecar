@@ -229,43 +229,51 @@
 <!-- work progress -->
 <section id="project_work_process">
      <div class="container">
-         <div class="row">
-                <h2>Bandipur Cablecar</h2>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/1.jpg" alt="">
+         <div class="row zoom-gallery">
+         <h3 class="secondary_heading">bandipur cablecar</h3>
+               <div class="col-lg-12">                    
+                 <div class="project_img_gallery d-flex">
+                   <div class="project-img">
+                        <a href="img/project_process/1.jpg"  title="" style="">
+	                         	<img src="img/project_process/1.jpg" width="193" height="125">
+             	          </a>
                     </div>
-               </div>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/2.jpg" alt="">
+            	      <div  class="project-img">
+                       <a href="img/project_process/2.jpg"  title="" style="">
+		                      <img src="img/project_process/2.jpg" width="82px" height="125">
+	                     </a>
                     </div>
-               </div>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/3.jpg" alt="">
-                    </div> 
-               </div>
+                   <div class="project-img">
+                        <a href="img/project_process/3.jpg"  title="" style="">
+		                       <img src="img/project_process/3.jpg" width="82px" height="125">
+	                      </a>
+                   </div>    
+                 </div>    
+               </div>          
          </div>
          <!-- row end -->
          <!-- new row start -->
-         <div class="row mt-5">
-               <h2>5 star queen tower</h2>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/q1.jpeg" alt="">
+         <div class="row mt-5 zoom-gallery">
+               <h3 class="secondary_heading">5 star queen tower</h3>
+               <div class="col-lg-12">                    
+                 <div class="project_img_gallery d-flex">
+                   <div class="project-img">
+                        <a href="img/project_process/q1.jpeg"  title="" style="">
+	                         	<img src="img/project_process/q1.jpeg" >
+             	          </a>
                     </div>
-               </div>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/q2.jpg" alt="">
+            	      <div  class="project-img">
+                       <a href="img/project_process/q2.jpg"  title="" style="">
+		                      <img src="img/project_process/q2.jpg" >
+	                     </a>
                     </div>
-               </div>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/q3.jpg" alt="">
-                    </div> 
-               </div>
+                   <div class="project-img">
+                        <a href="img/project_process/q3.jpg"  title="" style="">
+		                       <img src="img/project_process/q3.jpg">
+	                      </a>
+                   </div>    
+                 </div>    
+               </div>                  
          </div>
            <!-- row end -->
          <!-- new row start -->
@@ -293,63 +301,36 @@
  ?>
  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
   <script>
     feather.replace()
   </script>
-  <script>
-    $(function(){
-   $('.timeline-nav').slick({
-      slidesToShow: 12,
-      slidesToScroll: 1,
-      asNavFor: '.timeline-slider',
-      centerMode: false,
-      focusOnSelect: true,
-       mobileFirst: true,
-      arrows: false,
-      infinite:false,
-       responsive: [
-           {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 8,
-           }
-          },
-         {
-          breakpoint: 0,
-          settings: {
-            slidesToShow: 4,
-            slidesToScroll: 2,
-          }
-        }
-     ]
-  });
-  
-   $('.timeline-slider').slick({
-      slidesToShow: 1,
-      slidesToScroll: 1,
-      arrows: false,
-      asNavFor: '.timeline-nav',     
-      centerMode: true,     
-      cssEase: 'ease',
-       edgeFriction: 0.5,
-       mobileFirst: true,
-       speed: 500,
-       responsive: [
-         {
-          breakpoint: 0,
-          settings: {
-              centerMode: false
-          }
-        },
-           {
-          breakpoint: 768,
-          settings: {
-              centerMode: true
-          }
-        }
-     ]
-  });
- 
+ <script>
+   $(document).ready(function() {
+	$('.zoom-gallery').magnificPopup({
+		delegate: 'a',
+		type: 'image',
+		closeOnContentClick: false,
+		closeBtnInside: false,
+		mainClass: 'mfp-with-zoom mfp-img-mobile',
+		image: {
+			verticalFit: true,
+			titleSrc: function(item) {
+				return item.el.attr('title') + ' &middot; <a class="image-source-link" href="'+item.el.attr('data-source')+'" target="_blank">image source</a>';
+			}
+		},
+		gallery: {
+			enabled: true
+		},
+		zoom: {
+			enabled: true,
+			duration: 300, // don't foget to change the duration also in CSS
+			opener: function(element) {
+				return element.find('img');
+			}
+		}
+		
+	});
 });
-  </script>
+
+ </script>

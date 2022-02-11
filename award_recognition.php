@@ -25,30 +25,24 @@
    <div class="container">
      <h2 class="section-title">New & Noteworthy</h2>
      <p>Our employee-owners are among the best in the industry, many of whom have been honored as 40 Under 40 honorees in their communities or by ENR, an industry-leading publication. These accomplishments reflect the skill and grit of our employee-owners and the commitment we have to fulfilling our mission.</p>
-     <div class="row">
+     <div class="row ">
          <div class="col-lg-6">
             <a href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" target="_blank">
-            <div class="item_award">
-						<div class="item__head">
-							<div class="item__image" style="background-image: url(https://secureservercdn.net/198.71.233.36/r85.227.myftpupload.com/wp-content/uploads/2019/08/icon-people@2x.png?time=1642195771);"></div><!-- /.item__image -->
-							   <h3 class="text-uppercase"> CARE-NP BB</h3>
-							</div><!-- /.item__head -->
-							<div class="item__body">
-								<p>Care Ratings Nepal Limited (CRNL), A subsidiary of CARE Ratings Limited India has rated CARE-NP BB for Bandipur Cable Car. </p>
-							</div><!-- /.item__body -->
-		   	</div>
+                 <div class="item_award">
+						      <div class="item__head">
+							      <div class="item__image" style="background-image: url(https://secureservercdn.net/198.71.233.36/r85.227.myftpupload.com/wp-content/uploads/2019/08/icon-people@2x.png?time=1642195771);"></div><!-- /.item__image -->
+							      <h3 class="text-uppercase"> CARE-NP BB</h3>
+							   </div><!-- /.item__head -->
+							   <div class="item__body">
+								  <p>Care Ratings Nepal Limited (CRNL), A subsidiary of CARE Ratings Limited India has rated CARE-NP BB for Bandipur Cable Car. </p>
+							   </div><!-- /.item__body -->
+		     	 </div>
             </a>
          </div>
-         <div class="col-lg-6">
-            <div class="item_award">
-						<div class="item__head">
-                           <div class="item__image" style="background-image: url(https://secureservercdn.net/198.71.233.36/r85.227.myftpupload.com/wp-content/uploads/2019/08/icon-ribbon@2x.png?time=1642195771);"></div>
-                               <h3 class="text-uppercase">Honoured by Bandipur Rural Municipality</h3>
-							  </div><!-- /.item__head -->
-							<div class="item__body">
-								<p>National Center for Employee Ownership/October 2021 </p>
-							</div><!-- /.item__body -->
-		   	</div>
+         <div class="col-lg-6 zoom-gallery">
+               <a href="img/news/award/samman.jpg" target="_blank"> 
+                  <img src="img/news/award/samman.jpg" alt="">
+               </a>
          </div>
      </div>  
 </div>

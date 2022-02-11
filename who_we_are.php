@@ -40,18 +40,12 @@
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About bandipur</h6>
                 <h2 class="section-title">Cable Car With Tourism<span>.</span></h2 >
-                <p>बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले
-प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर
-अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन ग¥यो भने
-इमानदार र सत्यको बाटो प्राप्त गर्ने वरदान पाइन्छ भन्ने विश्वास रहेको छ । विशेष गरी वर्षमा दशैंको समयमा
-सप्तमी र अष्टमीको दिन मन्दिर खुल्ला हुने गर्दछ । प्रायः जसो दशैंमा पिङ्ग खेल्ने गर्छन् । सो समयमा मन्दिर
-दर्शन गर्दा सबैलाई फल मिल्छ भन्ने र्धािर्मक विश्वास रहेको छ । यसकारण सीमित समय मात्र वर्षको २ दिन
-मन्दिर खुल्ला गरिने गरिएको छ । केवलकार बनेपछि मन्दिर नियमित दैनिक खुल्ला गराउने एवं दर्शनार्थीलाई
-दर्शनकालागि नियमित ढोका खोलिदिने अभिप्रायले केवलकार कम्पनीले मन्दिर व्यवस्थापन समितिसँग मिलेर
-ठोस योजना बनाउँदै छ । </p>
+                <p>बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन ग¥यो भने
+                   इमानदार र सत्यको बाटो प्राप्त गर्ने वरदान पाइन्छ भन्ने विश्वास रहेको छ । विशेष गरी वर्षमा दशैंको समयमा सप्तमी र अष्टमीको दिन मन्दिर खुल्ला हुने गर्दछ । प्रायः जसो दशैंमा पिङ्ग खेल्ने गर्छन् । सो समयमा मन्दिर दर्शन गर्दा सबैलाई फल मिल्छ भन्ने र्धािर्मक विश्वास रहेको छ । यसकारण सीमित समय मात्र वर्षको २ दिन
+                   मन्दिर खुल्ला गरिने गरिएको छ । केवलकार बनेपछि मन्दिर नियमित दैनिक खुल्ला गराउने एवं दर्शनार्थीलाई दर्शनकालागि नियमित ढोका खोलिदिने अभिप्रायले केवलकार कम्पनीले मन्दिर व्यवस्थापन समितिसँग मिलेर ठोस योजना बनाउँदै छ । </p>
                   <a href="about_bandipur.php"><button class="slide_from_left">explore more</button></a>
                   <!-- <button class="slide_from_left">explore more</button> -->
-              </div>                            
+            </div>                            
         </div>
     </div>
     </div>
@@ -293,8 +287,7 @@
         <!-- row end -->
         <div class="contact_ext">
             <div class="field-item even">
-                <p><strong>Report any questions or concerns to:</strong> <br>Ethics &amp; Corporate Office <br>061-541430 <br><a class="activelink_contact"  href="mailto:info@bandipur.np" title="">info@bandipurcablecar.com.np
-</a></p>
+                <p><strong>Report any questions or concerns to:</strong> <br>Ethics &amp; Corporate Office <br>061-541430 <br><a class="activelink_contact"  href="mailto:info@bandipur.np" title="">info@bandipurcablecar.com.np</a></p>
             </div>
         </div>
     </div>
@@ -310,7 +303,7 @@
 	<div class="timeline">
 		<ul>
 			<li>
-				<span> 2069.09.22 (2013.01.06)</span>
+				<span>२०६९ पुष २२ (2013.01.06)</span>
 				<div class="content">
 					<h3>Registered with Government of Nepal, Ministry of Industry, Company Registrar office, Kathmandu Bs under registration No 108644/069/70</h3>
 					<!-- <p>
@@ -319,7 +312,7 @@
 				</div>
 			</li>
 			<li>
-				<span>2069.11.13 Bs( 2013.02.24)</span>
+				<span>२०६९ फागुन १३( 2013.02.24)</span>
 				<div class="content">
 					<h3>Company Registered with Tax office under PAN no 600918925</h3>
 					<!-- <p>
@@ -328,7 +321,7 @@
 				</div>
 			</li>
 			<li>
-				<span>2018.08.03</span>
+				<span>2018.08.03 (२०७५ साउन १८)</span>
 				<div class="content">
 					<h3>Supplementgary meorandum of Understanding(MOU) entered into betweeen Bandipur Cable Car Pvt Ltd(BCCPL) and Coveyor & Ropeway services Pvt Ltd(CRSPL) Kolkata, India </h3>
 					<!-- <p>
@@ -337,7 +330,7 @@
 				</div>
 			</li>
             <li>
-				<span>2075.07.19 B.S (2018.11.05 A.D)</span>
+				<span>२०७५ कार्तिक १९ B.S (2018.11.05 A.D)</span>
 				<div class="content">
 					<h3>Registration with VAT</h3>
 					<!-- <p>
@@ -346,7 +339,7 @@
 				</div>
 			</li>
             <li>
-				<span>2078/05/13</span>
+				<span>२०७८ भदौ १३ (2021.08.29 A.D)</span>
 				<div class="content">
 					<h3>Agreement between Bandipur Cable Car Pvt Ltd and Conveyor & Rope way services Pvt Ltd(CRSPL) for the construction of Passenger Ropeway between Bandipur</h3>
 					<!-- <p>
@@ -355,13 +348,13 @@
 				</div>
 			</li>
             <li>
-				<span>2077/08/09</span>
+				<span>२०७७ मंसिर ९ (2020.11.24 A.D)</span>
 				<div class="content">
 					<h3>Bandipur Cable Car financial closure from Nepal SBI & NMB Bank</h3>
 				</div>
 			</li>
             <li>
-				<span>2078/05/13</span>
+				<span>२०७७ भदौ १७ (2020.09.02 A.D)</span>
 				<div class="content">
 					<h3>Conversion from private to Public Limited </h3>
 				</div>
