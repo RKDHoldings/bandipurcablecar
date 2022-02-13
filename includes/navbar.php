@@ -5,8 +5,8 @@
                     <div class="col-md-7">
                         <div class="topbar__menu">
                             <ul>
-                                <li><a href=""><i data-feather="mail"></i> 	info@bandipurcablecar.com.np</a></li>
-                                <li><a href=""><i data-feather="clock"></i> Sunday – Friday 10 AM – 5 PM</a></li>
+                                <li><a href=""><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
+                                <li><a href=""><i class="icon-clock-o"></i> Sunday – Friday 10 AM – 5 PM</a></li>
                             </ul>
                         </div>
                     </div>
@@ -16,8 +16,8 @@
                                       <!--social-media -->
                                         <div class="topbar__social-media">
                                            <ul>
-                                              <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i data-feather="facebook"></i></a></li>
-                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="you-tube"><i data-feather="youtube"></i></a></li>                                               
+                                              <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
+                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="you-tube"><i class="icon-youtube"></i></a></li>                                               
                                            </ul>
                                         </div>
                                     </li>
@@ -105,7 +105,7 @@
                     <h4 class="nav_title">Investors Relation</h4>             
 			          		<li><a href="investors_relation.php#investment_budget">share structure</a></li>
                     <li><a href="investors_relation.php#financial_report">financial information</a></li>
-                    <li><a href="investors_relation.php#investment_strategy">Investment_strategy</a></li>
+                    <li><a href="investors_relation.php#investment_strategy">Investment strategy</a></li>
                     <li><a href="investors_relation.php#management_team">Risk Management</a></li>
                   </ul>
                  

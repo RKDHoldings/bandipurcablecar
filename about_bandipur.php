@@ -51,7 +51,8 @@
                   </div>                
                    <div class="company_stats d-flex">
                        <!-- about bandipur stats -->
-                      <div class="more_stats">
+                     <a href="contact.php">
+                     <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
                               <img src="img/icon_pack/capital/office-building.png" alt="">
@@ -62,7 +63,10 @@
 			                  <div class="field-item even"><p>Offices</p></div>
 	                     </div>
                       </div>
+
+                     </a>
                       <!--2nd stats  -->
+                      <a href="investors_relation.php">
                       <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
@@ -74,8 +78,10 @@
 			                  <div class="field-item even"><p>Featured INVESTMENTS</p></div>
 	                     </div>
                       </div>
+                      </a>
                        <!-- 3rd stats -->
-                       <div class="more_stats">
+                      <a href="investors_relation.php#share_info">
+                      <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
                             <img src="img/icon_pack/capital/value.png" alt="">
@@ -86,6 +92,7 @@
 			                  <div class="field-item even"><p>ASSETS UNDER MANAGEMENT </p></div>
 	                     </div>
                       </div>
+                      </a>
                    </div>
                </div>
          </div>
@@ -94,35 +101,35 @@
                      <div class="sidebar_news1">
                            <h4>about bandipur</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">बन्दिपुर केवलकार परियोजना <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टम <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#">बन्दिपुर केवलकार परियोजना               </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#">मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टम  </a></li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
                            <h4>Table stations</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">Lower station  <i data-feather="arrow-right"></i></span></a></li>
-                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">Upper Station  <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">Land Details  <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> Lower station  <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> Upper Station  <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  Land Details    <i class="icon-long-arrow-right"></i> </a> </li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
-                           <h4>Features of Bandipur</h4>
+                           <h4>Bandipur Features</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">Cablecar  <i data-feather="arrow-right"></i></span></a></li>
-                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">Queen tower <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">Cable Restro Bar  <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link">Cablecar         <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link">Queen tower      <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link">Cable Restro Bar  <i class="icon-long-arrow-right"></i> </a> </li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
                            <h4>Potential Investment</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> <span class="d-none d-sm-inline">जिप लाइन  <i data-feather="arrow-right"></i></span></a></li>
-                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> <span class="d-none d-sm-inline">सिद्ध गुफा केवलकार <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline"> वार्क भ्यु/सिसाको पुल  <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">स्काइ साइक्लिङ <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">रानीवन जंगल रिर्सोट <i data-feather="arrow-right"></i></span> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> <span class="d-none d-sm-inline">विविध पर्यटकीय फिचरहरु  <i data-feather="arrow-right"></i></span> </a> </li>
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> जिप लाइन            <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> सिद्ध गुफा केवलकार    <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  वार्क भ्यु/सिसाको पुल    <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  स्काइ साइक्लिङ        <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  रानीवन जंगल रिर्सोट     <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  विविध पर्यटकीय फिचरहरु <i class="icon-long-arrow-right"></i> </a> </li>
                               </ul>
                      </div>
           
@@ -412,7 +419,6 @@
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
                               <img class="content-image " src="img/hero_1.png" >
-                              <a class= "lightbox-close" href= "#">X</a>
                               <div class="content-details fadeIn-left">
                                 <h3>Transparent Cablecar</h3>
                                 <!-- <p>This is a short description</p> -->

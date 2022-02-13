@@ -181,31 +181,31 @@
                          <div class="sidebar_news1">
                            <h4>financial Reports</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Audit Reports <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#">Audit Reports <i class="icon-long-arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>financial Closure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#"> Investment Structure <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#"> Investment Structure <i class="icon-long-arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                             <h4>Committees</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#management_team ">Risk Management <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#management_team ">Risk Management <i class="icon-long-arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                             <h4>Investment strategies</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#investment_strategy">strategies factors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#investment_strategy">strategies factors <i class="icon-long-arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>financial calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="img/report/final-calender.pdf" target="_blank">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/report/final-calender.pdf" target="_blank">yearly calender<i class="icon-long-arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">

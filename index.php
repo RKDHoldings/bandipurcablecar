@@ -296,7 +296,7 @@
         <h2 class="section-title">Featured Investments</h2>
       </div>
       <div class="col-lg-6"> 
-        <a href="what_we_do.php" class=" btn btn-viewmore ">view all  <i data-feather="arrow-right"></i></a>
+        <a href="what_we_do.php" class=" btn btn-viewmore ">view all  <i class="icon-long-arrow-right"></i></a>
       </div>
    </div>
 	 <div class="row">

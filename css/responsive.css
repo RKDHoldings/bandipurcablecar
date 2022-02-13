@@ -62,7 +62,12 @@
     display: block;
     }
     .more_stats{
-        max-width: 100%;
+        width: 100%;
+        height: auto;
+        margin-bottom: 1rem;
+    }
+    .company_stats{
+        display: block !important;
     }
     .about__img-2{
         position: absolute;
