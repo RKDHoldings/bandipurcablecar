@@ -115,18 +115,14 @@
 </section> -->
 <section id="directors_team">
     <div class="container">
-         	<!-- tabs -->
+         	<!-- tab1 -->
        <div class="pcss3t pcss3t-effect-scale pcss3t-theme-1">
 				<input type="radio" name="pcss3t" checked  id="tab1"class="tab-content-first">
 				<label for="tab1">board of directors</label>
-				
+				  	<!-- tab1 -->
 				<input type="radio" name="pcss3t" id="tab2" class="tab-content-2">
 				<label for="tab2">our chairman</label>
-				
-				<input type="radio" name="pcss3t" id="tab3" class="tab-content-3">
-				<label for="tab3">Executive comittee</label>
-				
-				
+					<!-- tab1 content -->
 				<ul>
 					<li class="tab-content tab-content-first typography">
                     <div class="row">
@@ -266,186 +262,47 @@
                          <!-- col end -->                  
                       </div>
 					</li>
-					
+						<!-- tab2 content -->
 					<li class="tab-content tab-content-2 typography">
-                    <div class="row">
-           <div class="col-lg-5">
-             <img src="img/chairman.jpg" class="ceo_img"  width="100%" alt="">
-               <div class="exp-box"><h3 class="exp-box_title">8+ Years<br> Of Experiences</h3><p class="exp-box_text">Angfuzsoft is a one of the world’s top Rated companies on Upwork providing WordPress and Shopware Rank.</p></div>
-           </div>
-           <div class="col-lg-7">
-              <h6>our ceo</h6>
-              <h2 class="section-title"> CEO message</h2>
-              <p>बन्दीपुर केवलकार एण्ड टुरिजम लिमिटेडका सातौँ साधारण सभाका प्रमुख अतिथिज्यू, विशिष्ट अतिथिज्यूहरु, अतिथिज्यूहरु, कम्पनीका निर्देशकज्यूहरु,
-                 OCU समूह, जग्गादाताज्यूहरु, पत्रकार मित्रहरु, उपस्थित शेयरधनीहरु र कर्मचारीहरुप्रति हार्दिक अभिवादन व्यक्त गर्दछु र कम्पनीका तत्कालीन निर्देशक
-                  दिवंगत स्वर्गीय राम प्रसाद शर्मा प्रति भावपूर्ण श्रद्धाञ्जली अर्पण गर्दछु ।</p>
-              <p>नेपाल कला, संस्कृति, धार्मिक र ऐतिहासिक विरासतयुक्त देश हो । बन्दीपुर नेपाली पहिचानलाई अभिव्यक्त गर्ने ऐतिहासिक गन्तव्य हो । पहाडकी रानी उपमाले प्रसिद्ध यसको महिमा संसारभरका पर्यटकहरुका लागि सुप्रचारित छ । हरेक पर्यटकीय गन्तव्यहरुले
-                  ऐतिहासिक विरासतको मौलिक विकास गरेर यसको सौन्र्दयता र महिमामार्फत् समाज विकासको विशिष्टतालाई चित्रण गर्नु पर्दछ भन्ने कम्पनी दृष्टिकोण हो । तसर्थः बन्दीपुरको पर्यटनलाई नयाँ शिराका साथ आधुनिक ढङ्गबाट
-                  संसारभरिका पर्यटकलाई आकर्षित गर्न आधुनिक पर्यटन पूर्वाधारहरुको जरुरत पर्दछ । त्यसको आपूर्ति बन्दीपुरमा बनिरहेको, “पर्यटन पूर्वाधारयुक्त केवलकार परियोजना” को निर्विकल्प एजेण्डाले मात्र गर्दछ। यो परियोजना दक्षिण
-                   एसियाकै आश्चर्यजनक पर्यटकीय पूर्वाधारको श्रेणीमा भिन्न र अनुपम छ ।
-              </p>
+                <div class="row">
+                    <div class="col-lg-5">
+                       <img src="img/chairman.jpg" class="ceo_img"  width="100%" alt="">
+                          <div class="exp-box">
+                               <h3 class="exp-box_title">Representative of Panchase Cablecar & Tourism</h3>
+                               <img src="img/partner_company/panchase-logo.png" class="logo_panchase" alt="">
+                          </div>
+                    </div>
+                    <div class="col-lg-7">
+                      <h6>our ceo</h6>
+                      <h2 class="section-title"> CEO message</h2>
+                      <p>बन्दीपुर केवलकार एण्ड टुरिजम लिमिटेडका सातौँ साधारण सभाका प्रमुख अतिथिज्यू, विशिष्ट अतिथिज्यूहरु, अतिथिज्यूहरु, कम्पनीका निर्देशकज्यूहरु,
+                         OCU समूह, जग्गादाताज्यूहरु, पत्रकार मित्रहरु, उपस्थित शेयरधनीहरु र कर्मचारीहरुप्रति हार्दिक अभिवादन व्यक्त गर्दछु र कम्पनीका तत्कालीन निर्देशक
+                         दिवंगत स्वर्गीय राम प्रसाद शर्मा प्रति भावपूर्ण श्रद्धाञ्जली अर्पण गर्दछु ।
+                      </p>
+                      <p>नेपाल कला, संस्कृति, धार्मिक र ऐतिहासिक विरासतयुक्त देश हो । बन्दीपुर नेपाली पहिचानलाई अभिव्यक्त गर्ने ऐतिहासिक गन्तव्य हो । पहाडकी रानी उपमाले प्रसिद्ध यसको महिमा संसारभरका पर्यटकहरुका लागि सुप्रचारित छ । हरेक पर्यटकीय गन्तव्यहरुले
+                         ऐतिहासिक विरासतको मौलिक विकास गरेर यसको सौन्र्दयता र महिमामार्फत् समाज विकासको विशिष्टतालाई चित्रण गर्नु पर्दछ भन्ने कम्पनी दृष्टिकोण हो । तसर्थः बन्दीपुरको पर्यटनलाई नयाँ शिराका साथ आधुनिक ढङ्गबाट
+                         संसारभरिका पर्यटकलाई आकर्षित गर्न आधुनिक पर्यटन पूर्वाधारहरुको जरुरत पर्दछ । त्यसको आपूर्ति बन्दीपुरमा बनिरहेको, “पर्यटन पूर्वाधारयुक्त केवलकार परियोजना” को निर्विकल्प एजेण्डाले मात्र गर्दछ। यो परियोजना दक्षिण
+                         एसियाकै आश्चर्यजनक पर्यटकीय पूर्वाधारको श्रेणीमा भिन्न र अनुपम छ ।
+                      </p>
               <div class="btn_wrapper mb-4">
                  <a href="chairman_message.php">  <button class="slide_from_left">Read More</button> </a>
-                 <div class="video-main">
-                             <div class="promo-video">
-                                 <!-- <div class="waves-block">
-                                   <div class="waves wave-1"></div>
-                                 </div> -->
-                             </div>
-                             <a href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=135s&ab_channel=BandipurCablecar" class="video video-popup mfp-iframe" data-lity><i class="icon-play"></i>
-                             </a>
+                    <div class="video-main">
+                             <div class="promo-video">  </div>
+                             <a href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=135s&ab_channel=BandipurCablecar" class="video video-popup mfp-iframe" data-lity><i class="icon-play"></i></a>
                              <span class="text">View Our Story</span>
-                          </div>
+                    </div>
+
               </div>      
               <div class="about-quote">
-                    <p class="about-quote_text">“ स्वदेशी र प्रवासी नेपालीहरुको संयुक्त लगानी एवं सम्भार
-स्वागत पर्यटकीय गन्तव्य बन्दीपुर केवलकार र क्वीनटावर ”</p>
+                    <p class="about-quote_text">“ स्वदेशी र प्रवासी नेपालीहरुको संयुक्त लगानी एवं सम्भार स्वागत पर्यटकीय गन्तव्य बन्दीपुर केवलकार र क्वीनटावर ”</p>
                     <span class="about-quote_author">ram chandra sharma</span>
               </div>  
                
           </div>
-       </div>
-				</li>
-				<li class="tab-content tab-content-3 typography">
-                    <div class="row">
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                             <div class="single-team">
-                                 <div class="img-area">
-                                      <img src="img/chairman.png" class="img-responsive" alt="">
-                                        <div class="social">
-                                           <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                           </ul>
-                                        </div>
-                                  </div>
-                                <div class="img-text">
-                                   <h5 class="team_member">ram prasad sharma</h5>
-                                   <h5 class="team_position">UI/UX Designer</h5>
-                                </div>
-                             </div>
-                          </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                              <div class="single-team">
-                                   <div class="img-area">
-                                         <img src="https://i.postimg.cc/25JWQ9gm/2.jpg" class="img-responsive" alt="">
-                                         <div class="social">
-                                            <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                            </ul>
-                                         </div>
-                                   </div>
-                                 <div class="img-text">
-                                   <h5 class="team_member">ram prasad sharma</h5>
-                                   <h5 class="team_position">UI/UX Designer</h5>
-                                </div>
-                              </div>
-                          </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                              <div class="single-team">
-                                   <div class="img-area">
-                                         <img src="https://i.postimg.cc/25JWQ9gm/2.jpg" class="img-responsive" alt="">
-                                         <div class="social">
-                                           <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                           </ul>
-                                         </div>
-                                   </div>
-                                 <div class="img-text">
-                                      <h5>Dave Wood</h5>
-                                      <h5>Photographer</h5>
-                                </div>
-                              </div>
-                          </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                              <div class="single-team">
-                                  <div class="img-area">
-                                       <img src="https://i.postimg.cc/nckQRhN3/3.jpg" class="img-responsive" alt="">
-                                       <div class="social">
-                                           <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                           </ul>
-                                       </div>
-                                  </div>
-                                <div class="img-text">
-                                     <h5>Malvin Doe</h5>
-                                     <h5>Back-End Developer</h5>
-                                </div>
-                              </div>
-                         </div>
-                         <!-- col end -->                  
-                      </div>
-
-                      <!-- new row -->
-                      <div class="row">
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                             <div class="single-team">
-                                 <div class="img-area">
-                                      <img src="https://i.postimg.cc/Kjttv7qb/1.jpg" class="img-responsive" alt="">
-                                        <div class="social">
-                                           <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                           </ul>
-                                       </div>
-                                  </div>
-                                <div class="img-text">
-                                   <h5 class="team_member">ram prasad sharma</h5>
-                                   <h5 class="team_position">UI/UX Designer</h5>
-                                </div>
-                             </div>
-                          </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                              <div class="single-team">
-                                   <div class="img-area">
-                                         <img src="https://i.postimg.cc/25JWQ9gm/2.jpg" class="img-responsive" alt="">
-                                         <div class="social">
-                                            <ul class="list-inline">
-                                              <li><a href="team_inner.php">more info</a></li>
-                                            </ul>
-                                         </div>
-                                   </div>
-                                 <div class="img-text">
-                                    <h5 class="team_member">ram prasad sharma</h5>
-                                    <h5 class="team_position">UI/UX Designer</h5>
-                                </div>
-                              </div>
-                          </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                              <div class="single-team">
-                                   <div class="img-area">
-                                         <img src="https://i.postimg.cc/25JWQ9gm/2.jpg" class="img-responsive" alt="">
-                                         <div class="social">
-                                            <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                            </ul>
-                                         </div>
-                                   </div>
-                                 <div class="img-text">
-                                   <h5 class="team_member">ram prasad sharma</h5>
-                                   <h5 class="team_position">UI/UX Designer</h5>
-                                </div>
-                              </div>
-                          </div>
-                          <div class="col-md-3 col-sm-6 col-xs-12">
-                              <div class="single-team">
-                                  <div class="img-area">
-                                       <img src="https://i.postimg.cc/nckQRhN3/3.jpg" class="img-responsive" alt="">
-                                       <div class="social">
-                                          <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                          </ul>
-                                      </div>
-                                  </div>
-                                <div class="img-text">
-                                   <h5 class="team_member">ram prasad sharma</h5>
-                                   <h5 class="team_position">UI/UX Designer</h5>
-                                </div>
-                              </div>
-                         </div>
-                         <!-- col end -->                  
-                      </div>
-					</li>
-				</ul>
-			</div>
+        </div>
+				</li>		
+			</ul>
+		</div>
 			<!--/ tabs -->   
     </div>
 </section>

@@ -6,14 +6,14 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
                   <h2 class="breadcrumb-title">RAID (RESCUE AID)</h2>
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Raid</li>
                      </ol>
                   </nav>
@@ -26,7 +26,7 @@
 	  <div class="row">
           <div class="col-lg-9">
              <div class="award_single">
-                 <img src="img/about/about-img2.jpg" alt="">
+                 <img src="img/investment/raid.jpg" alt="">
                  <h2 class="section-title">RAID (RESCUE AID)</h2>
                  <p>  हाल विश्व व्यापी रुपमा फैलिएको कोरोनाका प्रभावबाट हाम्रो कम्पनी समूह अन्तर्गतका कम्पनीहरुका काममा नियमित खटेर काम गर्ने, हालको यो समस्याको बावजुत पनि घर परिवार छाडेर कम्पनीको काममा नियमित खटेर काम गर्ने साथीहरुको साथै शेयर धनीहरुको जुनसुकै अबस्थामा पनि उद्धार गरि
                        उपचार गर्ने प्रयोजनका लागि एक ‘आकस्मिक उद्धार समूह’ Emergency Rescue Team Of RKD Group बनाइएको छ ।
@@ -85,9 +85,9 @@
           <div class="col-lg-3">
           <nav class="sidebar card py-2 mb-4">
                          <div class="sidebar_news1">
-                            <h4>leadership team</h4>
+                            <h4>our structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="structure.php#directors_team">Board of Directors <i data-feather="arrow-right"></i></a></li>
                                  <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>

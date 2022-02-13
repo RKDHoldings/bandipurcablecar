@@ -6,7 +6,7 @@
  ?>
 
 <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -83,7 +83,7 @@
                      </a>
                  </div>
                  <div class="col-lg-3">
-                     <a target="_blank" href="" title=" Report"> 
+                     <a target="_blank" href="img/reports/bandipur book 2078 Final pdf" target="_blank" title=" Report"> 
                          <div class="card">
                             <div class="card-body">
                                 <h5 class="heading_title"> Bandipur Cable Car 7th Annual General Meeting 2077/78(2078/06/21)</h5>

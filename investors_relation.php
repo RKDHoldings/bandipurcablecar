@@ -8,7 +8,7 @@
 
   <!-- banner -->
   <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -69,7 +69,7 @@
            <div class="share_info_details"> 
                      <h6>share info</h6> 
                      <h2 class="section-title">Financial information and reports</h2>
-                     <p>As the debt issuing entity under Bandipur Investment Company, Mamoura Diversified Global Holding reports bi-annually consolidated financial statements. Before the consent solicitation exercise conducted in 2018, IPIC was also required to report bi-annually, and for historical purposes, their financial statements are included below.</p>                   
+                     <p>Bandipur Cablecar & Tourism Limited maintains the transparency and accountability in data. Company performs internal & external audit Annually.</p>                   
                  </div> 
                  <div class="investor_info_block text-center">
                      <h2 class="text-capitalize">Bandipur cablecar and tourism limited(powered by RKD Holdings)</h2>
@@ -90,7 +90,8 @@
                     <li class="nav-item" role="presentation"> 
                         <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                             <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2074-2075</span> </div>
-                        </button> </li>
+                        </button>
+                     </li>
                         <!-- <li class="nav-item" role="presentation">
                              <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2075</span> </div>
@@ -307,24 +308,26 @@
 					
 					<!-- strategy Block -->
 					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-                                <img src="img/icon_pack/shareholder.png" alt="">
-							</div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">शेयरधनी कल्याणकारी अग्राधिकार कोष</a></h5>   
-                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
-                            </div>
-							<div class="text">आजको शेयर धनी १० वर्ष पछाडि तेब्बर शेयरको मालिक</div>
-						</div>
+						  <a href="swpf.php" target="_blank" title="SWPF">
+                             <div class="inner_box">
+							   <div class="icon_box">
+                                  <img src="img/icon_pack/shareholder.png" alt="">
+							   </div>
+                               <div class="heading_arrow d-flex justify-content-between">
+                                    <h5><a href="swpf.php"  target="_blank" title="SWPF" >शेयरधनी कल्याणकारी अग्राधिकार कोष</a></h5>   
+                                    <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                               </div>
+							  <div class="text">आजको शेयर धनी १० वर्ष पछाडि तेब्बर शेयरको मालिक</div>
+						     </div>
+                          </a>
 					</div>
 					
 					<!-- strategy Block -->
 					<div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<a href="raid.php">
+						<a href="raid.php" target="_blank" title="RAID">
                         <div class="inner_box">
 							<div class="icon_box">
-                            <img src="img/icon_pack/raid.png" alt="">
+                            <img src="img/icon_pack/raid.png" alt="RAID">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
                                <h5><a href="raid.php">RAID</a></h5>   
@@ -333,57 +336,8 @@
 							<div class="text">शेयरधनीहरुको हरेक अप्ठ्यारामा सहयोग र राहत दिनकालागि आर.के.डी. सहयोग कार्यक्रम</div>
 						</div>
                         </a>
-					</div>
-					
-					<!-- strategy Block -->
-					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-stamp"></span>
-							</div>
-							<div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">बैंक सुविधा</a></h5>   
-                                   <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
-                            </div>
-							<div class="text">कम्पनीले प्रतिस्पर्धात्मक रुपमा बैंकको कर्जा उपयोग </div>
-						</div>
-					</div> -->
-					
-					<!-- strategy Block -->
-					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-money"></span>
-							</div>
-							<h5><a href="">Taxes &amp; Efficiency</a></h5>
-							<div class="text">Disrupt taste makers help council emerging.</div>
-						</div>
-					</div> -->
-					
-					<!-- strategy Block -->
-					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-shopping-cart-full"></span>
-							</div>
-							<h5><a href="">Consumer Market</a></h5>
-							<div class="text">Mobile ready proprietary dedication intuitive</div>
-						</div>
-					</div> -->
-					
-					<!-- strategy Block -->
-					<!-- <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-						<div class="inner_box">
-							<div class="icon_box">
-								<span class="icon ti-truck"></span>
-							</div>
-							<h5><a href="">Logistic</a></h5>
-							<div class="text">Platform omnichannel click thought leadership pivot</div>
-						</div>
-					</div> -->
-					
-				</div>
-				
+					</div>										
+				</div>				
 			</div>
         </div>
     </div>

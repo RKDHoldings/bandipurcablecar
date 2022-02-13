@@ -6,15 +6,20 @@
  ?>
  <!-- banner -->
  <section id="breadcrumb">
-   <div class="container">
-   <video poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/fashion.jpg" playsinline autoplay muted loop>
-   <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/fashion.webm" type="video/webm">
-   <source src="" type="video/mp4">
-</video>
-   <div id="fashion">
-     <h2 class="breadcrumb-title">Call for 7th AGM(Annual General Meeting) of Bandipur Cable Car Company</h2>
-   </div>
-   </div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
+         <div class="container">
+            <div class="row">
+               <div class="col-sm-12">
+                  <h2 class="breadcrumb-title">Call for 7th AGM(Annual General Meeting) of Bandipur Cable Car Company</h2>
+                  <nav aria-label="breadcrumb">
+                     <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">Call for 7th AGM(Annual General Meeting) of Bandipur Cable Car Company</li>
+                     </ol>
+                  </nav>
+               </div>
+            </div>
+         </div>
 </section>
 
 <!-- impact single -->

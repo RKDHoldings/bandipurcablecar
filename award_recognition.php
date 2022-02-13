@@ -24,7 +24,7 @@
 <section id="award_recognition">
    <div class="container">
      <h2 class="section-title">New & Noteworthy</h2>
-     <p>Our employee-owners are among the best in the industry, many of whom have been honored as 40 Under 40 honorees in their communities or by ENR, an industry-leading publication. These accomplishments reflect the skill and grit of our employee-owners and the commitment we have to fulfilling our mission.</p>
+     <p>Bandipur Cablecar & Tourism Limited is always working for the betterment of the Society. Company has received following Awards : </p>
      <div class="row care_rating">
          <div class="col-lg-6">
          <a target="_blank" href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" title=" Report">

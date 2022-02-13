@@ -8,7 +8,7 @@
 
   <!-- banner -->
   <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -58,9 +58,9 @@
         <div class="overlay">Bike</div>
       </div>   
 
-      <div class="grid-item" data-filter="car">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=14EqC2fP0xhNfpHmjb3CO_Ax8pe28NJU9&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=14EqC2fP0xhNfpHmjb3CO_Ax8pe28NJU9&export=download">
+      <div class="grid-item" data-filter="bus">
+        <a class="popupimg" href="img/gallery_icon/project-1.jpg">
+          <img src="img/gallery_icon/project-1.jpg">
         </a>
         <div class="overlay">Car</div>
       </div>
@@ -73,8 +73,8 @@
       </div> 
 
       <div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1xBNwn9Sgedoy3sAVrfuDPYNgl-ArlVaZ&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1xBNwn9Sgedoy3sAVrfuDPYNgl-ArlVaZ&export=download">
+        <a class="popupimg" href="img/gallery_icon/project-2.png">
+          <img src="img/gallery_icon/project-2.jpg">
         </a>
         <div class="overlay">Bus</div>
       </div>

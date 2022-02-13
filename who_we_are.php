@@ -6,7 +6,7 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -40,7 +40,7 @@
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About bandipur</h6>
                 <h2 class="section-title">Cable Car With Tourism<span>.</span></h2 >
-                <p>बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन ग¥यो भने
+                <p>बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन गर्यो भने
                    इमानदार र सत्यको बाटो प्राप्त गर्ने वरदान पाइन्छ भन्ने विश्वास रहेको छ । विशेष गरी वर्षमा दशैंको समयमा सप्तमी र अष्टमीको दिन मन्दिर खुल्ला हुने गर्दछ । प्रायः जसो दशैंमा पिङ्ग खेल्ने गर्छन् । सो समयमा मन्दिर दर्शन गर्दा सबैलाई फल मिल्छ भन्ने र्धािर्मक विश्वास रहेको छ । यसकारण सीमित समय मात्र वर्षको २ दिन
                    मन्दिर खुल्ला गरिने गरिएको छ । केवलकार बनेपछि मन्दिर नियमित दैनिक खुल्ला गराउने एवं दर्शनार्थीलाई दर्शनकालागि नियमित ढोका खोलिदिने अभिप्रायले केवलकार कम्पनीले मन्दिर व्यवस्थापन समितिसँग मिलेर ठोस योजना बनाउँदै छ । </p>
                   <a href="about_bandipur.php"><button class="slide_from_left">explore more</button></a>
@@ -298,7 +298,7 @@
   <div class="container">
       <div class="row">
           <h6>our history</h6>
-          <h2 class="section-title">history of bandipur</h2>
+          <h2 class="section-title">history of bandipur Cablecar</h2>
           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quibusdam libero officiis, accusamus vel fugiat delectus odio, officia illum labore ducimus rerum animi laborum quas inventore optio, eos aspernatur aliquam!</p>	
 	<div class="timeline">
 		<ul>
@@ -321,7 +321,7 @@
 				</div>
 			</li>
 			<li>
-				<span>2018.08.03 (२०७५ साउन १८)</span>
+				<span>२०७५ साउन १८ (2018.08.03)</span>
 				<div class="content">
 					<h3>Supplementgary meorandum of Understanding(MOU) entered into betweeen Bandipur Cable Car Pvt Ltd(BCCPL) and Coveyor & Ropeway services Pvt Ltd(CRSPL) Kolkata, India </h3>
 					<!-- <p>
@@ -330,7 +330,7 @@
 				</div>
 			</li>
             <li>
-				<span>२०७५ कार्तिक १९ B.S (2018.11.05 A.D)</span>
+				<span>२०७५ कार्तिक १९  (2018.11.05)</span>
 				<div class="content">
 					<h3>Registration with VAT</h3>
 					<!-- <p>
@@ -339,7 +339,7 @@
 				</div>
 			</li>
             <li>
-				<span>२०७८ भदौ १३ (2021.08.29 A.D)</span>
+				<span>२०७८ भदौ १३ (2021.08.29)</span>
 				<div class="content">
 					<h3>Agreement between Bandipur Cable Car Pvt Ltd and Conveyor & Rope way services Pvt Ltd(CRSPL) for the construction of Passenger Ropeway between Bandipur</h3>
 					<!-- <p>
@@ -348,15 +348,21 @@
 				</div>
 			</li>
             <li>
-				<span>२०७७ मंसिर ९ (2020.11.24 A.D)</span>
+				<span>२०७७ मंसिर ९ (2020.11.24)</span>
 				<div class="content">
 					<h3>Bandipur Cable Car financial closure from Nepal SBI & NMB Bank</h3>
 				</div>
 			</li>
             <li>
-				<span>२०७७ भदौ १७ (2020.09.02 A.D)</span>
+				<span>२०७8 भदौ १७ (2021.09.02)</span>
 				<div class="content">
 					<h3>Conversion from private to Public Limited </h3>
+				</div>
+			</li>
+            <li>
+				<span>२०७८ अशोज् ४ (2021.10.07)</span>
+				<div class="content">
+					<h3>7th Annual General Meeting </h3>
 				</div>
 			</li>
 
@@ -372,6 +378,4 @@
 <?php
  include('includes/footer.php');
  ?>
-  <script>
-    feather.replace()
-  </script>
+ 

@@ -66,7 +66,7 @@
                       </div>
                       <div class="back from-left">
                          <h2>5 star queen tower</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <p class="des">पाँच  तारे होटल: १०० वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
                       </div> 
                      </div>
                    </div>
@@ -90,7 +90,7 @@
                       </div>
                       <div class="back from-left">
                          <h2>wax museum</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <p class="des">मैन मुर्ति संग्राहलय</p>    
                       </div>
                      </div>
                    </div>
@@ -112,8 +112,8 @@
                         </div>
                       </div>
                       <div class="back from-left">
-                         <h2>>mirror maze</h2>
-                         <p class="des">चार तारे होटल: ६६ वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
+                         <h2>mirror maze</h2>
+                         <p class="des">सुन्दर आकर्शक होटेल भित्र सिशाको घर</p>    
                       </div>
                      </div>
                    </div>
@@ -249,7 +249,7 @@
             </div>
             <div class="face face2">
                 <div class="content">
-                    <p>कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ।</p>
+                    <p>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
                         <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
@@ -263,7 +263,7 @@
             </div>
             <div class="face face2">
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cum cumque minus iste veritatis provident at.</p>
+                    <p>Different Modern Games with Virtual Reality environment setup will be made Available. You will get the real world Gaming experiences.</p>
                         <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
@@ -303,7 +303,7 @@
             </div>
             <div class="face face2">
                 <div class="content">
-                    <p>कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ।</p>
+                    <p>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
                         <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
@@ -317,7 +317,7 @@
             </div>
             <div class="face face2">
                 <div class="content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cum cumque minus iste veritatis provident at.</p>
+                    <p>People can enjoy the beautiful moments of Bandipur through the 13 storey Queen Toer even during swimming from the Swimming Pool.</p>
                         <!-- <a href="#">Read More</a> -->
                 </div>
             </div>
@@ -382,8 +382,3 @@
  ?>
 <!-- extra js -->
 <script src="js/main2.js"></script>
-
-<!-- <script>
-    feather.replace()
-  </script>
- -->

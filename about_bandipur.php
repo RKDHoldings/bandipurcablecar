@@ -34,15 +34,15 @@
                   <div class="double-check-list font-title mb-xxl-5">
                   <ul class="list-unstyled aboutus__points">
                     <li>
-                        <div class="icon"><i data-feather="arrow-right"></i></div>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
                         <div class="text"> <p>बन्दिपुर केबलकार परियोजना लक्षित लागत (रु२१०,००,००००) अक्षरुपी एक अर्ब सठ्सठी करोड रुपैयाँ रहेको छ ।</p> </div>
                     </li>
                     <li>
-                        <div class="icon"><i data-feather="arrow-right"></i></div>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
                         <div class="text"><p>बन्दिपुर परियोजना निर्माणको व्यवस्थापन Holding Company ले नै लिएको छ ।</p></div>
                     </li>
                     <li>
-                        <div class="icon"><i data-feather="arrow-right"></i></div>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
                         <div class="text"><p>बन्दिपुरको प्रोजेक्ट अगाडी बढिसकेको छ । कोभिडको कारण केबलकार संचालर्नको समय तालिका प्रभावित भएको छ । अब पनि भैपरी घटना सुजना नभएको खण्डमा असार सम्म परिक्षण संचालन र असोज सम्ममा व्यवसायिक संचालनमा ल्याउर्ने तयारी एबम योजना तर्जुुमा गरिएको छ  भने २०८० वैशाख १ गते फुलफेजमा परियोजना व्यवसायीक संचालनमा आउने छ ।</p></div>
                     </li>
                   
@@ -51,7 +51,7 @@
                   </div>                
                    <div class="company_stats d-flex">
                        <!-- about bandipur stats -->
-                     <a href="contact.php">
+                     <a href="contact.php" target="_blank">
                      <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
@@ -66,7 +66,7 @@
 
                      </a>
                       <!--2nd stats  -->
-                      <a href="investors_relation.php">
+                      <a href="investors_relation.php" target="_blank">
                       <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
@@ -80,7 +80,7 @@
                       </div>
                       </a>
                        <!-- 3rd stats -->
-                      <a href="investors_relation.php#share_info">
+                      <a href="investors_relation.php#share_info" target="_blank">
                       <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
@@ -101,8 +101,8 @@
                      <div class="sidebar_news1">
                            <h4>about bandipur</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">बन्दिपुर केवलकार परियोजना               </a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टम  </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#bandipur_single">बन्दिपुर केवलकार परियोजना               </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#trusted_one">मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टम  </a></li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
@@ -118,22 +118,27 @@
                               <ul class="nav flex-column" id="nav_accordion">
                                  <li class="nav-item"> <a href="#lower_station" class="nav-link">Cablecar         <i class="icon-long-arrow-right"></i></a></li>
                                  <li class="nav-item"> <a href="#upper_station" class="nav-link">Queen tower      <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link">Cable Restro Bar  <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> Cable Restro Bar  <i class="icon-long-arrow-right"></i> </a> </li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
                            <h4>Potential Investment</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> जिप लाइन            <i class="icon-long-arrow-right"></i></a></li>
-                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> सिद्ध गुफा केवलकार    <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  वार्क भ्यु/सिसाको पुल    <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  स्काइ साइक्लिङ        <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  रानीवन जंगल रिर्सोट     <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  विविध पर्यटकीय फिचरहरु <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li class="nav-item"> <a href="#future_features" class="nav-link"> जिप लाइन             <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"> <a href="#future_features" class="nav-link"> सिद्ध गुफा केवलकार     <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  वार्क भ्यु/सिसाको पुल    <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  स्काइ साइक्लिङ        <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  रानीवन जंगल रिर्सोट     <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  विविध पर्यटकीय फिचरहरु <i class="icon-long-arrow-right"></i> </a> </li>
                               </ul>
                      </div>
-          
-                  
+                     <div class="sidebar_news1">
+                           <h4>downloads</h4>
+                              <ul class="nav flex-column" id="nav_accordion">
+                                 <li class="nav-item"> <a href="downloads.php" class="nav-link"> CARE Ratings         <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"> <a href="downloads.php#download_reports" class="nav-link"> MEP Bidding Documents  <i class="icon-long-arrow-right"></i></a></li>
+                              </ul>
+                     </div>                           
             </div>
          </div>
      </div>
@@ -180,8 +185,8 @@
         <div class="row">
             <div class="col-lg-12">
                <div class="table_details" id="lower_station" data-aos="fade-up" data-aos-duration="1000">
-                  <h3 class="secondary_heading">lower station</h3>
-                  <p>Valuation report of land</p>
+                  <h3 class="secondary_heading">lower station (Valuation report of land)</h3>
+                  <!-- <p>Valuation report of land</p> -->
                <table class="rwd-table">
                      <tr>
                         <th>क्र.स</th>
@@ -272,7 +277,7 @@
        <div class="row mt-5">
             <div class="col-lg-12">
                <div class="table_details" id="upper_station" data-aos="fade-up" data-aos-duration="1000">
-                  <h3 class="secondary_heading">Upper Station</h3>
+                  <h3 class="secondary_heading">Upper Station (Valuation report of land)</h3>
                <table class="rwd-table">
                      <tr>
                         <th>क्र.स</th>
@@ -413,7 +418,7 @@
    <div class="container">
         <div class="row">
             <h2 class="section-title">Special features of bandipur cablecar</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime sed doloribus cupiditate at dolore ducimus rem. Officiis quod ea laboriosam veniam assumenda corrupti, cumque reiciendis tenetur dolores temporibus eaque possimus.</p>
+            <p>Bandipur Cablecar & Tourism Limited Company focus on Cablecar with Tourism. Company has Asia Unique Cablecar and has different projects with it some of the special Features includes: </p>
                <div class="col-lg-4">
                     <div class="content_bandipur">
                        <a href="" target="_blank">
@@ -480,73 +485,61 @@
 					<!-- strategy Block -->
 					<div class="strategy_block col-lg-2 col-md-6 col-sm-12">
 						<div class="inner_box">
-							<div class="icon_box">
-                               <img src="img/icon_pack/for_features/cable-car.png" alt="">
-							</div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">सिद्ध गुफा केवलकार</a></h5>   
-            
-                            </div>
-							
+							 <div class="icon_box">
+                         <img src="img/icon_pack/for_features/cable-car.png" alt="">
+							 </div>
+                      <div class="heading_arrow d-flex justify-content-between">
+                          <h5><a href="">सिद्ध गुफा केवलकार</a></h5>   
+                      </div>							
 						</div>
 					</div>
 					
 					<!-- strategy Block -->
 					<div class="strategy_block col-lg-2 col-md-6 col-sm-12">
 						<div class="inner_box">
-							<div class="icon_box">
-                               <img src="img/icon_pack/for_features/golden-gate-bridge.png" alt="">
-							</div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">टुडिखेल वार्क भ्यु/सिसाको पुल</a></h5> 
-                            </div>
-							
+						   	<div class="icon_box">
+                           <img src="img/icon_pack/for_features/golden-gate-bridge.png" alt="">
+							  </div>
+                       <div class="heading_arrow d-flex justify-content-between">
+                           <h5><a href="">टुडिखेल वार्क भ्यु/सिसाको पुल</a></h5> 
+                       </div>							
 						</div>
 					</div>
 					
 					<!-- strategy Block -->
 					<div class="strategy_block col-lg-2 col-md-6 col-sm-12">
 						<div class="inner_box">
-							<div class="icon_box">
-                            <img src="img/icon_pack/for_features/cycling.png" alt="">
-							</div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">स्काइ साइक्लिङ/ साइकल सेवा</a></h5>   
-        
-                            </div>
-							
+							  <div class="icon_box">
+                          <img src="img/icon_pack/for_features/cycling.png" alt="">
+							  </div>
+                       <div class="heading_arrow d-flex justify-content-between">
+                           <h5><a href="">स्काइ साइक्लिङ/ साइकल सेवा</a></h5>      
+                       </div>							
 						</div>
 					</div>
                     	<!-- strategy Block -->
 					<div class="strategy_block col-lg-2 col-md-6 col-sm-12">
 						<div class="inner_box">
-							<div class="icon_box">
-                               <img src="img/icon_pack/for_features/resort.png" alt="">
-							</div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href=""> रानीवन चियर लिफ्ट जंगल रिर्सोट</a></h5>   
-     
-                            </div>
-							
+							  <div class="icon_box">
+                           <img src="img/icon_pack/for_features/resort.png" alt="">
+							  </div>
+                       <div class="heading_arrow d-flex justify-content-between">
+                            <h5><a href=""> रानीवन चियर लिफ्ट जंगल रिर्सोट</a></h5>   
+                       </div>							
 						</div>
 					</div>
                     	<!-- strategy Block -->
 					<div class="strategy_block col-lg-2 col-md-6 col-sm-12">
 						<div class="inner_box">
-							<div class="icon_box">
-                                 <img src="img/icon_pack/for_features/site-seeing-place.png" alt="">
-							</div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href=""> विविध साहसिक पर्यटकीय फिचरहरु</a></h5>   
-                                
-                            </div>
-							
+							  <div class="icon_box">
+                            <img src="img/icon_pack/for_features/site-seeing-place.png" alt="">
+							  </div>
+                       <div class="heading_arrow d-flex justify-content-between">
+                            <h5><a href=""> विविध साहसिक पर्यटकीय फिचरहरु</a></h5>                                  
+                       </div>							
 						</div>
-					</div>
-													
-						
-				</div>
-				
+					</div>																			
+				</div>				
 			</div>
         </div>
     </div>
@@ -556,13 +549,9 @@
 <div class="container">
   <h6>our milestones</h6>
   <h2 class="section-title">समय तालिका</h2>
-  <p class="timeline_head">परियोजना निर्माणको कार्य तीव्र गतिमा अगाडि बढेको छ । सिभिल मेकानिकल, सिभिल कन्सल्टेन्ट, 
-मेकानिकल कन्सल्टेन्ट, फाइनान्सियल कन्सल्टेन्ट र भोटिङ्ग गर्ने गरी सम्झौता गरिए मुताविक कार्यहरु गरिएको 
-छ । परियोजनाको कामलाई विभाजन गरेर गरिएको छ । </p>
-<p>यी विविध क्षेत्रमा एकै पटक एकै साथ अन्य कार्यहरु पनि भएका छन् । अपर स्टेशनको भवन र तल्लो 
-स्टेशनको भवनमा दैनिक म्बथ ल्ष्नजत गरी म्यगदभि क्षत मा काम गरी समयमा परियोजना सञ्चालनमा 
-ल्याउने रणनीतिमा कम्पनी हिँडेको छ । कम्पनीले माइक्रो मेनेजमेन्ट नगर्ने नीतिअनुसार व्यवस्थापनलाई करार 
-सम्झौता मार्फत् मात्र हल गरिरहने तयारी थालेको छ । </p>
+  <p class="timeline_head">परियोजना निर्माणको कार्य तीव्र गतिमा अगाडि बढेको छ । सिभिल मेकानिकल, सिभिल कन्सल्टेन्ट,मेकानिकल कन्सल्टेन्ट, फाइनान्सियल कन्सल्टेन्ट र भोटिङ्ग गर्ने गरी सम्झौता गरिए मुताविक कार्यहरु गरिएको छ । परियोजनाको कामलाई विभाजन गरेर गरिएको छ । </p>
+  <p class="timeline_head">यी विविध क्षेत्रमा एकै पटक एकै साथ अन्य कार्यहरु पनि भएका छन् । अपर स्टेशनको भवन र तल्लो स्टेशनको भवनमा दैनिक म्बथ ल्ष्नजत गरी म्यगदभि क्षत मा काम गरी समयमा परियोजना सञ्चालनमा ल्याउने रणनीतिमा कम्पनी हिँडेको छ । कम्पनीले माइक्रो मेनेजमेन्ट नगर्ने नीतिअनुसार व्यवस्थापनलाई करार 
+      सम्झौता मार्फत् मात्र हल गरिरहने तयारी थालेको छ । </p>
   <div class="timeline">
     <div class="timeline-nav">
       <!-- <div class="timeline-nav__item">1985</div>
@@ -572,7 +561,7 @@
       <div class="timeline-nav__item">2008</div>
       <div class="timeline-nav__item">2012</div>
       <div class="timeline-nav__item">2010</div> -->
-      <div class="timeline-nav__item">२०७८</div>
+      <!-- <div class="timeline-nav__item">२०७८</div> -->
       <div class="timeline-nav__item">२०७९</div>
       <div class="timeline-nav__item" >२०८०</div>
       <div class="timeline-nav__item">४ वर्ष भित्र </div>
@@ -582,19 +571,19 @@
     </div>
     <div class="timeline-wrapper">
       <div class="timeline-slider">
-        <div class="timeline-slide" id="bandipur_start" style="background-image: url(img/project_process/1.jpg" data-year="२०७८"> <span class="timeline-year">२०७८</span>
+        <!-- <div class="timeline-slide" id="bandipur_start" style="background-image: url(img/project_process/1.jpg" data-year="२०७८"> <span class="timeline-year">२०७८</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०७८ फागुन १ गते </h4>
             <p class="timeline-text">रेष्ट्रो जोन सञ्चालनमा ल्याउने ।</p>
           </div>
-        </div>
+        </div> -->
         <div class="timeline-slide"  id="queentower_start" style="background-image: url(img/project_process/2.jpg" data-year="२०७९"> <span class="timeline-year">२०७९</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०७९ फागुन १ गते</h4>
             <p class="timeline-text">बटम स्टेशनको सम्पूर्ण कार्यहरु सम्पन्न गर्ने र केवलकारको सम्पूर्ण काम सकेर व्यवसायिक सञ्चालन गर्ने ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(img/project_process/3.jpg" data-year="२०८०">      <span class="timeline-year">२०८०</span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/queen-tower.jpg" data-year="२०८०">      <span class="timeline-year">२०८०</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०८० असोज १ गते </h4>
             <p class="timeline-text">अपर स्टेशनको बहु आयामिक "Queen Tower" चारतारे होटलसहितको निर्माण पूर्णतया सम्पन्न गरी परियोजना मूल योजना सञ्चालनमा ल्याउनका लागि औपचारिक रुपमा लन्चिङ्ग गर्नेछ । जिपलाइन सञ्चालनमा ल्याई सक्नेछ ।</p>
@@ -606,13 +595,13 @@
             <p class="timeline-text">ठुलोढुङ्गा – सिद्धगुफा केवलकार सञ्चालनमा ल्याउँछ । साथमा वाटर पार्क÷फन पार्क एवं मिराकल गार्डेनको पूर्वाधार बनाउँछ । माथिल्लो स्टेशनमा बन्जीजम्पको पूर्वाधार निर्माण गर्नेछ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="३ वर्ष भित्र ">      <span class="timeline-year">३ वर्ष भित्र </span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/chhimkeshwori.jpg" data-year="३ वर्ष भित्र ">      <span class="timeline-year">३ वर्ष भित्र </span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">३ वर्ष भित्र </h4>
             <p class="timeline-text">आँबु खैरेनी पृथ्वीराजमार्ग देखि छिम्केश्वरी काली माँ केवलकारको काम सम्पन्न गरी सञ्चालनमा ल्याउँछ । जसको लम्वाई ३६०० मिटर लामो रहेको छ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="५ वर्ष भित्र">      <span class="timeline-year">५ वर्ष भित्र</span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/chhimkeshwori.jpg" data-year="५ वर्ष भित्र">      <span class="timeline-year">५ वर्ष भित्र</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">५ वर्ष भित्र</h4>
             <p class="timeline-text">छिम्केश्वरी क्षेत्रमा कलात्मक बहुआयामिक रिर्सोट सञ्चालनमा ल्याउँछ । </p>
@@ -621,30 +610,10 @@
         <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="अन्य वर्ष">      <span class="timeline-year">अन्य वर्ष</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">अन्य वर्ष </h4>
-            <p class="timeline-text">अध्यक्ष कम्पनी पञ्चासे केवलकार एण्ड टुर्स लि.ले सुरु गर्न लागेको 
-बृहत्तर पञ्चासे पर्यटन पूर्वाधारयुक्त केवलकार परियोजनाको निर्माण 
-सम्पन्न गर्नका लागि विशेष भूमिका खेल्दछ ।
-</p>
+            <p class="timeline-text">अध्यक्ष कम्पनी पञ्चासे केवलकार एण्ड टुर्स लि.ले सुरु गर्न लागेको बृहत्तर पञ्चासे पर्यटन पूर्वाधारयुक्त केवलकार परियोजनाको निर्माण सम्पन्न गर्नका लागि विशेष भूमिका खेल्दछ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2013">      <span class="timeline-year">2013</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-        </div>
-        <div class="timeline-slide" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2015">      <span class="timeline-year">2015</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-        </div>
-        <div class="timeline-slide" id="restrozone_start" style="background-image: url(https://unsplash.it/1920/600?image=13" data-year="2016">      <span class="timeline-year">2016</span>
-          <div class="timeline-slide__content">
-            <h4 class="timeline-title">Our nice super title</h4>
-            <p class="timeline-text">Lorem ipsum dolor site amet, consectetur adipscing elit, sed do eisumod tempor incididut ut labore et dolore magna aliqua. Ut enim ad mimim venjam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-        </div>
+        
       </div>
     </div>
   </div>

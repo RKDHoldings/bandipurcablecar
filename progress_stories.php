@@ -7,7 +7,7 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -34,7 +34,7 @@
            </div>
         <div class="project_process row">
               <div class="progress-bar col-lg-4">
-                  <div class="label" data-count="90" > 0% </div>
+                  <div class="label" data-count="75" > 0% </div>
                   <div class="line" style="width:300px">
                        <span></span>
                   </div>
@@ -42,7 +42,7 @@
               </div>
 
               <div class="progress-bar  col-lg-4">
-                   <div class="label" data-count="80" > 0% </div>
+                   <div class="label" data-count="65" > 0% </div>
                         <div class="line" style="width:300px">
                              <span> </span>
                         </div>
@@ -50,7 +50,7 @@
               </div>
 
               <div class="progress-bar  col-lg-4">
-                  <div class="label" data-count="5" > 0% </div>
+                  <div class="label" data-count="25" > 0% </div>
                       <div class="line" style="width:300px">
                           <span> </span>
                       </div>
@@ -258,8 +258,8 @@
                <div class="col-lg-12">                    
                  <div class="project_img_gallery d-flex">
                    <div class="project-img">
-                        <a href="img/project_process/q1.jpeg"  title="" style="">
-	                         	<img src="img/project_process/q1.jpeg" >
+                        <a href="img/project_process/queen-tower.jpg"  title="" style="">
+	                         	<img src="img/project_process/queen-tower.jpg" >
              	          </a>
                     </div>
             	      <div  class="project-img">
