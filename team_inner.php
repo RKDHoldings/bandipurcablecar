@@ -5,20 +5,9 @@
  include('includes/navbar.php');
  ?>
  <!-- banner -->
- <!-- <section id="breadcrumb">
-   <div class="container">
-   <video poster="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/fashion.jpg" playsinline autoplay muted loop>
-   <source src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/4273/fashion.webm" type="video/webm">
-   <source src="" type="video/mp4">
-</video>
-   <div id="fashion">
-   <a class="video-play" href="javascript:void(0)" title="Play">Play</a>
-   </div>
-   <h2 class="breadcrumb-title">about bandipur</h2>
-   </div>
-</section> -->
+
 <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">

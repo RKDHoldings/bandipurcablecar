@@ -55,7 +55,7 @@
 <section id="award_details">
     <div class="container">
         <div class="row">
-           <h6>News & Updates</h6>
+           <h6>our contribution</h6>
            <h2 class="section-title">Corporate Social responsibility</h2>
            <p>Bandipur Cable Car & Tourism Limited not only focus on business, company also works for betterment of society. Company has taken following steps to fulfill It's corporate social responsibility:  </p>       
            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">

@@ -26,9 +26,9 @@
 <section id="impact_stories">
     <div class="container">
         <div class="row">
-           <h6>impact stories</h6>
-           <h2 class="section-title">our stories</h2>
-           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p>
+           <h6>latest events</h6>
+           <h2 class="section-title">our events</h2>
+           <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p> -->
            <!-- impact stories card column -->           
         <div class="col-lg-3 mb-4">
            <a href="impact_details1.php">

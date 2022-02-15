@@ -5,6 +5,22 @@
  include('includes/navbar.php');
  ?>
 
+
+<div class="popup-wrap">
+    <div class="popup-box">
+      <!-- <h2>Title of Popup</h2>
+      <h3>A sub-heading for the popup with a little description.</h3> -->
+      <img src="img/events/event-4.jpg" class="pop_img" alt="">
+      <a class="close-btn popup-close" href="#">x</a>
+    </div>
+    <div class="popup-box two">
+      <!-- <h2>Title of Popup</h2>
+      <h3>A sub-heading for the popup with a little description.</h3> -->
+      <img src="img/events/event-2.jpg" class="pop_img" alt="">
+      <a class="close-btn popup-close" href="#">x</a>
+    </div>
+  </div>
+
 <section id="banner">
   <div class="content">
       <div class="owl-carousel owl-1">
@@ -76,46 +92,35 @@
       <div class="row">
          <div class="col-lg-3">
             <a href="">
-                <div class="intro__details active" data-aos="flip-left"
-                data-aos-easing="ease-out-cubic"
-                data-aos-duration="1000">
+                <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                     <h5 class="title__secondary">Yearly 5 Lakhs Visitors</h5>
-                    <p class="card-text">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
-                    <!-- <div class="go-corner" href="#"> <div class="go-arrow"> → </div> </div> -->
+                    <p class="card-text mt-0">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
                 </div>
             </a>
          </div>
          <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="1500">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-duration="1500">
                   <h5  class="title__secondary">500 Passenger Per Hour</h5>
-                  <p class="card-text">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
-                   <!-- <div class="go-corner" href="#"> <div class="go-arrow"> →</div></div>                       -->
+                  <p class="card-text mt-0">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
               </div>
           </a>
          </div>
         <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left"
-              data-aos-easing="ease-out-cubic"
-              data-aos-duration="2000">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
                   <h5 class="title__secondary">Complete Holiday Package</h5>
-                  <p class="card-text">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
+                  <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
                    <!-- <div class="go-corner" href="#"> <div class="go-arrow">  →</div></div>              -->
               </div>
           </a>
         </div>
         <div class="col-lg-3">
             <a href="">
-                <div class="intro__details" data-aos="flip-left"
-                data-aos-easing="ease-out-cubic"
-                data-aos-duration="2500">
+                <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="2500">
                     <h5 class="title__secondary">South Asia Unique Cable Car</h5>
-                    <p class="card-text">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
-                    <!-- <div class="go-corner" href="#">  <div class="go-arrow">   → </div> </div>     -->
-              </div>
+                    <p class="card-text mt-0">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
+                </div>
             </a>
         </div>
       </div>
@@ -296,7 +301,7 @@
         <h2 class="section-title">Featured Investments</h2>
       </div>
       <div class="col-lg-6"> 
-        <a href="what_we_do.php" class=" btn btn-viewmore ">view all  <i class="icon-long-arrow-right"></i></a>
+        <a href="what_we_do.php" class=" btn btn-viewmore d-flex">view all  <i class="icon-long-arrow-right d-flex align-items-center"></i></a>
       </div>
    </div>
 	 <div class="row">

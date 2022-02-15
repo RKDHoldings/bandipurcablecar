@@ -4,19 +4,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Meta Tags -->
+    <meta name="description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward."/>
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Bandipur Cable Car Pvt.Ltd- A subsidary Company of RKD Holdings" />
+    <meta property="og:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
+    <meta property="og:url" content="" />
+    <meta property="og:site_name" content="Bandipur Cable Car" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
+    <meta name="twitter:title" content="Bandipur Cable Car Pvt.Ltd- A subsidary Company of RKD Holdings" />
 
-    <title>bandipur cablecar</title>
+    <title>Bandipur Cablecar</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
     <link rel="stylesheet" href="css/owl.carousel.min.css">
     <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/css/ionicons.min.css">
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.5.6/css/ionicons.min.css"> -->
     <link rel="stylesheet" href="fonts/icomoon/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.css">  
  <!--gallery  -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" rel="stylesheet">
-    <script src="js/lightbox-plus-jquery.min.js"></script>
+    <!-- <script src="js/lightbox-plus-jquery.min.js"></script> -->
     <!-- animate on scroll -->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
@@ -34,18 +45,7 @@
 <script src="js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 
-<script>
-    feather.replace()
-  </script>
-  <!--script for navbar  -->
-  <!-- <script>
- document.addEventListener('click',function(e){
-   if(e.target.classList.contains('hamburger-toggle')){
-     e.target.children[0].classList.toggle('active');
-   }
- })   
-       
- </script> -->
+<!-- fix top navbar -->
  
  <script>
    document.addEventListener("DOMContentLoaded", function(){

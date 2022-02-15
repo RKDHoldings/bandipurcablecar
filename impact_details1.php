@@ -110,14 +110,13 @@
                                 <ul class="sidebar__post-list list-unstyled">
                                     <li>
                                         <div class="sidebar__post-image">
-                                            <img src="img/about/about-img2.jpg" alt="">
+                                            <img src="img/events/event-3.jpg" alt="">
                                         </div>
                                         <div class="sidebar__post-content">
                                             <h3>
-                                                <span class="sidebar__post-content-meta">  <i data-feather="clock"></i>20
+                                                <span class="sidebar__post-content-meta">  <i class="icon-clock-o"></i>20
                                                     Oct, 2021</span>
-                                                <a href="blog-details.html">Integer tristique odio
-                                                    vitae lorem gra</a>
+                                                <a href="impact_details3.php">Bandipur Cable Car Financial Closure From Nepal SBI & NMB Bank</a>
                                             </h3>
                                         </div>
                                     </li>

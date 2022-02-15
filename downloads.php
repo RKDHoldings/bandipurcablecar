@@ -166,7 +166,7 @@
                      <a target="_blank" href="img/reports/graph_talika.pdf" title=" Report">
                        <div class="card">
                             <div class="card-body">
-                               <h5 class="heading_title">Work Schedule</h5>
+                                  <h5 class="heading_title">Work Schedule Of Bandipur Cablecar Project</h5>
                                <img src="img/icon-document.svg" class="download_icon" alt="">
                             </div>
                        </div>

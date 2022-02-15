@@ -56,7 +56,7 @@
        <div class="row">
         <div class="col-lg-6">
         <div class=""data-aos="fade-up" data-aos-duration="1500">
-        <h6 class="">About bandipur</h6>
+        <h6 class="">Our Principles</h6>
         <h2 class="section-title">our  business visions </h2>
         <p>बन्दीपुरको अलौकिक आवासीय पर्यटनको अलग्गै र भिन्न मज्जा पाउने कुरा केवलकारको एजेण्डामा ब्रान्डिङ्ग गरेर व्यवसायिक आम्दानीको लक्ष्य हासिल गर्नु हो । खड्गदेवी मन्दिरको महिमा एवं दर्शनको सार्थकता अनुभूत गराउन जहाँ हजारौँले आत्मनिर्भताको बाटो देख्न सकून् भन्ने कम्पनीको उद्देश्य हो ।</p>
                 <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
@@ -197,7 +197,7 @@
 <section id="investment_strategy">
     <div class="container">
         <div class="row">
-            <h6>we plan</h6>
+            <h6>INVESTMENT THEME</h6>
             <h2 class="section-title">Investment Model</h2>
             <p>We follow Coops2Govs Principle</p>
             <div class="inner_container">
@@ -257,16 +257,13 @@
                             </div>
 							<div class="text">सामुदायिक र सरकारी उद्यम एवं व्यवस्थापन </div>
 						</div>
-					</div>
-													
-						
-				</div>
-				
+					</div>																			
+				</div>                				
 			</div>
         </div>
     </div>
 </section>
-<!-- code of ethics -->
+<!-- care ratings -->
 <section id="about_ethics">
     <div class="container">
         <div class="row">
@@ -287,7 +284,7 @@
         <!-- row end -->
         <div class="contact_ext">
             <div class="field-item even">
-                <p><strong>Report any questions or concerns to:</strong> <br>Ethics &amp; Corporate Office <br>061-541430 <br><a class="activelink_contact"  href="mailto:info@bandipur.np" title="">info@bandipurcablecar.com.np</a></p>
+                <p><strong>Report any questions or concerns to:</strong> <br> Corporate Office <br>061-541430 <br><a class="activelink_contact"  href="mailto:info@bandipur.np" title="">info@bandipurcablecar.com.np</a></p>
             </div>
         </div>
     </div>
@@ -299,52 +296,37 @@
       <div class="row">
           <h6>our history</h6>
           <h2 class="section-title">history of bandipur Cablecar</h2>
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor quibusdam libero officiis, accusamus vel fugiat delectus odio, officia illum labore ducimus rerum animi laborum quas inventore optio, eos aspernatur aliquam!</p>	
+          <p>Established in 2013, Bandipur Cable Car as Pvt Ltd was created to advance Nepal’s Tourism Development. Bandipur Cable Car Pvt Ltd followed in 2021 converted to Public Company to further diversify the tourism economy. Both swiftly flourished into active worldwide investors across multiple sectors.</p>	
 	<div class="timeline">
 		<ul>
 			<li>
 				<span>२०६९ पुष २२ (2013.01.06)</span>
 				<div class="content">
 					<h3>Registered with Government of Nepal, Ministry of Industry, Company Registrar office, Kathmandu Bs under registration No 108644/069/70</h3>
-					<!-- <p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
-					</p> -->
 				</div>
 			</li>
 			<li>
 				<span>२०६९ फागुन १३( 2013.02.24)</span>
 				<div class="content">
 					<h3>Company Registered with Tax office under PAN no 600918925</h3>
-					<!-- <p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-					</p> -->
 				</div>
 			</li>
 			<li>
 				<span>२०७५ साउन १८ (2018.08.03)</span>
 				<div class="content">
 					<h3>Supplementgary meorandum of Understanding(MOU) entered into betweeen Bandipur Cable Car Pvt Ltd(BCCPL) and Coveyor & Ropeway services Pvt Ltd(CRSPL) Kolkata, India </h3>
-					<!-- <p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-					</p> -->
 				</div>
 			</li>
             <li>
 				<span>२०७५ कार्तिक १९  (2018.11.05)</span>
 				<div class="content">
 					<h3>Registration with VAT</h3>
-					<!-- <p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-					</p> -->
 				</div>
 			</li>
             <li>
 				<span>२०७८ भदौ १३ (2021.08.29)</span>
 				<div class="content">
 					<h3>Agreement between Bandipur Cable Car Pvt Ltd and Conveyor & Rope way services Pvt Ltd(CRSPL) for the construction of Passenger Ropeway between Bandipur</h3>
-					<!-- <p>
-						Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-					</p> -->
 				</div>
 			</li>
             <li>

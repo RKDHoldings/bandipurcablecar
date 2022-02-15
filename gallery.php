@@ -33,7 +33,7 @@
 		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
 		<li><a href="javascript:void(0);" data-filter="bike">5th AGM Bandipur Cablecar</a></li>
 		<li><a href="javascript:void(0);" data-filter="bus">Bandipur Cablecar Project</a></li>
-      <li><a href="javascript:void(0);" data-filter="car">main office</a></li>
+      <li><a href="javascript:void(0);" data-filter="car">News about Bandipur Cable Car</a></li>
 	</ul>
 </div>
 	<div id="container" class="isotope"> 
@@ -45,8 +45,8 @@
       </div>
 
       <div class="grid-item" data-filter="car">
-        <a class="popupimg" href="img/gallery_icon/2.jpg">
-          <img src="img/gallery_icon/2.jpg">
+        <a class="popupimg" href="img/gallery_icon/post/annapurna_post.jpg">
+          <img src="img/gallery_icon/post/annapurna_post.jpg">
         </a>
         <div class="overlay">Car</div>
       </div>
@@ -74,42 +74,42 @@
 
       <div class="grid-item" data-filter="bus">
         <a class="popupimg" href="img/gallery_icon/project-2.png">
-          <img src="img/gallery_icon/project-2.jpg">
+          <img src="img/gallery_icon/project-2.png">
         </a>
         <div class="overlay">Bus</div>
       </div>
                 
 		<div class="grid-item" data-filter="bus">
         <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1Ivon_-3UVc12r7mGE4yZGQmpFRLFSAxN&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1Ivon_-3UVc12r7mGE4yZGQmpFRLFSAxN&export=download">
+          <img src="img/gallery_icon/project-3.jpg">
         </a>
         <div class="overlay">Bus</div>
       </div>
              
       <div class="grid-item" data-filter="car">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1nbj7i05X8K2b0nIgRUnHdSBGqoUraWOB&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1nbj7i05X8K2b0nIgRUnHdSBGqoUraWOB&export=download">
+        <a class="popupimg" href="img/gallery_icon/post/ratopati.jpg">
+          <img src="img/gallery_icon/post/ratopati.jpg">
         </a>
         <div class="overlay">Car</div>
       </div>
 
 		<div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1boYRgRrvvhY0-mVfMCnns11djZXty3b1&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1boYRgRrvvhY0-mVfMCnns11djZXty3b1&export=download">
+        <a class="popupimg" href="img/gallery_icon/project-4.png">
+          <img src="img/gallery_icon/project-4.png">
         </a>
         <div class="overlay">Bus</div>
       </div>
         
 		<div class="grid-item" data-filter="car">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=14s8TliUaHoqzP8q9xbmMBpeJYJzDo_Gf&export=download">
-           <img src="https://drive.google.com/u/0/uc?id=14s8TliUaHoqzP8q9xbmMBpeJYJzDo_Gf&export=download">
+        <a class="popupimg" href="img/gallery_icon/post/himalayan_times.jpg">
+           <img src="img/gallery_icon/post/himalayan_times.jpg">
         </a>
         <div class="overlay">Car</div>
       </div>
              
 		<div class="grid-item" data-filter="car">
         <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1Oz_eSTCmx7Zbwv6grFF7PtZPZDzZ_XPP&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1Oz_eSTCmx7Zbwv6grFF7PtZPZDzZ_XPP&export=download">
+          <img src="img/gallery_icon/post/samay_samachar.jpg">
         </a>
         <div class="overlay">Car</div>
       </div>
@@ -122,8 +122,8 @@
       </div>
              
 		<div class="grid-item" data-filter="car">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1ihVEiYj1bkklzozNfd89jTf8BAeLfZ-t&export=download">
-          <img src="https://drive.google.com/u/0/uc?id=1ihVEiYj1bkklzozNfd89jTf8BAeLfZ-t&export=download">
+        <a class="popupimg" href="img/gallery_icon/post/gorkha_patra_news.jpg">
+          <img src="img/gallery_icon/post/gorkha_patra_news.jpg">
         </a>
         <div class="overlay">Car</div>
       </div>

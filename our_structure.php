@@ -6,7 +6,7 @@
  ?>
  <!-- banner -->
  <section id="breadcrumb">
- <div class="bg-overlay pt-opacity4" style="background-image: url('img/about/about-img2.jpg');"></div>
+ <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -273,8 +273,8 @@
                           </div>
                     </div>
                     <div class="col-lg-7">
-                      <h6>our ceo</h6>
-                      <h2 class="section-title"> CEO message</h2>
+                      <h6>our president</h6>
+                      <h2 class="section-title">Mesage from President</h2>
                       <p>बन्दीपुर केवलकार एण्ड टुरिजम लिमिटेडका सातौँ साधारण सभाका प्रमुख अतिथिज्यू, विशिष्ट अतिथिज्यूहरु, अतिथिज्यूहरु, कम्पनीका निर्देशकज्यूहरु,
                          OCU समूह, जग्गादाताज्यूहरु, पत्रकार मित्रहरु, उपस्थित शेयरधनीहरु र कर्मचारीहरुप्रति हार्दिक अभिवादन व्यक्त गर्दछु र कम्पनीका तत्कालीन निर्देशक
                          दिवंगत स्वर्गीय राम प्रसाद शर्मा प्रति भावपूर्ण श्रद्धाञ्जली अर्पण गर्दछु ।
@@ -567,27 +567,27 @@ All employees have a responsibility for managing risk and this is reflected in I
                          <div class="sidebar_news1">
                             <h4>our structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team" target="_blank">Board of Directors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="chairman_message.php" target="_blank">leadership message <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>Govenance</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#governance-info">Committee <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#governance-info" target="_blank">Committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#operating_model" target="_blank">operating model <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>financial calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly calender<i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>contact us</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href=""> info@bandipurcablecar.com.np </a></p></li>
+                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="" target="_blank"> info@bandipurcablecar.com.np </a></p></li>
                               </ul>
                          </div>                           
                  </nav>                    

@@ -12,9 +12,9 @@
    <video autoplay muted loop playsinline preload="metadata" controls="controls">
 	  <source src="img/videos/queen_tower2.mp4"  type="video/mp4">
   </video>
-   <div id="fashion">
-   <a class="video-play" href="" title="Play">Play</a>
-   </div>
+   <!-- <div id="fashion zoom-gallery">
+      <a class="video-play" href="" title="Play">Play</a>
+   </div> -->
    <h2 class="breadcrumb-title">queen tower</h2>
    </div>
 </section>
@@ -222,7 +222,7 @@
 <section id="features-cablecar">
    <div class="container">
       <div class="row">
-		  <h6>transparent cablecar</h6>
+		  <h6>bandipur cablecar</h6>
          <h2 class="section-title">transparent cablecar</h2>
 		     <p> हाम्रो केवलकार मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टममा आधारित १९ गोण्डोला मार्फत् (मेटेरियल क्यावीन सहित) प्रति घण्टा ३०० यात्रीहरु बोक्न सक्ने क्षमतामा रहेको थियो । बजारको माग र चापका कारण यसलाई विस्तारित गर्दै २५ वटा गोण्डोला मेटेरियल क्यावीन सहित) प्रति घण्टा ५०० यात्रीहरु बोक्ने र दैनिक १६ घण्टा माथि सेवा दिन सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ ।  </p>
 	       <!--inner contents of queen tower 13 storey  -->

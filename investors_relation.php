@@ -67,7 +67,7 @@
       <div class="row">
            <div class="col-lg-9">
            <div class="share_info_details"> 
-                     <h6>share info</h6> 
+                     <h6>financial info</h6> 
                      <h2 class="section-title">Financial information and reports</h2>
                      <p>Bandipur Cablecar & Tourism Limited maintains the transparency and accountability in data. Company performs internal & external audit Annually.</p>                   
                  </div> 
@@ -182,31 +182,31 @@
                          <div class="sidebar_news1">
                            <h4>financial Reports</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Audit Reports <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#">Audit Reports </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>financial Closure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#"> Investment Structure <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#"> Investment Structure </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                             <h4>Committees</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#management_team ">Risk Management <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#management_team ">Risk Management </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                             <h4>Investment strategies</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#investment_strategy">strategies factors <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#investment_strategy">strategies factors </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>financial calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="img/report/final-calender.pdf" target="_blank">yearly calender<i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/report/final-calender.pdf" target="_blank">yearly calender</a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
@@ -273,7 +273,7 @@
 <section id="investment_strategy">
     <div class="container">
         <div class="row">
-            <h6>we plan</h6>
+            <h6>investment theme</h6>
             <h2 class="section-title">investment strategy</h2>
             <p>Best Solutions For Your Business</p>
             <div class="inner_container">

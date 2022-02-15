@@ -83,7 +83,7 @@
                   <ul class="megamenu-list list-col-3">
                   <h4 class="nav_title">what we do</h4>              
                     <ul class="nav-dropdown">
-                      <li><a href="what_we_do.php#features-cablecar">Transparent Cablecar</a></li>
+                      <li><a href="what_we_do.php#features-cablecar">Bandipur Cablecar</a></li>
                       <li><a href="what_we_do.php#features-queentower">queen tower</a>             
                     </ul>
                 </li>

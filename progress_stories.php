@@ -69,8 +69,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime sed doloribus cupiditate at dolore ducimus rem. Officiis quod ea laboriosam veniam assumenda corrupti, cumque reiciendis tenetur dolores temporibus eaque possimus.</p> -->
                <div class="col-lg-4">
                     <div class="content_bandipur">
-                       <a href="" targ'''
-                       et="_blank">
+                       <a href="" target="_blank">
                               <div class="content-overlay"></div>
                               <img class="content-image " src="img/hero_1.png" >
                               <!-- <a class= "lightbox-close" href= "#">X</a> -->

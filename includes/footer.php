@@ -32,45 +32,43 @@
                <div class="col">
                   <ul class="menu">
                       <a href="who_we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
-                      <li class="first leaf"><a href="about_bandipur.php" title="About Bandipur">About Bandipur</a></li>
-                      <li class="leaf"><a href="" title="Our History">Our History</a></li>
-                      <li class="collapsed"><a href="our_structure.php" title="Board of Directors">Board of Directors</a></li>
-                      <li class="collapsed"><a href="our_structure.php" title="Our Structure">Our Structure</a></li>                         
-                      <li class="last leaf"><a href="awar_recognition.php" title="Awards and Recognition">Awards and Recognition</a></li>
+                      <li class="first leaf"><a href="about_bandipur.php" target="_blank" title="About Bandipur">About Bandipur</a></li>
+                      <li class="leaf">      <a href="who_we_are.php#our_history" target="_blank" title="Our History">Our History</a></li>
+                      <li class="collapsed"> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li>
+                      <li class="collapsed"> <a href="our_structure.php" target="_blank" title="Our Structure">Our Structure</a></li>                         
+                      <li class="last leaf"> <a href="award_recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
               </div>  
               <div class="col">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
-                         <li class="first leaf"><a href="what_we_do.php" title="About queen tower">queen tower</a></li>
-                         <li class="leaf"><a href="" title="Our History">transparent cable car</a></li>
-                         <li class="collapsed"><a href="" title="Board of Directors">wax museum</a></li>
-                         <li class="collapsed"><a href="" title="Investment Committee">planetterium</a></li>                                                                                                
+                            <li class="first leaf"> <a href="what_we_do.php" target="_blank" title="About queen tower">queen tower</a></li>
+                            <li class="leaf">       <a href="" target="_blank" title="Our History">bandipur cable car</a></li>
                    </ul>  
                </div>  
                <div class="col">
                     <ul class="menu">
                          <a href="investors_relation.php"> <h4 class="footer_heading">investors relation</h4> </a>         
-                         <li class="first leaf"><a href="investors_relation#investment_budget" title="">share information</a></li>
-                         <li class="leaf"><a href="co-operative_governance.php" title="co-operative governance">co-operative gorvernance</a></li>
-                         <li class=""><a href="investors_relation.php#financial_report" title="financial Reports">financial reports</a></li>                                                                   
+                         <li class="first leaf"> <a href="investors_relation#investment_budget" title="">share information</a></li>
+                         <li class="leaf">       <a href="co-operative_governance.php" title="Co-operative governance">co-operative gorvernance</a></li>
+                         <li class="">           <a href="investors_relation.php#financial_report" title="financial Reports">financial reports</a></li>                                                                   
                     </ul>  
                </div>  
                <div class="col">                   
                     <ul class="menu">
-                         <li class="first leaf"><a href="progress_stories.php" title="Progress Stories">progress stories</a></li>
-                         <li class="first leaf"><a href="media_center.php" title="Media Menter">media center</a></li>
-                         <li class="leaf"><a href="downloads.php" title="Download Documents">downloads</a></li>
-                         <li class="collapsed"><a href="impact_stories.php" title="">events</a></li>                      
+                         <li class="first leaf"><a href="progress_stories.php" target="_blank" title="Progress Stories">progress stories</a></li>
+                         <li class="first leaf"><a href="media_center.php" target="_blank" title="Media Menter">media center</a></li>
+                         <li class="leaf">      <a href="downloads.php" target="_blank" title="Download Documents">downloads</a></li>
+                         <li class="">          <a href="impact_stories.php" target="_blank"  title="">events</a></li> 
+                         <li class="">          <a href="gallery.php"  target="_blank" title="">Gallery</a></li>                      
                     </ul>
               </div>
               <div class="col">
                 <h4 class="footer_heading">quick links</h4>
                     <ul class="contact p-0">
-                        <li><a href="https://rkdrealestate.com.np/" target="_blank"><i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
-                        <li><a href="https://tifl.com.np/" target="_blank"> <i class="icon-angle-double-right"></i> Tourism Investment Fund</a> </li>
-                        <li><a href="https://bizbazar.com.np/" target="_blank"><i class="icon-angle-double-right"></i>  Bizbazar</a> </li>
-
+                        <li><a href="https://rkdrealestate.com.np/" target="_blank"> <i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
+                        <li><a href="https://tifl.com.np/"          target="_blank"> <i class="icon-angle-double-right"></i> Tourism Investment Fund</a> </li>
+                        <li><a href="https://bizbazar.com.np/"      target="_blank"> <i class="icon-angle-double-right"></i>  Bizbazar</a> </li>
                     </ul>        
               </div>                      
              </div>                

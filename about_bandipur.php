@@ -10,9 +10,9 @@
    <video autoplay muted loop playsinline preload="metadata" controls="controls">
 	  <source src="img/videos/lower_station.mp4"  type="video/mp4">
   </video>
-   <div id="fashion">
-   <a class="video-play" href="" title="Play">Play</a>
-   </div>
+   <!-- <div id="fashion">
+      <a class="video-play" href="" title="Play">Play</a>
+   </div> -->
    <h2 class="breadcrumb-title">about bandipur</h2>
    </div>
 </section>
@@ -66,7 +66,7 @@
 
                      </a>
                       <!--2nd stats  -->
-                      <a href="investors_relation.php" target="_blank">
+                      <a href="what_we_do.php#features" target="_blank">
                       <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
@@ -108,35 +108,35 @@
                      <div class="sidebar_news1">
                            <h4>Table stations</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> Lower station  <i class="icon-long-arrow-right"></i></a></li>
-                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> Upper Station  <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  Land Details    <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link"> Lower station  </a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link"> Upper Station  </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link">  Land Details   </a> </li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
                            <h4>Bandipur Features</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#lower_station" class="nav-link">Cablecar         <i class="icon-long-arrow-right"></i></a></li>
-                                 <li class="nav-item"> <a href="#upper_station" class="nav-link">Queen tower      <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> Cable Restro Bar  <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li class="nav-item"> <a href="#lower_station" class="nav-link">Cablecar         </a></li>
+                                 <li class="nav-item"> <a href="#upper_station" class="nav-link">Queen tower      </a> </li>
+                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> Cable Restro Bar </a> </li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
                            <h4>Potential Investment</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#future_features" class="nav-link"> जिप लाइन             <i class="icon-long-arrow-right"></i></a></li>
-                                 <li class="nav-item"> <a href="#future_features" class="nav-link"> सिद्ध गुफा केवलकार     <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  वार्क भ्यु/सिसाको पुल    <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  स्काइ साइक्लिङ        <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  रानीवन जंगल रिर्सोट     <i class="icon-long-arrow-right"></i> </a> </li>
-                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  विविध पर्यटकीय फिचरहरु <i class="icon-long-arrow-right"></i> </a> </li>
+                                 <li class="nav-item"> <a href="#future_features" class="nav-link"> जिप लाइन              </a></li>
+                                 <li class="nav-item"> <a href="#future_features" class="nav-link"> सिद्ध गुफा केवलकार      </a></li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  वार्क भ्यु/सिसाको पुल     </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  स्काइ साइक्लिङ         </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  रानीवन जंगल रिर्सोट      </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  विविध पर्यटकीय फिचरहरु  </a> </li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
                            <h4>downloads</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="downloads.php" class="nav-link"> CARE Ratings         <i class="icon-long-arrow-right"></i></a></li>
-                                 <li class="nav-item"> <a href="downloads.php#download_reports" class="nav-link"> MEP Bidding Documents  <i class="icon-long-arrow-right"></i></a></li>
+                                 <li class="nav-item"> <a href="downloads.php" class="nav-link"> CARE Ratings  </a></li>
+                                 <li class="nav-item"> <a href="downloads.php#download_reports" class="nav-link"> MEP Bidding Documents </a></li>
                               </ul>
                      </div>                           
             </div>
@@ -149,7 +149,7 @@
             <div class="container">
                 <div class="trusted-one__inner">
                     <div class="trusted-one__left">
-                        <h3 class="trusted-one__content">मोनोकेवल डिटाचवेल  रोटेटिङ गोण्डोला सिस्टम</h3>
+                        <h3 class="trusted-one__content">मोनोकेवल डिटाचेवल  रोटेटिङ गोण्डोला सिस्टम</h3>
                     </div>
                     <div class="trusted-one__right">
                         <ul class="list-unstyled trusted-one__content-box">

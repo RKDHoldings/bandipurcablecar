@@ -57,7 +57,7 @@
                 </div>
                 <div class="double-check-list font-title mb-xxl-5">
                  <h3></h3>
-                  <ul class="list-unstyled aboutus__points">
+                  <ul class="list-unstyled aboutus__points swpf">
                     <li>  
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
                         <div class="text"> <p> स्किम लागू गर्नका लागि टुरिजम इन्भेष्टमेन्ट फण्डले कर्जा उपलब्ध गराउँदछ । जसको व्याजदर जम्मा ६.५% राखी सरदरमा किस्ता तालिकासमेत उपलब्ध गराउँदछ । कर्जा १० वर्षे रहनेछ  ।</p> </div>
@@ -142,7 +142,7 @@
                          <div class="sidebar_news1">
                            <h4>media center</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calneder.pdf" target="_blank" title="Yearly Calender">yearly calender<i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
