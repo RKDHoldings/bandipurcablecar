@@ -15,119 +15,9 @@ $(function() {
 	
 })
 
-	// (function($) {
-
-  //       "use strict";
-    
-  //       var fullHeight = function() {
-    
-  //           $('.js-fullheight').css('height', $(window).height());
-  //           $(window).resize(function(){
-  //               $('.js-fullheight').css('height', $(window).height());
-  //           });
-    
-  //       };
-  //       fullHeight();
-    
-  //       var carousel = function() {
-  //           $('.featured-carousel').owlCarousel({
-  //           loop: true,
-  //           autoplay: true,
-  //           margin:30,
-  //           animateOut: 'fadeOut',
-  //           animateIn: 'fadeIn',
-  //           nav:true,
-  //           dots: true,
-  //           autoplayHoverPause: false,
-  //           items: 1,
-  //           navText : ["<span class='ion-ios-arrow-back'></span>","<span class='ion-ios-arrow-forward'></span>"],
-  //           responsive:{
-  //             0:{
-  //               items:1
-  //             },
-  //             600:{
-  //               items:2
-  //             },
-  //             1000:{
-  //               items:4
-  //             }
-  //           }
-  //           });
-    
-  //       };
-  //       carousel();
-    
-  //   })(jQuery);
-    
   
 
-
-    // (function($) {
-
-    //   "use strict";
-    
-    //   var fullHeight = function() {
-    
-    //     $('.js-fullheight').css('height', $(window).height());
-    //     $(window).resize(function(){
-    //       $('.js-fullheight').css('height', $(window).height());
-    //     });
-    
-    //   };
-    //   fullHeight();
-    
-    //   var carousel = function() {
-    //     $('.featured-carousel').owlCarousel({
-    //       loop: true,
-    //       autoplay: true,
-    //       margin:30,
-    //       animateOut: 'fadeOut',
-    //       animateIn: 'fadeIn',
-    //       nav:true,
-    //       dots: true,
-    //       autoplayHoverPause: false,
-    //       items: 1,
-    //       navText : ["<span class='ion-ios-arrow-back'></span>","<span class='ion-ios-arrow-forward'></span>"],
-    //       responsive:{
-    //         0:{
-    //           items:1
-    //         },
-    //         600:{
-    //           items:2
-    //         },
-    //         1000:{
-    //           items:4
-    //         }
-    //       }
-    //     });
-    
-    //   };
-    //   carousel();
-    
-    // })(jQuery);
-    
-    
-    
-    // $('.brand-carousel').owlCarousel({
-    //   loop:true,
-    //   margin:10,
-    //   autoplay:true,
-    //   autoplayTimeout: 5000,
-    //     slideTransition: 'linear',
-    //     autoplaySpeed: 5000,
-    //     autoplayHoverPause: true,
-    //   responsive:{
-    //     0:{
-    //     items:1
-    //     },
-    //     600:{
-    //     items:3
-    //     },
-    //     1000:{
-    //     items:4
-    //     }
-    //   }
-    //   })
+  
     //
     // progress bar
     document.addEventListener("DOMContentLoaded", function(){
@@ -213,3 +103,36 @@ $(function() {
       e.preventDefault();
     });
   });
+
+  // hide nav on scroll
+  document.addEventListener("DOMContentLoaded", function(){
+		
+		el_autohide = document.querySelector('.autohide');
+		
+		// add padding-top to bady (if necessary)
+		header_area_height = document.querySelector('.header_area').offsetHeight;
+		document.body.style.paddingTop = header_area_height + 'px';
+
+		if(el_autohide){
+			
+			var last_scroll_top = 0;
+			window.addEventListener('scroll', function() {
+	       		let scroll_top = window.scrollY;
+		       if(scroll_top < last_scroll_top) {
+		            el_autohide.classList.remove('scrolled-down');
+		            el_autohide.classList.add('scrolled-up');
+		        }
+		        else {
+		            el_autohide.classList.remove('scrolled-up');
+		            el_autohide.classList.add('scrolled-down');
+		        }
+		        last_scroll_top = scroll_top;
+
+			}); 
+			// window.addEventListener
+
+		}
+		// if
+		
+	}); 
+	// DOMContentLoaded  end

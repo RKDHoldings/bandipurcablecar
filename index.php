@@ -8,14 +8,14 @@
 
 <div class="popup-wrap">
     <div class="popup-box">
-      <!-- <h2>Title of Popup</h2>
-      <h3>A sub-heading for the popup with a little description.</h3> -->
+      <!-- <h2 class="section-title">Title of Popup</h2>
+      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
       <img src="img/events/event-4.jpg" class="pop_img" alt="">
       <a class="close-btn popup-close" href="#">x</a>
     </div>
     <div class="popup-box two">
-      <!-- <h2>Title of Popup</h2>
-      <h3>A sub-heading for the popup with a little description.</h3> -->
+      <!-- <h2 class="section-title">Title of Popup</h2>
+      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
       <img src="img/events/event-2.jpg" class="pop_img" alt="">
       <a class="close-btn popup-close" href="#">x</a>
     </div>
@@ -205,7 +205,7 @@
   <div class="container">
       <div class="info__one">
           <div class="row">
-              <div class="col-xl-6 col-lg-6">
+              <div class="col-sm-12 col-lg-7">
                   <div class="info__one__topleft">
                       <div class="section-title text-left">
                           <h6 data-aos="fade-up"
@@ -215,7 +215,7 @@
                       </div>
                   </div>
               </div>
-              <div class="col-xl-6 col-lg-6">
+              <div class="col-sm-12 col-lg-5">
                   <div class="info__one__topright">
                       <div class="info__one__counter">
                           <ul class="info__one__counter__list list-unstyled">
@@ -231,7 +231,7 @@
                               </li>
                           </ul>
                       </div>
-                      <div class="info__one__link">
+                      <div class="info__one__link d-flex justify-content-end">
                           <a href="" class="video-popup">
                               <div class="info__one__img">
                                   <img src="img/about/about-img2.jpg" alt="">

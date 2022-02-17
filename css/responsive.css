@@ -99,6 +99,9 @@
        display: flex;
        justify-content: center;
     }
+    .info__one__img{
+        height: 130px;
+    }
   }
   @media screen and (max-width: 700px) {
     /* .info__one__feature{

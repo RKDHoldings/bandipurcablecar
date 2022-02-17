@@ -27,7 +27,7 @@
             </div>
         </div>
 <!-- navbar section start -->
-<header class="header_area" id="header">
+<header class="header_area autohide" id="header">
   <div class="main_header_area animated">
     <div class="container">
       <nav id="navigation1" class="navigation">
@@ -42,7 +42,7 @@
         <!-- Main Menus Wrapper -->
         <div class="nav-menus-wrapper">
           <ul class="nav-menu align-to-right">
-            <li><a href="who_we_are.php">Who We Are</a>
+            <li><a href="who_we_are.php" class="active">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
