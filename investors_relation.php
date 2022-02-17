@@ -330,8 +330,8 @@
                             <img src="img/icon_pack/raid.png" alt="RAID">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="raid.php">RAID</a></h5>   
-                                   <a href="raid.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                               <h5><a href="raid.php" target="_blank" >RAID</a></h5>   
+                                   <a href="raid.php" target="_blank"  class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                             </div>
 							<div class="text">शेयरधनीहरुको हरेक अप्ठ्यारामा सहयोग र राहत दिनकालागि आर.के.डी. सहयोग कार्यक्रम</div>
 						</div>
