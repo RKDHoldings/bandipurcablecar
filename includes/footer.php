@@ -42,8 +42,8 @@
               <div class="col">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
-                            <li class="first leaf"> <a href="what_we_do.php" target="_blank" title="About queen tower">queen tower</a></li>
-                            <li class="leaf">       <a href="" target="_blank" title="Our History">bandipur cable car</a></li>
+                            <li class="first leaf"> <a href="what_we_do.php#features_queentower" target="_blank" title="About queen tower">queen tower</a></li>
+                            <li class="leaf">       <a href="what_we_do.php#features_cablecar" target="_blank" title="Bandipur Cablecar">bandipur cablecar</a></li>
                    </ul>  
                </div>  
                <div class="col">

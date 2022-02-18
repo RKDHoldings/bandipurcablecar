@@ -27,7 +27,7 @@
             </div>
         </div>
 <!-- navbar section start -->
-<header class="header_area autohide" id="header">
+<header class="header_area " id="header">
   <div class="main_header_area animated">
     <div class="container">
       <nav id="navigation1" class="navigation">

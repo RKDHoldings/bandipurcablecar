@@ -284,7 +284,7 @@
         <!-- row end -->
         <div class="contact_ext">
             <div class="field-item even">
-                <p><strong>Report any questions or concerns to:</strong> <br> Corporate Office <br>061-541430 <br><a class="activelink_contact"  href="mailto:info@bandipur.np" title="">info@bandipurcablecar.com.np</a></p>
+                <p><strong>Report any questions or concerns to:</strong> <br> Corporate Office <br>061-541430 <br><a class="activelink_contact"  href="mailto:info@bandipurcablecar.com.np" title="">info@bandipurcablecar.com.np</a></p>
             </div>
         </div>
     </div>
