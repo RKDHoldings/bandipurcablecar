@@ -4,14 +4,6 @@
  <?php
  include('includes/navbar.php');
  ?>
-<!-- <section id="preloader">
-<div class="loader">
-  <div class="bar1"></div>
-  <div class="bar2"></div>
-  <div class="bar3"></div>
-  
-</div>
-</section> -->
 <div class="popup-wrap">
     <div class="popup-box">
       <!-- <h2 class="section-title">Title of Popup</h2>
@@ -23,20 +15,6 @@
       <!-- <h2 class="section-title">Title of Popup</h2>
       <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
       <img src="img/events/event-2.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close" href="#">x</a>
-    </div>
-  </div>
-  <div class="popup-wrap two">
-    <div class="popup-box">
-      <!-- <h2 class="section-title">Title of Popup</h2>
-      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
-      <img src="img/events/event-4.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close" title="Close" href="#">x</a>
-    </div>
-    <div class="popup-box two">
-      <!-- <h2 class="section-title">Title of Popup</h2>
-      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
-      <img src="img/events/event-3.jpg" class="pop_img" alt="">
       <a class="close-btn popup-close" href="#">x</a>
     </div>
   </div>

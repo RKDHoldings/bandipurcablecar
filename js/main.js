@@ -92,7 +92,7 @@ $(function() {
     $('.popup-btn').click(function(e) {
       $('.popup-wrap').fadeIn(500);
       $('.popup-box').removeClass('transform-out').addClass('transform-in');
-  
+      $('body').css('overflow', 'hidden');
       e.preventDefault();
     });
   
@@ -104,35 +104,43 @@ $(function() {
     });
   });
 
+  // prevent body scroll when modal opened
+ 
+//   $('.popup-wrap').modal().on('shown', function(){
+//     $('body').css('overflow', 'hidden');
+// }).on('hidden', function(){
+//     $('body').css('overflow', 'auto');
+// })
+
   // hide nav on scroll
-  document.addEventListener("DOMContentLoaded", function(){
+  // document.addEventListener("DOMContentLoaded", function(){
 		
-		el_autohide = document.querySelector('.autohide');
+	// 	el_autohide = document.querySelector('.autohide');
 		
-		// add padding-top to bady (if necessary)
-		header_area_height = document.querySelector('.header_area').offsetHeight;
-		document.body.style.paddingTop = header_area_height + 'px';
+	
+	// 	header_area_height = document.querySelector('.header_area').offsetHeight;
+	// 	document.body.style.paddingTop = header_area_height + 'px';
 
-		if(el_autohide){
+	// 	if(el_autohide){
 			
-			var last_scroll_top = 0;
-			window.addEventListener('scroll', function() {
-	       		let scroll_top = window.scrollY;
-		       if(scroll_top < last_scroll_top) {
-		            el_autohide.classList.remove('scrolled-down');
-		            el_autohide.classList.add('scrolled-up');
-		        }
-		        else {
-		            el_autohide.classList.remove('scrolled-up');
-		            el_autohide.classList.add('scrolled-down');
-		        }
-		        last_scroll_top = scroll_top;
+	// 		var last_scroll_top = 0;
+	// 		window.addEventListener('scroll', function() {
+	//        		let scroll_top = window.scrollY;
+	// 	       if(scroll_top < last_scroll_top) {
+	// 	            el_autohide.classList.remove('scrolled-down');
+	// 	            el_autohide.classList.add('scrolled-up');
+	// 	        }
+	// 	        else {
+	// 	            el_autohide.classList.remove('scrolled-up');
+	// 	            el_autohide.classList.add('scrolled-down');
+	// 	        }
+	// 	        last_scroll_top = scroll_top;
 
-			}); 
-			// window.addEventListener
-
-		}
-		// if
+	// 		}); 
 		
-	}); 
-	// DOMContentLoaded  end
+
+	// 	}
+	
+		
+	// }); 
+	
