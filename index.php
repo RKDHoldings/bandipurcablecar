@@ -11,9 +11,7 @@
       <img src="img/events/event-4.jpg" class="pop_img" alt="">
       <a class="close-btn popup-close" title="Close" href="#">x</a>
     </div>
-    <div class="popup-box two">
-      <!-- <h2 class="section-title">Title of Popup</h2>
-      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
+    <div class="popup-boxtwo">
       <img src="img/events/event-2.jpg" class="pop_img" alt="">
       <a class="close-btn popup-close" href="#">x</a>
     </div>
@@ -29,15 +27,9 @@
           <div class="container">
             <div class="row  align-items-center">
               <div class="col-md-8">
-                <h6>Great Experience In Building. </h6>
+                <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>7 YEARS <br> OF PROGRESS</h2>
-                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                 <!-- <a href="" class="btn btn-primary mt-1">explore more</a> -->
-                 <!-- <div class="button" id="button-2">
-                    <div id="slide"></div>
-                   <a href="#">explore more</a>
-                  </div> -->
-                <a href="what_we_do.php">  <button class="slide_from_left">explore more</button> </a>
+                <a href="what_we_do.php">  <button class="slide_from_left mt-3">explore more</button> </a>
               </div>
             </div>
           </div>
@@ -46,10 +38,10 @@
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
-                <h6>Great Experience In Building. </h6>
+                <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>Investing in Tourism</h2>
                 <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                 <a href="investors_relation.php"> <button class="slide_from_left">explore more</button></a>
+                 <a href="investors_relation.php"> <button class="slide_from_left mt-3">explore more</button></a>
               </div>
             </div>
           </div>
@@ -58,10 +50,10 @@
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
-                <h6>Great Experience In Building. </h6>
+                <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>Bandipur Cable Car </h2>
                 <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                <a href="about_bandipur.php">  <button class="slide_from_left">explore more</button> </a>
+                <a href="about_bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>
               </div>
             </div>
           </div>
@@ -163,7 +155,7 @@
                   </div> -->
                    <!-- promoter structure share in percentage counter -->
                   <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
-                       <div class="clearfix">
+                       <div class="row">
                          <h2 class="mb-4 mt-4">Promoter Structure Percentage(%)</h2>
                            <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
                                <div class="inner">

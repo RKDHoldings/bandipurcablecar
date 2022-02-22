@@ -6,7 +6,7 @@ $(function() {
     margin:0,
     nav:true,
     items: 1,
-    smartSpeed: 1000,
+    smartSpeed: 3000,
     autoplay: true,
     pauseOnHover: false,
     navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
@@ -92,6 +92,7 @@ $(function() {
     $('.popup-btn').click(function(e) {
       $('.popup-wrap').fadeIn(500);
       $('.popup-box').removeClass('transform-out').addClass('transform-in');
+      $('.popup-boxtwo').removeClass('transform-out').addClass('transform-in');
       $('body').css('overflow', 'hidden');
       e.preventDefault();
     });
@@ -99,6 +100,8 @@ $(function() {
     $('.popup-close').click(function(e) {
       $('.popup-wrap').fadeOut(500);
       $('.popup-box').removeClass('transform-in').addClass('transform-out');
+      $('.popup-boxtwo').removeClass('transform-in').addClass('transform-out');
+
   
       e.preventDefault();
     });
@@ -143,4 +146,12 @@ $(function() {
 	
 		
 	// }); 
+  $(document).ready(function() {
+	
+    setTimeout(function(){
+      $('body').addClass('loaded');
+      $('h1').css('color','#222222');
+    }, 3000);
+    
+  });
 	

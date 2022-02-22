@@ -34,9 +34,9 @@
                       <a href="who_we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
                       <li class="first leaf"><a href="about_bandipur.php" target="_blank" title="About Bandipur">About Bandipur</a></li>
                       <li class="leaf">      <a href="who_we_are.php#our_history" target="_blank" title="Our History">Our History</a></li>
-                      <li class="collapsed"> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li>
-                      <li class="collapsed"> <a href="our_structure.php" target="_blank" title="Our Structure">Our Structure</a></li>                         
-                      <li class="last leaf"> <a href="award_recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
+                      <li class=""> <a href="our_structure.php" target="_blank" title="Our Structure">Our Structure</a></li>
+                      <li class=""> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li>                         
+                      <li class=""> <a href="award_recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
               </div>  
               <div class="col">

@@ -10,7 +10,7 @@
  <section id="breadcrumb">
    <div class="container">
    <video autoplay muted loop playsinline preload="metadata" controls="controls">
-	  <source src="img/videos/queen_tower2.mp4"  type="video/mp4">
+	  <source src="img/videos/queen_tower.mp4"  type="video/mp4">
   </video>
    <!-- <div id="fashion zoom-gallery">
       <a class="video-play" href="" title="Play">Play</a>

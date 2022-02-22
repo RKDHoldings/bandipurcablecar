@@ -26,7 +26,7 @@
 <section id="download_reports">
     <div class="container">
          <div class="row">
-             <h2 class="section-title">MEP Bidding Documents</h2>
+             <h2 class="section-title"> Documents</h2>
              <div class="col-lg-3">
                  <a href="" target="_blank">
                     <div class="card">

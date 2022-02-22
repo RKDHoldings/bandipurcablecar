@@ -45,7 +45,6 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js'></script>
-<!-- <script src="js/marquee.js"></script> -->
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
@@ -73,28 +72,17 @@
   AOS.init();
 </script>
 
-<script>
-        document.onreadystatechange = function() {
-            if (document.readyState !== "complete") {
-                document.querySelector(
-                  "body").style.visibility = "hidden";
-                document.querySelector(
-                  "#preloader").style.visibility = "visible";
-            } else {
-                document.querySelector(
-                  "#preloader").style.display = "none";
-                document.querySelector(
-                  "body").style.visibility = "visible";
-            }
-        };
-    </script>
 
-<section id="preloader" class="center">
-<div class="loader">
-  <div class="bar1"></div>
-  <div class="bar2"></div>
-  <div class="bar3"></div>
-  
-</div>
-</section>
+<!-- loader -->
+  <div id="loader-wrapper">
+			<div id="loader"></div>
+     
+			<div class="loader-section section-left"></div>
+      <div class="loader-section section-right"></div>
+
+		</div>
+
 </html>
+
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script> -->
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
