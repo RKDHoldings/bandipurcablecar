@@ -117,7 +117,10 @@
         display: block !important;
     }
     .footer_rating{
-        width: 100%;
+        max-width: 100%;
+    }
+    #myChart2{
+      margin-top: 5rem;
     }
   }
   @media screen and (max-width: 700px) {

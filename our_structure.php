@@ -567,21 +567,21 @@ All employees have a responsibility for managing risk and this is reflected in I
                          <div class="sidebar_news1">
                             <h4>our structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team" target="_blank">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="chairman_message.php" target="_blank">leadership message <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team" target="_blank">Board of Directors </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="chairman_message.php" target="_blank">leadership message </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>Govenance</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#governance-info" target="_blank">Committee <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#operating_model" target="_blank">operating model <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#governance-info" target="_blank">Committee </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#operating_model" target="_blank">operating model </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
                            <h4>financial calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly calender</a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
@@ -591,7 +591,7 @@ All employees have a responsibility for managing risk and this is reflected in I
                               </ul>
                          </div>                           
                  </nav>                    
-            
+          
              </div>
     </div>
   </div>
@@ -610,10 +610,8 @@ All employees have a responsibility for managing risk and this is reflected in I
 <?php
  include('includes/footer.php');
  ?>
-  <script>
-    feather.replace()
-  </script>
- <script>
+
+ <!-- <script>
     const portfolio = document.querySelector('.portfolio-gallery'),
       portfolioItems = portfolio.querySelectorAll('.portfolio-item'),
       portfolioCats = document.querySelectorAll('.portfolio-cats > li');
@@ -639,7 +637,7 @@ portfolioCats.forEach(cat => {
         }
     });
 });
-// Count Number of Items Per Row
+
 function countRowsItems() {
     let rowItems = 0;
     if (windowWidth <= 768) {
@@ -651,7 +649,7 @@ function countRowsItems() {
     }
     return rowItems;
 }
-// Position each item in its place
+
 function positionItems(items) {
     let rowItems = countRowsItems();
     let y = 0;
@@ -676,4 +674,4 @@ window.addEventListener('resize', () => {
     windowWidth = window.innerWidth;
     positionItems(portfolioItems);
 });
- </script> 
+ </script>  -->

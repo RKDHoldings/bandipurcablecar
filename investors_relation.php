@@ -36,6 +36,8 @@
                             <p class="investment_desc">Our reputation is based on solid performance and transparency. </p>
                             <p class="investment_desc">While the consistent backing of our shareholder, gives us a base from which to fund and develop our investments, we continue to be focused on implementing best practice commercial principles and the pursuit of solid financial returns.</p>
                          </div>
+
+                         
                          <div class="col-lg-4">   
                                  <div id="testimonial-slider" class="owl-carousel">
                                         <div class="testimonial">
