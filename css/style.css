@@ -48,7 +48,8 @@ body{
     padding: 0;
     font-family: var(--secondary-font-family);
     line-height: 1.889;
-    background-color:var(--secondary-bg) ;   
+    background-color:var(--secondary-bg) ; 
+    overflow-x: hidden;  
 }
 
 * {
@@ -771,7 +772,7 @@ img.about-img2:hover a.video{
   transition:1s;  
   z-index:1;
   padding:10px;
-  border-radius: 4px;
+  border-radius: var(--border-radius);
 }
 .column_for_feature{
   width: 100%;
@@ -891,28 +892,7 @@ ul.aboutus__points.swpf{
   -o-transform: translateX(4px);
   transform: translateX(4px);
 }
-/* .section-box-ten figure {
-  position: absolute;
-  text-align: var(--secondary-text-align);
-  padding: 10px 19px 19px 19px;
-  width: 100%;
-  height: 100%;
-  border-top: 1px solid #fff;
-  background: var(--secondary-color);
-  bottom: -80%;
-  transition: ease-in-out .5s;
-} */
-/* .section-box-ten:hover figure {
-  bottom: 0;
-}
-.section-box-ten figure h3{
-  margin: 0;
-  padding-bottom: 10px;
-}
-.section-box-ten img{
-  height: 100%;
-  width: 100%;
-} */
+
 /* clients */
 #client-slider{
   padding: 6rem 0 6rem 0; background-color: var(--bg-color);
@@ -1093,10 +1073,11 @@ blockquote{display: inline-block; font-weight: 700;}
 .nav-footer {
   clear: none;
   float: left;
-  margin: 8px 15px 0; padding: 1rem 0 1rem 0;
+  margin: 8px 15px 0;
+   padding: 1rem 0 1rem 0;
 }
 .nav-social {
-  float: left; padding: 1rem 0 0 0;
+  float: left; padding: 1rem 0 0 0; margin: 0 0 0 2rem;
 }
 .nav-footer ul {
   margin: 0;
@@ -1221,15 +1202,6 @@ ul.menu{padding: 0;}
     padding:6rem 0 6rem 0;
     z-index: 1;
 }
-/* .info__one {
-  position: relative;
-  display: block;
-} */
-/* .info__one__topleft{
-  position: relative;
-  display: block;
-} */
-
 .info__one__toplef .section-title {
   margin-bottom: 0;
 }
@@ -1240,10 +1212,6 @@ ul.menu{padding: 0;}
   font-weight: 800;
   color: var(--bg-color);
 }
-/* .info__one__topright{
-  position: relative;
-  display: block;
-} */
 .info__one__counter {
   position: relative;
   display: block;
@@ -1260,8 +1228,6 @@ ul.menu{padding: 0;}
 .info__one__counter-single {
   position: relative;
   display: block;
-  /* max-width: 50%;
-  width: 100%; */
   float: left;
   text-align: var(--text-align-right);
 }
@@ -1294,8 +1260,6 @@ ul.menu{padding: 0;}
     border-radius: var(--border-radius);
   }
   .info__one__bottom {
-    /* position: relative;
-    display: block; */
     padding: 31px 0 0 0;
 }
 .info__one__feature {
@@ -1983,7 +1947,8 @@ img.ceo_img{
   width: 50px;
   /* margin-right: 12px; */
 }
-.tset.pdf{min-height: 110px;
+.tset.pdf{
+  /* min-height: 110px; */
   width: 43%;}
   .card.investment_program{padding: 2rem 2rem 2rem 2rem; border-bottom: 4px solid var(--theme-color); }
   .card.investment_program:hover{ transform: scale(1.1);}
@@ -3687,78 +3652,6 @@ p.name{
 	height: auto !important;
 }
 
-/* .pcss3t .grid-row {
-	margin-top: 20px;
-}
-.pcss3t .grid-row:after {
-	content: '';
-	display: table;
-	clear: both;
-}
-.pcss3t .grid-row:first-child {
-	margin-top: 0;
-}
-.pcss3t .grid-col {
-	display: block;
-	float: left;
-	margin-left: 2%;
-}
-.pcss3t .grid-col:first-child {
-	margin-left: 0;
-}
-.pcss3t .grid-col .inner {
-	padding: 10px 0;
-	border-radius: var(--border-radius);
-	background: var(--border-grey);
-	text-align: var(--text-align-center);
-}
-.pcss3t .grid-col-1 {
-	width: 15%;
-}
-.pcss3t .grid-col-2 {
-	width: 32%;
-}
-.pcss3t .grid-col-3 {
-	width: 49%;
-}
-.pcss3t .grid-col-4 {
-	width: 66%;
-}
-.pcss3t .grid-col-5 {
-	width: 83%;
-}
-.pcss3t .grid-col-offset-1 {
-	margin-left: 19%;
-}
-.pcss3t .grid-col-offset-1:first-child  {
-	margin-left: 17%;
-}
-.pcss3t .grid-col-offset-2 {
-	margin-left: 36%;	
-}
-.pcss3t .grid-col-offset-2:first-child {
-	margin-left: 34%;
-}
-.pcss3t .grid-col-offset-3 {
-	margin-left: 53%;
-}
-.pcss3t .grid-col-offset-3:first-child {
-	margin-left: 51%;
-}
-.pcss3t .grid-col-offset-4 {
-	margin-left: 70%;
-}
-.pcss3t .grid-col-offset-4:first-child {
-	margin-left: 68%;
-}
-.pcss3t .grid-col-offset-5:first-child {
-	margin-left: 85%;
-} */
-/* .pcss3t .typography h1 {
-	font-size: 40px;
-	line-height: 60px;
-	text-shadow: 3px 3px rgba(0,0,0,0.1);
-} */
 h5.team_member{
   color: #333; text-transform: capitalize; font-weight: 600;
 }
@@ -3766,52 +3659,6 @@ h5.team_position{
   color: var(--secondary-color); text-transform: capitalize;
 }
 
-/* .pcss3t .typography h3 {
-	font-size: 26px;
-	line-height: 38px;
-	text-shadow: 1px 1px rgba(0,0,0,0.1);
-}
-.pcss3t .typography h4 {
-	font-size: 20px;
-	line-height: 30px;
-}
-
-
-.pcss3t .typography ul,
-.pcss3t .typography ol {
-	list-style: none;
-	margin: 15px 0 0 0;
-	padding: 0;
-}
-.pcss3t .typography li {
-	position: relative;
-	margin-top: 5px;
-	padding-left: 20px;
-}
-.pcss3t .typography li ul,
-.pcss3t .typography li ol {
-	margin-top: 5px;
-}
-.pcss3t .typography ul li:before {
-	content: '';
-	position: absolute;
-	top: 8px;
-	left: 0;
-	width: 6px;
-	height: 4px;
-	background: #404040; 
-  opacity: 0;
-}
-.pcss3t .typography ol {
-	counter-reset: list1;
-}
-.pcss3t .typography ol > li:before {
-	counter-increment:list1;
-	content: counter(list1)'.';
-	position: absolute;
-	top: 0;
-	left: 0;
-} */
 
 .pcss3t .typography a:hover {
 	text-decoration: var(--text-decoration);
@@ -3843,13 +3690,10 @@ h5.team_position{
   transform: scale(0.1,0.1);
 	-webkit-transform: scale(0.1,0.1);
 }
-.pcss3t-effect-rotate  > ul > li {
+/* .pcss3t-effect-rotate  > ul > li {
   transform: rotate(180deg);
 	-webkit-transform: rotate(180deg);
 }
-/* .pcss3t-effect-slide-top > ul > li {
-	top: -40px;
-} */
 .pcss3t-effect-slide-right > ul > li {
 	left: 80px;
 }
@@ -3878,7 +3722,7 @@ h5.team_position{
 
 .pcss3t-icons-bottom > label {
 	text-align: var(--text-align-center);
-}
+} */
 
 @media screen and (max-width: 980px) {	}
 
@@ -4237,9 +4081,6 @@ img.logo_panchase{
   padding: 6rem 5rem 3rem 5rem;
   height: 100%;
   font-style: italic;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
   display: flex;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
@@ -4268,10 +4109,6 @@ img.logo_panchase{
  color: var(--primary-font-color);
  font-style: italic;
 }
-
-/* .item__head  span{
-   font-size: 24px;
-} */
 
 #award_details{padding: 6rem 0 6rem 0;}
 #award_details .card-flyer .image-box{
@@ -4935,7 +4772,6 @@ img.pop_img{
 }
 
 
-
 #loader-wrapper {
   position: fixed;
   top: 0;
@@ -5076,33 +4912,6 @@ img.pop_img{
   .no-js #loader-wrapper {
       display: none;
   }
-  /* #content {
-      margin: 0 auto;
-      padding-bottom: 50px;
-      width: 80%;
-      max-width: 978px;
-  }   */
-
-/* 
-.ir {
-  background-color: transparent;
-  border: 0;
-  overflow: hidden;
- 
-  *text-indent: -9999px;
-}
-
-.ir:before {
-  content: "";
-  display: block;
-  width: 0;
-  height: 150%;
-} */
-
-/*
-* Hide from both screenreaders and browsers: h5bp.com/u
-*/
-
 .hidden {
   display: none !important;
   visibility: hidden;
@@ -5112,7 +4921,7 @@ img.pop_img{
 * Hide only visually, but have it available for screenreaders: h5bp.com/v
 */
 
-.visuallyhidden {
+/* .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);
   height: 1px;
@@ -5133,28 +4942,17 @@ img.pop_img{
   width: auto;
 }
 
-/*
-* Hide visually and from screenreaders, but maintain layout
-*/
-
 .invisible {
   visibility: hidden;
-}
-
+} */
 .clearfix:before,
 .clearfix:after {
   content: " "; /* 1 */
   display: table; /* 2 */
 }
-
 .clearfix:after {
   clear: both;
 }
-
-/*
-* For IE 6/7 only
-* Include this rule to trigger hasLayout and contain floats.
-*/
 
 .clearfix {
   *zoom: 1;
@@ -5169,18 +4967,14 @@ img.pop_img{
      (-o-min-device-pixel-ratio: 5/4),
      (-webkit-min-device-pixel-ratio: 1.25),
      (min-resolution: 120dpi) {
-  /* Style adjustments for high resolution devices */
+ 
 }
 
-/* ==========================================================================
- Print styles.
- Inlined to avoid required HTTP connection: h5bp.com/r
- ========================================================================== */
 
-@media print {
+/* @media print {
   * {
       background: transparent !important;
-      color: #000 !important; /* Black prints faster: h5bp.com/s */
+      color: #000 !important; 
       box-shadow: none !important;
       text-shadow: none !important;
   }
@@ -5192,22 +4986,4 @@ img.pop_img{
 
   abbr[title]:after {
       content: " (" attr(title) ")";
-  }
-
-  /*
-   * Don't show links for images, or javascript/internal links
-   */
-
-  /* .ir a:after,
-  a[href^="javascript:"]:after,
-  a[href^="#"]:after {
-      content: "";
-  }
-
-
- 
-
-  @page {
-      margin: 0.5cm;
   } */
-}

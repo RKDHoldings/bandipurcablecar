@@ -5,7 +5,7 @@
                     <div class="col-md-7">
                         <div class="topbar__menu">
                             <ul>
-                                <li><a href=""><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
+                                <li><a href="mailto:info@bandipurcablecar.com.np" target="_blank"><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
                                 <li><a href=""><i class="icon-clock-o"></i> Sunday – Friday 10 AM – 5 PM</a></li>
                             </ul>
                         </div>

@@ -1,4 +1,7 @@
 @media screen and (max-width: 993px) {
+    body{
+        overflow-x: hidden;
+    }
    .intro__details{
        margin-bottom: 1.5rem;
    }
@@ -10,6 +13,7 @@
    }
    h2.section-title{
        font-size: 30px;
+       line-height: 38px;
    }
    .media_img img{
        padding: 0;
@@ -124,13 +128,7 @@
     }
   }
   @media screen and (max-width: 700px) {
-    /* .info__one__feature{
-        display: block;
-    } */
-    /* .info__one__feature__single{
-        max-width: 100%;
-        margin-bottom: 1rem;
-    } */
+  
     .info__one__topright{
        margin: 0 auto; 
     }
@@ -151,6 +149,30 @@
         font-size: 26px !important;
     }
     .btn-viewmore{
-        display: none;
+        display: none !important;
     }
+    .section-title__title { 
+        font-size: 26px;
+        line-height: 39px;
+    }
+  }
+  @media screen and (max-width: 400px) {
+    .info__one__counter__list {
+      display: block;
+    }
+    .info__one__counter-single:first-child {
+        padding-right: 0;
+    }
+    .info__one__counter-single {
+        float: none;
+    }
+    ul.menu{
+        margin-right: 2rem;
+    }
+    .nav-footer {
+        clear: none;
+        float: left;
+        margin:0 0 0 2rem;
+        padding: 1rem 0 1rem 0;
+      }
   }

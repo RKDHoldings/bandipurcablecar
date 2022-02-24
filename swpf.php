@@ -26,7 +26,7 @@
 	  <div class="row">
           <div class="col-lg-9">
              <div class="award_single">
-                 <img src="img/investment/raid.jpg" alt="">
+                 <img src="img/investment/investing.jpg" alt="">
                  <h2 class="section-title">शेयरधनी कल्याणकारी अग्राधिकार फण्ड (SWPF)</h2>
                  <p> कम्पनी समूहका शेयरधनीहरूलाई भविष्यको प्रतिफल सुनिश्चिताका लागि तयार गरेको स्किम “शेयरधनी अग्राधिकार शेयर फण्ड SWPF कम्पनीले नियमित रूपमा शेयरधनीहरू वृद्धि गर्दै जाने र 
                      कम्पनीलाई वृहत पुँजी संरचनासहित सशक्त पूर्वाधार बनाउन सक्ने तागत हासिल गर्ने रणनीति र भिजन बोकेको छ । पछाडि लगानी गर्ने शेयरधनीहरूलाई समेत सम्मानपूर्वक कम्पनीमा भित्र्याउने र 
@@ -128,15 +128,15 @@
                          <div class="sidebar_news1">
                             <h4>our structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="structure.php#directors_team">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="structure.php#directors_team" target="_blank">Board of Directors </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="co-operative_governance.php" target="_blank">Co-Operative Governance</a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>finance team</h4>
+                           <h4>Investors Relation</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="investors_relation.php#investment_strategy" target="_blank">investment strategy</a></li>
+                                 <li class="nav-item"><a class="nav-link" href="raid.php" target="_blank">RAID</a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
@@ -148,7 +148,7 @@
                          <div class="sidebar_news1">
                            <h4>contact us</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href=""> info@bandipurcablecar.com.np </a></p></li>
+                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="mailto:info@bandipurcablecar.com.np" target="_blank"> info@bandipurcablecar.com.np </a></p></li>
                               </ul>
                          </div>                           
                  </nav>                

@@ -158,7 +158,7 @@
                     <div class="info-media_icon"> <i class="icon-envelope"></i>
                 </div>
                 <div class="media-body">
-                    <p class="info-media_text"><a href="info@bandipurcablecar.com.np">info@bandipurcablecar.com.np</a></p>
+                    <p class="info-media_text"><a href="mailto:info@bandipurcablecar.com.np" target="_blank">info@bandipurcablecar.com.np</a></p>
                     <!-- <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p> -->
                 </div>
             </div>
@@ -191,7 +191,7 @@
                     <div class="info-media_icon"> <i class="icon-envelope"></i>
                 </div>
                 <div class="media-body">
-                    <p class="info-media_text"><a href="mailto:example@mail.com">info@bandipurcablecar.com.np</a></p>
+                    <p class="info-media_text"><a href="mailto:info@bandipurcablecar.com.np" target="_blank">info@bandipurcablecar.com.np</a></p>
                     <!-- <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p> -->
                 </div>
             </div>

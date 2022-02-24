@@ -205,7 +205,7 @@
                       </div>
                   </div>
               </div>
-              <div class="col-sm-12 col-lg-5">
+              <div class="col-xs-12 col-sm-12 col-lg-5">
                   <div class="info__one__topright">
                       <div class="info__one__counter">
                           <ul class="info__one__counter__list list-unstyled">
