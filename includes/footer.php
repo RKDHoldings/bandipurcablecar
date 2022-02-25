@@ -15,8 +15,8 @@
                     </div>  
                     <div class="nav-footer">
 	                     <ul class="menu">
-                           <li class="first leaf"><a href="downloads.php" title="Downloads">Downloads</a></li>
-                           <li class="last leaf"><a href="contact.php" title="Contact us">Contact us</a></li>
+                           <li class="first leaf"><a href="downloads.php" target="_blank" title="Downloads">Downloads</a></li>
+                           <li class="last leaf"><a href="contact.php" target="_blank" title="Contact us">Contact us</a></li>
                        </ul>
                     </div>
                     <a class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive"> sitemap</a>

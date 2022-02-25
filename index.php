@@ -4,16 +4,16 @@
  <?php
  include('includes/navbar.php');
  ?>
-<div class="popup-wrap">
+<div class="popup-wrap" id="adminModal">
     <div class="popup-box">
       <!-- <h2 class="section-title">Title of Popup</h2>
       <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
       <img src="img/events/event-4.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close" title="Close" href="#">x</a>
+      <a class="close-btn popup-close" title="Close Button" href="#">x</a>
     </div>
-    <div class="popup-boxtwo">
+    <div class="popup-box two">
       <img src="img/events/event-2.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close" href="#">x</a>
+      <a class="close-btn popup-close two" href="#" title="Close Button">x</a>
     </div>
   </div>
 
@@ -70,7 +70,7 @@
         <div class="col-md-12">
             <div class="d-flex justify-content-between align-items-center breaking-news">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
-                <marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
+                <marquee class="news-scroll" behavior="" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
             </div>
         </div>
     </div>

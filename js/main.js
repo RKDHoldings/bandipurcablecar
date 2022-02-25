@@ -92,15 +92,19 @@ $(function() {
     $('.popup-btn').click(function(e) {
       $('.popup-wrap').fadeIn(500);
       $('.popup-box').removeClass('transform-out').addClass('transform-in');
+      $('body').css("height", "100vh");
       $('.popup-boxtwo').removeClass('transform-out').addClass('transform-in');
-      $('body').css('overflow', 'hidden');
+      $('body').css("height", "100%");
+      
       e.preventDefault();
     });
   
     $('.popup-close').click(function(e) {
       $('.popup-wrap').fadeOut(500);
       $('.popup-box').removeClass('transform-in').addClass('transform-out');
-      $('.popup-boxtwo').removeClass('transform-in').addClass('transform-out');
+      $('body').css("height", "100vh");
+      $('.popup-box.two').removeClass('transform-in').addClass('transform-out');
+      $('body').css('height', '100%');
 
   
       e.preventDefault();
@@ -108,12 +112,7 @@ $(function() {
   });
 
   // prevent body scroll when modal opened
- 
-//   $('.popup-wrap').modal().on('shown', function(){
-//     $('body').css('overflow', 'hidden');
-// }).on('hidden', function(){
-//     $('body').css('overflow', 'auto');
-// })
+
 
   // hide nav on scroll
   // document.addEventListener("DOMContentLoaded", function(){

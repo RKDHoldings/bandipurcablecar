@@ -17,7 +17,7 @@
                                         <div class="topbar__social-media">
                                            <ul>
                                               <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
-                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="you-tube"><i class="icon-youtube"></i></a></li>                                               
+                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="Youtube"><i class="icon-youtube"></i></a></li>                                               
                                            </ul>
                                         </div>
                                     </li>
@@ -47,7 +47,7 @@
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
-                      <img src="img/about/Office_building.jpg" class="nav_img" alt="">
+                      <img src="img/about/office_building.jpg" class="nav_img" alt="">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  
