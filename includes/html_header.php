@@ -43,17 +43,21 @@
 <!-- scripts -->  
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js'></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+<script src='https://www.jqueryscript.net/demo/jQuery-Plugin-For-Horizontal-Text-Scrolling-Simple-Marquee/marquee.js'></script>
+
+<script src="js/horizontal-panel.js"></script>
 
 <!-- fix top navbar -->
  
  <script>
    document.addEventListener("DOMContentLoaded", function(){
-  window.addEventListener('scroll', function() {
+   window.addEventListener('scroll', function() {
       if (window.scrollY > 50) {
         document.getElementById('header').classList.add('fixed-top');
         // add padding top to show content behind navbar

@@ -65,16 +65,16 @@
 
 
 <section id="marquee_section">
-<div class="marquee_container">
+  <div class="marquee_container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 col-sm-12">
             <div class="d-flex justify-content-between align-items-center breaking-news">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
-                <marquee class="news-scroll" behavior="" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
+                <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
             </div>
         </div>
     </div>
-</div>
+  </div>
 </section>
 <!-- company intro start -->
 <section id="company__intro">
@@ -396,9 +396,9 @@
                 </div>
                  <div class="back from-left">
                    <h2>cable car restro service</h2>        
-                   <p class="des">कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । यसै मुताविक दक्षिण एसियामा 
-नै भिन्न स्वाद पस्कन खोजिरहेको छ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ। 
-प्रत्येक दिनको अफ आवर साँझ ५ बजेदेखि ९ बजेसम्म यो सेवा पस्कने तयारीमा कम्पनी लागेको छ । </p>           
+                   <p class="des">कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । यसै मुताविक दक्षिण एसियामा नै भिन्न स्वाद पस्कन खोजिरहेको छ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ। 
+                       प्रत्येक दिनको अफ आवर साँझ ५ बजेदेखि ९ बजेसम्म यो सेवा पस्कने तयारीमा कम्पनी लागेको छ ।
+                   </p>           
                  </div>
                </div>
              </div>
@@ -695,29 +695,14 @@ counters.forEach( counter => {
 <script>
 			$(function (){
 
-				/* Example options:
-				
-					let options = {
-						autostart: true,
-						property: 'value',
-						onComplete: null,
-						duration: 20000,
-						padding: 10,
-						marquee_class: '.marquee',
-						container_class: '.simple-marquee-container',
-						sibling_class: 0,
-						hover: true,
-						velocity: 0.1
-						direction: 'right'
-					}
+        $(function (){
 
-					$('.simple-marquee-container').SimpleMarquee(options);
-					
-				*/
+createMarquee({
+  duration:80000, 
+  padding:20
+});
 
-				$('.simple-marquee-container').SimpleMarquee();
-				
-			});
+});
 
 		</script>
 
