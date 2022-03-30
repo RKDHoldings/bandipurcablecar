@@ -625,9 +625,7 @@
  ?>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js"></script>
-  <script>
-    feather.replace()
-  </script>
+  
    <script>
     $(function(){
    $('.timeline-nav').slick({

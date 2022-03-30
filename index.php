@@ -82,7 +82,7 @@
       <div class="row">
          <div class="col-lg-3">
             <a href="">
-                <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
+                <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-delay="300">
                     <h5 class="title__secondary">Yearly 5 Lakhs Visitors</h5>
                     <p class="card-text mt-0">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
                 </div>
@@ -90,7 +90,7 @@
          </div>
          <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-duration="1500">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-delay="600">
                   <h5  class="title__secondary">500 Passenger Per Hour</h5>
                   <p class="card-text mt-0">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
               </div>
@@ -98,7 +98,7 @@
          </div>
         <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="800">
                   <h5 class="title__secondary">Complete Holiday Package</h5>
                   <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
                    <!-- <div class="go-corner" href="#"> <div class="go-arrow">  →</div></div>              -->
@@ -107,7 +107,7 @@
         </div>
         <div class="col-lg-3">
             <a href="">
-                <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="2500">
+                <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                     <h5 class="title__secondary">South Asia Unique Cable Car</h5>
                     <p class="card-text mt-0">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
                 </div>
@@ -122,7 +122,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xl-6">
-        <div class="work-together__left" data-aos="fade-right"data-aos-easing="linear" data-aos-duration="2500">
+        <div class="work-together__left" data-aos="fade-right"data-aos-easing="linear" data-aos-duration="1000">
             <div class="work-together__img-box">
                 <div class="work-together-shape-1"><img src="assets/images/shapes/work-together-shape-1.png" alt=""></div>
                 <div class="about__img-1">
@@ -149,7 +149,7 @@
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
-                <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahu. </p>
+                <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
                  <!-- <div class="double-check-list font-title mb-xxl-5">
               
                   </div> -->

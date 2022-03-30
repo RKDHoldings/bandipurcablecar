@@ -14,6 +14,16 @@
     <meta property="og:site_name" content="Bandipur Cable Car" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
+    
+    <link rel="manifest" href="manifest.json">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="application-name" content="Bandipur Cablecar PWA">
+    <meta name="apple-mobile-web-app-title" content="Bandipur Cablecar PWA">
+    <meta name="theme-color" content="#004f8a">
+    <meta name="msapplication-navbutton-color" content="#004f8a">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="msapplication-starturl" content="/index.php">
     <meta name="twitter:title" content="Bandipur Cable Car Pvt.Ltd- A subsidary Company of RKD Holdings" />
 
     <title>Bandipur Cablecar</title>
@@ -70,6 +80,25 @@
       } 
   });
 });
+
+// <script>
+window.addEventListener('load', () => {
+      registerSW();
+    });
+ 
+    // Register the Service Worker
+    async function registerSW() {
+      if ('serviceWorker' in navigator) {
+        try {
+          await navigator
+                .serviceWorker
+                .register('serviceworker.js');
+        }
+        catch (e) {
+          console.log('SW registration failed');
+        }
+      }
+    }
  </script>
  <!-- aos -->
  <script>

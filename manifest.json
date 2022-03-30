@@ -1,0 +1,29 @@
+
+
+{
+    "name": "Bandipur Cablecar and Tourism Limited ",
+    "short_name": "Bandipur Cablecar PWA",
+    "lang": "en-US",
+    "scope" : "./",
+    "start_url": "./index.php",
+    "display": "standalone",
+    "theme_color": "#004f8a",
+    "background_color": "#fff",
+    "icons": [
+      {
+        "src": "img/logo.png",
+        "sizes": "512/512",
+        "type": "image/png",
+        "purpose": "any"
+        
+      },
+      {
+        "src": "img/logo.png",
+        "sizes": "512/512",
+        "type": "image/png",
+        "purpose": "any"
+       
+      }
+    ],
+    "prefer_related_applications": true
+  }

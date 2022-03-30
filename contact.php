@@ -38,22 +38,22 @@
                                 <div class="row">
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Full name" name="name">
+                                            <input type="text" placeholder="Full name" name="name" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="email" placeholder="Email address" name="email">
+                                            <input type="email" placeholder="Email address" name="email" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Phone" name="name">
+                                            <input type="number" placeholder="Phone" name="name" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Subject" name="subject">
+                                            <input type="text" placeholder="Subject" name="subject" required>
                                         </div>
                                     </div>
                                 </div>
