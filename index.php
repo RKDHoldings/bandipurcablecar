@@ -4,20 +4,16 @@
  <?php
  include('includes/navbar.php');
  ?>
-
-
-<div class="popup-wrap">
+<div class="popup-wrap" id="adminModal">
     <div class="popup-box">
-      <!-- <h2>Title of Popup</h2>
-      <h3>A sub-heading for the popup with a little description.</h3> -->
+      <!-- <h2 class="section-title">Title of Popup</h2>
+      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
       <img src="img/events/event-4.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close" href="#">x</a>
+      <a class="close-btn popup-close" title="Close Button" href="#">x</a>
     </div>
     <div class="popup-box two">
-      <!-- <h2>Title of Popup</h2>
-      <h3>A sub-heading for the popup with a little description.</h3> -->
       <img src="img/events/event-2.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close" href="#">x</a>
+      <a class="close-btn popup-close two" href="#" title="Close Button">x</a>
     </div>
   </div>
 
@@ -31,15 +27,9 @@
           <div class="container">
             <div class="row  align-items-center">
               <div class="col-md-8">
-                <h6>Great Experience In Building. </h6>
+                <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>7 YEARS <br> OF PROGRESS</h2>
-                <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                 <!-- <a href="" class="btn btn-primary mt-1">explore more</a> -->
-                 <!-- <div class="button" id="button-2">
-                    <div id="slide"></div>
-                   <a href="#">explore more</a>
-                  </div> -->
-                <a href="what_we_do.php">  <button class="slide_from_left">explore more</button> </a>
+                <a href="what_we_do.php">  <button class="slide_from_left mt-3">explore more</button> </a>
               </div>
             </div>
           </div>
@@ -48,10 +38,10 @@
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
-                <h6>Great Experience In Building. </h6>
+                <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>Investing in Tourism</h2>
                 <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                 <a href="investors_relation.php"> <button class="slide_from_left">explore more</button></a>
+                 <a href="investors_relation.php"> <button class="slide_from_left mt-3">explore more</button></a>
               </div>
             </div>
           </div>
@@ -60,10 +50,10 @@
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
-                <h6>Great Experience In Building. </h6>
+                <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>Bandipur Cable Car </h2>
                 <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                <a href="about_bandipur.php">  <button class="slide_from_left">explore more</button> </a>
+                <a href="about_bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>
               </div>
             </div>
           </div>
@@ -75,16 +65,16 @@
 
 
 <section id="marquee_section">
-<div class="marquee_container">
+  <div class="marquee_container">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12 col-sm-12">
             <div class="d-flex justify-content-between align-items-center breaking-news">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
-                <marquee class="news-scroll" behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
+                <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
             </div>
         </div>
     </div>
-</div>
+  </div>
 </section>
 <!-- company intro start -->
 <section id="company__intro">
@@ -92,7 +82,7 @@
       <div class="row">
          <div class="col-lg-3">
             <a href="">
-                <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="1000">
+                <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-delay="300">
                     <h5 class="title__secondary">Yearly 5 Lakhs Visitors</h5>
                     <p class="card-text mt-0">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
                 </div>
@@ -100,7 +90,7 @@
          </div>
          <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-duration="1500">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-delay="600">
                   <h5  class="title__secondary">500 Passenger Per Hour</h5>
                   <p class="card-text mt-0">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
               </div>
@@ -108,7 +98,7 @@
          </div>
         <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="2000">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="800">
                   <h5 class="title__secondary">Complete Holiday Package</h5>
                   <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
                    <!-- <div class="go-corner" href="#"> <div class="go-arrow">  →</div></div>              -->
@@ -117,7 +107,7 @@
         </div>
         <div class="col-lg-3">
             <a href="">
-                <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="2500">
+                <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="1000">
                     <h5 class="title__secondary">South Asia Unique Cable Car</h5>
                     <p class="card-text mt-0">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
                 </div>
@@ -132,7 +122,7 @@
   <div class="container">
     <div class="row">
       <div class="col-xl-6">
-        <div class="work-together__left" data-aos="fade-right"data-aos-easing="linear" data-aos-duration="2500">
+        <div class="work-together__left" data-aos="fade-right"data-aos-easing="linear" data-aos-duration="1000">
             <div class="work-together__img-box">
                 <div class="work-together-shape-1"><img src="assets/images/shapes/work-together-shape-1.png" alt=""></div>
                 <div class="about__img-1">
@@ -159,13 +149,13 @@
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
-                <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahu formerly Bandipur VDC Ward no.3, Tanahu. </p>
+                <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
                  <!-- <div class="double-check-list font-title mb-xxl-5">
               
                   </div> -->
                    <!-- promoter structure share in percentage counter -->
                   <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
-                       <div class="clearfix">
+                       <div class="row">
                          <h2 class="mb-4 mt-4">Promoter Structure Percentage(%)</h2>
                            <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
                                <div class="inner">
@@ -205,7 +195,7 @@
   <div class="container">
       <div class="info__one">
           <div class="row">
-              <div class="col-xl-6 col-lg-6">
+              <div class="col-sm-12 col-lg-7">
                   <div class="info__one__topleft">
                       <div class="section-title text-left">
                           <h6 data-aos="fade-up"
@@ -215,7 +205,7 @@
                       </div>
                   </div>
               </div>
-              <div class="col-xl-6 col-lg-6">
+              <div class="col-xs-12 col-sm-12 col-lg-5">
                   <div class="info__one__topright">
                       <div class="info__one__counter">
                           <ul class="info__one__counter__list list-unstyled">
@@ -231,7 +221,7 @@
                               </li>
                           </ul>
                       </div>
-                      <div class="info__one__link">
+                      <div class="info__one__link d-flex justify-content-end">
                           <a href="" class="video-popup">
                               <div class="info__one__img">
                                   <img src="img/about/about-img2.jpg" alt="">
@@ -406,9 +396,9 @@
                 </div>
                  <div class="back from-left">
                    <h2>cable car restro service</h2>        
-                   <p class="des">कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । यसै मुताविक दक्षिण एसियामा 
-नै भिन्न स्वाद पस्कन खोजिरहेको छ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ। 
-प्रत्येक दिनको अफ आवर साँझ ५ बजेदेखि ९ बजेसम्म यो सेवा पस्कने तयारीमा कम्पनी लागेको छ । </p>           
+                   <p class="des">कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ । यसै मुताविक दक्षिण एसियामा नै भिन्न स्वाद पस्कन खोजिरहेको छ । केवलकारभित्र रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ। 
+                       प्रत्येक दिनको अफ आवर साँझ ५ बजेदेखि ९ बजेसम्म यो सेवा पस्कने तयारीमा कम्पनी लागेको छ ।
+                   </p>           
                  </div>
                </div>
              </div>
@@ -705,29 +695,14 @@ counters.forEach( counter => {
 <script>
 			$(function (){
 
-				/* Example options:
-				
-					let options = {
-						autostart: true,
-						property: 'value',
-						onComplete: null,
-						duration: 20000,
-						padding: 10,
-						marquee_class: '.marquee',
-						container_class: '.simple-marquee-container',
-						sibling_class: 0,
-						hover: true,
-						velocity: 0.1
-						direction: 'right'
-					}
+        $(function (){
 
-					$('.simple-marquee-container').SimpleMarquee(options);
-					
-				*/
+createMarquee({
+  duration:80000, 
+  padding:20
+});
 
-				$('.simple-marquee-container').SimpleMarquee();
-				
-			});
+});
 
 		</script>
 

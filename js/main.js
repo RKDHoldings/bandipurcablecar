@@ -6,7 +6,7 @@ $(function() {
     margin:0,
     nav:true,
     items: 1,
-    smartSpeed: 1000,
+    smartSpeed: 3000,
     autoplay: true,
     pauseOnHover: false,
     navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
@@ -15,119 +15,9 @@ $(function() {
 	
 })
 
-	// (function($) {
-
-  //       "use strict";
-    
-  //       var fullHeight = function() {
-    
-  //           $('.js-fullheight').css('height', $(window).height());
-  //           $(window).resize(function(){
-  //               $('.js-fullheight').css('height', $(window).height());
-  //           });
-    
-  //       };
-  //       fullHeight();
-    
-  //       var carousel = function() {
-  //           $('.featured-carousel').owlCarousel({
-  //           loop: true,
-  //           autoplay: true,
-  //           margin:30,
-  //           animateOut: 'fadeOut',
-  //           animateIn: 'fadeIn',
-  //           nav:true,
-  //           dots: true,
-  //           autoplayHoverPause: false,
-  //           items: 1,
-  //           navText : ["<span class='ion-ios-arrow-back'></span>","<span class='ion-ios-arrow-forward'></span>"],
-  //           responsive:{
-  //             0:{
-  //               items:1
-  //             },
-  //             600:{
-  //               items:2
-  //             },
-  //             1000:{
-  //               items:4
-  //             }
-  //           }
-  //           });
-    
-  //       };
-  //       carousel();
-    
-  //   })(jQuery);
-    
   
 
-
-    // (function($) {
-
-    //   "use strict";
-    
-    //   var fullHeight = function() {
-    
-    //     $('.js-fullheight').css('height', $(window).height());
-    //     $(window).resize(function(){
-    //       $('.js-fullheight').css('height', $(window).height());
-    //     });
-    
-    //   };
-    //   fullHeight();
-    
-    //   var carousel = function() {
-    //     $('.featured-carousel').owlCarousel({
-    //       loop: true,
-    //       autoplay: true,
-    //       margin:30,
-    //       animateOut: 'fadeOut',
-    //       animateIn: 'fadeIn',
-    //       nav:true,
-    //       dots: true,
-    //       autoplayHoverPause: false,
-    //       items: 1,
-    //       navText : ["<span class='ion-ios-arrow-back'></span>","<span class='ion-ios-arrow-forward'></span>"],
-    //       responsive:{
-    //         0:{
-    //           items:1
-    //         },
-    //         600:{
-    //           items:2
-    //         },
-    //         1000:{
-    //           items:4
-    //         }
-    //       }
-    //     });
-    
-    //   };
-    //   carousel();
-    
-    // })(jQuery);
-    
-    
-    
-    // $('.brand-carousel').owlCarousel({
-    //   loop:true,
-    //   margin:10,
-    //   autoplay:true,
-    //   autoplayTimeout: 5000,
-    //     slideTransition: 'linear',
-    //     autoplaySpeed: 5000,
-    //     autoplayHoverPause: true,
-    //   responsive:{
-    //     0:{
-    //     items:1
-    //     },
-    //     600:{
-    //     items:3
-    //     },
-    //     1000:{
-    //     items:4
-    //     }
-    //   }
-    //   })
+  
     //
     // progress bar
     document.addEventListener("DOMContentLoaded", function(){
@@ -202,14 +92,161 @@ $(function() {
     $('.popup-btn').click(function(e) {
       $('.popup-wrap').fadeIn(500);
       $('.popup-box').removeClass('transform-out').addClass('transform-in');
-  
+      $('body').css("height", "100vh");
+      $('.popup-boxtwo').removeClass('transform-out').addClass('transform-in');
+      $('body').css("height", "100%");
+      
       e.preventDefault();
     });
   
     $('.popup-close').click(function(e) {
       $('.popup-wrap').fadeOut(500);
       $('.popup-box').removeClass('transform-in').addClass('transform-out');
+      $('body').css("height", "100vh");
+      $('.popup-box.two').removeClass('transform-in').addClass('transform-out');
+      $('body').css('height', '100%');
+
   
       e.preventDefault();
     });
   });
+
+
+
+   
+        // Select required elements from the DOM
+        const modal = document.querySelector("#adminModal");
+        const body = document.querySelector("body");
+  
+        const showModal = function (e) {
+            modal.classList.toggle("hidden");
+  
+            if (!modal.classList.contains("hidden")) {
+                // Disable scroll
+                body.style.overflow = "hidden";
+            } else {
+                // Enable scroll
+                body.style.overflow = "auto";
+            }
+        };
+
+  // prevent body scroll when modal opened
+
+
+  // hide nav on scroll
+  // document.addEventListener("DOMContentLoaded", function(){
+		
+	// 	el_autohide = document.querySelector('.autohide');
+		
+	
+	// 	header_area_height = document.querySelector('.header_area').offsetHeight;
+	// 	document.body.style.paddingTop = header_area_height + 'px';
+
+	// 	if(el_autohide){
+			
+	// 		var last_scroll_top = 0;
+	// 		window.addEventListener('scroll', function() {
+	//        		let scroll_top = window.scrollY;
+	// 	       if(scroll_top < last_scroll_top) {
+	// 	            el_autohide.classList.remove('scrolled-down');
+	// 	            el_autohide.classList.add('scrolled-up');
+	// 	        }
+	// 	        else {
+	// 	            el_autohide.classList.remove('scrolled-up');
+	// 	            el_autohide.classList.add('scrolled-down');
+	// 	        }
+	// 	        last_scroll_top = scroll_top;
+
+	// 		}); 
+		
+
+	// 	}
+	
+		
+	// }); 
+  $(document).ready(function() {
+	
+    setTimeout(function(){
+      $('body').addClass('loaded');
+      $('h1').css('color','#222222');
+    }, 3000);
+    
+  });
+	
+  // home page
+  (function($) {
+
+    "use strict";
+  
+    var fullHeight = function() {
+  
+      $('.js-fullheight').css('height', $(window).height());
+      $(window).resize(function(){
+        $('.js-fullheight').css('height', $(window).height());
+      });
+  
+    };
+    fullHeight();
+  
+    var carousel = function() {
+      $('.featured-carousel').owlCarousel({
+        loop: true,
+        autoplay: true,
+        margin:30,
+        animateOut: 'fadeOut',
+        animateIn: 'fadeIn',
+        nav:true,
+        dots: true,
+        autoplayHoverPause: false,
+        items: 1,
+        navText : ["<span class='ion-ios-arrow-back'></span>","<span class='ion-ios-arrow-forward'></span>"],
+        responsive:{
+          0:{
+            items:1
+          },
+          600:{
+            items:2
+          },
+          1000:{
+            items:4
+          }
+        }
+      });
+  
+    };
+    carousel();
+  
+  })(jQuery);
+  
+  
+  
+  $('.brand-carousel').owlCarousel({
+    loop:true,
+    margin:10,
+    autoplay:true,
+    autoplayTimeout: 5000,
+      slideTransition: 'linear',
+      autoplaySpeed: 5000,
+      autoplayHoverPause: true,
+    responsive:{
+      0:{
+      items:1
+      },
+      600:{
+      items:3
+      },
+      1000:{
+      items:4
+      }
+    }
+    })
+    // marquee
+    const root = document.documentElement;
+const marqueeElementsDisplayed = getComputedStyle(root).getPropertyValue("--marquee-elements-displayed");
+const marqueeContent = document.querySelector("ul.marquee-content");
+
+root.style.setProperty("--marquee-elements", marqueeContent.children.length);
+
+for(let i=0; i<marqueeElementsDisplayed; i++) {
+  marqueeContent.appendChild(marqueeContent.children[i].cloneNode(true));
+}

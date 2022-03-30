@@ -36,6 +36,8 @@
                             <p class="investment_desc">Our reputation is based on solid performance and transparency. </p>
                             <p class="investment_desc">While the consistent backing of our shareholder, gives us a base from which to fund and develop our investments, we continue to be focused on implementing best practice commercial principles and the pursuit of solid financial returns.</p>
                          </div>
+
+                         
                          <div class="col-lg-4">   
                                  <div id="testimonial-slider" class="owl-carousel">
                                         <div class="testimonial">
@@ -167,7 +169,7 @@
                                <div class="title">
                                  <h3>
                                     <span class="wrap-title">           
-                                       <a target="_blank" href="img/reports/2074-2075 Audit Report.pdf" title="Half Year 2021 Consolidated Financial Statements" class="">Audit report of 2074-2075</a> </span>
+                                       <a target="_blank" href="img/reports/2074-75 Audit Report.pdf" title="Half Year 2021 Consolidated Financial Statements" class="">Audit report of 2074-2075</a> </span>
                                  </h3>
                               </div>           
                            </li> 
@@ -210,9 +212,9 @@
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>contact us</h4>
+                             <a href="contact.php" target="_blank"> <h4>contact us</h4></a>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href=""> info@bandipurcablecar.com.np </a></p></li>
+                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="mailto: info@bandipurcablecar.com.np" target="_blank"> info@bandipurcablecar.com.np </a></p></li>
                               </ul>
                          </div>                           
                  </nav>               

@@ -38,22 +38,22 @@
                                 <div class="row">
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Full name" name="name">
+                                            <input type="text" placeholder="Full name" name="name" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="email" placeholder="Email address" name="email">
+                                            <input type="email" placeholder="Email address" name="email" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Phone" name="name">
+                                            <input type="number" placeholder="Phone" name="name" required>
                                         </div>
                                     </div>
                                     <div class="col-xl-6">
                                         <div class="comment-form__input-box">
-                                            <input type="text" placeholder="Subject" name="subject">
+                                            <input type="text" placeholder="Subject" name="subject" required>
                                         </div>
                                     </div>
                                 </div>
@@ -147,7 +147,7 @@
                                    <div class="info-media_icon"> <i class="icon-phone"></i> </div>
                                  <div class="media-body">
                                   <p class="info-media_text"><a href="">Head Office:</a></p>
-                                  <p class="info-media_text"><a href="">Thuldhunga,Bandipur Tanahun</a></p>
+                                  <p class="info-media_text"><a href="">Thuldhunga, Bandipur Tanahun</a></p>
                                   <p class="info-media_text"><a href="">	065-580457/ 520007</a></p>
                                  </div>
                                </div>
@@ -158,7 +158,7 @@
                     <div class="info-media_icon"> <i class="icon-envelope"></i>
                 </div>
                 <div class="media-body">
-                    <p class="info-media_text"><a href="mailto:example@mail.com">info@bandipurcablecar.com.np</a></p>
+                    <p class="info-media_text"><a href="mailto:info@bandipurcablecar.com.np" target="_blank">info@bandipurcablecar.com.np</a></p>
                     <!-- <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p> -->
                 </div>
             </div>
@@ -191,7 +191,7 @@
                     <div class="info-media_icon"> <i class="icon-envelope"></i>
                 </div>
                 <div class="media-body">
-                    <p class="info-media_text"><a href="mailto:example@mail.com">info@bandipurcablecar.com.np</a></p>
+                    <p class="info-media_text"><a href="mailto:info@bandipurcablecar.com.np" target="_blank">info@bandipurcablecar.com.np</a></p>
                     <!-- <p class="info-media_text"><a href="mailto:myemail@email.com">myemail@email.com</a></p> -->
                 </div>
             </div>

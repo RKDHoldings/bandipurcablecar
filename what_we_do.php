@@ -10,7 +10,7 @@
  <section id="breadcrumb">
    <div class="container">
    <video autoplay muted loop playsinline preload="metadata" controls="controls">
-	  <source src="img/videos/queen_tower2.mp4"  type="video/mp4">
+	  <source src="img/videos/queen_tower.mp4"  type="video/mp4">
   </video>
    <!-- <div id="fashion zoom-gallery">
       <a class="video-play" href="" title="Play">Play</a>
@@ -25,7 +25,7 @@
 	 <div class="row">
         <h6>our recent work</h6>
         <h2 class="section-title">Featured Investments</h2>   
-        <p>कम्पनीले छैठाँै साधारण सभासम्म परियोजनालाई स्थानीय आवश्यकता राष्ट्रिय आवश्यकता र थप पर्यटकीय प्रवर्धनको दृष्टिकोणमा आधारित रहेर निरन्तर परिष्कृत र विकसित गर्दै अगाडि बढेको छ र प्रविधिको निरन्तर विकास र मागसँगै कम्पनी सदैव आफूलाई अद्यावधिक गर्न चाहन्छ । यसै मान्यताको आधारमा परियोजनामा सँघारका कार्यक्रमहरु प्रस्तुत गरिएको छ ।</p>
+        <p>कम्पनीले छैठौँ साधारण सभासम्म परियोजनालाई स्थानीय आवश्यकता राष्ट्रिय आवश्यकता र थप पर्यटकीय प्रवर्धनको दृष्टिकोणमा आधारित रहेर निरन्तर परिष्कृत र विकसित गर्दै अगाडि बढेको छ र प्रविधिको निरन्तर विकास र मागसँगै कम्पनी सदैव आफूलाई अद्यावधिक गर्न चाहन्छ । यसै मान्यताको आधारमा परियोजनामा सँघारका कार्यक्रमहरु प्रस्तुत गरिएको छ ।</p>
 					  <!-- <div class="featured-carousel owl-carousel"> -->
 						<div class="col-lg-3">
               <a href="#features-cablecar">

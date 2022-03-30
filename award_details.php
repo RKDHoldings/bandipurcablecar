@@ -71,21 +71,15 @@
                          <div class="sidebar_news1">
                             <h4>leadership team</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our_structure#directors_team">Board of Directors <i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="co-operative_governance.php">Co operative governance <i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
-                         <div class="sidebar_news1">
-                           <h4>finance team</h4>
-                              <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Board of Directors <i data-feather="arrow-right"></i></a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#">investment committee <i data-feather="arrow-right"></i></a></li>
-                              </ul>
-                         </div>
+                        
                          <div class="sidebar_news1">
                            <h4>media center</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">yearly calender<i data-feather="arrow-right"></i></a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly calender<i data-feather="arrow-right"></i></a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">

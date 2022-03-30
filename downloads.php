@@ -26,9 +26,9 @@
 <section id="download_reports">
     <div class="container">
          <div class="row">
-             <h2 class="section-title">MEP Bidding Documents</h2>
+             <h2 class="section-title"> Documents</h2>
              <div class="col-lg-3">
-                 <a href="" target="_blank">
+                 <a href="img/downloads/mep.jpeg" target="_blank">
                     <div class="card">
                         <div class="card-body">
                            <h5 class="heading_title"> MEP E-Bid Invitation</h5>
@@ -38,7 +38,7 @@
                  </a>
              </div>
              <div class="col-lg-3">
-                 <a href="" target="_blank">
+                 <a href="img/downloads/MEP-Technical-Specifcation-Upper-Station.doc" target="_blank" download>
                     <div class="card">
                          <div class="card-body">
                              <h5 class="heading_title"> MEPBIDDOC Technical SPecification</h5>
@@ -48,7 +48,7 @@
                  </a>
              </div>
              <div class="col-lg-3">
-                  <a href="" target="_blank">
+                  <a href="img/downloads/BOQ-of-MEP-Upper-Station.xlsx" target="_blank" download>
                      <div class="card">
                          <div class="card-body">
                             <h5 class="heading_title">BOQ of MEP Upper Station</h5>
@@ -58,7 +58,7 @@
                   </a>
              </div>
              <div class="col-lg-3">
-                 <a href="https://drive.google.com/file/d/1joXT4TeUL9U1xDF5_6hNfC9Y9Uqfd6rl/view" target="_blank">
+                 <a href="https://drive.google.com/file/d/1joXT4TeUL9U1xDF5_6hNfC9Y9Uqfd6rl/view" target="_blank" download>
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">MEP Bidding Document</h5>
@@ -73,7 +73,7 @@
          <div class="download-two"> 
               <div class="row">
                  <div class="col-lg-3">
-                     <a target="_blank" href="" title=" Report">
+                     <a target="_blank" href="https://drive.google.com/file/d/13YzhLfhcQVct_JsWcxRECo13J1Tluy6y/view" title=" Report" download>
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">Bandipur Cable Car Share Form</h5>
@@ -83,7 +83,7 @@
                      </a>
                  </div>
                  <div class="col-lg-3">
-                     <a target="_blank" href="img/reports/bandipur book 2078 Final pdf" target="_blank" title=" Report"> 
+                     <a target="_blank" href="img/reports/bandipur book 2078 Final pdf" target="_blank" title=" Report" download> 
                          <div class="card">
                             <div class="card-body">
                                 <h5 class="heading_title"> Bandipur Cable Car 7th Annual General Meeting 2077/78(2078/06/21)</h5>
@@ -93,7 +93,7 @@
                      </a>
                  </div>
                  <div class="col-lg-3">
-                     <a target="_blank" href="" title="Audit Report">
+                     <a target="_blank" href="https://drive.google.com/file/d/1WbEX4ftOlxHlAZ_KGZe3Yvxd73WKzmIK/view" title="Audit Report" download>
                         <div class="card">
                              <div class="card-body">
                                 <h5 class="heading_title">Bandipur Cable Car 5th Annual  2075/76( 2076-10-25)</h5>
@@ -102,14 +102,7 @@
                         </div>
                      </a>   
                  </div>
-                 <div class="col-lg-3">
-                     <div class="card">
-                          <div class="card-body">
-                                <h5 class="heading_title">Bandipur Cable Car 5th Annual  2075/76( 2076-10-25)</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="">               
-                          </div>
-                     </div>
-                 </div>
+                
               </div>
               <!-- row end -->
          </div>
@@ -117,7 +110,7 @@
          <div class="row care_rating mt-5"> 
              <h2 class="section-title">CARE Ratings</h2>            
          <div class="col-lg-3">
-                     <a target="_blank" href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" title=" Report">
+                     <a target="_blank" href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" title=" Report" download>
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">CARE-NP BB</h5>
@@ -126,36 +119,6 @@
                        </div>
                      </a>
                  </div>
-                 <!-- <div class="col-lg-3">
-                     <a target="_blank" href="img/care_rating/care rating A2.pdf" title=" Report"> 
-                         <div class="card">
-                            <div class="card-body">
-                                <h5 class="heading_title"> care rating A2</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="">
-                            </div>
-                         </div>
-                     </a>
-                 </div> -->
-                 <!-- <div class="col-lg-3">
-                     <a target="_blank" href="img/care_rating/care rating A3.pdf" title="Audit Report">
-                        <div class="card">
-                             <div class="card-body">
-                                <h5 class="heading_title">care rating A3</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="">               
-                             </div>
-                        </div>
-                     </a>   
-                 </div> -->
-                 <!-- <div class="col-lg-3">
-                    <a href="img/care_rating/care rating A4.pdf" target="_blank">
-                      <div class="card">
-                          <div class="card-body">
-                                <h5 class="heading_title">care rating A4</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="">               
-                          </div>
-                      </div>
-                    </a>
-                 </div> -->
          </div>
         
           <!-- care_rating end -->
@@ -163,7 +126,7 @@
           <div class="row  mt-5"> 
              <h2 class="section-title">Project Flow</h2>            
          <div class="col-lg-3">
-                     <a target="_blank" href="img/reports/graph_talika.pdf" title=" Report">
+                     <a target="_blank" href="img/reports/graph_talika.pdf" title=" Report" download>
                        <div class="card">
                             <div class="card-body">
                                   <h5 class="heading_title">Work Schedule Of Bandipur Cablecar Project</h5>
@@ -173,7 +136,7 @@
                      </a>
                  </div>
                  <div class="col-lg-3">
-                     <a target="_blank" href="img/reports/work_talika.pdf" title=" Report"> 
+                     <a target="_blank" href="img/reports/work_talika.pdf" title=" Report" download> 
                          <div class="card">
                             <div class="card-body">
                                 <h5 class="heading_title">Work Schedule</h5>

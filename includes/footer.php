@@ -15,8 +15,8 @@
                     </div>  
                     <div class="nav-footer">
 	                     <ul class="menu">
-                           <li class="first leaf"><a href="downloads.php" title="Downloads">Downloads</a></li>
-                           <li class="last leaf"><a href="contact.php" title="Contact us">Contact us</a></li>
+                           <li class="first leaf"><a href="downloads.php" target="_blank" title="Downloads">Downloads</a></li>
+                           <li class="last leaf"><a href="contact.php" target="_blank" title="Contact us">Contact us</a></li>
                        </ul>
                     </div>
                     <a class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive"> sitemap</a>
@@ -34,16 +34,16 @@
                       <a href="who_we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
                       <li class="first leaf"><a href="about_bandipur.php" target="_blank" title="About Bandipur">About Bandipur</a></li>
                       <li class="leaf">      <a href="who_we_are.php#our_history" target="_blank" title="Our History">Our History</a></li>
-                      <li class="collapsed"> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li>
-                      <li class="collapsed"> <a href="our_structure.php" target="_blank" title="Our Structure">Our Structure</a></li>                         
-                      <li class="last leaf"> <a href="award_recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
+                      <li class=""> <a href="our_structure.php" target="_blank" title="Our Structure">Our Structure</a></li>
+                      <li class=""> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li>                         
+                      <li class=""> <a href="award_recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
               </div>  
               <div class="col">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
-                            <li class="first leaf"> <a href="what_we_do.php" target="_blank" title="About queen tower">queen tower</a></li>
-                            <li class="leaf">       <a href="" target="_blank" title="Our History">bandipur cable car</a></li>
+                            <li class="first leaf"> <a href="what_we_do.php#features_queentower" target="_blank" title="About queen tower">queen tower</a></li>
+                            <li class="leaf">       <a href="what_we_do.php#features_cablecar" target="_blank" title="Bandipur Cablecar">bandipur cablecar</a></li>
                    </ul>  
                </div>  
                <div class="col">

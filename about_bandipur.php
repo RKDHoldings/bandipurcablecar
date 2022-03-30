@@ -601,7 +601,7 @@
             <p class="timeline-text">आँबु खैरेनी पृथ्वीराजमार्ग देखि छिम्केश्वरी काली माँ केवलकारको काम सम्पन्न गरी सञ्चालनमा ल्याउँछ । जसको लम्वाई ३६०० मिटर लामो रहेको छ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(img/project_process/chhimkeshwori.jpg" data-year="५ वर्ष भित्र">      <span class="timeline-year">५ वर्ष भित्र</span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/resort.jpg" data-year="५ वर्ष भित्र">      <span class="timeline-year">५ वर्ष भित्र</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">५ वर्ष भित्र</h4>
             <p class="timeline-text">छिम्केश्वरी क्षेत्रमा कलात्मक बहुआयामिक रिर्सोट सञ्चालनमा ल्याउँछ । </p>
@@ -625,9 +625,7 @@
  ?>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.7.1/slick.min.js"></script>
-  <script>
-    feather.replace()
-  </script>
+  
    <script>
     $(function(){
    $('.timeline-nav').slick({

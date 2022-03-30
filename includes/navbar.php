@@ -5,7 +5,7 @@
                     <div class="col-md-7">
                         <div class="topbar__menu">
                             <ul>
-                                <li><a href=""><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
+                                <li><a href="mailto:info@bandipurcablecar.com.np" target="_blank"><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
                                 <li><a href=""><i class="icon-clock-o"></i> Sunday – Friday 10 AM – 5 PM</a></li>
                             </ul>
                         </div>
@@ -17,7 +17,7 @@
                                         <div class="topbar__social-media">
                                            <ul>
                                               <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
-                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="you-tube"><i class="icon-youtube"></i></a></li>                                               
+                                               <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="Youtube"><i class="icon-youtube"></i></a></li>                                               
                                            </ul>
                                         </div>
                                     </li>
@@ -27,7 +27,7 @@
             </div>
         </div>
 <!-- navbar section start -->
-<header class="header_area" id="header">
+<header class="header_area " id="header">
   <div class="main_header_area animated">
     <div class="container">
       <nav id="navigation1" class="navigation">
@@ -42,12 +42,12 @@
         <!-- Main Menus Wrapper -->
         <div class="nav-menus-wrapper">
           <ul class="nav-menu align-to-right">
-            <li><a href="who_we_are.php">Who We Are</a>
+            <li><a href="who_we_are.php" class="active">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
-                      <img src="img/about/Office_building.jpg" class="nav_img" alt="">
+                      <img src="img/about/office_building.jpg" class="nav_img" alt="">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  
