@@ -21,98 +21,7 @@
             </div>
          </div>
 </section>
-<!-- board of directors -->
-<!-- <section id="directors_team">
-   <div class="container">
-       <div class="row">
-           <p>Bandipur cablecar's business is structured around global business platforms that together encompass our interests across more than 50 countries. These platforms allow us to scale and manage our portfolio for growth while maintaining the highest international standards of governance and risk management.</p>
-          <div class="col-lg-9">
-             <h2 class="section-title">members board of directors</h2>
-             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos, quis esse odio beatae omnis quae, porro eaque impedit hic debitis totam soluta nemo? Rerum esse voluptatem hic mollitia aliquam dignissimos.</p>
-              <div class="row">
-                 <div class="col-lg-12">
-                    <div class="director_info d-flex justify-content-center"> 
-                        <div class="director_img"> 
-                          <img src="img/chairman.png" width="100%" alt="">
-                        </div>
-                        <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                    </div>
-                 </div>
-                 </div>
-                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="director_info d-flex justify-content-center"> 
-                            <div class="director_img"> 
-                                 <img src="img/chairman.png" width="100%" alt="">
-                            </div>
-                            <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                        </div>  
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="director_info d-flex justify-content-center"> 
-                             <div class="director_img"> 
-                                <img src="img/chairman.png" width="100%" alt="">
-                             </div>
-                             <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                        </div> 
-                    </div>
-                 </div>
-                 <div class="row">
-                    <div class="col-lg-6">
-                        <div class="director_info d-flex justify-content-center"> 
-                            <div class="director_img"> 
-                                 <img src="img/chairman.png" width="100%" alt="">
-                            </div>
-                            <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                        </div>  
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="director_info d-flex justify-content-center"> 
-                             <div class="director_img"> 
-                                <img src="img/chairman.png" width="100%" alt="">
-                             </div>
-                             <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                        </div> 
-                    </div>
-                 </div>
 
-                  <div class="row">
-                    <div class="col-lg-6">
-                        <div class="director_info d-flex justify-content-center"> 
-                            <div class="director_img"> 
-                                 <img src="img/chairman.png" width="100%" alt="">
-                            </div>
-                            <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                        </div>  
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="director_info d-flex justify-content-center"> 
-                             <div class="director_img"> 
-                                <img src="img/chairman.png" width="100%" alt="">
-                             </div>
-                             <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                        </div> 
-                    </div>
-                 </div>
-                
-                 <div class="row">
-                 <div class="col-lg-12">
-                    <div class="director_info d-flex justify-content-center"> 
-                        <div class="director_img"> 
-                          <img src="img/chairman.png" width="100%" alt="">
-                        </div>
-                        <div class="info"><p class="title"></p><p class="name">Ram prasad sharma</p><p class="position">Minister Of Environment, Water &amp; Agriculture <br> Chairman</p></div>
-                    </div>
-                 </div>
-                 </div>
-             
-          </div>
-          <div class="col-lg-3">
-             
-          </div>
-       </div>
-   </div>
-</section> -->
 <section id="directors_team">
     <div class="container">
          	<!-- tab1 -->
@@ -285,7 +194,7 @@
                          एसियाकै आश्चर्यजनक पर्यटकीय पूर्वाधारको श्रेणीमा भिन्न र अनुपम छ ।
                       </p>
               <div class="btn_wrapper mb-4">
-                 <a href="chairman_message.php">  <button class="slide_from_left">Read More</button> </a>
+                 <a href="chairman_message.php" target="_blank">  <button class="slide_from_left">Read More</button> </a>
                     <div class="video-main">
                              <div class="promo-video">  </div>
                              <a href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=135s&ab_channel=BandipurCablecar" class="video video-popup mfp-iframe" data-lity><i class="icon-play"></i></a>
@@ -587,7 +496,7 @@ All employees have a responsibility for managing risk and this is reflected in I
                          <div class="sidebar_news1">
                            <h4>contact us</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="" target="_blank"> info@bandipurcablecar.com.np </a></p></li>
+                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="mailto:info@bandipurcablecar.com.np" target="_blank"> info@bandipurcablecar.com.np </a></p></li>
                               </ul>
                          </div>                           
                  </nav>                    

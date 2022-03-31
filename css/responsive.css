@@ -108,7 +108,9 @@
         height: 130px;
     }
     .fact-counter .column{
-        margin-bottom: 1rem;
+        /* margin-bottom: 1rem; */
+        width: 93%;
+        margin: auto auto 1rem auto;
     }
     .fact-counter .column .inner{
         border: none;

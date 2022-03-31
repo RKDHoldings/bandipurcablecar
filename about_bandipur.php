@@ -135,7 +135,7 @@
                      <div class="sidebar_news1">
                            <h4>downloads</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="downloads.php" class="nav-link"> CARE Ratings  </a></li>
+                                 <li class="nav-item"> <a href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" target="_blank" class="nav-link"> CARE Ratings  </a></li>
                                  <li class="nav-item"> <a href="downloads.php#download_reports" class="nav-link"> MEP Bidding Documents </a></li>
                               </ul>
                      </div>                           
@@ -423,7 +423,7 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image " src="img/hero_1.png" >
+                              <img class="content-image " src="img/hero_1.webp" >
                               <div class="content-details fadeIn-left">
                                 <h3>Transparent Cablecar</h3>
                                 <!-- <p>This is a short description</p> -->

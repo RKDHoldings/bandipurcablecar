@@ -34,7 +34,7 @@
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/hero_1.png);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/hero_1.webp);">
                           <div class="text w-100">
 									        		<!-- <span class="cat">Web Design</span> -->
 									        		<h3><a href="#">transparent cablecar</a></h3>
