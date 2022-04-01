@@ -4,10 +4,10 @@
  <?php
  include('includes/navbar.php');
  ?>
-<div class="popup-wrap" id="adminModal">
+<!-- <div class="popup-wrap" id="adminModal">
     <div class="popup-box">
-      <!-- <h2 class="section-title">Title of Popup</h2>
-      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3> -->
+      <h2 class="section-title">Title of Popup</h2>
+      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3>
       <img src="img/events/event-4.jpg" class="pop_img" alt="">
       <a class="close-btn popup-close" title="Close Button" href="#">x</a>
     </div>
@@ -15,7 +15,7 @@
       <img src="img/events/event-2.jpg" class="pop_img" alt="">
       <a class="close-btn popup-close two" href="#" title="Close Button">x</a>
     </div>
-  </div>
+  </div> -->
 
 <section id="banner">
   <div class="content">
@@ -63,7 +63,25 @@
   </div>       
 </section>
 
-
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+		  <div class="modal-dialog modal-dialog-centered" role="document">
+		    <div class="modal-content">
+		      <div class="modal-header">
+		        <button type="button" class="close d-flex align-items-center justify-content-center" data-dismiss="modal" aria-label="Close">
+		          <span aria-hidden="true" class="icon-close"></span>
+		        </button>
+		      </div>
+		      <div class="row no-gutters">
+			     
+				    <div class="col-md-12 d-flex">
+				      <div class="modal-body img d-flex align-items-center">
+				      	<img src="img/news/event-3.jpg" alt="" width="100%">
+				      </div>
+				    </div>
+				  </div>
+		    </div>
+		  </div>
+		</div>
 <section id="marquee_section">
   <div class="marquee_container">
     <div class="row">

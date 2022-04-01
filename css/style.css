@@ -4577,6 +4577,7 @@ skin
 }
 
 .btn:hover {opacity: 0.75;}
+.modal-header button{}
 .popup-wrap {
   width: 100%;
   height: 100%;

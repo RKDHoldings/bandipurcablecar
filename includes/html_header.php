@@ -99,6 +99,11 @@ window.addEventListener('load', () => {
       }
     }
  </script>
+ <script>
+	$(document).ready(function(){
+		$("#exampleModalCenter").modal('show');
+	});
+</script>
  <!-- aos -->
  <script>
   AOS.init();
