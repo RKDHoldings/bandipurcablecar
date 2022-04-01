@@ -16,7 +16,19 @@
       <a class="close-btn popup-close two" href="#" title="Close Button">x</a>
     </div>
   </div> -->
-
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content" >
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+       
+      </div>
+    </div>
+  </div>
+</div>
 <section id="banner">
   <div class="content">
       <div class="owl-carousel owl-1">
@@ -34,7 +46,7 @@
             </div>
           </div>
         </div> <!-- .item -->
-        <div class="media-29121 overlay" style="background-image: url('img/hero_1.png');">
+        <div class="media-29121 overlay" style="background-image: url('img/hero_1.webp');">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
@@ -63,25 +75,6 @@
   </div>       
 </section>
 
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-		  <div class="modal-dialog modal-dialog-centered" role="document">
-		    <div class="modal-content">
-		      <div class="modal-header">
-		        <button type="button" class="close d-flex align-items-center justify-content-center" data-dismiss="modal" aria-label="Close">
-		          <span aria-hidden="true" class="icon-close"></span>
-		        </button>
-		      </div>
-		      <div class="row no-gutters">
-			     
-				    <div class="col-md-12 d-flex">
-				      <div class="modal-body img d-flex align-items-center">
-				      	<img src="img/news/event-3.jpg" alt="" width="100%">
-				      </div>
-				    </div>
-				  </div>
-		    </div>
-		  </div>
-		</div>
 <section id="marquee_section">
   <div class="marquee_container">
     <div class="row">
