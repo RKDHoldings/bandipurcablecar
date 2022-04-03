@@ -102,6 +102,8 @@ window.addEventListener('load', () => {
  <script>
 	$(document).ready(function(){
 		$("#exampleModalCenter").modal('show');
+    $('#exampleModalCenter').modal({backdrop: 'static', keyboard: false})  
+
 	});
 </script>
  <!-- aos -->

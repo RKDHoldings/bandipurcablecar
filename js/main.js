@@ -84,51 +84,37 @@ $(function() {
  });
  
   // pop up modal
-  $(window).on('load',function(){
-    $('.popup-wrap').fadeIn(500);
-  });
+  // $(window).on('load',function(){
+  //   $('.popup-wrap').fadeIn(500);
+  // });
 
-  $(document).ready(function() {
-    $('.popup-btn').click(function(e) {
-      $('.popup-wrap').fadeIn(500);
-      $('.popup-box').removeClass('transform-out').addClass('transform-in');
-      $('body').css("height", "100vh");
-      $('.popup-boxtwo').removeClass('transform-out').addClass('transform-in');
-      $('body').css("height", "100%");
+  // $(document).ready(function() {
+  //   $('.popup-btn').click(function(e) {
+  //     $('.popup-wrap').fadeIn(500);
+  //     $('.popup-box').removeClass('transform-out').addClass('transform-in');
+  //     $('body').css("height", "100vh");
+  //     $('.popup-boxtwo').removeClass('transform-out').addClass('transform-in');
+  //     $('body').css("height", "100%");
       
-      e.preventDefault();
-    });
+  //     e.preventDefault();
+  //   });
   
-    $('.popup-close').click(function(e) {
-      $('.popup-wrap').fadeOut(500);
-      $('.popup-box').removeClass('transform-in').addClass('transform-out');
-      $('body').css("height", "100vh");
-      $('.popup-box.two').removeClass('transform-in').addClass('transform-out');
-      $('body').css('height', '100%');
+  //   $('.popup-close').click(function(e) {
+  //     $('.popup-wrap').fadeOut(500);
+  //     $('.popup-box').removeClass('transform-in').addClass('transform-out');
+  //     $('body').css("height", "100vh");
+  //     $('.popup-box.two').removeClass('transform-in').addClass('transform-out');
+  //     $('body').css('height', '100%');
 
   
-      e.preventDefault();
-    });
-  });
+  //     e.preventDefault();
+  //   });
+  // });
 
 
 
    
-        // Select required elements from the DOM
-        const modal = document.querySelector("#adminModal");
-        const body = document.querySelector("body");
-  
-        const showModal = function (e) {
-            modal.classList.toggle("hidden");
-  
-            if (!modal.classList.contains("hidden")) {
-                // Disable scroll
-                body.style.overflow = "hidden";
-            } else {
-                // Enable scroll
-                body.style.overflow = "auto";
-            }
-        };
+
 
   // prevent body scroll when modal opened
 
