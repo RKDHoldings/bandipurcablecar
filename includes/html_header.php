@@ -5,15 +5,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta Tags -->
+    <meta name="keywords" content="Bandipur, Cable Car, Tourism, Accommodations, Cultural, Adventure, Assets, Trip, Tourists, Eco-tourism, Itinerary, Economy, Business, Sight-seeing, Tourist Destination, Lavish Resort">
     <meta name="description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward."/>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Bandipur Cable Car Pvt.Ltd- A subsidary Company of RKD Holdings" />
-    <meta property="og:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
+    <meta property="og:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cablecar is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="Bandipur Cable Car" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
+    <meta name="twitter:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cablecar is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
     
     <link rel="manifest" href="manifest.json">
     <meta name="mobile-web-app-capable" content="yes">
@@ -58,12 +59,17 @@
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-<script src='https://www.jqueryscript.net/demo/jQuery-Plugin-For-Horizontal-Text-Scrolling-Simple-Marquee/marquee.js'></script>
+<!-- <script src='https://www.jqueryscript.net/demo/jQuery-Plugin-For-Horizontal-Text-Scrolling-Simple-Marquee/marquee.js'></script> -->
 
 <script src="js/horizontal-panel.js"></script>
 
 <!-- fix top navbar -->
- 
+ <!-- Messenger Chat Plugin Code -->
+<div id="fb-root"></div>
+
+<!-- Your Chat Plugin code -->
+<div id="fb-customer-chat" class="fb-customerchat">
+</div>
  <script>
    document.addEventListener("DOMContentLoaded", function(){
    window.addEventListener('scroll', function() {
@@ -99,6 +105,13 @@ window.addEventListener('load', () => {
       }
     }
  </script>
+ <script async src="https://www.googletagmanager.com/gtag/js?id=G-R9TL6V7036"></script>
+ <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-R9TL6V7036');
+ </script>
  <script>
 	$(document).ready(function(){
 		$("#exampleModalCenter").modal('show');
@@ -106,6 +119,28 @@ window.addEventListener('load', () => {
 
 	});
 </script>
+ <!-- Your SDK code -->
+ <script>
+      var chatbox = document.getElementById('fb-customer-chat');
+      chatbox.setAttribute("page_id", "223099978331837");
+      chatbox.setAttribute("attribution", "biz_inbox");
+    </script>
+    <!-- Your SDK code -->
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v13.0'
+        });
+      };
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    </script>
  <!-- aos -->
  <script>
   AOS.init();

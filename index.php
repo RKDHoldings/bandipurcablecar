@@ -17,18 +17,19 @@
     </div>
   </div> -->
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content" >
-      <div class="modal-header">
-        <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-      <img alt="" class="img-fluid" src="img/events/event-2.jpg" xss="removed">
-      </div>
+      <div class="modal-dialog">
+            <div class="modal-content" >
+                <div class="modal-header">
+                  <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+               <div class="modal-body">
+                    <img alt="" class="img-fluid" src="img/events/event-2.jpg" xss="removed">
+               </div>      
     </div>
   </div>
 </div>
+
 <section id="banner">
   <div class="content">
       <div class="owl-carousel owl-1">
@@ -315,7 +316,7 @@
                 <div class="card">
                   <div class="content">
                      <div class="front">
-                       <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/hero_1.png);">
+                       <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/hero_1.webp);">
                         <div class="text w-100">
 										    	<h3><a href="#">Transparent Cable Car Box</a></h3>
 									    	</div>

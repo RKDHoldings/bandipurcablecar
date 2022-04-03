@@ -4577,7 +4577,10 @@ skin
 }
 
 .btn:hover {opacity: 0.75;}
-.modal-header button{}
+.modal-header .btn-close{
+  background-color: var(--secondary-color);
+  color: var(--bg-color);
+}
 /* .popup-wrap {
   width: 100%;
   height: 100%;
