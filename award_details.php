@@ -85,7 +85,7 @@
                          <div class="sidebar_news1">
                            <h4>contact us</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href=""> info@bandipurcablecar.com.np </a></p></li>
+                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="mailto:info@bandipurcablecar.com.np"> info@bandipurcablecar.com.np </a></p></li>
                               </ul>
                          </div>                           
                  </nav>                

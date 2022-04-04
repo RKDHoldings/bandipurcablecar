@@ -208,7 +208,7 @@
                          <div class="sidebar_news1">
                            <h4>financial calender</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="img/report/final-calender.pdf" target="_blank">yearly calender</a></li>
+                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly calender</a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">

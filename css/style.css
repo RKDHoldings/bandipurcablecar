@@ -3959,6 +3959,10 @@ img.logo_panchase{
 #award_recognition{
   padding: 6rem 0 6rem 0;
 }
+.award_single{
+  background-color: var(--bg-color);
+  padding: 1.5rem;
+}
 .item_award{
   text-align: var(--text-align-center);
   /* background-color: var(--theme-color); */
