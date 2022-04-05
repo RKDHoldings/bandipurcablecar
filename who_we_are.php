@@ -29,14 +29,14 @@
       <div class="col-xl-6">
         <div class="about__us" data-aos="fade-right"
         data-aos-easing="linear"
-        data-aos-duration="1000">
+        data-aos-duration="800">
             <img src="img/hero_2.png" class="w-100" alt="">
         </div>
     </div>
        <div class="col-lg-6">
         <div class="about-us-info-wrap" data-aos="fade-left"
         data-aos-easing="linear"
-        data-aos-duration="1000">
+        data-aos-duration="800">
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About bandipur</h6>
                 <h2 class="section-title">Cable Car With Tourism<span>.</span></h2 >

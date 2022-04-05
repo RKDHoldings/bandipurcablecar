@@ -216,6 +216,3 @@
 <?php
  include('includes/footer.php');
  ?>       
-<script>
-    feather.replace()
-  </script>

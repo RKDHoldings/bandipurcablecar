@@ -148,7 +148,7 @@ window.addEventListener('load', () => {
 
 
 <!-- loader -->
-  <div id="loader-wrapper">
+  <div id="loader-wrapper" class="preloader">
 			<div id="loader"></div>
      
 			<div class="loader-section section-left"></div>
@@ -159,3 +159,20 @@ window.addEventListener('load', () => {
 </html>
 
 <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script>
+  $(document).ready(function() {
+    $(window).load(function() {
+        function Preloader() {
+            var preloader = $ ('.preloader');
+            preloader.delay(1000) .fadeOut (500);
+        }
+        if ( ! sessionStorage.getItem( 'doNotShow' ) ) {
+            sessionStorage.setItem( 'doNotShow', 'true' );
+            Preloader();
+        } else {
+           $ (' .preloader').hide();
+        }
+    });
+});
+
+</script>

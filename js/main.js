@@ -227,12 +227,26 @@ $(function() {
     }
     })
     // marquee
-    const root = document.documentElement;
-const marqueeElementsDisplayed = getComputedStyle(root).getPropertyValue("--marquee-elements-displayed");
-const marqueeContent = document.querySelector("ul.marquee-content");
+//     const root = document.documentElement;
+// const marqueeElementsDisplayed = getComputedStyle(root).getPropertyValue("--marquee-elements-displayed");
+// const marqueeContent = document.querySelector("ul.marquee-content");
 
-root.style.setProperty("--marquee-elements", marqueeContent.children.length);
+// root.style.setProperty("--marquee-elements", marqueeContent.children.length);
 
-for(let i=0; i<marqueeElementsDisplayed; i++) {
-  marqueeContent.appendChild(marqueeContent.children[i].cloneNode(true));
-}
+// for(let i=0; i<marqueeElementsDisplayed; i++) {
+//   marqueeContent.appendChild(marqueeContent.children[i].cloneNode(true));
+// }
+// $(document).ready(function() {
+//     $(window).load(function() {
+//         function Preloader() {
+//             var preloader = $ ('.preloader');
+//             preloader.delay(1000) .fadeOut (500);
+//         }
+//         if ( ! sessionStorage.getItem( 'doNotShow' ) ) {
+//             sessionStorage.setItem( 'doNotShow', 'true' );
+//             Preloader();
+//         } else {
+//            $ (' .preloader').hide();
+//         }
+//     });
+// });

@@ -522,7 +522,7 @@ h2 {
   text-transform: capitalize;
 }
 #company__intro{
-  padding: 4rem 0;
+  padding: 3rem 0;
 }
 #company__intro .card{
   border: 0;
@@ -2102,6 +2102,82 @@ img.ceo_img{
 h3.process_heading{
   text-transform: capitalize; text-align: var(--text-align-center);     padding: 1rem 0 2rem 0;}
 
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+.portfolio #portfolio-flters {
+  list-style: none;
+  margin-bottom: 20px;
+}
+.portfolio #portfolio-flters li {
+  cursor: pointer;
+  display: inline-block;
+  margin: 10px 5px;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1;
+  color: #444444;
+  transition: all 0.3s;
+  padding: 8px 20px;
+  border-radius: 50px;
+  font-family: "Poppins", sans-serif;
+}
+.portfolio #portfolio-flters li:hover, .portfolio #portfolio-flters li.filter-active {
+  background: #47b2e4;
+  color: #fff;
+}
+.portfolio .portfolio-item {
+  margin-bottom: 30px;
+}
+.portfolio .portfolio-item .portfolio-img {
+  overflow: hidden;
+}
+.portfolio .portfolio-item .portfolio-img img {
+  transition: all 0.6s;
+}
+.portfolio .portfolio-item .portfolio-info {
+  opacity: 0;
+  position: absolute;
+  left: 15px;
+  bottom: 0;
+  z-index: 3;
+  right: 15px;
+  transition: all 0.3s;
+  background: rgba(55, 81, 126, 0.8);
+  padding: 10px 15px;
+}
+.portfolio .portfolio-item .portfolio-info h4 {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 600;
+  color: #fff;
+  margin-bottom: 0px;
+}
+.portfolio .portfolio-item .portfolio-info p {
+  color: #f9fcfe;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.portfolio .portfolio-item .portfolio-info .preview-link, .portfolio .portfolio-item .portfolio-info .details-link {
+  position: absolute;
+  right: 40px;
+  font-size: 24px;
+  top: calc(50% - 18px);
+  color: #fff;
+  transition: 0.3s;
+}
+.portfolio .portfolio-item .portfolio-info .preview-link:hover, .portfolio .portfolio-item .portfolio-info .details-link:hover {
+  color: #47b2e4;
+}
+.portfolio .portfolio-item .portfolio-info .details-link {
+  right: 10px;
+}
+.portfolio .portfolio-item:hover .portfolio-img img {
+  transform: scale(1.15);
+}
+.portfolio .portfolio-item:hover .portfolio-info {
+  opacity: 1;
+}
 /* work plan */
 #work_timeline{
   padding: 6rem 0 6rem 0; background-color: #003471;
@@ -4582,8 +4658,12 @@ skin
 
 .btn:hover {opacity: 0.75;}
 .modal-header .btn-close{
-  background-color: var(--secondary-color);
-  color: var(--bg-color);
+  -webkit-transition: all ease 0.5s;
+  transition: all ease 0.5s;
+}
+.modal-header .btn-close:hover  {
+  -webkit-transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 /* .popup-wrap {
   width: 100%;
@@ -4620,7 +4700,7 @@ img.pop_img{
   width: 100%;
   height: 100%;
 } */
-.popup-box .close-btn, .popup-box.two .close-btn {
+/* .popup-box .close-btn, .popup-box.two .close-btn {
   width: 40px;
   height: 40px;
   display: inline-block;
@@ -4636,11 +4716,8 @@ img.pop_img{
   color: var(--bg-color);
   line-height: 2.4rem;
   font-size: 1.4rem;
-}
-.popup-box .close-btn:hover,.popup-box2 .close-btn:hover  {
-  -webkit-transform: rotate(180deg);
-  transform: rotate(180deg);
-}
+} */
+
 /* 
 .transform-in,
 .transform-out {
@@ -4712,8 +4789,8 @@ img.pop_img{
       border: 3px solid transparent;
       border-top-color: var(--secondary-bg);
 
-      -webkit-animation: spin 1.5s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
-        animation: spin 1.5s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
+      -webkit-animation: spin 1s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
+        animation: spin 1s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
   }
 
   @-webkit-keyframes spin {
@@ -4782,8 +4859,8 @@ img.pop_img{
   
   .loaded #loader {
       opacity: 0;
-      -webkit-transition: all 0.3s ease-out;  
-              transition: all 0.3s ease-out;
+      -webkit-transition: all 0.2s ease-out;  
+              transition: all 0.2s ease-out;
   }
   .loaded #loader-wrapper {
       visibility: hidden;

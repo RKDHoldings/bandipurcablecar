@@ -4,24 +4,13 @@
  <?php
  include('includes/navbar.php');
  ?>
-<!-- <div class="popup-wrap" id="adminModal">
-    <div class="popup-box">
-      <h2 class="section-title">Title of Popup</h2>
-      <h3 class="popup_heading">A sub-heading for the popup with a little description.</h3>
-      <img src="img/events/event-4.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close" title="Close Button" href="#">x</a>
-    </div>
-    <div class="popup-box two">
-      <img src="img/events/event-2.jpg" class="pop_img" alt="">
-      <a class="close-btn popup-close two" href="#" title="Close Button">x</a>
-    </div>
-  </div> -->
+
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
       <div class="modal-dialog">
             <div class="modal-content" >
                 <div class="modal-header">
                   <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                 </div>
                <div class="modal-body">
                     <img alt="" class="img-fluid" src="img/events/event-2.jpg" xss="removed">
@@ -94,7 +83,7 @@
       <div class="row">
          <div class="col-lg-3">
             <a href="">
-                <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-delay="300">
+                <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-delay="200">
                     <h5 class="title__secondary">Yearly 5 Lakhs Visitors</h5>
                     <p class="card-text mt-0">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
                 </div>
@@ -102,7 +91,7 @@
          </div>
          <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-delay="600">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-delay="400">
                   <h5  class="title__secondary">500 Passenger Per Hour</h5>
                   <p class="card-text mt-0">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
               </div>
@@ -110,7 +99,7 @@
          </div>
         <div class="col-lg-3">
           <a href="">
-              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="800">
+              <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="600">
                   <h5 class="title__secondary">Complete Holiday Package</h5>
                   <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
                    <!-- <div class="go-corner" href="#"> <div class="go-arrow">  →</div></div>              -->
@@ -119,7 +108,7 @@
         </div>
         <div class="col-lg-3">
             <a href="">
-                <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="1000">
+                <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="800">
                     <h5 class="title__secondary">South Asia Unique Cable Car</h5>
                     <p class="card-text mt-0">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
                 </div>
