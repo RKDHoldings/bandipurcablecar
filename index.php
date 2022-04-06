@@ -200,7 +200,7 @@
                   <div class="info__one__topleft">
                       <div class="section-title text-left">
                           <h6 data-aos="fade-up"
-                          data-aos-duration="2000">welcome to our company</h6>
+                          data-aos-duration="1000">welcome to our company</h6>
                           <h2 class="section-title__title" data-aos="fade-up"
                           data-aos-duration="2000" >Bandipur is a sovereign investor company managing a diverse portfolio of assets in Tourism Sector</h2>
                       </div>

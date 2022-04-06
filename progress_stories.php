@@ -33,30 +33,14 @@
                  <!-- progress bar for project process -->
            </div>
         <div class="project_process row">
-              <div class="progress-bar col-lg-4">
-                  <div class="label" data-count="75" > 0% </div>
-                  <div class="line" style="width:300px">
-                       <span></span>
-                  </div>
-                  <h3 class="process_heading">queen tower</h3>
-              </div>
-
-              <div class="progress-bar  col-lg-4">
-                   <div class="label" data-count="65" > 0% </div>
-                        <div class="line" style="width:300px">
-                             <span> </span>
-                        </div>
-                        <h3 class="process_heading">bandipur Cablecar</h3>
-              </div>
-
-              <div class="progress-bar  col-lg-4">
-                  <div class="label" data-count="25" > 0% </div>
-                      <div class="line" style="width:300px">
-                          <span> </span>
-                      </div>
-                      <h3 class="process_heading">Restro Zone</h3>
-               </div>
-        </div>  
+             
+        <div class="progress-bar position"></div>
+        <h3>Queen Tower</h3>
+      	<div class="progress-bar position" data-percent="65" data-duration="1000" data-color="#ccc,yellow"></div>
+        <h3>Bandipur Cablecar</h3>
+       	<div class="progress-bar position" data-percent="25" data-color="#a456b1,#12b321"></div> 
+         <h3>Restro Zone</h3>                     
+       </div>  
         <!-- row end -->
     
       </div>
@@ -71,7 +55,7 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image " src="img/hero_1.png" >
+                              <img class="content-image " src="img/hero_1.webp" >
                               <!-- <a class= "lightbox-close" href= "#">X</a> -->
                               <div class="content-details fadeIn-left">
                                 <h3>Transparent Cablecar</h3>
@@ -107,6 +91,80 @@
         </div>
    </div>
 </section>
+<section id="gallery_item">
+   <div class="container">
+      <h2 class="section-title">our gallery</h2>
+   </div>
+<div class="filters filter-button-group">
+	<ul>
+		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+		<li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
+    <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
+	</ul>
+</div>
+	<div id="container" class="isotope"> 
+		<div class="grid-item" data-filter="bike">
+        <a class="popupimg" href="img/project_process/1.jpg">
+          <img src="img/project_process/1.jpg">
+        </a>
+        <div class="overlay">Bike</div>
+      </div>
+            
+		<div class="grid-item" data-filter="bike">
+        <a class="popupimg" href="img/gallery_icon/3.jpg">
+          <img src="img/project_process/2.jpg">
+        </a>
+        <div class="overlay">Bike</div>
+      </div>   
+
+      <div class="grid-item" data-filter="bus">
+        <a class="popupimg" href="img/project_process/queen-tower.jpg">
+          <img src="img/project_process/queen-tower.jpg">
+        </a>
+        <div class="overlay">Car</div>
+      </div>
+    
+		<div class="grid-item" data-filter="bike">
+        <a class="popupimg" href="img/project_process/3.jpg">
+          <img src="img/project_process/3.jpg">
+        </a>
+        <div class="overlay">Bike</div>
+      </div> 
+
+      <div class="grid-item" data-filter="bus">
+        <a class="popupimg" href="img/project_process/q1.jpeg">
+          <img src="img/project_process/q1.jpeg">
+        </a>
+        <div class="overlay">Bus</div>
+      </div>
+                
+		<div class="grid-item" data-filter="bus">
+        <a class="popupimg" href="img/project_process/q2.jpg">
+          <img src="img/project_process/q2.jpg">
+        </a>
+        <div class="overlay">Bus</div>
+      </div>
+             
+
+		<div class="grid-item" data-filter="bus">
+        <a class="popupimg" href="img/project_process/q3.jpg">
+          <img src="img/project_process/q3.jpg">
+        </a>
+        <div class="overlay">Bus</div>
+      </div>
+        
+      <div class="grid-item" data-filter="bike">
+        <a class="popupimg" href="img/project_process/chhimkeshwori.jpg">
+          <img src="img/project_process/chhimkeshwori.jpg">
+        </a>
+        <div class="overlay">Bike</div>
+      </div>
+             
+	</div>
+    <!-- <div class="isotope-pager" style="padding-top: 15px; text-align:center;"> </div>    					 -->
+</section>
+
+
 <!-- work timeline -->
 <!-- <section id="progress_timeline">
 <div class="container">
@@ -226,7 +284,7 @@
 </div>
 </section> -->
 <!-- work progress -->
-<section id="project_work_process">
+<!-- <section id="project_work_process">
      <div class="container">
          <div class="row zoom-gallery">
          <h3 class="secondary_heading">bandipur cablecar</h3>
@@ -250,8 +308,7 @@
                  </div>    
                </div>          
          </div>
-         <!-- row end -->
-         <!-- new row start -->
+        
          <div class="row mt-5 zoom-gallery">
                <h3 class="secondary_heading">5 star queen tower</h3>
                <div class="col-lg-12">                    
@@ -274,9 +331,9 @@
                  </div>    
                </div>                  
          </div>
-           <!-- row end -->
-         <!-- new row start -->
-         <!-- <div class="row">
+         
+        
+         <div class="row">
                <div class="col-lg-4">
                      
                </div>
@@ -290,10 +347,10 @@
                         <img src="img/project_process/q3.jpg" alt="">
                     </div> 
                </div>
-         </div> -->
+         </div> 
      </div>
 </section>
-
+ -->
 
 <?php
  include('includes/footer.php');
@@ -301,9 +358,7 @@
  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-  <script>
-    feather.replace()
-  </script>
+ 
  <script>
    $(document).ready(function() {
 	$('.zoom-gallery').magnificPopup({
@@ -333,3 +388,196 @@
 });
 
  </script>
+ <script src="js/jQuery-plugin-progressbar.js"></script>
+ <script>
+		$(".progress-bar").loading();
+		$('input').on('click', function () {
+			 $(".progress-bar").loading();
+		});
+	</script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
+  <script>
+     $(document).ready( function() {
+
+var itemSelector = '.grid-item'; 
+
+var $container = $('#container').isotope({
+   itemSelector: itemSelector,
+   masonry: {
+     columnWidth: itemSelector,
+     isFitWidth: true
+   }
+});
+
+//Ascending order
+var responsiveIsotope = [
+   [480, 7],
+   [720, 10]
+];
+
+var itemsPerPageDefault = 12;
+var itemsPerPage = defineItemsPerPage();
+var currentNumberPages = 1;
+var currentPage = 1;
+var currentFilter = '*';
+var filterAtribute = 'data-filter';
+var pageAtribute = 'data-page';
+var pagerClass = 'isotope-pager';
+
+function changeFilter(selector) {
+   $container.isotope({
+      filter: selector
+   });
+}
+
+
+function goToPage(n) {
+   currentPage = n;
+
+   var selector = itemSelector;
+      selector += ( currentFilter != '*' ) ? '['+filterAtribute+'="'+currentFilter+'"]' : '';
+      selector += '['+pageAtribute+'="'+currentPage+'"]';
+
+   changeFilter(selector);
+}
+
+function defineItemsPerPage() {
+   var pages = itemsPerPageDefault;
+
+   for( var i = 0; i < responsiveIsotope.length; i++ ) {
+      if( $(window).width() <= responsiveIsotope[i][0] ) {
+         pages = responsiveIsotope[i][1];
+         break;
+      }
+
+      
+
+   }
+
+   return pages;
+}
+
+function setPagination() {
+
+   var SettingsPagesOnItems = function(){
+
+      var itemsLength = $container.children(itemSelector).length;
+      
+      var pages = Math.ceil(itemsLength / itemsPerPage);
+      var item = 1;
+      var page = 1;
+      var selector = itemSelector;
+         selector += ( currentFilter != '*' ) ? '['+filterAtribute+'="'+currentFilter+'"]' : '';
+      
+      $container.children(selector).each(function(){
+         if( item > itemsPerPage ) {
+            page++;
+            item = 1;
+         }
+         $(this).attr(pageAtribute, page);
+         item++;
+      });
+
+      currentNumberPages = page;
+
+   }();
+
+   var CreatePagers = function() {
+
+      var $isotopePager = ( $('.'+pagerClass).length == 0 ) ? $('<div class="'+pagerClass+'"></div>') : $('.'+pagerClass);
+
+      $isotopePager.html('');
+      
+      for( var i = 0; i < currentNumberPages; i++ ) {
+         var $pager = $('<a href="javascript:void(0);" class="pager" '+pageAtribute+'="'+(i+1)+'"></a>');
+            $pager.html(i+1);
+            
+            $pager.click(function(){
+               var page = $(this).eq(0).attr(pageAtribute);
+               goToPage(page);
+            });
+
+         $pager.appendTo($isotopePager);
+      }
+
+      $container.after($isotopePager);
+
+   }();
+
+}
+
+setPagination();
+goToPage(1);
+
+//Adicionando Event de Click para as categorias
+$('.filters a').click(function(){
+   var filter = $(this).attr(filterAtribute);
+   currentFilter = filter;
+
+   setPagination();
+   goToPage(1);
+
+
+});
+
+//Evento Responsivo
+$(window).resize(function(){
+   itemsPerPage = defineItemsPerPage();
+   setPagination();
+});
+
+
+
+});
+
+
+
+$(document).ready( function() {   
+
+// filter items on button click
+$('.filter-button-group').on( 'click', 'li', function() {
+var filterValue = $(this).attr('data-filter');
+$('.grid').isotope({ filter: filterValue });
+$('.filter-button-group li').removeClass('active');
+$(this).addClass('active');
+});
+ })
+
+
+$(document).ready( function() {   
+
+// filter items on button click
+$('.isotope-pager').on( 'click', 'a', function() {
+var filterValue = $(this).attr('data-page');
+
+$('.isotope-pager a').removeClass('active');
+$(this).addClass('active');
+});
+ })
+
+$(document).ready(function(){
+$('.popupimg').magnificPopup({
+type: 'image',
+mainClass: 'mfp-with-zoom', 
+gallery:{
+      enabled:true
+   },
+
+zoom: {
+ enabled: true, 
+
+ duration: 300, // duration of the effect, in milliseconds
+ easing: 'ease-in-out', // CSS transition easing function
+
+ opener: function(openerElement) {
+
+   return openerElement.is('img') ? openerElement : openerElement.find('img');
+}
+}
+
+});
+
+});
+
+  </script>
