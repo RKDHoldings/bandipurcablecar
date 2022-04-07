@@ -25,26 +25,31 @@
 
 <!-- project progress -->
 <section id="project_process">
-   <div class="container">
-        <div class="row">
-               <h6>process stories</h6>
-              <h2 class="section-title">  Our project process   </h2>
-              <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, maiores delectus molestias laborum suscipit a, voluptate beatae ab, sapiente aspernatur minus aut explicabo consectetur nemo facere recusandae consequatur corrupti molestiae!</p> -->
-                 <!-- progress bar for project process -->
-           </div>
-        <div class="project_process row">
-             
-        <div class="progress-bar position"></div>
-        <h3>Queen Tower</h3>
-      	<div class="progress-bar position" data-percent="65" data-duration="1000" data-color="#ccc,yellow"></div>
-        <h3>Bandipur Cablecar</h3>
-       	<div class="progress-bar position" data-percent="25" data-color="#a456b1,#12b321"></div> 
-         <h3>Restro Zone</h3>                     
-       </div>  
-        <!-- row end -->
-    
-      </div>
-    <!-- container end -->
+<div class="container">
+	<h2>Queen Tower</h2>
+	<div class="skill_row">
+		<div class="skill_view">
+			<span class="skill_value">75%</span>
+		</div>
+	</div>
+	<br>
+	<h2>Bandipur Cablecar</h2>
+	<div class="skill_row">
+		<div class="skill_view">
+			<span class="skill_value">65%</span>
+		</div>
+	</div>
+
+	<br>
+	<h2>Restro Zone</h2>
+	<div class="skill_row">
+		<div class="skill_view">
+			<span class="skill_value">25%</span>
+		</div>
+	</div>
+
+
+</div>
 </section>
 <section id="features_cablecar">
    <div class="container">
@@ -356,6 +361,7 @@
  include('includes/footer.php');
  ?>
  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
+ <script src="js/custom.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
  
