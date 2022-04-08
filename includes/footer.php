@@ -35,7 +35,8 @@
                       <li class="first leaf"><a href="about_bandipur.php" target="_blank" title="About Bandipur">About Bandipur</a></li>
                       <li class="leaf">      <a href="who_we_are.php#our_history" target="_blank" title="Our History">Our History</a></li>
                       <li class=""> <a href="our_structure.php" target="_blank" title="Our Structure">Our Structure</a></li>
-                      <li class=""> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li>                         
+                      <li class=""> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li> 
+                      <li class="leaf">       <a href="co-operative_governance.php" title="Co-operative governance">co-operative gorvernance</a></li>                        
                       <li class=""> <a href="award_recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
               </div>  
@@ -50,12 +51,12 @@
                     <ul class="menu">
                          <a href="investors_relation.php"> <h4 class="footer_heading">investors relation</h4> </a>         
                          <li class="first leaf"> <a href="investors_relation#investment_budget" title="">share information</a></li>
-                         <li class="leaf">       <a href="co-operative_governance.php" title="Co-operative governance">co-operative gorvernance</a></li>
                          <li class="">           <a href="investors_relation.php#financial_report" title="financial Reports">financial reports</a></li>                                                                   
                     </ul>  
                </div>  
                <div class="col">                   
                     <ul class="menu">
+                         <h4>Others</h4>
                          <li class="first leaf"><a href="progress_stories.php" target="_blank" title="Progress Stories">progress stories</a></li>
                          <li class="first leaf"><a href="media_center.php" target="_blank" title="Media Menter">media center</a></li>
                          <li class="leaf">      <a href="downloads.php" target="_blank" title="Download Documents">downloads</a></li>

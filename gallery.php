@@ -134,9 +134,7 @@
 <?php
  include('includes/footer.php');
  ?>
-  <script>
-    feather.replace()
-  </script>
+ 
   <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
   <script>

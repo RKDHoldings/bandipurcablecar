@@ -1035,7 +1035,7 @@ blockquote{display: inline-block; font-weight: 700;}
   align-items: center;
   width: 100%;
   max-width: 50%;
-  padding: 0.5rem 0 0rem 0;
+  padding: 1rem 0 0.8rem 0;
  
 }
 .footer p.copyright-desc{
@@ -2055,7 +2055,7 @@ img.ceo_img{
 	height: 100%;
 	border-radius: 10px;
 	z-index: 1;
-	background: #080b77;
+	background: var(--theme-color);
 	/*transition: all 0.8s ease-out;
 	overflow: hidden;*/
 }
@@ -2064,8 +2064,8 @@ img.ceo_img{
 	left: 100%;
 	bottom: 100%;
 	transform: translateX(-60%);
-	background-color: #080b77;
-	color: #fff;
+	background-color: var(--theme-color);
+	color: var(--bg-color);
 	line-height: 20px;
 	padding: 0 5px;
 	margin-bottom: 5px;
@@ -2080,7 +2080,7 @@ img.ceo_img{
 	top: 100%;
 	left: 50%;
 	margin-left: -3px;
-	border-top: 5px solid #080b77;
+	border-top: 5px solid var(--theme-color);
 	border-left: 6px solid transparent;
 	border-right: 6px solid transparent;
 }
@@ -2102,33 +2102,25 @@ img.ceo_img{
   width: 1080px;
     margin: 0 auto;
 }
-/* .progres-bar{
-  display:flex;
-  flex-direction:column;
+.portfolio_info{
+  opacity: 0;
+    position: absolute;
+    left: 15px;
+    bottom: 0;
+    z-index: 3;
+    right: 15px;
+    transition: all 0.3s;
+    background: rgba(55, 81, 126, 0.8);
+    width: 100%;
+    color: var(--bg-color);
+    padding: 10px 15px;
 }
-.progress-bar > .label{
-  font-size:40px;
-  font-family:var(--primary-font-family);
+.grid-item:hover .portfolio_info{
+  opacity: 1;
 }
-.progress-bar > .line {
-  width:400px;
-  height:15px;
-  background:#E8E8E8;
-  border-radius:10px;
-  position:relative;
-  margin: auto;
+.grid-item:hover .grid-item img{
+  transform: scale(1.15);
 }
-.progress-bar > .line > span{
-  position:absolute;
-  left:0;
-  top:0;
-  height:100%;
-  background: var(--secondary-color);
-  border-radius:10px;
-}
-.progress-bar{
-  background-color: var(--theme-color) ;
-} */
 
 h3.process_heading{
   text-transform: capitalize; text-align: var(--text-align-center);     padding: 1rem 0 2rem 0;}
@@ -2179,9 +2171,9 @@ h3.process_heading{
 }
 .portfolio .portfolio-item .portfolio-info h4 {
   font-size: 18px;
-  color: #fff;
+  color: var(--bg-color);
   font-weight: 600;
-  color: #fff;
+  color: var(--bg-color);
   margin-bottom: 0px;
 }
 .portfolio .portfolio-item .portfolio-info p {
@@ -3828,13 +3820,14 @@ img.logo_panchase{
   }
   .grid-item img{
     width:100%;
-    height:auto;
-    transition: 0.9s;
+    height:100%;
+    transition: all 0.6s;
+    object-fit: cover;
     margin: 1rem;
   }
-  .grid-item img:hover{
+  /* .grid-item img:hover{
       filter: none;
-  } 
+  }  */
   .isotope-pager .pager {
     display: inline-block;
   }

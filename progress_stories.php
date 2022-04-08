@@ -15,7 +15,7 @@
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">who we are</li>
+                        <li class="breadcrumb-item active" aria-current="page">progress stories</li>
                      </ol>
                   </nav>
                </div>
@@ -98,7 +98,7 @@
 </section>
 <section id="gallery_item">
    <div class="container">
-      <h2 class="section-title">our gallery</h2>
+      <h2 class="section-title">Project Process</h2>
    </div>
 <div class="filters filter-button-group">
 	<ul>
@@ -112,21 +112,27 @@
         <a class="popupimg" href="img/project_process/1.jpg">
           <img src="img/project_process/1.jpg">
         </a>
-        <div class="overlay">Bike</div>
+        <div class="portfolio_info">
+              <h4>Bandipur Cablecar</h4>
+        </div>
       </div>
             
 		<div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/gallery_icon/3.jpg">
           <img src="img/project_process/2.jpg">
         </a>
-        <div class="overlay">Bike</div>
+        <div class="portfolio_info">
+              <h4>Bandipur Cablecar</h4>
+        </div>
       </div>   
 
       <div class="grid-item" data-filter="bus">
         <a class="popupimg" href="img/project_process/queen-tower.jpg">
           <img src="img/project_process/queen-tower.jpg">
         </a>
-        <div class="overlay">Car</div>
+        <div class="portfolio_info">
+              <h4>Bandipur Cablecar</h4>
+        </div>
       </div>
     
 		<div class="grid-item" data-filter="bike">
@@ -169,194 +175,6 @@
     <!-- <div class="isotope-pager" style="padding-top: 15px; text-align:center;"> </div>    					 -->
 </section>
 
-
-<!-- work timeline -->
-<!-- <section id="progress_timeline">
-<div class="container">
-<h2 class="section-title">our progress stories</h2>
-  <div class="timeline">
-    <div class="timeline__group" id="progress_cablecar">
-      <span class="timeline__year time" aria-hidden="true">2073 (Bandipur Cablecar)</span>
-      <div class="timeline__cards">
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-02-02">
-              <span class="time__month">Baishakh</span>
-            </time>
-          </header>
-          <div class="card__content">
-            <p>Attends the Philadelphia Museum School of Industrial Art. Studies design with Alexey Brodovitch, art director at Harper's Bazaar, and works as his assistant.</p>
-          </div>
-        </div>
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-02-02">
-              <span class="time__month">Jeshtha</span>
-            </time>
-          </header>
-          <div class="card__content">
-            <p>Attends the Philadelphia Museum School of Industrial Art. Studies design with Alexey Brodovitch, art director at Harper's Bazaar, and works as his assistant.</p>
-          </div>
-        </div>
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-09-01">
-              <span class="time__month">Asar</span>
-            </time>
-            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
-          </header>
-          <div class="card__content">
-            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="timeline__group" id="progress_queentower">
-      <span class="timeline__year time" aria-hidden="true">2014(Queen Tower)</span>
-      <div class="timeline__cards">
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-07-14">
-              <span class="time__month">Jul</span>
-            </time>
-          </header>
-          <div class="card__content">
-            <p>Travels to France, Italy, Spain, and Peru. After completing fashion editorial in Lima, prolongs stay to make portraits of local people in a daylight studio</p>
-          </div>
-        </div>
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-09-01">
-              <span class="time__month">Asar</span>
-            </time>
-            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
-          </header>
-          <div class="card__content">
-            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
-          </div>
-        </div>
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-09-01">
-              <span class="time__month">Asar</span>
-            </time>
-            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
-          </header>
-          <div class="card__content">
-            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="timeline__group" id="progress_restro">
-      <span class="timeline__year time" aria-hidden="true">2016(Cablecar Restro )</span>
-      <div class="timeline__cards">
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-08-18">
-              <span class="time__month">Aug</span>
-            </time>          
-          </header>
-          <div class="card__content">
-            <p>Upon moving to Brooklyn that summer, I began photographing weddings in Chicago</p>
-          </div>
-        </div>
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-09-01">
-              <span class="time__month">Asar</span>
-            </time>
-            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
-          </header>
-          <div class="card__content">
-            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
-          </div>
-        </div>
-        <div class="timeline__card card">
-          <header class="card__header">
-            <time class="time" datetime="2008-09-01">
-              <span class="time__month">Asar</span>
-            </time>
-            <h3 class="card__title r-title">The part of my life in University of Pennsylvania</h3>
-          </header>
-          <div class="card__content">
-            <p>Started from University of Pennsylvania. This is an important stage of my career. Here I worked in the local magazine. The experience greatly affected me</p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-</section> -->
-<!-- work progress -->
-<!-- <section id="project_work_process">
-     <div class="container">
-         <div class="row zoom-gallery">
-         <h3 class="secondary_heading">bandipur cablecar</h3>
-               <div class="col-lg-12">                    
-                 <div class="project_img_gallery d-flex">
-                   <div class="project-img">
-                        <a href="img/project_process/1.jpg"  title="" style="">
-	                         	<img src="img/project_process/1.jpg" width="193" height="125">
-             	          </a>
-                    </div>
-            	      <div  class="project-img">
-                       <a href="img/project_process/2.jpg"  title="" style="">
-		                      <img src="img/project_process/2.jpg" width="82px" height="125">
-	                     </a>
-                    </div>
-                   <div class="project-img">
-                        <a href="img/project_process/3.jpg"  title="" style="">
-		                       <img src="img/project_process/3.jpg" width="82px" height="125">
-	                      </a>
-                   </div>    
-                 </div>    
-               </div>          
-         </div>
-        
-         <div class="row mt-5 zoom-gallery">
-               <h3 class="secondary_heading">5 star queen tower</h3>
-               <div class="col-lg-12">                    
-                 <div class="project_img_gallery d-flex">
-                   <div class="project-img">
-                        <a href="img/project_process/queen-tower.jpg"  title="" style="">
-	                         	<img src="img/project_process/queen-tower.jpg" >
-             	          </a>
-                    </div>
-            	      <div  class="project-img">
-                       <a href="img/project_process/q2.jpg"  title="" style="">
-		                      <img src="img/project_process/q2.jpg" >
-	                     </a>
-                    </div>
-                   <div class="project-img">
-                        <a href="img/project_process/q3.jpg"  title="" style="">
-		                       <img src="img/project_process/q3.jpg">
-	                      </a>
-                   </div>    
-                 </div>    
-               </div>                  
-         </div>
-         
-        
-         <div class="row">
-               <div class="col-lg-4">
-                     
-               </div>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/q2.jpg" alt="">
-                    </div>
-               </div>
-               <div class="col-lg-4">
-                    <div class="project-img"> 
-                        <img src="img/project_process/q3.jpg" alt="">
-                    </div> 
-               </div>
-         </div> 
-     </div>
-</section>
- -->
-
 <?php
  include('includes/footer.php');
  ?>
@@ -394,13 +212,13 @@
 });
 
  </script>
- <script src="js/jQuery-plugin-progressbar.js"></script>
- <script>
+ <!-- <script src="js/jQuery-plugin-progressbar.js"></script> -->
+ <!-- <script>
 		$(".progress-bar").loading();
 		$('input').on('click', function () {
 			 $(".progress-bar").loading();
 		});
-	</script>
+	</script> -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
   <script>
