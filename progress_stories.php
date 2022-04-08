@@ -362,7 +362,7 @@
  ?>
  <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script> -->
  <script src="js/custom.js"></script>
- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+ <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
  <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
  
  <script>
@@ -394,13 +394,13 @@
 });
 
  </script>
- <script src="js/jQuery-plugin-progressbar.js"></script>
+ <!-- <script src="js/jQuery-plugin-progressbar.js"></script>
  <script>
 		$(".progress-bar").loading();
 		$('input').on('click', function () {
 			 $(".progress-bar").loading();
 		});
-	</script>
+	</script> -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
   <script>
