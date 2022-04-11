@@ -13,6 +13,7 @@
     <meta property="og:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cablecar is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="Bandipur Cable Car" />
+    <meta property="og:image" content="img/hero_1.webp" />
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cablecar is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
     
