@@ -99,14 +99,21 @@
 <section id="gallery_item">
    <div class="container">
       <h2 class="section-title">Project Process</h2>
-   </div>
-<div class="filters filter-button-group">
+      <div class="filters filter-button-group">
 	<ul>
 		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
 		<li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
     <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
 	</ul>
 </div>
+   </div>
+<!-- <div class="filters filter-button-group">
+	<ul>
+		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+		<li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
+    <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
+	</ul>
+</div> -->
 	<div id="container" class="isotope"> 
 		<div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/project_process/1.jpg">

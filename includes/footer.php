@@ -56,7 +56,7 @@
                </div>  
                <div class="col">                   
                     <ul class="menu">
-                         <h4>Others</h4>
+                         <h4 class="footer_heading">Others</h4>
                          <li class="first leaf"><a href="progress_stories.php" target="_blank" title="Progress Stories">progress stories</a></li>
                          <li class="first leaf"><a href="media_center.php" target="_blank" title="Media Menter">media center</a></li>
                          <li class="leaf">      <a href="downloads.php" target="_blank" title="Download Documents">downloads</a></li>
@@ -80,7 +80,7 @@
      </div>
   </div>  
 </section>
-<a href="#" class="scrollup"><i class="icon-chevron-up"></i></a>
+<!-- <a href="#" class="scrollup"><i class="icon-chevron-up"></i></a> -->
  <script>
    $(document).ready(function() {
 $(window).scroll(function() {

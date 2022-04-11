@@ -6,7 +6,7 @@
   --bg-color: #fff;
   --secondary-bg: #f3f9fa;
   --primary-font-color:#000;
-  --secondary-font-color: #81808c;
+  --secondary-font-color: #343a40;
   --primary-font-family:   'Philosopher', sans-serif; 
   --secondary-font-family: 'Quicksand', sans-serif;
   --border-radius: 4px;
@@ -130,10 +130,10 @@ h3.secondary_heading{
     border-bottom: 1px solid var(--secondary-color);
     height: 45px;
 }
-.topbar__menu > ul {
+/* .topbar__menu > ul {
   padding: 0;
   margin: 0;
-}
+} */
 .topbar__menu > ul > li {
   list-style: none;
   display: inline-block;
@@ -2930,9 +2930,9 @@ h3.video-heading{
 .trusted.one__single:hover .trusted-one__icon {
   color: var(--bg-color);
 }
-#features_cablecar{
+/* #features_cablecar{
   padding: 0rem 0 6rem 0;
-}
+} */
 .content_bandipur {
   position: relative;
   margin: auto;
@@ -3832,16 +3832,16 @@ img.logo_panchase{
     display: inline-block;
   }
   .filters {
-    width: 100%;
-    text-align: var(--text-align-center);
-    padding-bottom: 35px;
-    padding-top:20px;   
+    /* width: 100%;
+    text-align: var(--text-align-center); */
+    /* padding-bottom: 35px;
+    padding-top:20px;    */
   }
     .filters ul {
       list-style: none;
       padding: 20px 10px;
-      margin: 0 40px;
-      border-radius: 10px;
+      /* margin: 0 40px; */
+      /* border-radius: 10px; */
   }
   
   .filters li {
