@@ -8,7 +8,7 @@
 
   <!-- banner -->
   <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -220,32 +220,6 @@
                  </nav>               
            </div>
       </div>
-      <!-- row end -->
-      <!-- new row -->
-      <!-- <div class="row extra_finance_info mt-4">
-           <h6>investment</h6>
-           <h2 class="section-title">investment programs</h2>
-           <div class="col-lg-4"> 
-                <div class="card investment_program">
-                    <h3 class="investment-heading">Revolving Credit facility</h3>  
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum corrupti unde corporis, voluptatum sint, in, nesciunt iure esse aspernatur eaque rem praesentium! Ducimus ea fugiat qui dolore officia vitae.</p>
-                </div>
-           </div>
-           <div class="col-lg-4">
-               <div class="card investment_program">
-                  <h3  class="investment-heading">Revolving Credit facility</h3>
-                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum corrupti unde corporis, voluptatum sint, in, nesciunt iure esse aspernatur eaque rem praesentium! Ducimus ea fugiat qui dolore officia vitae.</p>
-               </div>
-
-           </div>
-           <div class="col-lg-4">
-              <div class="card investment_program">
-                 <h3  class="investment-heading">Revolving Credit facility</h3>
-                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum cum corrupti unde corporis, voluptatum sint, in, nesciunt iure esse aspernatur eaque rem praesentium! Ducimus ea fugiat qui dolore officia vitae.</p>
-              </div>
-           </div>
-       </div>
-   </div> -->
    </div>
 </section>
   <!--ivestment budget  -->
@@ -362,11 +336,11 @@
                 <div class="accordion accordion-flush" id="faqlist">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button active collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-1">
+                            <button class="accordion-button  collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-1">
                               Insurance Policy
                             </button>
                         </h2>
-                        <div id="content-accordion-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
+                        <div id="content-accordion-1" class="accordion-collapse collapse active" data-bs-parent="#faqlist">
                             <div class="accordion-body">
                             प्रत्येक संरचना, काम, पूर्वाधार, PPB, OCU, कर्मचारी, कन्ट्रयाक्टर र मजदुरहरुको पूर्ण विमा गर्ने नीति कार्यान्वयन गरेको छ ।
                             </div>

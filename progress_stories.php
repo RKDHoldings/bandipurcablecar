@@ -7,7 +7,7 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -100,21 +100,13 @@
    <div class="container">
       <h2 class="section-title">Project Process</h2>
       <div class="filters filter-button-group">
-	<ul>
-		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
-		<li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
-    <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
-	</ul>
-</div>
-   </div>
-<!-- <div class="filters filter-button-group">
-	<ul>
-		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
-		<li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
-    <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
-	</ul>
-</div> -->
-	<div id="container" class="isotope"> 
+       	<ul>
+		      <li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+		      <li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
+            <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
+	      </ul>
+      </div>
+      <div id="container" class="isotope"> 
 		<div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/project_process/1.jpg">
           <img src="img/project_process/1.jpg">
@@ -138,7 +130,7 @@
           <img src="img/project_process/queen-tower.jpg">
         </a>
         <div class="portfolio_info">
-              <h4>Bandipur Cablecar</h4>
+              <h4>Queen Tower</h4>
         </div>
       </div>
     
@@ -153,14 +145,18 @@
         <a class="popupimg" href="img/project_process/q1.jpeg">
           <img src="img/project_process/q1.jpeg">
         </a>
-        <div class="overlay">Bus</div>
+        <div class="portfolio_info">
+              <h4>Queen Tower</h4>
+        </div>
       </div>
                 
 		<div class="grid-item" data-filter="bus">
         <a class="popupimg" href="img/project_process/q2.jpg">
           <img src="img/project_process/q2.jpg">
         </a>
-        <div class="overlay">Bus</div>
+        <div class="portfolio_info">
+              <h4>Queen Tower</h4>
+        </div>
       </div>
              
 
@@ -168,17 +164,28 @@
         <a class="popupimg" href="img/project_process/q3.jpg">
           <img src="img/project_process/q3.jpg">
         </a>
-        <div class="overlay">Bus</div>
+        <div class="portfolio_info">
+              <h4>Queen Tower</h4>
+        </div>
       </div>
         
       <div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/project_process/chhimkeshwori.jpg">
           <img src="img/project_process/chhimkeshwori.jpg">
         </a>
-        <div class="overlay">Bike</div>
+        <div class="overlay">Chhimkeshwori</div>
       </div>
              
 	</div>
+   </div>
+<!-- <div class="filters filter-button-group">
+	<ul>
+		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+		<li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
+    <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
+	</ul>
+</div> -->
+
     <!-- <div class="isotope-pager" style="padding-top: 15px; text-align:center;"> </div>    					 -->
 </section>
 
@@ -219,13 +226,7 @@
 });
 
  </script>
- <!-- <script src="js/jQuery-plugin-progressbar.js"></script> -->
- <!-- <script>
-		$(".progress-bar").loading();
-		$('input').on('click', function () {
-			 $(".progress-bar").loading();
-		});
-	</script> -->
+
   <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
   <script>
