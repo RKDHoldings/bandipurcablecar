@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Meta Tags -->
     <meta name="keywords" content="Bandipur Cable Car, View tower, Wax Museum, Conference Hall, Tourism, Tourism Limited, Five Star Hotel, Queen Tower, Holiday Package, Restro Zone, Shopping Mall, Heritage Garden, Mirror Maze House, Tanahun, Investment, Finance, Water Fun Park, RKD Holdings, Panchase Cable Car, Banquet Hall, Shareholder, Musical Water show, Assets">
-    <meta name="description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cable is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward."/>
+    <meta name="description" content="Bandipur Cable Car is a subsidiary company of RKD Holdings. Bandipur Cable Car is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward."/>
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Bandipur Cable Car Pvt.Ltd- A subsidary Company of RKD Holdings" />
-    <meta property="og:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cablecar is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
+    <meta property="og:title" content="Bandipur Cable Car Pvt.Ltd- A subsidiary Company of RKD Holdings" />
+    <meta property="og:description" content="Bandipur Cable Car is a subsidiary company of RKD Holdings. Bandipur Cable Car is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
     <meta property="og:url" content="" />
     <meta property="og:site_name" content="Bandipur Cable Car" />
     <meta property="og:image" content="img/about/Bandipur-Office.jpg" />
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:description" content="Bandipur Cable Car is a subsidary company of RKD Holdings. Bandipur Cablecar is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
+    <meta name="twitter:description" content="Bandipur Cable Car is a subsidiary company of RKD Holdings. Bandipur Cablecar is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward." />
     
     <link rel="manifest" href="manifest.json">
     <meta name="mobile-web-app-capable" content="yes">
@@ -26,9 +26,9 @@
     <meta name="msapplication-navbutton-color" content="#004f8a">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="msapplication-starturl" content="/index.php">
-    <meta name="twitter:title" content="Bandipur Cable Car Pvt.Ltd- A subsidary Company of RKD Holdings" />
+    <meta name="twitter:title" content="Bandipur Cable Car Pvt.Ltd- A subsidiary Company of RKD Holdings" />
 
-    <title>Bandipur Cablecar</title>
+    <title>Bandipur Cable Car</title>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
@@ -54,15 +54,11 @@
 <!-- scripts -->  
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js'></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/main.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-<!-- <script src='https://www.jqueryscript.net/demo/jQuery-Plugin-For-Horizontal-Text-Scrolling-Simple-Marquee/marquee.js'></script> -->
-
-<script src="js/horizontal-panel.js"></script>
 
 <!-- fix top navbar -->
  <!-- Messenger Chat Plugin Code -->
@@ -113,6 +109,7 @@ window.addEventListener('load', () => {
   gtag('js', new Date());
   gtag('config', 'G-R9TL6V7036');
  </script>
+ 
  <script>
 	$(document).ready(function(){
 		$("#exampleModalCenter").modal('show');

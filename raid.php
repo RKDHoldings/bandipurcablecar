@@ -6,7 +6,7 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -35,7 +35,7 @@
                  <div class="accordion accordion-flush" id="faqlist">
                     <div class="accordion-item">
                         <h2 class="accordion-header">
-                            <button class="accordion-button active collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-1"> भिजन </button>
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#content-accordion-1"> भिजन </button>
                         </h2>
                         <div id="content-accordion-1" class="accordion-collapse collapse" data-bs-parent="#faqlist">
                             <div class="accordion-body"> उधममुलक आर्थिक सहयोग र अर्थोपार्जनका सामाजिक कार्यको लागि बृहत्तर सशक्तिकरण गराउनु रहेको छ । </div>

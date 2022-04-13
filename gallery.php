@@ -8,14 +8,14 @@
 
   <!-- banner -->
   <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
                   <h2 class="breadcrumb-title">gallery</h2>
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php"><i data-feather="home"></i>Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">what we do</li>
                      </ol>
                   </nav>
@@ -27,115 +27,103 @@
 <section id="gallery_item">
    <div class="container">
       <h2 class="section-title">our gallery</h2>
-   </div>
-<div class="filters filter-button-group">
-	<ul>
-		<li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
-		<li><a href="javascript:void(0);" data-filter="bike">5th AGM Bandipur Cablecar</a></li>
-		<li><a href="javascript:void(0);" data-filter="bus">Bandipur Cablecar Project</a></li>
-      <li><a href="javascript:void(0);" data-filter="car">News about Bandipur Cable Car</a></li>
-	</ul>
-</div>
-	<div id="container" class="isotope"> 
+       <div class="filters filter-button-group">
+	         <ul>
+		          <li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+		          <li><a href="javascript:void(0);" data-filter="bike">5th AGM Bandipur Cablecar</a></li>
+		          <li><a href="javascript:void(0);" data-filter="bus">Bandipur Cablecar Project</a></li>
+                <li><a href="javascript:void(0);" data-filter="car">News about Bandipur Cable Car</a></li>
+	         </ul>
+       </div>
+       <div id="container" class="isotope"> 
 		<div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/gallery_icon/1.jpg">
           <img src="img/gallery_icon/1.jpg">
         </a>
-        <div class="overlay">Bike</div>
       </div>
 
       <div class="grid-item" data-filter="car">
         <a class="popupimg" href="img/gallery_icon/post/annapurna_post.jpg">
           <img src="img/gallery_icon/post/annapurna_post.jpg">
         </a>
-        <div class="overlay">Car</div>
       </div>
             
 		<div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/gallery_icon/3.jpg">
           <img src="img/gallery_icon/3.jpg">
         </a>
-        <div class="overlay">Bike</div>
       </div>   
 
       <div class="grid-item" data-filter="bus">
         <a class="popupimg" href="img/gallery_icon/project-1.jpg">
           <img src="img/gallery_icon/project-1.jpg">
         </a>
-        <div class="overlay">Car</div>
       </div>
     
 		<div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/gallery_icon/4.jpg">
           <img src="img/gallery_icon/4.jpg">
         </a>
-        <div class="overlay">Bike</div>
       </div> 
 
       <div class="grid-item" data-filter="bus">
         <a class="popupimg" href="img/gallery_icon/project-2.png">
           <img src="img/gallery_icon/project-2.png">
         </a>
-        <div class="overlay">Bus</div>
       </div>
                 
 		<div class="grid-item" data-filter="bus">
         <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1Ivon_-3UVc12r7mGE4yZGQmpFRLFSAxN&export=download">
           <img src="img/gallery_icon/project-3.jpg">
         </a>
-        <div class="overlay">Bus</div>
       </div>
              
       <div class="grid-item" data-filter="car">
         <a class="popupimg" href="img/gallery_icon/post/ratopati.jpg">
           <img src="img/gallery_icon/post/ratopati.jpg">
         </a>
-        <div class="overlay">Car</div>
       </div>
 
 		<div class="grid-item" data-filter="bus">
         <a class="popupimg" href="img/gallery_icon/project-4.png">
           <img src="img/gallery_icon/project-4.png">
         </a>
-        <div class="overlay">Bus</div>
       </div>
         
 		<div class="grid-item" data-filter="car">
         <a class="popupimg" href="img/gallery_icon/post/himalayan_times.jpg">
            <img src="img/gallery_icon/post/himalayan_times.jpg">
         </a>
-        <div class="overlay">Car</div>
       </div>
              
 		<div class="grid-item" data-filter="car">
         <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1Oz_eSTCmx7Zbwv6grFF7PtZPZDzZ_XPP&export=download">
           <img src="img/gallery_icon/post/samay_samachar.jpg">
         </a>
-        <div class="overlay">Car</div>
       </div>
         
       <div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/gallery_icon/5.jpg">
           <img src="img/gallery_icon/5.jpg">
         </a>
-        <div class="overlay">Bike</div>
       </div>
              
 		<div class="grid-item" data-filter="car">
         <a class="popupimg" href="img/gallery_icon/post/gorkha_patra_news.jpg">
           <img src="img/gallery_icon/post/gorkha_patra_news.jpg">
         </a>
-        <div class="overlay">Car</div>
       </div>
 	</div>
-    <div class="isotope-pager" style="padding-top: 15px; text-align:center;"> </div>    					
+
+   </div>
+					
 </section>
 
 <?php
  include('includes/footer.php');
  ?>
  
-  <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script>
+  <!-- <script src='https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js'></script> -->
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/2.2.2/isotope.pkgd.min.js'></script>
   <script>
      $(document).ready( function() {

@@ -36,7 +36,7 @@
                       <li class="leaf">      <a href="who_we_are.php#our_history" target="_blank" title="Our History">Our History</a></li>
                       <li class=""> <a href="our_structure.php" target="_blank" title="Our Structure">Our Structure</a></li>
                       <li class=""> <a href="our_structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li> 
-                      <li class="leaf">       <a href="co-operative_governance.php" title="Co-operative governance">co-operative gorvernance</a></li>                        
+                      <li class="leaf">       <a href="co-operative_governance.php" title="Co-operative governance">co-operative governance</a></li>                        
                       <li class=""> <a href="award_recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
               </div>  
@@ -50,8 +50,10 @@
                <div class="col">
                     <ul class="menu">
                          <a href="investors_relation.php"> <h4 class="footer_heading">investors relation</h4> </a>         
-                         <li class="first leaf"> <a href="investors_relation#investment_budget" title="">share information</a></li>
-                         <li class="">           <a href="investors_relation.php#financial_report" title="financial Reports">financial reports</a></li>                                                                   
+                         <li class=""> <a href="investors_relation.php#financial_report" title="financial Reports">financial reports</a></li>
+                         <li class=""> <a href="investors_relation#investment_budget" title="">share structure</a></li>
+                         <li><a href="investors_relation.php#investment_strategy">Investment strategy</a></li>
+                         <li><a href="investors_relation.php#management_team">Risk Management</a></li>                                                                   
                     </ul>  
                </div>  
                <div class="col">                   

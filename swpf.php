@@ -6,7 +6,7 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -126,7 +126,7 @@
                          <div class="sidebar_news1">
                             <h4>our structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="structure.php#directors_team" target="_blank">Board of Directors </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team" target="_blank">Board of Directors </a></li>
                                  <li class="nav-item"><a class="nav-link" href="co-operative_governance.php" target="_blank">Co-Operative Governance</a></li>
                               </ul>
                          </div>

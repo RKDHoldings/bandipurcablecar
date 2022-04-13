@@ -102,9 +102,9 @@
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  
-                    <h4 class="nav_title">Investors Relation</h4>             
+                    <h4 class="nav_title">Investors Relation</h4>   
+                    <li><a href="investors_relation.php#financial_report">financial Reports</a></li>          
 			          		<li><a href="investors_relation.php#investment_budget">share structure</a></li>
-                    <li><a href="investors_relation.php#financial_report">financial information</a></li>
                     <li><a href="investors_relation.php#investment_strategy">Investment strategy</a></li>
                     <li><a href="investors_relation.php#management_team">Risk Management</a></li>
                   </ul>

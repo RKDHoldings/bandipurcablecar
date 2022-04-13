@@ -94,36 +94,6 @@
                             <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2074-2075</span> </div>
                         </button>
                      </li>
-                        <!-- <li class="nav-item" role="presentation">
-                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2075</span> </div>
-                             </button>
-                        </li>
-                        <li class="nav-item" role="presentation"> 
-                            <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2074</span> </div>
-                            </button> 
-                        </li>
-                        <li class="nav-item" role="presentation"> 
-                            <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2073</span> </div>
-                            </button> 
-                        </li> -->
-                        <!-- <li class="nav-item" role="presentation"> 
-                            <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2015</span> </div>
-                            </button> 
-                        </li>
-                        <li class="nav-item" role="presentation"> 
-                            <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2015</span> </div>
-                            </button> 
-                        </li>
-                        <li class="nav-item" role="presentation"> 
-                            <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
-                               <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i> <span>2014</span> </div>
-                            </button> 
-                        </li> -->
 
                 </ul>
                 <div class="tab-content" id="myTabContent">
@@ -145,7 +115,7 @@
                       </div>
                     </div>
                     <div class="tab-pane fade" id="faq_tab_2" role="tabpanel" aria-labelledby="faq_tab_2-tab">
-                        <div class="container p-3 scroll-y">
+                        <div class="container">
                             <div class="d-flex justify-content-between align-items-center">
                               <ul id="financial-statements" class="financial-reports list-pdf" style="">	    		    	  
 	                             <li class="tset pdf">
@@ -163,7 +133,7 @@
                         </div>
                     </div>
                     <div class="tab-pane fade" id="faq_tab_3" role="tabpanel" aria-labelledby="faq_tab_3-tab">
-                        <div class="container p-3 mt-4">
+                        <div class="container">
                          <ul id="financial-statements" class="financial-reports list-pdf" style="">  
 				            <li class="tset pdf">
                                <div class="title">
@@ -184,7 +154,7 @@
                          <div class="sidebar_news1">
                            <h4>financial Reports</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#">Audit Reports </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="investors_relation.php#financial_report">Audit Reports </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">

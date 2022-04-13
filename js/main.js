@@ -19,40 +19,40 @@ $(function() {
 
   
     //
-    // progress bar
-    document.addEventListener("DOMContentLoaded", function(){
+    // // progress bar
+    // document.addEventListener("DOMContentLoaded", function(){
   
-      var progressBar = document.querySelectorAll(".progress-bar");
-      const time = 1500;
+    //   var progressBar = document.querySelectorAll(".progress-bar");
+    //   const time = 1500;
       
-      function calculateTime(time, dataCount) {
-        return time/dataCount;
-      }
+    //   function calculateTime(time, dataCount) {
+    //     return time/dataCount;
+    //   }
       
-      progressBar.forEach(function(i){
-        let count = 0;
-        let label = i.children[0];
-        let line = i.children[1];
+    //   progressBar.forEach(function(i){
+    //     let count = 0;
+    //     let label = i.children[0];
+    //     let line = i.children[1];
         
-        let dataCount = label.getAttribute("data-count");
-        let lineCount = line.children[0];
+    //     let dataCount = label.getAttribute("data-count");
+    //     let lineCount = line.children[0];
         
-        let value = line.style.width.substr(0,line.style.width.length - 2) / 100;
-        let runTime = calculateTime(time, dataCount);
+    //     let value = line.style.width.substr(0,line.style.width.length - 2) / 100;
+    //     let runTime = calculateTime(time, dataCount);
         
-        let animationLineCount = setInterval(function(){
+    //     let animationLineCount = setInterval(function(){
           
-          if(count < dataCount){
-            count ++;
-            label.innerHTML = count + "%";
-            lineCount.style.width = count*value + "px";
-          }
+    //       if(count < dataCount){
+    //         count ++;
+    //         label.innerHTML = count + "%";
+    //         lineCount.style.width = count*value + "px";
+    //       }
           
-        },runTime)
+    //     },runTime)
         
-        console.log(value);
-      });  
-    });
+    //     console.log(value);
+    //   });  
+    // });
 
     // lightbox
 
@@ -83,35 +83,7 @@ $(function() {
    });
  });
  
-  // pop up modal
-  // $(window).on('load',function(){
-  //   $('.popup-wrap').fadeIn(500);
-  // });
-
-  // $(document).ready(function() {
-  //   $('.popup-btn').click(function(e) {
-  //     $('.popup-wrap').fadeIn(500);
-  //     $('.popup-box').removeClass('transform-out').addClass('transform-in');
-  //     $('body').css("height", "100vh");
-  //     $('.popup-boxtwo').removeClass('transform-out').addClass('transform-in');
-  //     $('body').css("height", "100%");
-      
-  //     e.preventDefault();
-  //   });
   
-  //   $('.popup-close').click(function(e) {
-  //     $('.popup-wrap').fadeOut(500);
-  //     $('.popup-box').removeClass('transform-in').addClass('transform-out');
-  //     $('body').css("height", "100vh");
-  //     $('.popup-box.two').removeClass('transform-in').addClass('transform-out');
-  //     $('body').css('height', '100%');
-
-  
-  //     e.preventDefault();
-  //   });
-  // });
-
-
 
    
 
@@ -155,10 +127,12 @@ $(function() {
     setTimeout(function(){
       $('body').addClass('loaded');
       $('h1').css('color','#222222');
-    }, 3000);
+    }, 900);
     
   });
 	
+
+
   // home page
   (function($) {
 

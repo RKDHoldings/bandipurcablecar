@@ -209,16 +209,15 @@
               <div class="col-xs-12 col-sm-12 col-lg-5">
                   <div class="info__one__topright">
                       <div class="info__one__counter">
+                      <h5>As Per Audit 2077/78</h5>
                           <ul class="info__one__counter__list list-unstyled">
                               <li class="info__one__counter-single">
                                 <div class="value" akhi="822">0</div> 
                                   <p class="info__one__counter__text">Promoter Share</p>
-                                  <span>As per audit 2077/78</span>
                               </li>
                               <li class="info__one__counter-single two">
                                 <div class="value" akhi="42">0</div> <span class="info__one__counter__text ms-1">Crore</span>  
                                   <p class="info__one__counter__text">Total Paid Up Share Amount</p>
-                                  <span>As per audit 2077/78</span>
                               </li>
                           </ul>
                       </div>

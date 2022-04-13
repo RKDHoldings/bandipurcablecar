@@ -7,7 +7,7 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/hero_12.jpg');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -30,7 +30,7 @@
            <h2 class="section-title">our events</h2>
            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p> -->
            <!-- impact stories card column -->           
-        <div class="col-lg-3 mb-4">
+        <div class="col-lg-3">
            <a href="impact_details1.php">
            <div class="card">
            <div class="backgroundEffect"></div>
@@ -50,7 +50,7 @@
              <!--card end  -->        
            </a>
         </div>
-        <div class="col-lg-3 mb-4">
+        <div class="col-lg-3">
            <a href="impact_details2.php">
               <div class="card">
                    <div class="backgroundEffect"></div>
@@ -68,7 +68,7 @@
                <!--card end  -->
           </a>          
         </div>
-        <div class="col-lg-3 mb-4">
+        <div class="col-lg-3">
             <a href="impact_details3.php">
                <div class="card">
                    <div class="backgroundEffect"></div>
@@ -76,7 +76,7 @@
                        <div class="date"> <span class="day">09</span> <span class="month">Mangsir</span> <span class="year">2077</span> </div>
                    </div>
                   <div class="content">
-                    <h4 class="impact_heading">Bandipur Cable Car financial closure from Nepal SBI & NMB Bankx</h4>
+                    <h4 class="impact_heading">Bandipur Cable Car financial closure from Nepal SBI & NMB Bank</h4>
                      <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
                         <a href="impact_details3.php"> Read More</a>                    
                         <a href="impact_details3.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                    
@@ -86,7 +86,7 @@
              <!--card end  -->
           </a>          
         </div>
-        <div class="col-lg-3 mb-4">
+        <div class="col-lg-3">
             <a href="impact_details4.php">
                <div class="card">
                     <div class="backgroundEffect"></div>
@@ -95,7 +95,7 @@
                     </div>
                     <div class="content">
                         <h4 class="impact_heading">5th Annual General Meeting Decision of Bandipur Cable Car</h4>
-                        <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
+                        <div class="d-flex align-items-center justify-content-center mt-3 pb-3">
                               <a href="impact_details4.php"> Read More</a>
                               <a href="impact_details4.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                          
                         </div>

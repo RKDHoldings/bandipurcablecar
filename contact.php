@@ -181,7 +181,7 @@
                                  <div class="media-body">
                                   <p class="info-media_text"><a href="">Corporate Office:</a></p>
                                   <p class="info-media_text"><a href="">Sabhagriha Chowk, Pokhara</a></p>
-                                  <p class="info-media_text"><a href="">	061-541430</a></p>
+                                  <p class="info-media_text"><a href="tel: 061-541430">061-541430</a></p>
                                  </div>
                                </div>
                                 
