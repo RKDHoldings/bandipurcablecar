@@ -117,6 +117,13 @@ window.addEventListener('load', () => {
 
 	});
 </script>
+<script>
+  $("#exampleModalCenter").on("show", function () {
+  $("body").addClass("modal-open");
+}).on("hidden", function () {
+  $("body").removeClass("modal-open")
+});
+</script>
  <!-- Your SDK code -->
  <script>
       var chatbox = document.getElementById('fb-customer-chat');

@@ -16,7 +16,6 @@ $(function() {
 })
 
   
-
   
     //
     // // progress bar
@@ -85,43 +84,6 @@ $(function() {
  
   
 
-   
-
-
-  // prevent body scroll when modal opened
-
-
-  // hide nav on scroll
-  // document.addEventListener("DOMContentLoaded", function(){
-		
-	// 	el_autohide = document.querySelector('.autohide');
-		
-	
-	// 	header_area_height = document.querySelector('.header_area').offsetHeight;
-	// 	document.body.style.paddingTop = header_area_height + 'px';
-
-	// 	if(el_autohide){
-			
-	// 		var last_scroll_top = 0;
-	// 		window.addEventListener('scroll', function() {
-	//        		let scroll_top = window.scrollY;
-	// 	       if(scroll_top < last_scroll_top) {
-	// 	            el_autohide.classList.remove('scrolled-down');
-	// 	            el_autohide.classList.add('scrolled-up');
-	// 	        }
-	// 	        else {
-	// 	            el_autohide.classList.remove('scrolled-up');
-	// 	            el_autohide.classList.add('scrolled-down');
-	// 	        }
-	// 	        last_scroll_top = scroll_top;
-
-	// 		}); 
-		
-
-	// 	}
-	
-		
-	// }); 
   $(document).ready(function() {
 	
     setTimeout(function(){
