@@ -40,7 +40,6 @@
   background: var(--secondary-color);
 }
 html{
-  
     font-size: 100%;
     box-sizing: border-box;
     overflow-x: hidden;
@@ -610,7 +609,7 @@ img.about-img2:hover a.video{
   border-radius: 8px;
 }
 .fact-counter{
-  margin: 0 0 3rem 0;
+  margin: 2.8rem 0 3rem 0;
 }
 .fact-counter .value{
   color: var(--secondary-color);
@@ -1768,23 +1767,82 @@ img.ceo_img{
   #inner-fetaures{
     padding: 6rem 0 6rem 0;
   }
-  #features-queentower,  #features-museum, #features-cablecar{
-    padding: 6rem 0 6rem 0;
+  #features-queentower,  #features-museum{
+    padding: 6rem 0;
     background-color: var(--bg-color);
   }
-
+  #features-cablecar{
+    padding: 0 0 6rem;
+  }
   #features-queentower .card, #features-museum .card, #features-cablecar .card{
     position: relative;
     cursor: pointer;
     box-shadow: none;
 }
-  .card .face{
-    /* width: 300px; */
-    height: 300px;
-    transition: 0.5s;
-}
- #features-queentower .card .content ,#features-museum .card .content ,#features-cablecar .card .content{box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;}
 
+
+#features-cablecar .card, #features-queentower .card{
+  margin: 0 auto;
+
+  max-width: 100%;
+  height: 400px;
+  overflow: hidden;
+  /* background-image: url(https://source.unsplash.com/collection/905011/1000x1000); */
+  background-size: cover;
+}
+
+.info {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  background-color: var(--theme-color);
+  transform: translateY(100%)
+    translateY(-88px)
+    translateZ(0);
+  transition: transform 0.5s ease-out;
+}
+
+.info:before {
+  z-index: -1;
+  display: block;
+  position: absolute;
+  content: ' ';
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-image: url(https://source.unsplash.com/collection/905011/1000x1000);
+  filter: blur(10px);
+  background-size: cover;
+  opacity: 0.25;
+  transform: translateY(-100%)
+    translateY(88px)
+    translateZ(0);
+  transition: transform 0.5s ease-out;
+}
+
+.card:hover .info,
+.card:hover .info:before {
+  transform: translateY(0) translateZ(0);
+}
+
+.title {
+  margin: 0;
+  padding: 29px 25px 29px 25px;
+  line-height: 1;
+  text-transform: capitalize;
+  color: var(--bg-color);
+}
+
+.description {
+  margin: 0;
+  padding: 0 24px 24px;
+  font-size: 18px;
+  line-height: 1.5;
+  color: var(--secondary-bg);
+}
+
+ #features-queentower .card .content ,#features-museum .card .content ,#features-cablecar .card .content{box-shadow: rgb(149 157 165 / 20%) 0px 8px 24px;}
+/* 
 .container .card .face.face1{
     position: relative;
     background: #333;
@@ -1828,7 +1886,7 @@ img.ceo_img{
     padding: 20px;
     padding: 0 0 1rem 0;
     box-sizing: border-box;
-    /* box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8); */
+    
     transform: translateY(-100px);
     height: 162px;
 }
@@ -1855,7 +1913,7 @@ img.ceo_img{
  .card .face.face2 .content a:hover{
     background: var(--primary-font-color);
     color: var(--bg-color);
-}
+} */
   /* share-info */
   #share_info{
     padding: 6rem 0 6rem 0;
@@ -2106,12 +2164,12 @@ img.ceo_img{
     margin: 0 auto;
 }
 .portfolio_info{
-  opacity: 0;
+    opacity: 0;
     position: absolute;
-    left: 15px;
+    left: 0;
     bottom: 0;
     z-index: 3;
-    right: 15px;
+    right: 0;
     transition: all 0.3s;
     background: rgba(55, 81, 126, 0.8);
     width: 100%;
@@ -2937,9 +2995,9 @@ h3.video-heading{
 .trusted.one__single:hover .trusted-one__icon {
   color: var(--bg-color);
 }
-/* #features_cablecar{
-  padding: 0rem 0 6rem 0;
-} */
+#features_cablecar_about{
+  padding: 6rem 0 0rem 0;
+}
 .content_bandipur {
   position: relative;
   margin: auto;
@@ -3819,18 +3877,19 @@ img.logo_panchase{
   margin: auto;
 } */
 .grid-item {
-  display: inline-block;
+      display: inline-block;
       height: 235px;
       overflow: hidden;
       text-align: var(--text-align-center);
       width: 355px;
+      padding: 0.6rem;
   }
   .grid-item img{
     width:100%;
     height:100%;
     transition: all 0.6s;
     object-fit: cover;
-    margin: 1rem;
+    
   }
   /* .grid-item img:hover{
       filter: none;
@@ -3869,72 +3928,7 @@ img.logo_panchase{
     border-radius: var(--border-radius);
     padding: 10px 25px;   
   }
-  /* .isotope-pager a{
-    margin: 6px 1px;
-      display: inline-block;
-      width: 50px;
-      height: 60px;
-      line-height: 31px;
-      color: #b6b6b6;
-      font-weight: 600;
-      transition: 0.3s;
-      box-shadow: -1px 1px 11px rgba(0,0,0,.1);
-      border-radius: 25px;
-      background-color: #232323;
-      border: .5px solid var(--secondary-color);
-      text-decoration:var(--text-decoration);
-  }
-  
-  .isotope-pager a:hover{
-    color: var(--bg-color);
-    border: .5px solid var(--secondary-color);
-    box-shadow: -1px 1px 10px 3px rgba(0,0,0,.1);
-  }
-  
-  .isotope-pager .active{
-    color: var(--secondary-color) !important;
-      box-shadow: -1px 1px 10px 5px rgba(0,0,0,.1);
-      border-radius: 25px;
-      background-color: #161616;
-      border: 1px dotted var(--secondary-color);
-  } 
-  .isotope-pager .prev{
-    border-radius: 30px 0 0 30px;}
-  
-  .isotope-pager .next{
-    border-radius: 0 30px 30px 0;
-  }
-  
-  .isotope-pager a::before,.isotope-pager a:after{
-    content: "";
-    position: absolute;
-    border-top: 30px solid transparent;
-    border-bottom: 30px solid transparent;
-  }
-  .isotope-pager .num::before,.next::before{
-    border-right: 20px solid #2c3e50;
-    right: 100%;
-  }
-  
-  .isotope-pager .num:after,.prev:after{
-    border-right: 20px solid #f1f1f1;
-    right: 0;
-  } */
-  /* #gallery_item  .overlay {
-    position: absolute; 
-    bottom: 0; 
-    background: rgb(0, 0, 0);
-    background: rgba(0, 0, 0, 0.5); 
-    color: #f1f1f1; 
-    width: 100%;
-    transition: .5s ease;
-    opacity:0;
-    color: var(--bg-color);
-    font-size: 20px;
-    padding: 20px;
-    text-align: var(--text-align-center);
-  }
-  .grid-item:hover .overlay { opacity: 1; } */
+
   .mfp-with-zoom .mfp-container,
   .mfp-with-zoom.mfp-bg {
     opacity: 0;
@@ -4049,7 +4043,7 @@ img.logo_panchase{
 }
 .pie_data_details{ border: 1px solid #e3e3e3; padding: 3rem;}
 #future_features{
-  padding:  0 0 6rem 0;
+  padding:  6rem 0 6rem 0;
 }
 #future_features .strategy_block .inner_box h5 {
   font-size: 1rem;

@@ -116,9 +116,9 @@
                      <div class="sidebar_news1">
                            <h4>Bandipur Features</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"> <a href="#lower_station" class="nav-link">Cablecar         </a></li>
-                                 <li class="nav-item"> <a href="#upper_station" class="nav-link">Queen tower      </a> </li>
-                                 <li  class="nav-item"><a href="#land_details" class="nav-link"> Cable Restro Bar </a> </li>
+                                 <li class="nav-item"> <a href="what_we_do.php#features_cablecar" target="_blank" class="nav-link">Cablecar         </a></li>
+                                 <li class="nav-item"> <a href="what_we_do.php#features_queentower" target="_blank" class="nav-link">Queen tower      </a> </li>
+                                 <li  class="nav-item"><a href="what_we_do.php#features_queentower"  target="_blank" class="nav-link"> Cable Restro Bar </a> </li>
                               </ul>
                      </div>
                      <div class="sidebar_news1">
@@ -136,7 +136,7 @@
                            <h4>downloads</h4>
                               <ul class="nav flex-column" id="nav_accordion">
                                  <li class="nav-item"> <a href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" target="_blank" class="nav-link"> CARE Ratings  </a></li>
-                                 <li class="nav-item"> <a href="downloads.php#download_reports" class="nav-link"> MEP Bidding Documents </a></li>
+                                 <li class="nav-item"> <a href="downloads.php#download_reports" target="_blank" class="nav-link"> MEP Bidding Documents </a></li>
                               </ul>
                      </div>                           
             </div>
@@ -414,7 +414,7 @@
     </div> 
 </section>
 <!--features of bandipur cablecar  -->
-<section id="features_cablecar">
+<section id="features_cablecar_about">
    <div class="container">
         <div class="row">
             <h2 class="section-title">Special features of bandipur cablecar</h2>
@@ -577,7 +577,7 @@
             <p class="timeline-text">रेष्ट्रो जोन सञ्चालनमा ल्याउने ।</p>
           </div>
         </div> -->
-        <div class="timeline-slide"  id="queentower_start" style="background-image: url(img/project_process/2.jpg" data-year="२०७९"> <span class="timeline-year">२०७९</span>
+        <div class="timeline-slide"  id="queentower_start" style="background-image: url(img/project_process/station.jpg" data-year="२०७९"> <span class="timeline-year">२०७९</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०७९ फागुन १ गते</h4>
             <p class="timeline-text">बटम स्टेशनको सम्पूर्ण कार्यहरु सम्पन्न गर्ने र केवलकारको सम्पूर्ण काम सकेर व्यवसायिक सञ्चालन गर्ने ।</p>

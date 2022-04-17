@@ -226,48 +226,30 @@
          <h2 class="section-title">transparent cablecar</h2>
 		     <p> हाम्रो केवलकार मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टममा आधारित १९ गोण्डोला मार्फत् (मेटेरियल क्यावीन सहित) प्रति घण्टा ३०० यात्रीहरु बोक्न सक्ने क्षमतामा रहेको थियो । बजारको माग र चापका कारण यसलाई विस्तारित गर्दै २५ वटा गोण्डोला मेटेरियल क्यावीन सहित) प्रति घण्टा ५०० यात्रीहरु बोक्ने र दैनिक १६ घण्टा माथि सेवा दिन सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ ।  </p>
 	       <!--inner contents of queen tower 13 storey  -->
-         <div class="card col-lg-4">
-            <div class="face face1">
-                <div class="content">
-                    <img src="img/hero_2.png">
-                    <h3>transparent cablecar</h3>
-                </div>
+         <div class="col-lg-4">   
+            <div class="card" style="background-image:url('img/hero_2.png')">
+                <div class='info'>
+                   <h4 class="title">transparent cablecar</h4>
+                   <p class='description'>Capacity of 1000 people at one time.</p>
+                </div> 
             </div>
-            <div class="face face2">
-                <div class="content">
-                    <p>Capacity of 1000 people at one time.</p>
-                        <!-- <a href="#">Read More</a> -->
-                </div>
+         </div>
+         <div class="col-lg-4">   
+            <div class="card"  style="background-image:url('img/features/restro-zone.jpg')">
+               <div class='info'>
+                   <h4 class="title">cablecar Restro sewa</h4>
+                   <p class='description'>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
+               </div> 
             </div>
-        </div>
-        <div class="card col-lg-4">
-            <div class="face face1">
-                <div class="content">
-                    <img src="img/features/restro-zone.jpg">
-                    <h3>cablecar Restro sewa</h3>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="content">
-                    <p>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
-                        <!-- <a href="#">Read More</a> -->
-                </div>
-            </div>
-        </div>
-        <div class="card col-lg-4">
-            <div class="face face1">
-                <div class="content">
-                    <img src="img/features/game-zone.jpg">
-                    <h3>Game Zone</h3>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="content">
-                    <p>Different Modern Games with Virtual Reality environment setup will be made Available. You will get the real world Gaming experiences.</p>
-                        <!-- <a href="#">Read More</a> -->
-                </div>
-            </div>
-        </div>
+         </div>
+         <div class="col-lg-4">   
+            <div class="card"  style="background-image:url('img/features/game-zone.jpg')">
+              <div class='info'>
+                   <h4 class="title">Game Zone</h4>
+                   <p class='description'>Different Modern Games with Virtual Reality environment setup will be made Available. You will get the real world Gaming experiences.</p>
+              </div> 
+            </div>  
+         </div>
 
       </div>
    </div>
@@ -280,48 +262,30 @@
          <h2 class="section-title">queen tower 13 storey</h2>
 		 <p>We will operate 5 Star hotel named as “Queen Tower” Hotel.  It will have minimum of 84 and maximum of 100 rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and operation.</p>
 	       <!--inner contents of queen tower 13 storey  -->
-         <div class="card col-lg-4">
-            <div class="face face1">
-                <div class="content">
-                    <img src="img/features/conference.jpg">
-                    <h3>Conference Theatre</h3>
-                </div>
+         <div class="col-lg-4">   
+            <div class="card" style="background-image:url('img/features/conference.jpg')">
+                <div class='info'>
+                   <h4 class="title">Conference Theatre</h4>
+                   <p class='description'>Capacity of 1000 people at one time.</p>
+                </div> 
             </div>
-            <div class="face face2">
-                <div class="content">
-                    <p>Capacity of 1000 people at one time.</p>
-                        <!-- <a href="#">Read More</a> -->
-                </div>
+         </div>
+         <div class="col-lg-4">   
+            <div class="card"  style="background-image:url('img/features/restro-zone.jpg')">
+               <div class='info'>
+                   <h4 class="title">Restro sewa</h4>
+                   <p class='description'>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
+               </div> 
             </div>
-        </div>
-        <div class="card col-lg-4">
-            <div class="face face1">
-                <div class="content">
-                    <img src="img/features/restro-zone.jpg">
-                    <h3>Restro Sewa</h3>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="content">
-                    <p>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
-                        <!-- <a href="#">Read More</a> -->
-                </div>
-            </div>
-        </div>
-        <div class="card col-lg-4">
-            <div class="face face1">
-                <div class="content">
-                    <img src="img/features/swimming_pool.jpg">
-                    <h3>Queen Tower Swimming Pool</h3>
-                </div>
-            </div>
-            <div class="face face2">
-                <div class="content">
-                    <p>People can enjoy the beautiful moments of Bandipur through the 13 storey Queen Toer even during swimming from the Swimming Pool.</p>
-                        <!-- <a href="#">Read More</a> -->
-                </div>
-            </div>
-        </div>
+         </div>
+         <div class="col-lg-4">   
+            <div class="card"  style="background-image:url('img/features/swimming_pool.jpg')">
+              <div class='info'>
+                   <h4 class="title">Queen Tower Swimming Pool</h4>
+                   <p class='description'>People can enjoy the beautiful moments of Bandipur through the 13 storey Queen Toer even during swimming from the Swimming Pool.</p>
+              </div> 
+            </div>  
+         </div>
 
       </div>
    </div>

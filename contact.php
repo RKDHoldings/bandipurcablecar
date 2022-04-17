@@ -26,7 +26,7 @@
 <section id="contact-page">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 d-flex align-items-end">
                         <img src="img/contact-img.png" class="contact_img" alt="">  
                     </div>
                    <!-- col-end -->

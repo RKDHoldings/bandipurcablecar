@@ -47,7 +47,7 @@
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
-                      <img src="img/about/office_building.jpg" class="nav_img" alt="">
+                      <img src="img/about/building.jpg" class="nav_img" alt="">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  

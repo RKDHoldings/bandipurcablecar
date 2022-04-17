@@ -157,7 +157,7 @@
                    <!-- promoter structure share in percentage counter -->
                   <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
                        <div class="row">
-                         <h2 class="mb-4 mt-4">Promoter Structure Percentage(%)</h2>
+                         <h2 class="mb-4 mt-4">Promoter Structure Percentage (%)</h2>
                            <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
                                <div class="inner">
                                   <div class="count-outer count-box counted">

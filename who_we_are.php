@@ -153,7 +153,7 @@
                   </div> -->
                   <div class="process-body">
                        <div class="process-shape"></div>
-                          <span class="process-number">01</span>
+                          <!-- <span class="process-number">01</span> -->
                              <div class="process-icon"><img src="img/icon_pack/hook.png" alt="">
                              </div>
                              <h3 class="process-title">निर्माण</h3>
@@ -165,7 +165,7 @@
                  </div> -->
                  <div class="process-body">
                      <div class="process-shape"></div>
-                     <span class="process-number">02</span>
+                     <!-- <span class="process-number">02</span> -->
                       <div class="process-icon"><img src="img/icon_pack/ownership.png" alt=""></div>
                      <h3 class="process-title">स्वामित्वकरण</h3>
                  </div>
@@ -175,7 +175,7 @@
                  </div> -->
                 <div class="process-body">
                     <div class="process-shape"></div>
-                       <span class="process-number">03</span>
+                       <!-- <span class="process-number">03</span> -->
                          <div class="process-icon"><img src="img/icon_pack/cogwheel.png" alt=""></div>
                           <h3 class="process-title"> सञ्चालन</h3>
                         </div>
@@ -185,7 +185,7 @@
                   </div> -->
                   <div class="process-body">
                       <div class="process-shape"></div>
-                        <span class="process-number">04</span>
+                        <!-- <span class="process-number">04</span> -->
                         <div class="process-icon"><img src="img/icon_pack/engineering.png" alt=""></div><h3 class="process-title">नियमित सञ्चालन </h3>
                         </div>
                  </div>

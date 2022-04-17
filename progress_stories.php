@@ -60,8 +60,20 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image " src="img/hero_1.webp" >
+                              <img class="content-image " src="img/features/queen-tower.png" >
                               <!-- <a class= "lightbox-close" href= "#">X</a> -->
+                              <div class="content-details fadeIn-left">
+                                <h3>5 Star Queen Tower</h3>
+                                <!-- <p>This is a short description</p> -->
+                              </div>
+                       </a>
+                    </div>
+               </div>
+               <div class="col-lg-4">
+                    <div class="content_bandipur">
+                       <a href="" target="_blank">
+                              <div class="content-overlay"></div>
+                              <img class="content-image" src="img/hero_1.webp">
                               <div class="content-details fadeIn-left">
                                 <h3>Transparent Cablecar</h3>
                                 <!-- <p>This is a short description</p> -->
@@ -73,19 +85,7 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image" src="img/features/queen-tower.png">
-                              <div class="content-details fadeIn-left">
-                                <h3>4 Star Queen Tower</h3>
-                                <!-- <p>This is a short description</p> -->
-                              </div>
-                       </a>
-                    </div>
-               </div>
-               <div class="col-lg-4">
-                    <div class="content_bandipur">
-                       <a href="" target="_blank">
-                              <div class="content-overlay"></div>
-                              <img class="content-image" src="img/features/3d-cover.jpeg">
+                              <img class="content-image" src="img/features/restro-zone.jpg">
                               <div class="content-details fadeIn-left">
                                 <h3>Cablecar Restro Zone</h3>
                                 <!-- <p>This is a short description</p> -->
@@ -108,8 +108,8 @@
       </div>
       <div id="container" class="isotope"> 
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="img/project_process/1.jpg">
-          <img src="img/project_process/1.jpg">
+        <a class="popupimg" href="img/project_process/cablecar-tower.jpg">
+          <img src="img/project_process/cablecar-tower.jpg">
         </a>
         <div class="portfolio_info">
               <h4>Bandipur Cablecar</h4>
@@ -117,8 +117,8 @@
       </div>
             
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="img/gallery_icon/3.jpg">
-          <img src="img/project_process/2.jpg">
+        <a class="popupimg" href="img/project_process/cablecar-bg.jpg">
+          <img src="img/project_process/cablecar-bg.jpg">
         </a>
         <div class="portfolio_info">
               <h4>Bandipur Cablecar</h4>
@@ -136,9 +136,11 @@
     
 		<div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/project_process/3.jpg">
-          <img src="img/project_process/3.jpg">
+          <img src="img/project_process/station.jpg">
         </a>
-        <div class="overlay">Bike</div>
+        <div class="portfolio_info">
+              <h4>Lower Station</h4>
+        </div>
       </div> 
 
       <div class="grid-item" data-filter="bus">
@@ -151,8 +153,8 @@
       </div>
                 
 		<div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="img/project_process/q2.jpg">
-          <img src="img/project_process/q2.jpg">
+        <a class="popupimg" href="img/project_process/tower-first.jpg">
+          <img src="img/project_process/tower-first.jpg">
         </a>
         <div class="portfolio_info">
               <h4>Queen Tower</h4>
@@ -161,8 +163,8 @@
              
 
 		<div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="img/project_process/q3.jpg">
-          <img src="img/project_process/q3.jpg">
+        <a class="popupimg" href="img/project_process/tower-construction.jpg">
+          <img src="img/project_process/tower-construction.jpg">
         </a>
         <div class="portfolio_info">
               <h4>Queen Tower</h4>
@@ -173,7 +175,9 @@
         <a class="popupimg" href="img/project_process/chhimkeshwori.jpg">
           <img src="img/project_process/chhimkeshwori.jpg">
         </a>
-        <div class="overlay">Chhimkeshwori</div>
+        <div class="portfolio_info">
+              <h4>Chhimkeshwori</h4>
+        </div>
       </div>
              
 	</div>

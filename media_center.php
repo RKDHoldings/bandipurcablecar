@@ -83,21 +83,21 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/news/event-1.jpg" class="d-block w-100" alt="...">
+                                    <img src="img/news/agm.jpg" class="d-block w-100" alt="...">
                                     <div class="carousel-caption d-none d-md-block">
                                       <h5>5th AGM Bandipur Cable Car</h5>
                                       <!-- <p>Some representative placeholder content for the first slide.</p> -->
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/news/event-2.jpg" class="d-block w-100" alt="...">
+                                    <img src="img/news/representers.jpg" class="d-block w-100" alt="...">
                                      <div class="carousel-caption d-none d-md-block">
                                        <h5>5th AGM Bandipur Cable Car</h5>
                                        <!-- <p>Some representative placeholder content for the second slide.</p> -->
                                      </div>
                                </div>
                                <div class="carousel-item">
-                                  <img src="img/news/event-3.jpg" class="d-block w-100" alt="...">
+                                  <img src="img/news/staff.jpg" class="d-block w-100" alt="...">
                                    <div class="carousel-caption d-none d-md-block">
                                      <h5>Third slide label</h5>
                                      <!-- <p>Some representative placeholder content for the third slide.</p> -->
@@ -136,7 +136,7 @@
 				            	</li>
 									   	<li>			
 					              	<div class="thumb">
-							               <a title="Episode 3: Space" href="https://www.youtube.com/watch?v=Reo9yTqD9KA&ab_channel=BandipurCablecar"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/news/event-1.jpg"></a>
+							               <a title="Episode 3: Space" href="https://www.youtube.com/watch?v=Reo9yTqD9KA&ab_channel=BandipurCablecar"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/news/agm.jpg"></a>
 					              	</div>
 					              	<div class="details">
 						               	<h3 class="video_heading"><a title="Episode 3: Space" href="https://www.youtube.com/watch?v=Reo9yTqD9KA&ab_channel=BandipurCablecar" target="_blank">RKD Group: Business Summit 2076/12/01</a></h3>
