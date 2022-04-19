@@ -56,7 +56,7 @@
                       <li><a href="about_bandipur.php">about bandipur</a></li>
                       <li><a href="our_structure.php">our structure</a>
                          <ul class="nav-dropdown">
-                             <li><a href="our_structure#directors_team">board of directors</a></li>
+                             <li><a href="our_structure.php#directors_team">board of directors</a></li>
                        <!-- <li><a href="#">investment committee</a></li>         -->
                        <!-- <li><a href="#">operating model</a></li>  -->
                             <li><a href="co-operative_governance.php">co-operative governance</a></li>

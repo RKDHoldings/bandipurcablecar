@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="alternate" type="application/xml" title="Site Map" href="sitemap.xml">
     <!-- Meta Tags -->
     <meta name="keywords" content="Bandipur Cable Car, View tower, Wax Museum, Conference Hall, Tourism, Tourism Limited, Five Star Hotel, Queen Tower, Holiday Package, Restro Zone, Shopping Mall, Heritage Garden, Mirror Maze House, Tanahun, Investment, Finance, Water Fun Park, RKD Holdings, Panchase Cable Car, Banquet Hall, Shareholder, Musical Water show, Assets">
     <meta name="description" content="Bandipur Cable Car is a subsidiary company of RKD Holdings. Bandipur Cable Car is constructed from Thuldhunga of Bandipur Gaupalika-4 to Baralthok of same ward."/>

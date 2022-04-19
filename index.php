@@ -81,38 +81,30 @@
 <section id="company__intro">
    <div class="container-fluid"> 
       <div class="row">
-         <div class="col-lg-3">
-            <a href="">
+         <div class="col-lg-3">          
                 <div class="intro__details active" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-delay="200">
                     <h5 class="title__secondary">Yearly 5 Lakhs Visitors</h5>
                     <p class="card-text mt-0">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
-                </div>
-            </a>
+                </div>        
          </div>
          <div class="col-lg-3">
-          <a href="">
               <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic"  data-aos-delay="400">
                   <h5  class="title__secondary">500 Passenger Per Hour</h5>
                   <p class="card-text mt-0">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
               </div>
-          </a>
          </div>
         <div class="col-lg-3">
-          <a href="">
               <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="600">
                   <h5 class="title__secondary">Complete Holiday Package</h5>
                   <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
                    <!-- <div class="go-corner" href="#"> <div class="go-arrow">  →</div></div>              -->
               </div>
-          </a>
         </div>
         <div class="col-lg-3">
-            <a href="">
                 <div class="intro__details" data-aos="flip-left"  data-aos-easing="ease-out-cubic" data-aos-duration="800">
                     <h5 class="title__secondary">South Asia Unique Cable Car</h5>
                     <p class="card-text mt-0">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
                 </div>
-            </a>
         </div>
       </div>
    </div>
@@ -222,11 +214,9 @@
                           </ul>
                       </div>
                       <div class="info__one__link d-flex justify-content-end">
-                          <a href="" class="video-popup">
                               <div class="info__one__img">
                                   <img src="img/about/about-img2.jpg" alt="">
                               </div>
-                          </a>
                       </div>
                   </div>
               </div>
