@@ -150,7 +150,7 @@
                       <h3 class="news_heading">about bandipur</h3>
                       <img src="img/about/about-img2.jpg" class="w-100" alt="">  
                       <p>Bandipur Cable Car and Tourism Limited  is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu .</p> 
-                      <a href="about_bandipur.php">  <button class="slide_from_left">explore more</button> </a>              
+                      <a href="about-bandipur.php">  <button class="slide_from_left">explore more</button> </a>              
                    </div>            
                </div>
          </div>       

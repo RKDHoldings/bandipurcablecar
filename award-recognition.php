@@ -13,7 +13,7 @@
                   <h2 class="breadcrumb-title">award and recognition</h2>
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php"><i data-feather="home"></i>Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">award and recognition</li>
                      </ol>
                   </nav>
@@ -59,7 +59,7 @@
            <h2 class="section-title">Corporate Social responsibility</h2>
            <p>Bandipur Cable Car & Tourism Limited not only focus on business, company also works for betterment of society. Company has taken following steps to fulfill It's corporate social responsibility:  </p>       
            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                    <a href="award_details.php">
+                    <a href="award-details.php">
                         <div class="card-flyer">
                             <div class="text-box">
                                 <div class="image-box">
@@ -74,7 +74,7 @@
                     </a>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                    <a href="award_details2.php">
+                    <a href="award-details2.php">
                         <div class="card-flyer">
                             <div class="text-box">
                                 <div class="image-box">

@@ -66,7 +66,7 @@
 
                      </a>
                       <!--2nd stats  -->
-                      <a href="what_we_do.php#features" target="_blank">
+                      <a href="what-we-do.php#features" target="_blank">
                       <div class="more_stats">
                         <div class="about_who_icon">
                          	<div class="field-item even">
@@ -219,54 +219,54 @@
                         <td data-th="price">१०,००,००० /- प्रति आना</td>
                      </tr>
                      <tr>
-                        <td data-th="Movie Title">३.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">४ ग</td>
-                        <td data-th="Gross">५९७</td>
-                        <td data-th="Gross">१–१२–१–०</td>
-                        <td data-th="Gross">२०७०/०७/०५</td>
-                        <td data-th="Gross">१०,००,००० /- प्रति आना</td>
+                        <td data-th="number">३.</td>
+                        <td data-th="district">तनहुँ</td>
+                        <td data-th="municipality">बन्दीपुर</td>
+                        <td data-th="map_no">४ ग</td>
+                        <td data-th="kitta_no">५९७</td>
+                        <td data-th="area">१–१२–१–०</td>
+                        <td data-th="registered_date">२०७०/०७/०५</td>
+                        <td data-th="price">१०,००,००० /- प्रति आना</td>
                      </tr>
                      <tr>
-                        <td data-th="Movie Title">४.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">४ ग</td>
-                        <td data-th="Gross">८८३</td>
-                        <td data-th="Gross">४–०–०–०</td>
-                        <td data-th="Gross">२०७८/०३/२८</td>
-                        <td data-th="Gross">१०,००,००० /- प्रति आना</td>
+                        <td data-th="number">४.</td>
+                        <td data-th="district">तनहुँ</td>
+                        <td data-th="municipality">बन्दीपुर</td>
+                        <td data-th="map_no">४ ग</td>
+                        <td data-th="kitta_no">८८३</td>
+                        <td data-th="area">४–०–०–०</td>
+                        <td data-th="registered_date">२०७८/०३/२८</td>
+                        <td data-th="price">१०,००,००० /- प्रति आना</td>
                      </tr>
                      <tr>
-                        <td data-th="Movie Title">५.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">४ ग</td>
-                        <td data-th="Gross">८५९</td>
-                        <td data-th="Gross">४–९–२–०</td>
-                        <td data-th="Gross">२०७६/०९/२५</td>
-                        <td data-th="Gross">१०,००,००० /- प्रति आना</td>
+                        <td data-th="number">५.</td>
+                        <td data-th="district">तनहुँ</td>
+                        <td data-th="municipality">बन्दीपुर</td>
+                        <td data-th="map_no">४ ग</td>
+                        <td data-th="kitta_no">८५९</td>
+                        <td data-th="area">४–९–२–०</td>
+                        <td data-th="registered_date">२०७६/०९/२५</td>
+                        <td data-th="price">१०,००,००० /- प्रति आना</td>
                      </tr>
                      <tr>
-                        <td data-th="Movie Title">६.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">४ क</td>
-                        <td data-th="Gross">१३</td>
-                        <td data-th="Gross">१६–५–१–१</td>
-                        <td data-th="Gross">२०७४/१२/०८</td>
-                        <td data-th="Gross">५०,००,००० /- प्रति रोपनी</td>
+                        <td data-th="number">६.</td>
+                        <td data-th="district">तनहुँ</td>
+                        <td data-th="municipality">बन्दीपुर</td>
+                        <td data-th="map_no">४ क</td>
+                        <td data-th="kitta_no">१३</td>
+                        <td data-th="area">१६–५–१–१</td>
+                        <td data-th="registered_date">२०७४/१२/०८</td>
+                        <td data-th="price">५०,००,००० /- प्रति रोपनी</td>
                      </tr>
                      <tr>
-                        <td data-th="Movie Title">७.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">४ क</td>
-                        <td data-th="Gross">१३६</td>
-                        <td data-th="Gross">०–८–०–०</td>
-                        <td data-th="Gross">२०७६/११/२०</td>
-                        <td data-th="Gross">८,००,००० /- प्रति आना</td>
+                        <td data-th="number">७.</td>
+                        <td data-th="district">तनहुँ</td>
+                        <td data-th="municipality">बन्दीपुर</td>
+                        <td data-th="map_no">४ क</td>
+                        <td data-th="kitta_no">१३६</td>
+                        <td data-th="area">०–८–०–०</td>
+                        <td data-th="registered_date">२०७६/११/२०</td>
+                        <td data-th="price">८,००,००० /- प्रति आना</td>
                      </tr>
                 </table>
               </div>

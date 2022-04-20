@@ -33,7 +33,7 @@
             <!-- committees accordion -->
             <div class="double-check-list font-title mb-xxl-5">
                  <h3></h3>
-                  <ul class="list-unstyled aboutus__points swpf">
+                  <ul class="list-unstyled aboutus__points swpf ps-0">
                     <li>  
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
                         <div class="text"> <p>नीति विभाग</p> </div>

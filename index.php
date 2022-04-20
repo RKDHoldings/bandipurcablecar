@@ -31,7 +31,7 @@
               <div class="col-md-8">
                 <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>7 YEARS <br> OF PROGRESS</h2>
-                <a href="what_we_do.php">  <button class="slide_from_left mt-3">explore more</button> </a>
+                
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
                 <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>Investing in Tourism</h2>
                 <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                 <a href="investors_relation.php"> <button class="slide_from_left mt-3">explore more</button></a>
+                 <a href="investors-relation.php"> <button class="slide_from_left mt-3">explore more</button></a>
               </div>
             </div>
           </div>
@@ -55,7 +55,7 @@
                 <!-- <h6>Great Experience In Building. </h6> -->
                 <h2>Bandipur Cable Car </h2>
                 <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                <a href="about_bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>
+                <a href="about-bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@
             <div class="work-together__img-box">
                 <div class="work-together-shape-1"><img src="assets/images/shapes/work-together-shape-1.png" alt=""></div>
                 <div class="about__img-1">
-                    <img src="img/about/about-img1.jpeg" class="about-img1" alt="">
+                    <img src="img/about/about-img1.jpeg" class="about-img1" alt="Bandipur Cable Car">
                     <div class="about__img-2">
                         <img src="img/for-video.png"class="about-img2" alt="">
                           <div class="video-main">
@@ -176,7 +176,7 @@
                            </div>
                        </div>
                   </div>
-                 <a href="about_bandipur.php"> <button class="slide_from_left">explore more</button></a>
+                 <a href="about-bandipur.php"> <button class="slide_from_left">explore more</button></a>
               </div>                            
         </div>
     </div>
@@ -215,7 +215,7 @@
                       </div>
                       <div class="info__one__link d-flex justify-content-end">
                               <div class="info__one__img">
-                                  <img src="img/about/about-img2.jpg" alt="">
+                                  <img src="img/about/about-img2.png" alt=" Bandipur Cable Car Capital">
                               </div>
                       </div>
                   </div>
@@ -227,7 +227,7 @@
             <li class="info__one__feature__single ">
                             <div class="info__one__feature__content">
                                 <h3 class="info__one__feature__title">
-                                  <a href="">Authorized Capital</a>
+                                 Authorized Capital
                                 </h3>                             
                             </div>
                             <div class="info__one__feature__icon">
@@ -242,7 +242,7 @@
           <li class="info__one__feature__single ">
                             <div class="info__one__feature__content">
                                 <h3 class="info__one__feature__title">
-                                  <a href="">issued capital</a>
+                                 issued capital
                                 </h3>                             
                             </div>
                             <div class="info__one__feature__icon">
@@ -256,7 +256,7 @@
           </li>
           <li class="info__one__feature__single ">
                             <div class="info__one__feature__content">
-                                <h3 class="info__one__feature__title"><a href="">total project assets</a>
+                                <h3 class="info__one__feature__title">total project assets
                               </h3>                             
                             </div>
                             <div class="info__one__feature__icon">
@@ -682,7 +682,7 @@ counters.forEach( counter => {
    animate();
 });
 </script>
-<script>
+<!-- <script>
 			$(function (){
 
         $(function (){
@@ -695,4 +695,4 @@ createMarquee({
 });
 
 		</script>
-
+ -->

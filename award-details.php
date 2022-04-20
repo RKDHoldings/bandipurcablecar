@@ -13,7 +13,7 @@
                   <h2 class="breadcrumb-title">award details</h2>
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php"><i data-feather="home"></i>Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">award and recognition</li>
                      </ol>
                   </nav>
@@ -26,7 +26,7 @@
 	  <div class="row">
           <div class="col-lg-9">
              <div class="award_single">
-                 <img src="img/about/about-img2.jpg" alt="">
+                 <img src="img/about/about-img2.png" alt="">
                  <h3>बन्दीपुर केवलकार पर्यटन एवं उद्यमशील पत्रकारिता पुरस्कार तथा हार्दिक सम्मान</h3>
                  <p>कम्पनीले बन्दीपुर केवलकार पर्यटन एवं उद्यमशील पत्रकारिता पुरस्कार–२०७६ स्थापना गरेको थियो । यो पुरस्कार उद्यमशील पत्रकारितासँग सम्बन्धित रहेको छ । “उद्यमशीलता नै वास्तविक अर्थमा समाज सेवा हो” भन्ने मान्यता स्थापित गराउनु कम्पनीको दृष्टिकोण हो । कम्पनीको नीति बमोजिम पुरस्कृत हुने व्यक्तिहरुलाई 
                      कम्पनीमा जगेडामा रहेको शेयरवापत रु. १ लाखको शेयर राशिले सम्मान गर्दा जीवनभर सम्मानित हुने वयक्तिले सम्मान पाइरहन सक्छन् भन्ने कम्पनीको बुझाई हो ।

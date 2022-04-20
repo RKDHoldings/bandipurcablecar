@@ -42,28 +42,28 @@
         <!-- Main Menus Wrapper -->
         <div class="nav-menus-wrapper">
           <ul class="nav-menu align-to-right">
-            <li><a href="who_we_are.php" class="active">Who We Are</a>
+            <li><a href="who-we-are.php" class="active">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
-                      <img src="img/about/building.jpg" class="nav_img" alt="">
+                      <img src="img/about/building.webp" class="nav_img" alt="">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  
                      <h4 class="nav_title">who we are</h4>
                     <ul class="nav-dropdown">
-                      <li><a href="about_bandipur.php">about bandipur</a></li>
-                      <li><a href="our_structure.php">our structure</a>
+                      <li><a href="about-bandipur.php">about bandipur</a></li>
+                      <li><a href="our-structure.php">our structure</a>
                          <ul class="nav-dropdown">
-                             <li><a href="our_structure.php#directors_team">board of directors</a></li>
+                             <li><a href="our-structure.php#directors-team">board of directors</a></li>
                        <!-- <li><a href="#">investment committee</a></li>         -->
                        <!-- <li><a href="#">operating model</a></li>  -->
-                            <li><a href="co-operative_governance.php">co-operative governance</a></li>
+                            <li><a href="co-operative-governance.php">co-operative governance</a></li>
                             <!-- <li><a href="#">investment strategy</a></li>                                 -->
                          </ul>
                       <!-- <li><a href="about_bandipur.php">our mission vision & values</a></li> -->
-                      <li><a href="award_recognition.php">Award & recognition</a></li>            
+                      <li><a href="award-recognition.php">Award & recognition</a></li>            
                   </ul>
                 </li>
                     <li><a href="#">partnership</a></li>
@@ -72,7 +72,7 @@
                 </div>
               </div>
             </li>
-            <li><a href="what_we_do.php">What we do</a>
+            <li><a href="what-we-do.php">What we do</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
@@ -83,8 +83,8 @@
                   <ul class="megamenu-list list-col-3">
                   <h4 class="nav_title">what we do</h4>              
                     <ul class="nav-dropdown">
-                      <li><a href="what_we_do.php#features-cablecar">Bandipur Cablecar</a></li>
-                      <li><a href="what_we_do.php#features-queentower">queen tower</a>             
+                      <li><a href="what-we-do.php#features-cablecar">Bandipur Cablecar</a></li>
+                      <li><a href="what-we-do.php#features-queentower">queen tower</a>             
                     </ul>
                 </li>
                     <li><a href="#">partnership</a></li>
@@ -93,7 +93,7 @@
                 </div>
               </div>
             </li>
-            <li><a href="investors_relation.php">investors relation</a>
+            <li><a href="investors-relation.php">investors relation</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4">
@@ -103,17 +103,17 @@
                   </ul>
                   <ul class="megamenu-list list-col-3">  
                     <h4 class="nav_title">Investors Relation</h4>   
-                    <li><a href="investors_relation.php#financial_report">financial Reports</a></li>          
-			          		<li><a href="investors_relation.php#investment_budget">share structure</a></li>
-                    <li><a href="investors_relation.php#investment_strategy">Investment strategy</a></li>
-                    <li><a href="investors_relation.php#management_team">Risk Management</a></li>
+                    <li><a href="investors-relation.php#financial-report">financial Reports</a></li>          
+			          		<li><a href="investors-relation.php#investment-budget">share structure</a></li>
+                    <li><a href="investors-relation.php#investment-strategy">Investment strategy</a></li>
+                    <li><a href="investors-relation.php#management-team">Risk Management</a></li>
                   </ul>
                  
                 </div>
               </div>
             </li>
-            <li><a href="progress_stories.php">progress stories</a>  </li>
-		      	<li><a href="media_center.php">media center</a></li>
+            <li><a href="progress-stories.php">progress stories</a>  </li>
+		      	<li><a href="media-center.php">media center</a></li>
             <li><a href="contact.php">contact</a></li>
           </ul>
         </div>

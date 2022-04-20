@@ -41,7 +41,7 @@
                                       <img src="img/chairman.jpg" class="img-responsive" alt="">
                                       <div class="social">
                                          <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
+                                             <li><a href="team-inner.php">more info</a></li>
                                          </ul>
                                       </div>
                                   </div>
@@ -54,7 +54,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                               <div class="single-team">
                                    <div class="img-area">
-                                         <img src="img/directer_team/shiva_prasad_sharma.jpg" class="img-responsive" alt="">
+                                         <img src="img/directer_team/shiva-sharma.webp" class="img-responsive" alt="">
                                          <div class="social">
                                            <!-- <ul class="list-inline">
                                              <li><a href="team_inner.php">more info</a></li>
@@ -70,7 +70,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                               <div class="single-team">
                                    <div class="img-area">
-                                         <img src="img/directer_team/taranath_upadhyaya.jpg" class="img-responsive" alt="">
+                                         <img src="img/directer_team/taranath.webp" class="img-responsive" alt="">
                                          <div class="social">
                                               <!-- <ul class="list-inline">
                                                  <li><a href="team_inner.php">more info</a></li>
@@ -86,7 +86,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                               <div class="single-team">
                                   <div class="img-area">
-                                       <img src="img/directer_team/krishnaraj_adhikari.jpg" class="img-responsive" alt="">
+                                       <img src="img/directer_team/krishnaraj-adhikari.webp" class="img-responsive" alt="">
                                        <div class="social">
                                             <!-- <ul class="list-inline">
                                                <li><a href="team_inner.php">more info</a></li>
@@ -107,7 +107,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                              <div class="single-team">
                                  <div class="img-area">
-                                      <img src="img/directer_team/nawaraj_karki.jpg" class="img-responsive" alt="">
+                                      <img src="img/directer_team/nawaraj.webp" class="img-responsive" alt="">
                                       <div class="social">
                                          <!-- <ul class="list-inline">
                                              <li><a href="team_inner.php">more info</a></li>
@@ -123,7 +123,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                               <div class="single-team">
                                    <div class="img-area">
-                                         <img src="img/directer_team/hari_datta_paudel.jpg" class="img-responsive" alt="">
+                                         <img src="img/directer_team/haridatta-poudel.webp" class="img-responsive" alt="">
                                          <div class="social">
                                               <!-- <ul class="list-inline">
                                                  <li><a href="team_inner.php">more info</a></li>
@@ -139,7 +139,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                               <div class="single-team">
                                    <div class="img-area">
-                                         <img src="img/directer_team/harka_bahadur_adhikari.jpg" class="img-responsive" alt="">
+                                         <img src="img/directer_team/harka-bahadur.webp" class="img-responsive" alt="">
                                          <div class="social">
                                               <!-- <ul class="list-inline">
                                                  <li><a href="team_inner.php">more info</a></li>
@@ -155,7 +155,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                               <div class="single-team">
                                   <div class="img-area">
-                                       <img src="img/directer_team/kiran_pokharel.jpg" class="img-responsive" alt="">
+                                       <img src="img/directer_team/kiran-pokhrel.webp" class="img-responsive" alt="">
                                          <div class="social">
                                            <!-- <ul class="list-inline">
                                              <li><a href="team_inner.php">more info</a></li>
@@ -194,7 +194,7 @@
                          एसियाकै आश्चर्यजनक पर्यटकीय पूर्वाधारको श्रेणीमा भिन्न र अनुपम छ ।
                       </p>
               <div class="btn_wrapper mb-4">
-                 <a href="chairman_message.php" target="_blank">  <button class="slide_from_left">Read More</button> </a>
+                 <a href="chairman-message.php" target="_blank">  <button class="slide_from_left">Read More</button> </a>
                     <div class="video-main">
                              <div class="promo-video">  </div>
                              <a href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=135s&ab_channel=BandipurCablecar" target="_blank" class="video video-popup mfp-iframe" data-lity><i class="icon-play"></i></a>
@@ -453,8 +453,8 @@
                          <div class="sidebar_news1">
                             <h4>our structure</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team" target="_blank">Board of Directors </a></li>
-                                 <li class="nav-item"><a class="nav-link" href="chairman_message.php" target="_blank">leadership message </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="our-structure.php#directors-team" target="_blank">Board of Directors </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="chairman-message.php" target="_blank">leadership message </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">

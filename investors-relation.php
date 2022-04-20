@@ -154,7 +154,7 @@
                          <div class="sidebar_news1">
                            <h4>financial Reports</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="investors_relation.php#financial_report">Audit Reports </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="investors-relation.php#financial_report">Audit Reports </a></li>
                               </ul>
                          </div>
                          <div class="sidebar_news1">
