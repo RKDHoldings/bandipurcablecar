@@ -1,0 +1,5 @@
+---
+deployment:
+ tasks:
+ - export DEPLOYPATH=/public_html/bandipurcablecar.com.np/bandipurcablecar/
+ - /bin/cp .* $DEPLOYPATH
