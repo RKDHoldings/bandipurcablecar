@@ -329,7 +329,7 @@
                    </div>
                 </div>
 						</div>
-             <!--featured investment item two end -->
+             <!--featured investment item two ends -->
              <!--featured investment item third start -->
             <div class="item">
             <div class="column_for_feature">
