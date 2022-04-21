@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/g2dhpyefxf02/public_html/bandipurcablecar.com.np/bandipurcablecar/
+ - export DEPLOYPATH=/home/g2dhpyefxf02/
  - /bin/cp index.php $DEPLOYPATH
