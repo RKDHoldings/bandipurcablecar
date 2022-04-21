@@ -110,7 +110,7 @@
    </div>
 
 </section>
-<!-- about us content start -->
+<!-- about us content starts -->
 <section id="about-us">
   <div class="container">
     <div class="row">
