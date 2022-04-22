@@ -227,7 +227,7 @@
 		     <p> हाम्रो केवलकार मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टममा आधारित १९ गोण्डोला मार्फत् (मेटेरियल क्यावीन सहित) प्रति घण्टा ३०० यात्रीहरु बोक्न सक्ने क्षमतामा रहेको थियो । बजारको माग र चापका कारण यसलाई विस्तारित गर्दै २५ वटा गोण्डोला मेटेरियल क्यावीन सहित) प्रति घण्टा ५०० यात्रीहरु बोक्ने र दैनिक १६ घण्टा माथि सेवा दिन सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ ।  </p>
 	       <!--inner contents of queen tower 13 storey  -->
          <div class="col-lg-4">   
-            <div class="card" style="background-image:url('img/hero_2.png')">
+            <div class="card" style="background-image:url('img/hero_2.jpg')">
                 <div class='info'>
                    <h4 class="title">transparent cablecar</h4>
                    <p class='description'>Capacity of 1000 people at one time.</p>
@@ -282,7 +282,7 @@
             <div class="card"  style="background-image:url('img/features/swimming_pool.jpg')">
               <div class='info'>
                    <h4 class="title">Queen Tower Swimming Pool</h4>
-                   <p class='description'>People can enjoy the beautiful moments of Bandipur through the 13 storey Queen Toer even during swimming from the Swimming Pool.</p>
+                   <p class='description'>People can enjoy the beautiful moments of Bandipur through the 13 storey Queen Tower even during swimming from the Swimming Pool.</p>
               </div> 
             </div>  
          </div>

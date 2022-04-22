@@ -2632,7 +2632,8 @@ color: var(--secondary-color);
 .portfolio_inner{
   padding: 0rem 1rem 0 1rem;
 }
-.portfolio_inner img {border-radius: var(--border-radius);}
+.portfolio_inner img {border-radius: var(--border-radius); height: 215px;
+  object-fit: cover;}
 .video-list .thumb .play {
   margin-top: -23px;
   transform: scale(0.6);

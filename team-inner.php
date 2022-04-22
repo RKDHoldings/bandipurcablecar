@@ -29,7 +29,7 @@
         <div class="row">
             <div class="col-lg-4">
                 <div class="img_single_team text-center">
-                  <img src="img/chairman.jpg" width="100%" alt="">
+                  <img src="img/directer_team/chairman.webp" width="100%" alt="">
                      <h5 class="team_member">ram prasad sharma</h5>
                      <h5 class="team_position">president</h5>
                      <img class="logo_panchase" src="img/partner_company/panchase-logo.png" alt="">

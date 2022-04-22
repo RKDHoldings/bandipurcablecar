@@ -30,7 +30,7 @@
         <div class="about__us" data-aos="fade-right"
         data-aos-easing="linear"
         data-aos-duration="800">
-            <img src="img/hero_2.png" class="w-100" alt="">
+            <img src="img/hero_2.jpg" class="w-100" alt="">
         </div>
     </div>
        <div class="col-lg-6">
@@ -98,7 +98,7 @@
         </div>
         <div class="col-lg-6">
            <div class="mission__section" data-aos="fade-up"   data-aos-duration="3000">
-               <img src="img/about/Bandipur-Office.jpg" alt="">
+               <img src="img/about/Bandipur-Office.webp" alt="">
            </div>
          </div>
        </div>
@@ -302,7 +302,7 @@
 			<li>
 				<span>२०६९ पुष २२ (2013.01.06)</span>
 				<div class="content">
-					<h3>Registered with Government of Nepal, Ministry of Industry, Company Registrar office, Kathmandu Bs under registration No 108644/069/70</h3>
+					<h3>Registered with Government of Nepal, Ministry of Industry, Company Registrar office, Kathmandu under registration No 108644/069/70</h3>
 				</div>
 			</li>
 			<li>
@@ -314,7 +314,7 @@
 			<li>
 				<span>२०७५ साउन १८ (2018.08.03)</span>
 				<div class="content">
-					<h3>Supplementgary meorandum of Understanding(MOU) entered into betweeen Bandipur Cable Car Pvt Ltd(BCCPL) and Coveyor & Ropeway services Pvt Ltd(CRSPL) Kolkata, India </h3>
+					<h3>Supplementary Memorandum of Understanding(MOU) entered into betweeen Bandipur Cable Car Pvt Ltd(BCCPL) and Conveyor & Ropeway services Pvt Ltd(CRSPL) Kolkata, India </h3>
 				</div>
 			</li>
             <li>

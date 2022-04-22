@@ -128,7 +128,7 @@
 				            	</li>
 									  	<li>			
 					         	      <div class="thumb">
-						              	<a title="" href="https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar" target="_blank"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_2.png"></a>
+						              	<a title="" href="https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar" target="_blank"><span class="play"></span><img height="92" width="122" title="" alt="" src="img/hero_2.jpg"></a>
 					              	</div>
 					              	<div class="details">
 						               	<h3 class="video_heading"><a title="" href=" https://www.youtube.com/watch?v=vfjO2fl1-88&ab_channel=BandipurCablecar" taget="_blank">|| बन्दीपुरमा केवलकार निर्माण तिब्र गतिमा हुदै || तल्लो स्टेशन ||</a></h3>
@@ -148,7 +148,7 @@
                <div class="col-lg-4"> 
                    <div class="portfolio_inner">
                       <h3 class="news_heading">about bandipur</h3>
-                      <img src="img/about/about-img2.jpg" class="w-100" alt="">  
+                      <img src="img/about/Building.webp" class="w-100" alt="">  
                       <p>Bandipur Cable Car and Tourism Limited  is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu .</p> 
                       <a href="about-bandipur.php">  <button class="slide_from_left">explore more</button> </a>              
                    </div>            

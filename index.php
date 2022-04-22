@@ -238,6 +238,7 @@
                                     <h4 class="value_heading">Arba</h4>
                                  </div>
                             </div>
+                            
           </li>
           <li class="info__one__feature__single ">
                             <div class="info__one__feature__content">

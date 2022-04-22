@@ -38,7 +38,7 @@
                           <div class="col-md-3 col-sm-6 col-xs-12">
                              <div class="single-team">
                                  <div class="img-area">
-                                      <img src="img/chairman.jpg" class="img-responsive" alt="">
+                                      <img src="img/directer_team/chairman.webp" class="img-responsive" alt="">
                                       <div class="social">
                                          <ul class="list-inline">
                                              <li><a href="team-inner.php">more info</a></li>
