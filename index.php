@@ -48,7 +48,7 @@
             </div>
           </div>
         </div> <!-- .item -->
-        <div class="media-29121 overlay" style="background-image: url('img/hero_2.png');">
+        <div class="media-29121 overlay" style="background-image: url('img/hero_2.jpg');">
           <div class="container">
             <div class="row align-items-center">
               <div class="col-md-8">
@@ -121,7 +121,7 @@
                 <div class="about__img-1">
                     <img src="img/about/about-img1.jpeg" class="about-img1" alt="Bandipur Cable Car">
                     <div class="about__img-2">
-                        <img src="img/for-video.png"class="about-img2" alt="">
+                        <img src="img/for-video.jpg"class="about-img2" alt="">
                           <div class="video-main">
                              <div class="promo-video">
                                  <div class="waves-block">
@@ -143,9 +143,6 @@
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
                 <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2069.09.22 BS under registration No. 108644/069/070 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
-                 <!-- <div class="double-check-list font-title mb-xxl-5">
-              
-                  </div> -->
                    <!-- promoter structure share in percentage counter -->
                   <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
                        <div class="row">
@@ -316,7 +313,7 @@
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                          <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.png);">
+                          <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
                              <div class="text w-100">
 									        	  	<h3><a href="#">5 star queen tower</a></h3>
 									       	   </div>

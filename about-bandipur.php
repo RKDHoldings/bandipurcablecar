@@ -435,7 +435,7 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image" src="img/features/queen-tower.png">
+                              <img class="content-image" src="img/features/queen-tower.jpg">
                               <div class="content-details fadeIn-left">
                                 <h3>4 Star Queen Tower</h3>
                                 <!-- <p>This is a short description</p> -->

@@ -58,7 +58,7 @@
                    <div class="card">
                      <div class="content">
                       <div class="front">
-                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.png);">
+                        <div class="img d-flex align-items-end" style="background-image: url(img/features/queen-tower.jpg);">
                           <div class="text w-100">
 									        		<h3><a href="#features-queentower">5 star queen tower</a></h3>
 									      	</div>

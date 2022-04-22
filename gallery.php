@@ -43,8 +43,8 @@
       </div>
 
       <div class="grid-item" data-filter="car">
-        <a class="popupimg" href="img/gallery_icon/post/annapurna_post.jpg">
-          <img src="img/gallery_icon/post/annapurna_post.jpg">
+        <a class="popupimg" href="img/gallery_icon/post/1.webp">
+          <img src="img/gallery_icon/post/1.webp">
         </a>
       </div>
             
@@ -79,8 +79,8 @@
       </div>
              
       <div class="grid-item" data-filter="car">
-        <a class="popupimg" href="img/gallery_icon/post/ratopati.jpg">
-          <img src="img/gallery_icon/post/ratopati.jpg">
+        <a class="popupimg" href="img/gallery_icon/post/2.webp">
+          <img src="img/gallery_icon/post/2.webp">
         </a>
       </div>
 
@@ -91,14 +91,14 @@
       </div>
         
 		<div class="grid-item" data-filter="car">
-        <a class="popupimg" href="img/gallery_icon/post/himalayan_times.jpg">
-           <img src="img/gallery_icon/post/himalayan_times.jpg">
+        <a class="popupimg" href="img/gallery_icon/post/3.webp">
+           <img src="img/gallery_icon/post/3.webp">
         </a>
       </div>
              
 		<div class="grid-item" data-filter="car">
-        <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1Oz_eSTCmx7Zbwv6grFF7PtZPZDzZ_XPP&export=download">
-          <img src="img/gallery_icon/post/samay_samachar.jpg">
+        <a class="popupimg" href="img/gallery_icon/post/4.webp">
+          <img src="img/gallery_icon/post/4.webp">
         </a>
       </div>
         
@@ -109,8 +109,8 @@
       </div>
              
 		<div class="grid-item" data-filter="car">
-        <a class="popupimg" href="img/gallery_icon/post/gorkha_patra_news.jpg">
-          <img src="img/gallery_icon/post/gorkha_patra_news.jpg">
+        <a class="popupimg" href="img/gallery_icon/post/5.webp">
+          <img src="img/gallery_icon/post/5.webp">
         </a>
       </div>
 	</div>
