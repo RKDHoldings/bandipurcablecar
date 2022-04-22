@@ -110,7 +110,7 @@
    </div>
 
 </section>
-<!-- about us content start -->
+<!-- about us content starts -->
 <section id="about-us">
   <div class="container">
     <div class="row">
@@ -330,7 +330,7 @@
                    </div>
                 </div>
 						</div>
-             <!--featured investment item two end -->
+             <!--featured investment item two ends -->
              <!--featured investment item third start -->
             <div class="item">
             <div class="column_for_feature">
