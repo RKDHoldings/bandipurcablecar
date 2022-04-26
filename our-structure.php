@@ -488,7 +488,7 @@
     <div class="container">
        <div class="row">
          <h2 class="section-title">chain of command </h2>
-       <img src="img/about/model.png" alt="">
+       <img src="img/about/model.png" alt="Operating Model">
        </div>
     </div>
 </section>

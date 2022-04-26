@@ -72,11 +72,11 @@
         </a>
       </div>
                 
-		<div class="grid-item" data-filter="bus">
+		<!-- <div class="grid-item" data-filter="bus">
         <a class="popupimg" href="https://drive.google.com/u/0/uc?id=1Ivon_-3UVc12r7mGE4yZGQmpFRLFSAxN&export=download">
           <img src="img/gallery_icon/project-3.jpg">
         </a>
-      </div>
+      </div> -->
              
       <div class="grid-item" data-filter="car">
         <a class="popupimg" href="img/gallery_icon/post/2.webp">

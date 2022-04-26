@@ -45,7 +45,7 @@
           </div> 
           <div class="row news_listing" data-aos="fade-up" data-aos-duration="2000">
                <div class="col-lg-4">
-                  <div class="thumb"><a href="https://nepalnews.com/s/travel-and-tourism/bandipur-cable-car-in-final-stage" taget="_blank"><img src="img/news/news-1.jpg"></a></div>
+                  <div class="thumb"><a href="https://nepalnews.com/s/travel-and-tourism/bandipur-cable-car-in-final-stage" taget="_blank"><img src="img/news/news-1.jpg" alt="Bandipur cable car in final stage" ></a></div>
                   <div class="details">		
 	                  	<h3><a href="https://english.lokaantar.com/news/detail/24875/" title="">Bandipur cable car in final stage</a></h3>
                       <small> FEBRUARY 4, 2022</small>
@@ -53,7 +53,7 @@
 	                </div>
                </div>
                <div class="col-lg-4">
-                  <div class="thumb"><a href="https://english.lokaantar.com/news/detail/24875/" taget="_blank">  <img src="img/news/news-1.jpg" alt="" title="" class="img-responsive"></a></div>
+                  <div class="thumb"><a href="https://english.lokaantar.com/news/detail/24875/" taget="_blank">  <img src="img/news/news-1.jpg" alt="Bandipur cable car project reports 95% progress" title="Bandipur cable car project reports 95% progress" class="img-responsive"></a></div>
                      <div class="details">		
 	                    	<h3><a href="https://english.lokaantar.com/news/detail/24875/" title="">Bandipur cable car project reports 95% progress</a></h3>
                         <small> FEBRUARY 4, 2022</small>
@@ -61,7 +61,7 @@
 	                   </div>
                 </div> 
                 <div class="col-lg-4">
-                  <div class="thumb"><a href="https://thehimalayantimes.com/nepal/bandipur-cable-car-to-operate-in-six-months"> <img src="img/news/news-3.webp" alt="" title="" class="img-responsive"></a></div>
+                  <div class="thumb"><a href="https://thehimalayantimes.com/nepal/bandipur-cable-car-to-operate-in-six-months"> <img src="img/news/news-3.webp" alt="Bandipur cable car to operate in six months" title="Bandipur cable car to operate in six months" class="img-responsive"></a></div>
                      <div class="details">		
 	                    	<h3><a href="https://thehimalayantimes.com/nepal/bandipur-cable-car-to-operate-in-six-months" title="">Bandipur cable car to operate in six months</a></h3>
                         <small>FEBRUARY 4, 2022</small>
@@ -83,21 +83,21 @@
                             </div>
                             <div class="carousel-inner">
                                 <div class="carousel-item active">
-                                    <img src="img/news/agm.webp" class="d-block w-100" alt="...">
+                                    <img src="img/news/agm.webp" class="d-block w-100" alt="Annual General Meeting">
                                     <div class="carousel-caption d-none d-md-block">
                                       <h5>5th AGM Bandipur Cable Car</h5>
                                       <!-- <p>Some representative placeholder content for the first slide.</p> -->
                                     </div>
                                 </div>
                                 <div class="carousel-item">
-                                    <img src="img/news/representers.webp" class="d-block w-100" alt="...">
+                                    <img src="img/news/representers.webp" class="d-block w-100" alt="Annual General Meeting">
                                      <div class="carousel-caption d-none d-md-block">
                                        <h5>5th AGM Bandipur Cable Car</h5>
                                        <!-- <p>Some representative placeholder content for the second slide.</p> -->
                                      </div>
                                </div>
                                <div class="carousel-item">
-                                  <img src="img/news/staff.webp" class="d-block w-100" alt="...">
+                                  <img src="img/news/staff.webp" class="d-block w-100" alt="Our Staff">
                                    <div class="carousel-caption d-none d-md-block">
                                      <h5>Third slide label</h5>
                                      <!-- <p>Some representative placeholder content for the third slide.</p> -->
@@ -148,7 +148,7 @@
                <div class="col-lg-4"> 
                    <div class="portfolio_inner">
                       <h3 class="news_heading">about bandipur</h3>
-                      <img src="img/about/Bandipur-Office.webp" class="w-100" alt="">  
+                      <img src="img/about/Bandipur-Office.webp" class="w-100" alt="Bandipur Office">  
                       <p>Bandipur Cable Car and Tourism Limited  is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu .</p> 
                       <a href="about-bandipur.php">  <button class="slide_from_left">explore more</button> </a>              
                    </div>            

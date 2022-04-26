@@ -121,7 +121,7 @@
                 <div class="about__img-1">
                     <img src="img/about/about-img1.jpeg" class="about-img1" alt="Bandipur Cable Car">
                     <div class="about__img-2">
-                        <img src="img/for-video.jpg"class="about-img2" alt="">
+                        <img src="img/hero_2.jpg"class="about-img2" alt="">
                           <div class="video-main">
                              <div class="promo-video">
                                  <div class="waves-block">
@@ -478,7 +478,7 @@
           <a href="" target="blank">
              <h5 class="partner_type text-center">organised company</h5>
              <p class="partner_name text-center">Bandipur cablecar & tourism limited</p>
-                  <img src="img/logo.png" alt="">
+                  <img src="img/logo.png" alt="Logo of Bandipur cablecar & tourism limited">
           </a>
      </div>
        <!-- client single item -->
@@ -487,7 +487,7 @@
              <h5 class="partner_type text-center">Holding company</h5>
              <p class="partner_name text-center">RKD Holdings Limited</p>
              <div class="single_client_img">
-               <img src="img/partner_company/rkd_logo.png" alt="">
+               <img src="img/partner_company/rkd_logo.png" alt="Logo of RKD Holdings Limited">
              </div>
           </a>
      </div>
@@ -496,7 +496,7 @@
           <a href="" target="_blank">
              <h5 class="partner_type text-center">Chairing Company</h5>
              <p class="partner_name text-center">Panchase Cable Car & Tours Limited</p>
-                 <img src="img/partner_company/panchase-logo.png" alt="">
+                 <img src="img/partner_company/panchase-logo.png" alt="Logo of Panchase Cable Car & Tours Limited ">
           </a>
      </div>
        <!-- client single item -->
@@ -504,7 +504,7 @@
           <a href="" target="_blank">
              <h5 class="partner_type text-center">Associate Company</h5>
              <p class="partner_name text-center">Tourism Investment Fund limited</p>
-                <img src="img/partner_company/tourism_logo.png" alt="">
+                <img src="img/partner_company/tourism_logo.png" alt="Logo of Tourism Investment Fund limited ">
           </a>
      </div>
        <!-- client single item -->
@@ -513,7 +513,7 @@
             <h5 class="partner_type text-center">Civil Consultant</h5>
             <p class="partner_name text-center">Cage Consultant, Kathmandu</p>
             <div class="single_client_img">
-               <img src="img/partner_company/cage_consultant.png" alt="">
+               <img src="img/partner_company/cage_consultant.png" alt="Logo of Cage Consultant, Kathmandu ">
             </div>
          </a>
      </div>
@@ -532,7 +532,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Civil Construction</h5>
             <p class="partner_name text-center">Chandra Nirman Sewa Private Limited, Kathmandu</p>
-               <img src="img/partner_company/chandra_nirman.png" alt="">
+               <img src="img/partner_company/chandra_nirman.png" alt="Logo of Chandra Nirman Sewa Private Limited, Kathmandu">
          </a>
      </div>
        <!-- client single item -->
@@ -540,7 +540,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Mechanical construction</h5>
             <p class="partner_name text-center">Conveyor & ropeway services pvt.Ltd. , India</p>
-               <img src="img/partner_company/crspl_logo.png" alt="">
+               <img src="img/partner_company/crspl_logo.png" alt="Logo of Conveyor & ropeway services pvt.Ltd. , India ">
          </a>
      </div>
        <!-- client single item -->
@@ -559,7 +559,7 @@
              <h5 class="partner_type text-center">banking partner</h5>
              <p class="partner_name text-center">Nepal SBI Bank Limited</p>
              <div class="single_client_img">
-                <img src="img/partner_company/sbi_bank.png" alt="">
+                <img src="img/partner_company/sbi_bank.png" alt="Logo of Nepal SBI Bank Limited ">
              </div>
           </a>
      </div>
@@ -569,7 +569,7 @@
             <h5 class="partner_type text-center">Guide Liner</h5>
             <p class="partner_name text-center">Bandipur Rural Municipality</p>
            <div class="single_client_img">
-              <img src="img/partner_company/bandipur_rural.png" alt="">
+              <img src="img/partner_company/bandipur_rural.png" alt="Logo of Bandipur Rural Municipality ">
            </div>
           </a>
      </div>
@@ -579,7 +579,7 @@
             <h5 class="partner_type text-center">event and entire management</h5>
             <p class="partner_name text-center">RKD Holdings Limited</p>
            <div class="single_client_img">
-               <img src="img/partner_company/rkd_logo.png" alt="">
+               <img src="img/partner_company/rkd_logo.png" alt="Logo of RKD Holdings Limited ">
            </div>
         </a>
      </div>
@@ -588,7 +588,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">finance management</h5>
             <p class="partner_name text-center">tourism investment fund limited</p>
-              <img src="img/partner_company/tourism_logo.png" alt="">
+              <img src="img/partner_company/tourism_logo.png" alt="Logo of Tourism Investment Fund Limited">
          </a>
      </div>
        <!-- client single item -->
@@ -616,7 +616,7 @@
          <a href="" target="_blank">
             <h5 class="partner_type text-center">Mechanical inspection</h5>
             <p class="partner_name text-center">TUV India Pvt Ltd(TUV NURD Group)</p>      
-              <img src="img/partner_company/logo_tuv_india.svg" alt="">       
+              <img src="img/partner_company/logo_tuv_india.svg" alt="Logo of TUV India Pvt Ltd(TUV NURD Group)">       
          </a>
      </div>
    <!-- client single item end -->
@@ -647,8 +647,8 @@
 <?php
  include('includes/footer.php');
  ?>
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script> -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.js"></script>
     <script>

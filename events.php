@@ -14,7 +14,7 @@
                   <h2 class="breadcrumb-title">events</h2>
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">our events</li>
                      </ol>
                   </nav>
@@ -31,7 +31,7 @@
            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p> -->
            <!-- impact stories card column -->           
         <div class="col-lg-3">
-           <a href="impact_details1.php">
+           <a href="impact-details1.php">
            <div class="card">
            <div class="backgroundEffect"></div>
             <div class="pic"> <img class="" src="img/events/event-1.jpeg" alt="">
@@ -40,9 +40,9 @@
             <div class="content">
                <h4 class="impact_heading">International Invitation for E-bids</h4>
                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href="impact_details1.php"> Read More</a>
+                   <a href="impact-details1.php"> Read More</a>
                     <div class="d-flex align-items-center  foot">
-                       <a href="impact_details1.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
+                       <a href="impact-details1.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                     </div>
                 </div>
             </div>
@@ -51,7 +51,7 @@
            </a>
         </div>
         <div class="col-lg-3">
-           <a href="impact_details2.php">
+           <a href="impact-details2.php">
               <div class="card">
                    <div class="backgroundEffect"></div>
                    <div class="pic"> <img class="" src="img/events/event-2.jpg" alt="">
@@ -60,8 +60,8 @@
                    <div class="content">
                         <h4 class="impact_heading">Call for 7th AGM(Annual General Meeting) of Bandipur Cable Car Company</h4>
                         <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                             <a href="impact_details2.php"> Read More</a>                                 
-                             <a href="impact_details2.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                            
+                             <a href="impact-details2.php"> Read More</a>                                 
+                             <a href="impact-details2.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                            
                         </div>
                     </div>
              </div>  
@@ -69,7 +69,7 @@
           </a>          
         </div>
         <div class="col-lg-3">
-            <a href="impact_details3.php">
+            <a href="impact-details3.php">
                <div class="card">
                    <div class="backgroundEffect"></div>
                    <div class="pic"> <img class="" src="img/events/event-3.jpg" alt="">
@@ -78,8 +78,8 @@
                   <div class="content">
                     <h4 class="impact_heading">Bandipur Cable Car financial closure from Nepal SBI & NMB Bank</h4>
                      <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                        <a href="impact_details3.php"> Read More</a>                    
-                        <a href="impact_details3.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                    
+                        <a href="impact-details3.php"> Read More</a>                    
+                        <a href="impact-details3.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                    
                      </div>
                </div>
            </div>  
@@ -87,7 +87,7 @@
           </a>          
         </div>
         <div class="col-lg-3">
-            <a href="impact_details4.php">
+            <a href="impact-details4.php">
                <div class="card">
                     <div class="backgroundEffect"></div>
                     <div class="pic"> <img class="" src="img/events/event-4.jpg" alt="">
@@ -96,8 +96,8 @@
                     <div class="content">
                         <h4 class="impact_heading">5th Annual General Meeting Decision of Bandipur Cable Car</h4>
                         <div class="d-flex align-items-center justify-content-center mt-3 pb-3">
-                              <a href="impact_details4.php"> Read More</a>
-                              <a href="impact_details4.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                          
+                              <a href="impact-details4.php"> Read More</a>
+                              <a href="impact-details4.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                          
                         </div>
                    </div>
                </div>  

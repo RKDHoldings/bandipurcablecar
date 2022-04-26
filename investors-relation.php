@@ -231,7 +231,7 @@
                                 <img src="img/icon_pack/loan.png" alt="">
 							</div>
 						    <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">लगानीको सिमा</a></h5>   
+                               <h5>लगानीको सिमा</h5>   
                                    <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                             </div>
 							<div class="text">आम रुपमा ५ देखि ५० लाख रुपैयाँसम्म</div>
@@ -245,7 +245,7 @@
                                 <img src="img/icon_pack/welfare.png" alt="">
 							</div>
                             <div class="heading_arrow d-flex justify-content-between">
-                               <h5><a href="">सुविधा</a></h5>   
+                               <h5>सुविधा</h5>   
                                    <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                             </div>
 							<div class="text">परियोजना सञ्चालन पछाडि आएको नाफा नियमपूर्वक वितरण गर्ने नीति</div>

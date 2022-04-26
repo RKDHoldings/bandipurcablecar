@@ -60,7 +60,7 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image " src="img/features/queen-tower.png" >
+                              <img class="content-image " src="img/features/queen-tower.jpg" alt="5 Star Queen Tower" >
                               <!-- <a class= "lightbox-close" href= "#">X</a> -->
                               <div class="content-details fadeIn-left">
                                 <h3>5 Star Queen Tower</h3>
@@ -73,7 +73,7 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image" src="img/hero_1.webp">
+                              <img class="content-image" src="img/hero_1.webp" alt="Transparent Cablecar">
                               <div class="content-details fadeIn-left">
                                 <h3>Transparent Cablecar</h3>
                                 <!-- <p>This is a short description</p> -->
@@ -85,7 +85,7 @@
                     <div class="content_bandipur">
                        <a href="" target="_blank">
                               <div class="content-overlay"></div>
-                              <img class="content-image" src="img/features/restro-zone.jpg">
+                              <img class="content-image" src="img/features/restro-zone.jpg"  alt="Cablecar Restro Zone">
                               <div class="content-details fadeIn-left">
                                 <h3>Cablecar Restro Zone</h3>
                                 <!-- <p>This is a short description</p> -->
@@ -127,7 +127,7 @@
 
       <div class="grid-item" data-filter="bus">
         <a class="popupimg" href="img/project_process/queen-tower.jpg">
-          <img src="img/project_process/queen-tower.jpg">
+          <img src="img/project_process/queen-tower.jpg" alt="Queen Tower">
         </a>
         <div class="portfolio_info">
               <h4>Queen Tower</h4>
@@ -135,8 +135,8 @@
       </div>
     
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="img/project_process/3.jpg">
-          <img src="img/project_process/station.jpg">
+        <a class="popupimg" href="img/project_process/station.webp" alt="Lower Station">
+          <img src="img/project_process/station.webp">
         </a>
         <div class="portfolio_info">
               <h4>Lower Station</h4>
@@ -144,7 +144,7 @@
       </div> 
 
       <div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="img/project_process/q1.jpeg">
+        <a class="popupimg" href="img/project_process/q1.jpeg" alt="Queen Tower">
           <img src="img/project_process/q1.jpeg">
         </a>
         <div class="portfolio_info">
@@ -153,7 +153,7 @@
       </div>
                 
 		<div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="img/project_process/tower-first.jpg">
+        <a class="popupimg" href="img/project_process/tower-first.jpg" alt="Queen Tower">
           <img src="img/project_process/tower-first.jpg">
         </a>
         <div class="portfolio_info">
@@ -163,7 +163,7 @@
              
 
 		<div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="img/project_process/tower-construction.jpg">
+        <a class="popupimg" href="img/project_process/tower-construction.jpg"  alt="Queen Tower">
           <img src="img/project_process/tower-construction.jpg">
         </a>
         <div class="portfolio_info">
@@ -173,7 +173,7 @@
         
       <div class="grid-item" data-filter="bike">
         <a class="popupimg" href="img/project_process/chhimkeshwori.jpg">
-          <img src="img/project_process/chhimkeshwori.jpg">
+          <img src="img/project_process/chhimkeshwori.jpg"  alt="Chhimkeshwori">
         </a>
         <div class="portfolio_info">
               <h4>Chhimkeshwori</h4>

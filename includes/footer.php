@@ -61,9 +61,9 @@
                          <h4 class="footer_heading">Others</h4>
                          <li class=""><a href="progress-stories.php" target="_blank" title="Progress Stories">progress stories</a></li>
                          <li class=""><a href="media-center.php" target="_blank" title="Media Menter">media center</a></li>
-                         <li class="leaf">      <a href="downloads.php" target="_blank" title="Download Documents">downloads</a></li>
-                         <li class="">          <a href="impact-stories.php" target="_blank"  title="">events</a></li> 
-                         <li class="">          <a href="gallery.php"  target="_blank" title="">Gallery</a></li>                      
+                         <li class=""><a href="downloads.php" target="_blank" title="Download Documents">downloads</a></li>
+                         <li class=""><a href="events.php" target="_blank"  title="">events</a></li> 
+                         <li class=""><a href="gallery.php"  target="_blank" title="">Gallery</a></li>                      
                     </ul>
               </div>
               <div class="col">

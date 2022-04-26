@@ -30,7 +30,7 @@
         <div class="about__us" data-aos="fade-right"
         data-aos-easing="linear"
         data-aos-duration="800">
-            <img src="img/hero_2.jpg" class="w-100" alt="">
+            <img src="img/hero_2.jpg" class="w-100" alt="Cable Car Station">
         </div>
     </div>
        <div class="col-lg-6">
@@ -98,7 +98,7 @@
         </div>
         <div class="col-lg-6">
            <div class="mission__section" data-aos="fade-up"   data-aos-duration="3000">
-               <img src="img/about/Bandipur-Office.webp" alt="">
+               <img src="img/about/Bandipur-Office.webp" alt="Bandipur Office">
            </div>
          </div>
        </div>
@@ -113,25 +113,25 @@
         <div class="core-values mt-3">
           <div class="value-items col-lg-3 col-sm-12">
                <div class="value_icon"> 
-                  <img src="img/icon_pack/core-values/list.png" alt="">
+                  <img src="img/icon_pack/core-values/list.png" alt="Accountability">
                </div>
                <div class="title value-item"> Accountability </div>
           </div>
           <div class="value-items col-lg-3 col-sm-12">    
                <div class="value_icon two"> 
-                   <img src="img/icon_pack/core-values/creativity.png" alt="">
+                   <img src="img/icon_pack/core-values/creativity.png" alt="Inspiration">
                </div>
                <div class="title value-item"> Inspiration </div>
           </div>
           <div class="value-items col-lg-3 col-sm-12">
                <div class="value_icon three"> 
-                    <img src="img/icon_pack/core-values/scales.png" alt="">
+                    <img src="img/icon_pack/core-values/scales.png" alt="Integrity">
                </div>
                <div class="title value-item"> Integrity </div>
           </div>
           <div class="value-items col-lg-3 col-sm-12">
                <div class="value_icon four"> 
-                    <img src="img/icon_pack/core-values/handshake.png" alt="">
+                    <img src="img/icon_pack/core-values/handshake.png" alt="Partnership">
                </div>
                <div class="title value-item">Partnership </div>
           </div>
@@ -154,7 +154,7 @@
                   <div class="process-body">
                        <div class="process-shape"></div>
                           <!-- <span class="process-number">01</span> -->
-                             <div class="process-icon"><img src="img/icon_pack/hook.png" alt="">
+                             <div class="process-icon"><img src="img/icon_pack/hook.png" alt="Construction">
                              </div>
                              <h3 class="process-title">निर्माण</h3>
                        </div>
@@ -166,7 +166,7 @@
                  <div class="process-body">
                      <div class="process-shape"></div>
                      <!-- <span class="process-number">02</span> -->
-                      <div class="process-icon"><img src="img/icon_pack/ownership.png" alt=""></div>
+                      <div class="process-icon"><img src="img/icon_pack/ownership.png" alt="Ownership"></div>
                      <h3 class="process-title">स्वामित्वकरण</h3>
                  </div>
              </div>
@@ -176,7 +176,7 @@
                 <div class="process-body">
                     <div class="process-shape"></div>
                        <!-- <span class="process-number">03</span> -->
-                         <div class="process-icon"><img src="img/icon_pack/cogwheel.png" alt=""></div>
+                         <div class="process-icon"><img src="img/icon_pack/cogwheel.png" alt="Opertion"></div>
                           <h3 class="process-title"> सञ्चालन</h3>
                         </div>
                     </div>
@@ -186,7 +186,7 @@
                   <div class="process-body">
                       <div class="process-shape"></div>
                         <!-- <span class="process-number">04</span> -->
-                        <div class="process-icon"><img src="img/icon_pack/engineering.png" alt=""></div><h3 class="process-title">नियमित सञ्चालन </h3>
+                        <div class="process-icon"><img src="img/icon_pack/engineering.png" alt="Regular Operation"></div><h3 class="process-title">नियमित सञ्चालन </h3>
                         </div>
                  </div>
             </div>
