@@ -51,7 +51,7 @@
                                         </div>
                                         <div class="testimonial">
                                             <small>investments</small>
-                                            <h3>NPR 2.10 Arba </h3> 
+                                            <h3>NPR 2 Arba 10 Crore </h3> 
                                             <p>*Attributable to the owner of the group</p>                       
                                         </div>
                                  </div>          
