@@ -261,8 +261,8 @@
                                <img src="img/icon_pack/capital/value.png" alt="">
                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                                 <!-- <h4 class="value_currency">NPR</h4> -->
-                                    <div class="value" akhi="2.10">0 </div>
-                                    <h4 class="value_heading">Arba</h4>
+                                  
+                                    <h4 class="value_heading">2 arba 10 crore</h4>
                                  </div>
                             </div>                           
           </li>

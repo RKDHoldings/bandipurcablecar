@@ -539,7 +539,7 @@ h5.title__secondary{
 p{
   color: var(--secondary-font-color);
   margin: 1rem 0 1.5rem 0;
-  text-align: var(--primary-text-align);
+  text-align: var(--text-align-justify);
 }
 .intro__details{
   width: 100%;
@@ -1170,7 +1170,7 @@ ul.menu{padding: 0;}
 }
 
 .value {
-  font-size: 25px;
+  font-size: 22px;
   display: inline-block;
   font-weight: bold;
   color: var(--bg-color);
@@ -1247,7 +1247,6 @@ ul.menu{padding: 0;}
 .info__one__feature {
   position: relative;
   display: flex;
-  align-items: center;
   flex-wrap: wrap;
   counter-reset: count;
 }
@@ -1282,9 +1281,9 @@ ul.menu{padding: 0;}
 }
 
 h4.value_heading{
-  text-transform: capitalize; font-size: 25px; font-weight: bold; margin-top: 0.35rem; color: var(--secondary-color); margin-left: 0.5rem;}
+  text-transform: capitalize; font-size: 22px; font-weight: bold; margin-top:0.43rem; color: var(--secondary-color); margin-left: 0.5rem;}
  h4.value_currency{
-  font-size: 25px;  margin: 0 8px 0 0px;
+  font-size: 22px;  margin: 0 8px 0 0px;
  } 
 .info__one__feature__icon {
  display: flex; justify-content: space-between; align-items: center;}
@@ -3250,9 +3249,8 @@ p.name{
   margin-top: -1px;
 }
 .exp-box{
-  margin-right: 40px;
-  margin-left: auto;
-  margin-top: -120px;
+  margin-right: auto;margin-left: auto; margin-top: -120px;
+  text-align: var(--text-align-center);
     background-color: var(--bg-color);
     -webkit-filter: drop-shadow(5px 15px 60px rgba(27,33,47,.08));
     filter: drop-shadow(5px 15px 60px rgba(27,33,47,.08));

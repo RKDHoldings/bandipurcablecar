@@ -37,7 +37,7 @@
                               </p>
                           </div>
                           <div class="chairman_img text-center">
-                              <img src="img/chairman.jpg" width="" alt="">
+                              <img src="img/directer_team/chairman.webp" width="" alt="">
                              <img src="img/partner_company/panchase-logo.png" class="logo_chairman" alt="">
                           </div>
                     <blockquote>

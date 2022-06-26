@@ -175,7 +175,7 @@
 					<li class="tab-content tab-content-2 typography">
                 <div class="row">
                     <div class="col-lg-5">
-                       <img src="img/chairman.jpg" class="ceo_img"  width="100%" alt="">
+                       <img src="img/directer_team/chairman.webp" class="ceo_img"  width="100%" alt="">
                           <div class="exp-box">
                                <h4 class="exp-box_title">Representative of Panchase Cablecar & Tourism</h4>
                                <img src="img/partner_company/panchase-logo.png" class="logo_panchase" alt="">
