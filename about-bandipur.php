@@ -23,8 +23,8 @@
      <div class="row">
          <div class="col-lg-9">
              <div class="more_about-bandipur">
-                  <h2 class="section-title">बन्दिपुर केवलकार परियोजना</h2>
-                  <p class="">बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन ग¥यो भने
+                  <h2 class="section-title">बन्दीपुर केवलकार परियोजना</h2>
+                  <p class="">बन्दीपुर ऐतिहासिक, पुरातात्तिक, कला, संस्कृति र धार्मिक सम्पदाले भरिपूर्ण पहाडकी रानी उपमाले प्रसिद्व छ । प्रचारको दृष्टिकोणबाट ओझेलमा परेको साक्षात तरवार रुपी देवी खड्गदेवी मन्दिर संसारभर अलग्गै गाथा र महिमा बोकेको महत्वपूर्ण शक्तिपीठ रहेको छ । केही समय जमिन छाडेपछि दर्शन गर्यो भने
                                इमानदार र सत्यको बाटो प्राप्त गर्ने वरदान पाइन्छ भन्ने विश्वास रहेको छ । विशेष गरी वर्षमा दशैंको समयमा सप्तमी र अष्टमीको दिन मन्दिर खुल्ला हुने गर्दछ । प्रायः जसो दशैंमा पिङ्ग खेल्ने गर्छन् । सो समयमा मन्दिर दर्शन गर्दा सबैलाई फल मिल्छ भन्ने र्धािर्मक विश्वास रहेको छ । यसकारण सीमित समय मात्र वर्षको २ दिन
                               मन्दिर खुल्ला गरिने गरिएको छ । केवलकार बनेपछि मन्दिर नियमित दैनिक खुल्ला गराउने एवं दर्शनार्थीलाई दर्शनकालागि नियमित ढोका खोलिदिने अभिप्रायले केवलकार कम्पनीले मन्दिर व्यवस्थापन समितिसँग मिलेर ठोस योजना बनाउँदै छ । व्यवसायिक पर्यटकीय गतिविधि मुख्य बजारको रुपमा हुदाँहुँदै पनि सहायक रुपमा
                               धार्मिक पर्यटकहरुलाई आकर्षित गराई शुद्धमनले दर्शन गराई पर्यटन प्रवद्र्धन योजनाका साथ परियोजनालाई उपयोगमा लगाइनेछ । यसको काम अन्तिम गन्तव्यतर्फ लागेको छ । मुख्य गरी तेश्रो मुलकका पर्यटन र अन्य पर्यटनका बहुआयमिक पक्षको अनुपम मज्जा दिने र बन्दीपुरको पर्यटनको संवर्धन एवं प्रर्वद्धन गर्ने र धार्मिक
@@ -35,15 +35,15 @@
                   <ul class="list-unstyled aboutus__points">
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"> <p>बन्दिपुर केबलकार परियोजना लक्षित लागत (रु२१०,००,००००) अक्षरुपी एक अर्ब सठ्सठी करोड रुपैयाँ रहेको छ ।</p> </div>
+                        <div class="text"> <p>बन्दीपुर केबलकार परियोजना लक्षित लागत (रु २,१०,००,००,०००) अक्षरुपी २ अर्ब १० करोड रुपैयाँ रहेको छ ।</p> </div>
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>बन्दिपुर परियोजना निर्माणको व्यवस्थापन Holding Company ले नै लिएको छ ।</p></div>
+                        <div class="text"><p>बन्दीपुर परियोजना निर्माणको व्यवस्थापन Holding Company ले नै लिएको छ ।</p></div>
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>बन्दिपुरको प्रोजेक्ट अगाडी बढिसकेको छ । कोभिडको कारण केबलकार संचालर्नको समय तालिका प्रभावित भएको छ । अब पनि भैपरी घटना सुजना नभएको खण्डमा असार सम्म परिक्षण संचालन र असोज सम्ममा व्यवसायिक संचालनमा ल्याउर्ने तयारी एबम योजना तर्जुुमा गरिएको छ  भने २०८० वैशाख १ गते फुलफेजमा परियोजना व्यवसायीक संचालनमा आउने छ ।</p></div>
+                        <div class="text"><p>बन्दीपुरको प्रोजेक्ट अगाडी बढिसकेको छ । कोभिडको कारण केबलकार संचालर्नको समय तालिका प्रभावित भएको छ । अब पनि भैपरी घटना सुजना नभएको खण्डमा असार सम्म परिक्षण संचालन र असोज सम्ममा व्यवसायिक संचालनमा ल्याउर्ने तयारी एबम योजना तर्जुुमा गरिएको छ  भने २०८० वैशाख १ गते फुलफेजमा परियोजना व्यवसायीक संचालनमा आउने छ ।</p></div>
                     </li>
                   
                    
@@ -88,7 +88,7 @@
                             </div>
                         </div>
                         <div class="about_who_text">
-			                  <div class="field-item even"><span> <em class="count" data-count="6">2.1 Arba</em></span></div>
+			                  <div class="field-item even"><span> <em class="count" data-count="6"> 2 Arba 10 Crore</em></span></div>
 			                  <div class="field-item even"><p>ASSETS UNDER MANAGEMENT </p></div>
 	                     </div>
                       </div>
@@ -101,7 +101,7 @@
                      <div class="sidebar_news1">
                            <h4>about bandipur</h4>
                               <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#bandipur_single">बन्दिपुर केवलकार परियोजना               </a></li>
+                                 <li class="nav-item"><a class="nav-link" href="#bandipur_single">बन्दीपुर केवलकार परियोजना               </a></li>
                                  <li class="nav-item"><a class="nav-link" href="#trusted_one">मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टम  </a></li>
                               </ul>
                      </div>
@@ -577,7 +577,7 @@
             <p class="timeline-text">रेष्ट्रो जोन सञ्चालनमा ल्याउने ।</p>
           </div>
         </div> -->
-        <div class="timeline-slide"  id="queentower_start" style="background-image: url(img/project_process/station.jpg" data-year="२०७९"> <span class="timeline-year">२०७९</span>
+        <div class="timeline-slide"  id="queentower_start" style="background-image: url(img/project_process/station.webp" data-year="२०७९"> <span class="timeline-year">२०७९</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">२०७९ फागुन १ गते</h4>
             <p class="timeline-text">बटम स्टेशनको सम्पूर्ण कार्यहरु सम्पन्न गर्ने र केवलकारको सम्पूर्ण काम सकेर व्यवसायिक सञ्चालन गर्ने ।</p>
@@ -589,7 +589,7 @@
             <p class="timeline-text">अपर स्टेशनको बहु आयामिक "Queen Tower" चारतारे होटलसहितको निर्माण पूर्णतया सम्पन्न गरी परियोजना मूल योजना सञ्चालनमा ल्याउनका लागि औपचारिक रुपमा लन्चिङ्ग गर्नेछ । जिपलाइन सञ्चालनमा ल्याई सक्नेछ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(img/project_process/q2.jpg" data-year="४ वर्ष भित्र">      <span class="timeline-year">४ वर्ष भित्र</span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/cablecar-bg.jpg" data-year="४ वर्ष भित्र">      <span class="timeline-year">४ वर्ष भित्र</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">४ वर्ष भित्र </h4>
             <p class="timeline-text">ठुलोढुङ्गा – सिद्धगुफा केवलकार सञ्चालनमा ल्याउँछ । साथमा वाटर पार्क÷फन पार्क एवं मिराकल गार्डेनको पूर्वाधार बनाउँछ । माथिल्लो स्टेशनमा बन्जीजम्पको पूर्वाधार निर्माण गर्नेछ ।</p>
@@ -601,7 +601,7 @@
             <p class="timeline-text">आँबु खैरेनी पृथ्वीराजमार्ग देखि छिम्केश्वरी काली माँ केवलकारको काम सम्पन्न गरी सञ्चालनमा ल्याउँछ । जसको लम्वाई ३६०० मिटर लामो रहेको छ ।</p>
           </div>
         </div>
-        <div class="timeline-slide" style="background-image: url(img/project_process/resort.jpg" data-year="५ वर्ष भित्र">      <span class="timeline-year">५ वर्ष भित्र</span>
+        <div class="timeline-slide" style="background-image: url(img/project_process/chhimkeshwori.jpg" data-year="५ वर्ष भित्र">      <span class="timeline-year">५ वर्ष भित्र</span>
           <div class="timeline-slide__content">
             <h4 class="timeline-title">५ वर्ष भित्र</h4>
             <p class="timeline-text">छिम्केश्वरी क्षेत्रमा कलात्मक बहुआयामिक रिर्सोट सञ्चालनमा ल्याउँछ । </p>

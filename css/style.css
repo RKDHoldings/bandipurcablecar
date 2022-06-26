@@ -3056,7 +3056,7 @@ h5.heading_title_two{
     text-align: var(--text-align-left);
 }
 .field-item.even span{
-  font-weight: 800; font-size: 20px; color: var(--secondary-color);
+  font-weight: 800; font-size: 18px; color: var(--secondary-color);
 }
 .field-item.even  img{
   width: 2.3rem;
