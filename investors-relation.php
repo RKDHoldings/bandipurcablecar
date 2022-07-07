@@ -51,7 +51,7 @@
                                         </div>
                                         <div class="testimonial">
                                             <small>investments</small>
-                                            <h3>NPR 2 Arba 10 Crore </h3> 
+                                            <h3>NPR 2 Arba 50 Crore </h3> 
                                             <p>*Attributable to the owner of the group</p>                       
                                         </div>
                                  </div>          
@@ -196,7 +196,7 @@
 <section id="investment_budget">
    <div class="container">
           <h2>फाइनान्सियल क्लोजरः</h2>
-          <p>Project Value 2,10,00,00,000/-</p>
+          <p>Project Value 2,50,00,00,000/-</p>
       <div class="pie_data_details">
       <div class="row text-center">
           <div class="col-lg-6">

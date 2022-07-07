@@ -262,7 +262,7 @@
                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                                 <!-- <h4 class="value_currency">NPR</h4> -->
                                   
-                                    <h4 class="value_heading">2 arba 10 crore</h4>
+                                    <h4 class="value_heading">2 arba 50 crore</h4>
                                  </div>
                             </div>                           
           </li>

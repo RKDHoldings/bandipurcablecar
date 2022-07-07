@@ -35,7 +35,7 @@
                   <ul class="list-unstyled aboutus__points">
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"> <p>बन्दीपुर केबलकार परियोजना लक्षित लागत (रु २,१०,००,००,०००) अक्षरुपी २ अर्ब १० करोड रुपैयाँ रहेको छ ।</p> </div>
+                        <div class="text"> <p>बन्दीपुर केबलकार परियोजना लक्षित लागत (रु २,५०,००,००,०००) अक्षरुपी २ अर्ब ५० करोड रुपैयाँ रहेको छ ।</p> </div>
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
@@ -88,7 +88,7 @@
                             </div>
                         </div>
                         <div class="about_who_text">
-			                  <div class="field-item even"><span> <em class="count" data-count="6"> 2 Arba 10 Crore</em></span></div>
+			                  <div class="field-item even"><span> <em class="count" data-count="6"> 2 Arba 50 Crore</em></span></div>
 			                  <div class="field-item even"><p>ASSETS UNDER MANAGEMENT </p></div>
 	                     </div>
                       </div>
