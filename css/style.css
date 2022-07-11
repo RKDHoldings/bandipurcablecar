@@ -4234,7 +4234,7 @@ img.download_icon{
   margin: 2rem 0 0 0;
 }
 h5.heading_title{
-  color: var(--primary-font-color); text-transform: capitalize;
+  color: var(--primary-font-color); text-transform: capitalize; line-height: 1.5;
 }
 #download_reports .card:hover h5.heading_title{
 color: var(--secondary-color);

@@ -38,10 +38,10 @@
                  </a>
              </div>
              <div class="col-lg-3">
-                 <a href="img/downloads/MEP-Technical-Specifcation-Upper-Station.doc" target="_blank" download>
+                 <a href="img/downloads/tech.docx" target="_blank" download>
                     <div class="card">
                          <div class="card-body">
-                             <h5 class="heading_title"> MEPBIDDOC Technical SPecification</h5>
+                             <h5 class="heading_title"> MEPBIDDOC Technical Specification</h5>
                              <img src="img/icon-document.svg" class="download_icon" alt="">
                          </div>
                     </div>
@@ -73,7 +73,7 @@
          <div class="download-two"> 
               <div class="row">
                  <div class="col-lg-3">
-                     <a target="_blank" href="https://drive.google.com/file/d/13YzhLfhcQVct_JsWcxRECo13J1Tluy6y/view" title=" Report" download>
+                     <a target="_blank" href="img/downloads/shareform-new.pdf" title=" Report" download>
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">Bandipur Cable Car Share Form</h5>
