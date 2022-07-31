@@ -125,7 +125,7 @@
 <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2 class="section-title">Get in Touch</h3>
+                    <h2 class="section-title">Get in Touch</h2>
                     <div class="choose-plan  text-white p-3 float-left">
                         <!-- Nav tabs -->
                         <ul class="nav nav-tabs bg-light" role="tablist">
@@ -201,7 +201,7 @@
                                 <hr>
                                 <div class="contact-details__inner">
                             <div class="contact-details__map-box">
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3515.8348401046524!2d83.98139521444766!3d28.212330082585446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399595ad91b26edd%3A0xd2c64a0bf6c5b255!2sR.K.D%20Real%20Estate%20%26%20Construction%20Ltd!5e0!3m2!1sen!2snp!4v1649520480796!5m2!1sen!2snp" width="100%" class="contact-details__map" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d225013.48935377697!2d83.7035110328125!3d28.2123018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3995954eb23ff771%3A0x18dba0b1c6d00f1c!2sBandipur%20Cable%20Car%20and%20Tourism%20Limited%20Corporate%20Office!5e0!3m2!1sen!2snp!4v1659247568608!5m2!1sen!2snp" width="100%"  style="border:0;" class="contact-details__map" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                          </div>
                                 <hr/>

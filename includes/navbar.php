@@ -34,7 +34,7 @@
         <!-- Logo section -->
         <div class="nav-header">
           <a class="nav-brand" href="index.php">
-			       <img src="img/logo.png" width="70" alt="">
+			       <img src="img/logo-new.png" width="85" alt="">
 		      </a>
           <div class="nav-toggle"></div>
         </div>

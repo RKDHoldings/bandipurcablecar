@@ -32,13 +32,13 @@
                 <h2 class="section-title">investors</h2>
                  <div class="share_info_img">
                     <div class="share_invest_info d-flex">
-                         <div class="col-lg-8 investment_details">
+                         <div class="col-lg-8 col-sm-12 investment_details ">
                             <p class="investment_desc">Our reputation is based on solid performance and transparency. </p>
                             <p class="investment_desc">While the consistent backing of our shareholder, gives us a base from which to fund and develop our investments, we continue to be focused on implementing best practice commercial principles and the pursuit of solid financial returns.</p>
                          </div>
 
                          
-                         <div class="col-lg-4">   
+                         <div class="col-lg-4 col-sm-12 ">
                                  <div id="testimonial-slider" class="owl-carousel">
                                         <div class="testimonial">
                                              <small>Promoter Share</small>

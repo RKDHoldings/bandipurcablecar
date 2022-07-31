@@ -3,7 +3,7 @@
 <section id="footer" class="d-flex justify-content-around">
     <div class="container">
                     <div class="footer_rating">
-                        <img src="img/logo.png" width="70" alt=""> 
+                        <img src="img/logo-new.png" width="85" alt="">
                         <p><i class="icon-star"></i> <i class="icon-star"></i>  CARE-NP  BB [Double B]  rated by <a class="rating_link" href="https://careratingsnepal.com/wp-content/uploads/2021/04/Bandipur-Cable-Car-Private-Limited-Ratings-Assigned-to-the-Bank-Facilities.pdf" target="_blank"> CARE  Ratings Nepal </a> </p>
                     </div>
                     <div class="footer_right float-end">

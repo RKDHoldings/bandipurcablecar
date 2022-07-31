@@ -8,6 +8,8 @@
    .about-us-info-wrap{
        margin: 7rem 0 0 0;
    }
+   .share_invest_info{display: block !important;}
+    .investment_details{border-right: none !important;}
    .topbar__menu{
        display: flex; justify-content: center;
    }

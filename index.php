@@ -478,7 +478,7 @@
           <a href="" target="blank">
              <h5 class="partner_type text-center">organised company</h5>
              <p class="partner_name text-center">Bandipur cablecar & tourism limited</p>
-                  <img src="img/logo.png" alt="Logo of Bandipur cablecar & tourism limited">
+                  <img src="img/logo-new.png" alt="Logo of Bandipur cablecar & tourism limited">
           </a>
      </div>
        <!-- client single item -->

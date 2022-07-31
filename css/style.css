@@ -229,7 +229,7 @@ h4.nav_title{
 .navigation-portrait .nav-menu>li{width:100%;position:relative;border-top:solid 1px #f0f0f0}
 .navigation-portrait .nav-menu>li:last-child{border-bottom:solid 1px #f0f0f0}
 .nav-menu+.nav-menu>li:first-child{border-top:none}
-.nav-menu>li>a{height:70px;padding:26px 15px;display:inline-block;text-decoration: var(--text-decoration);font-size: 1rem;color: var(--primary-font-color);transition:color .3s,background .3s; text-transform: capitalize;}
+.nav-menu>li>a{height:70px;padding:31px 15px;display:inline-block;text-decoration: var(--text-decoration);font-size: 1rem;color: var(--primary-font-color);transition:color .3s,background .3s; text-transform: capitalize;}
 .nav-menu>li>a.active{
   color: var(--secondary-color);
 }
