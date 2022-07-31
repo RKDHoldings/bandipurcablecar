@@ -60,6 +60,16 @@
             </div>
           </div>
         </div> <!-- .item -->
+          <div class="media-29121 overlay" style="background-image: url('img/egm.jpg');">
+<!--              <div class="container">-->
+<!--                  <div class="row align-items-center">-->
+<!--                      <div class="col-md-8">-->
+<!--                          <h2>Bandipur Cable Car </h2>-->
+<!--                          <a href="about-bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>-->
+<!--                      </div>-->
+<!--                  </div>-->
+<!--              </div>-->
+          </div> <!-- .item -->
 
       </div>
   </div>       
@@ -71,7 +81,8 @@
         <div class="col-md-12 col-sm-12">
             <div class="d-flex justify-content-between align-items-center breaking-news">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
-                <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();"> <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
+                <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+                    <a href="">EGM( Extraordinary General Meeting) of Bandipur Cable Car Company (2079/04/07) </a><span class="dot"></span>  <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
             </div>
         </div>
     </div>
