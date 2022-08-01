@@ -22,11 +22,21 @@
 <section id="banner">
   <div class="content">
       <div class="owl-carousel owl-1">
+          <div class="media-29121 overlay" style="background-image: url('img/egm.jpg');">
+              <!--              <div class="container">-->
+              <!--                  <div class="row align-items-center">-->
+              <!--                      <div class="col-md-8">-->
+              <!--                          <h2>Bandipur Cable Car </h2>-->
+              <!--                          <a href="about-bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>-->
+              <!--                      </div>-->
+              <!--                  </div>-->
+              <!--              </div>-->
+          </div> <!-- .item -->
         <div class="media-29121 overlay">
         <video autoplay muted loop playsinline preload="metadata" controls="controls">
 	            <source src="img/videos/lower_station.mp4"  type="video/mp4">
           </video>
-          <div class="container">
+          <div class="container">gi
             <div class="row  align-items-center">
               <div class="col-md-8">
                 <!-- <h6>Great Experience In Building. </h6> -->
@@ -60,16 +70,6 @@
             </div>
           </div>
         </div> <!-- .item -->
-          <div class="media-29121 overlay" style="background-image: url('img/egm.jpg');">
-<!--              <div class="container">-->
-<!--                  <div class="row align-items-center">-->
-<!--                      <div class="col-md-8">-->
-<!--                          <h2>Bandipur Cable Car </h2>-->
-<!--                          <a href="about-bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>-->
-<!--                      </div>-->
-<!--                  </div>-->
-<!--              </div>-->
-          </div> <!-- .item -->
 
       </div>
   </div>       
