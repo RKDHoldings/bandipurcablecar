@@ -36,7 +36,7 @@
         <video autoplay muted loop playsinline preload="metadata" controls="controls">
 	            <source src="img/videos/lower_station.mp4"  type="video/mp4">
           </video>
-          <div class="container">gi
+          <div class="container">
             <div class="row  align-items-center">
               <div class="col-md-8">
                 <!-- <h6>Great Experience In Building. </h6> -->
