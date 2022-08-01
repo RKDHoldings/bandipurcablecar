@@ -1040,17 +1040,14 @@ blockquote{display: inline-block; font-weight: 700;}
   align-items: center;
   width: 100%;
   max-width: 50%;
-  padding: 1rem 0 0.8rem 0;
- 
+  /*padding: 1rem 0 0.8rem 0;*/
 }
-.footer_right {
-  padding: 0.5rem 0 0.8rem 0;
-}
+.footer_right {padding: 0.4rem 0 0.5rem 0;}
+.footer-logo{margin-top: 0.8rem; width: 85px; object-fit: contain;}
 .footer p.copyright-desc{
   display: table-cell;
-  padding-top: 16px;
   font-size: 12px;
-  padding: 0;
+  padding: 16px 0 0 0;
   vertical-align: middle;
   height: 50px;
   line-height: 15px;
@@ -1059,10 +1056,10 @@ blockquote{display: inline-block; font-weight: 700;}
   clear: none;
   float: left;
   margin: 8px 15px 0;
-   padding: 1rem 0 1rem 0;
+   padding: 0.5rem 0 0.5rem 0;
 }
 .nav-social {
-  float: left; padding: 1rem 0 0 0; margin: 0 0 0 2rem;
+  float: left; padding: 0.5rem 0 0 0; margin: 0 0 0 2rem;
 }
 .nav-footer ul {
   margin: 0;
@@ -1152,7 +1149,7 @@ a.rating_link{
     /* font-size: 14px; */
     width: 100px;
     height: 30px;
-    margin: 29px 0 0 0; 
+    margin: 21px 0 0 0;
     padding: 1rem;
 }
 #footer .accordion-button:after{
@@ -1990,7 +1987,7 @@ img.ceo_img{
     width: auto;
     height: auto;
     content: "+";
-    font-size: 20px;
+    font-size: 18px;
     background-image: none;
     font-weight: 100;
     color: var(--secondary-color);
