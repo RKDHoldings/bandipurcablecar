@@ -27,9 +27,36 @@
     <div class="container">
         <div class="row">
            <h6>latest events</h6>
-           <h2 class="section-title">our events</h2>
+           <h2 class="section-title">Latest Events</h2>
+
+            <div class="media_content mb-5">
+                <div class="row main_media">
+                    <div class="col-lg-12">
+                        <div class="media_img" data-aos="fade-right" data-aos-duration="3000" style="height: 300px;">
+                            <video autoplay muted loop playsinline preload="metadata" controls="controls" height="100%">
+                                <source src="img/videos/egm.mp4"  type="video/mp4" >
+                            </video>
+<!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
+                        </div>
+                        <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="3000">
+                            <h2>EGM (Extraordinary General Meeting)</h2>
+                            <small>7th Shrawan, 2079 </small>
+                            <p>RKD Holdings Limited held an EGM (Extraordinary General Meeting) at Red House, Bandipur
+                                    4, Tundhikhel on Shrawan 7, Monday. The programs main motive was about RKD Business
+                                    Strategic Assembly. It focused on theme such as CM Boss, Salami, Ilami and upcoming projects
+                                    of Bandipur Cable Car. The speech and presentation was given by the directors, Mr. Ramchandra
+                                    Sharma, Mr. Shiva Prasad Sharma, Mr. Chintamani Sharma, Mr. Kiran Pokhrel, and many more.
+                                    The assembly went smooth and was very effective among the individuals. The program also
+                                    conducted interaction activities between the shareholders which helped to bring out the result in
+                                    a systematic and effective manner.</p>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p> -->
-           <!-- impact stories card column -->           
+           <!-- impact stories card column -->
+            <div class="row">
         <div class="col-lg-3">
            <a href="impact-details1.php">
            <div class="card">
