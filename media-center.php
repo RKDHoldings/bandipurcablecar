@@ -143,8 +143,11 @@
 					              	</div>
 				            	</li>
 						      </ul>    
-                  <a title="" class="media_more btn-viewmore float-start border-0" href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ/videos" target="_blank">View all videos  <i data-feather="arrow-right"></i></a>     
-               </div> 
+<!--                  <a title="" class="media_more btn-viewmore float-start border-0" href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ/videos"-->
+<!--                     target="_blank">View all videos  <i data-feather="arrow-right"></i></a>     -->
+                  <a title="" class="media_more btn-viewmore float-start border-0" href="gallery.php"
+                     target="_blank">View all photos <i class="icon-long-arrow-right"></i></a>
+               </div>
                <div class="col-lg-4"> 
                    <div class="portfolio_inner">
                       <h3 class="news_heading">about bandipur</h3>

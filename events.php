@@ -32,7 +32,7 @@
             <div class="media_content mb-5">
                 <div class="row main_media">
                     <div class="col-lg-12">
-                        <div class="media_img" data-aos="fade-right" data-aos-duration="3000" style="height: 300px;">
+                        <div class="media_img" data-aos="fade-right" data-aos-duration="2000" style="height: 300px;">
                             <video autoplay muted loop playsinline preload="metadata" controls="controls" height="100%">
                                 <source src="img/videos/egm.mp4"  type="video/mp4" >
                             </video>
@@ -68,9 +68,8 @@
                <h4 class="impact_heading">International Invitation for E-bids</h4>
                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
                    <a href="impact-details1.php"> Read More</a>
-                    <div class="d-flex align-items-center  foot">
-                       <a href="impact-details1.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
-                    </div>
+                    <a href="impact-details1.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
+
                 </div>
             </div>
            </div>    
@@ -122,7 +121,7 @@
                     </div>
                     <div class="content">
                         <h4 class="impact_heading">5th Annual General Meeting Decision of Bandipur Cable Car</h4>
-                        <div class="d-flex align-items-center justify-content-center mt-3 pb-3">
+                        <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
                               <a href="impact-details4.php"> Read More</a>
                               <a href="impact-details4.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                          
                         </div>

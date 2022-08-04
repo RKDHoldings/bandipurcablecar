@@ -30,18 +30,78 @@
        <div class="filters filter-button-group">
 	         <ul>
 		          <li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+                  <li><a href="javascript:void(0);" data-filter="bandipur">EGM Bandipur Cablecar</a></li>
 		          <li><a href="javascript:void(0);" data-filter="bike">5th AGM Bandipur Cablecar</a></li>
 		          <li><a href="javascript:void(0);" data-filter="bus">Bandipur Cablecar Project</a></li>
-                <li><a href="javascript:void(0);" data-filter="car">News about Bandipur Cable Car</a></li>
+<!--                  <li><a href="javascript:void(0);" data-filter="car">News about Bandipur Cable Car</a></li>-->
 	         </ul>
        </div>
        <div id="container" class="isotope"> 
-		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="img/gallery_icon/1.jpg">
-          <img src="img/gallery_icon/1.jpg">
+		<div class="grid-item" data-filter="bandipur">
+        <a class="popupimg" href="img/gallery_icon/egm/1.jpg">
+          <img src="img/gallery_icon/egm/1.jpg">
         </a>
       </div>
-
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/2.jpg">
+                   <img src="img/gallery_icon/egm/2.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/3.jpg">
+                   <img src="img/gallery_icon/egm/3.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/4.jpg">
+                   <img src="img/gallery_icon/egm/4.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/5.jpg">
+                   <img src="img/gallery_icon/egm/5.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/6.jpg">
+                   <img src="img/gallery_icon/egm/6.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/7.jpg">
+                   <img src="img/gallery_icon/egm/7.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/8.jpg">
+                   <img src="img/gallery_icon/egm/8.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/9.jpg">
+                   <img src="img/gallery_icon/egm/9.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/10.jpg">
+                   <img src="img/gallery_icon/egm/10.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/11.jpg">
+                   <img src="img/gallery_icon/egm/11.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bandipur">
+               <a class="popupimg" href="img/gallery_icon/egm/12.jpg">
+                   <img src="img/gallery_icon/egm/12.jpg">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="bike">
+               <a class="popupimg" href="img/gallery_icon/1.jpg">
+                   <img src="img/gallery_icon/1.jpg">
+               </a>
+           </div>
       <div class="grid-item" data-filter="car">
         <a class="popupimg" href="img/gallery_icon/post/1.webp">
           <img src="img/gallery_icon/post/1.webp">

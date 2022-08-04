@@ -229,7 +229,7 @@
          <div class="col-lg-4">   
             <div class="card" style="background-image:url('img/hero_2.jpg')">
                 <div class='info'>
-                   <h4 class="title">transparent cablecar</h4>
+                   <h5 class="title">transparent cablecar</h5>
                    <p class='description'>Capacity of 1000 people at one time.</p>
                 </div> 
             </div>
@@ -237,7 +237,7 @@
          <div class="col-lg-4">   
             <div class="card"  style="background-image:url('img/features/restro-zone.jpg')">
                <div class='info'>
-                   <h4 class="title">cablecar Restro sewa</h4>
+                   <h5 class="title">cablecar Restro sewa</h5>
                    <p class='description'>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
                </div> 
             </div>
@@ -245,7 +245,7 @@
          <div class="col-lg-4">   
             <div class="card"  style="background-image:url('img/features/game-zone.jpg')">
               <div class='info'>
-                   <h4 class="title">Game Zone</h4>
+                   <h5 class="title">Game Zone</h5>
                    <p class='description'>Different Modern Games with Virtual Reality environment setup will be made Available. You will get the real world Gaming experiences.</p>
               </div> 
             </div>  
@@ -265,7 +265,7 @@
          <div class="col-lg-4">   
             <div class="card" style="background-image:url('img/features/conference.jpg')">
                 <div class='info'>
-                   <h4 class="title">Conference Theatre</h4>
+                   <h5 class="title">Conference Theatre</h5>
                    <p class='description'>Capacity of 1000 people at one time.</p>
                 </div> 
             </div>
@@ -273,7 +273,7 @@
          <div class="col-lg-4">   
             <div class="card"  style="background-image:url('img/features/restro-zone.jpg')">
                <div class='info'>
-                   <h4 class="title">Restro sewa</h4>
+                   <h5 class="title">Restro sewa</h5>
                    <p class='description'>There will be Restro Sewa Facilities inside the cablecar. Cablecar targets hot and attractive features to be provided to customers.</p>
                </div> 
             </div>
@@ -281,7 +281,7 @@
          <div class="col-lg-4">   
             <div class="card"  style="background-image:url('img/features/swimming_pool.jpg')">
               <div class='info'>
-                   <h4 class="title">Queen Tower Swimming Pool</h4>
+                   <h5 class="title">Queen Tower Swimming Pool</h5>
                    <p class='description'>People can enjoy the beautiful moments of Bandipur through the 13 storey Queen Tower even during swimming from the Swimming Pool.</p>
               </div> 
             </div>  

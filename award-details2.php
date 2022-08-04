@@ -60,7 +60,7 @@
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>Our Structure</h4>
+                             <a href="our-structure.php" target="_blank" >   <h4>Our Structure</h4></a>
                               <ul class="nav flex-column" id="nav_accordion">
                                  <li class="nav-item"><a class="nav-link" href="our_structure.php#directors_team" target="_blank">Board of Directors <i data-feather="arrow-right"></i></a></li>
                                  <li class="nav-item"><a class="nav-link" href="our_structure.php#governance-info" target="_blank">Governance committee <i data-feather="arrow-right"></i></a></li>
@@ -73,7 +73,7 @@
                               </ul>
                          </div>
                          <div class="sidebar_news1">
-                           <h4>contact us</h4>
+                             <a href="contact.php" target="_blank"> <h4>contact us</h4></a>
                               <ul class="nav flex-column" id="nav_accordion">
                                  <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="mailto:info@bandipurcablecar.com.np"> info@bandipurcablecar.com.np </a></p></li>
                               </ul>

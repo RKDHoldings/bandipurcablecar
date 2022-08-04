@@ -58,7 +58,7 @@
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime sed doloribus cupiditate at dolore ducimus rem. Officiis quod ea laboriosam veniam assumenda corrupti, cumque reiciendis tenetur dolores temporibus eaque possimus.</p> -->
                <div class="col-lg-4">
                     <div class="content_bandipur">
-                       <a href="" target="_blank">
+                       <a href="what-we-do.php#features-queentower" target="_blank">
                               <div class="content-overlay"></div>
                               <img class="content-image " src="img/features/queen-tower.jpg" alt="5 Star Queen Tower" >
                               <!-- <a class= "lightbox-close" href= "#">X</a> -->
@@ -71,7 +71,7 @@
                </div>
                <div class="col-lg-4">
                     <div class="content_bandipur">
-                       <a href="" target="_blank">
+                       <a href="what-we-do.php#features-cablecar" target="_blank">
                               <div class="content-overlay"></div>
                               <img class="content-image" src="img/hero_1.webp" alt="Transparent Cablecar">
                               <div class="content-details fadeIn-left">
@@ -83,7 +83,7 @@
                </div>
                <div class="col-lg-4">
                     <div class="content_bandipur">
-                       <a href="" target="_blank">
+                       <a href="#features" target="_blank">
                               <div class="content-overlay"></div>
                               <img class="content-image" src="img/features/restro-zone.jpg"  alt="Cablecar Restro Zone">
                               <div class="content-details fadeIn-left">
