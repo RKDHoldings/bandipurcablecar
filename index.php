@@ -125,7 +125,7 @@
 <section id="about-us">
   <div class="container">
     <div class="row">
-      <div class="col-xl-6">
+      <div class="col-lg-6 col-sm-12 col-xs-12">
         <div class="work-together__left" data-aos="fade-right"data-aos-easing="linear" data-aos-duration="1000">
             <div class="work-together__img-box">
                 <div class="work-together-shape-1"><img src="assets/images/shapes/work-together-shape-1.png" alt=""></div>
@@ -148,7 +148,7 @@
             </div>
         </div>
     </div>
-       <div class="col-lg-6 align-self-center">
+       <div class="col-lg-6 col-sm-12 align-self-center">
         <div class="about-us-info-wrap">
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About Us</h6>

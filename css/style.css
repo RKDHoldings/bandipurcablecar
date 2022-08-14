@@ -539,7 +539,7 @@ p{
   z-index: 0;
   overflow: hidden;
   padding: 1.5rem 1rem 1.5rem 1rem;
-  box-shadow: 0 4px 5px 0 rgb(0 0 0 / 10%);
+  box-shadow: rgb(149 157 165 / 2%) 0px 8px 24px;
   background-color: var(--bg-color);
   cursor: pointer;  
 }

@@ -38,7 +38,7 @@
                             </video>
 <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
                         </div>
-                        <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="3000">
+                        <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="1200">
                             <h2>EGM (Extraordinary General Meeting)</h2>
                             <small>7th Shrawan, 2079 </small>
                             <p>RKD Holdings Limited held an EGM (Extraordinary General Meeting) at Red House, Bandipur

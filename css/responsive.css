@@ -1,13 +1,13 @@
+@media screen and (max-width: 1200px) {
+    img.about-img1{width: 90%;}
+    .about__img-2{left: 155px;}
+}
 @media screen and (max-width: 993px) {
     body{
         overflow-x: hidden;
     }
-   .intro__details{
-       margin-bottom: 1.5rem;
-   }
-   .about-us-info-wrap{
-       margin: 7rem 0 0 0;
-   }
+   .intro__details{margin-bottom: 1.5rem;  height: 170px;}
+   .about-us-info-wrap{margin: 7rem 0 0 0;}
    .share_invest_info{display: block !important;}
     .investment_details{border-right: none !important;}
    .topbar__menu{
@@ -149,6 +149,8 @@
     .info__one__topright{
        margin: 0 auto; 
     }
+      #chart{width: 100%; height: auto;}
+      #myChart, #myChart2{width: 100%;}
     #banner .owl-carousel .owl-nav button.owl-next, #banner .owl-carousel .owl-nav button.owl-prev, #banner .owl-carousel button.owl-dot{
         padding: 2px 2px 0 1px;
         width: 32px;
