@@ -15,7 +15,7 @@
                   <h2 class="breadcrumb-title">gallery</h2>
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.php"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                         <li class="breadcrumb-item active" aria-current="page">what we do</li>
                      </ol>
                   </nav>
@@ -38,63 +38,63 @@
        </div>
        <div id="container" class="isotope"> 
 		<div class="grid-item" data-filter="bandipur">
-        <a class="popupimg" href="img/gallery_icon/egm/1.jpg">
-          <img src="img/gallery_icon/egm/1.jpg">
+        <a class="popupimg" href="img/gallery_icon/egm/1.JPG">
+          <img src="img/gallery_icon/egm/1.JPG">
         </a>
       </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/2.jpg">
-                   <img src="img/gallery_icon/egm/2.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/2.JPG">
+                   <img src="img/gallery_icon/egm/2.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/3.jpg">
-                   <img src="img/gallery_icon/egm/3.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/3.JPG">
+                   <img src="img/gallery_icon/egm/3.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/4.jpg">
-                   <img src="img/gallery_icon/egm/4.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/4.JPG">
+                   <img src="img/gallery_icon/egm/4.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/5.jpg">
-                   <img src="img/gallery_icon/egm/5.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/5.JPG">
+                   <img src="img/gallery_icon/egm/5.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/6.jpg">
-                   <img src="img/gallery_icon/egm/6.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/6.JPG">
+                   <img src="img/gallery_icon/egm/6.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/7.jpg">
-                   <img src="img/gallery_icon/egm/7.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/7.JPG">
+                   <img src="img/gallery_icon/egm/7.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/8.jpg">
-                   <img src="img/gallery_icon/egm/8.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/8.JPG">
+                   <img src="img/gallery_icon/egm/8.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/9.jpg">
-                   <img src="img/gallery_icon/egm/9.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/9.JPG">
+                   <img src="img/gallery_icon/egm/9.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/10.jpg">
-                   <img src="img/gallery_icon/egm/10.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/10.JPG">
+                   <img src="img/gallery_icon/egm/10.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/11.jpg">
-                   <img src="img/gallery_icon/egm/11.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/11.JPG">
+                   <img src="img/gallery_icon/egm/11.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bandipur">
-               <a class="popupimg" href="img/gallery_icon/egm/12.jpg">
-                   <img src="img/gallery_icon/egm/12.jpg">
+               <a class="popupimg" href="img/gallery_icon/egm/12.JPG">
+                   <img src="img/gallery_icon/egm/12.JPG">
                </a>
            </div>
            <div class="grid-item" data-filter="bike">
