@@ -30,13 +30,125 @@
        <div class="filters filter-button-group">
 	         <ul>
 		          <li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
+                  <li><a href="javascript:void(0);" data-filter="upper-station">Upper Station</a></li>
+                 <li><a href="javascript:void(0);" data-filter="lower-station">Lower Station</a></li>
                   <li><a href="javascript:void(0);" data-filter="bandipur">EGM Bandipur Cablecar</a></li>
-		          <li><a href="javascript:void(0);" data-filter="bike">5th AGM Bandipur Cablecar</a></li>
+<!--		          <li><a href="javascript:void(0);" data-filter="bike">5th AGM Bandipur Cablecar</a></li>-->
 		          <li><a href="javascript:void(0);" data-filter="bus">Bandipur Cablecar Project</a></li>
 <!--                  <li><a href="javascript:void(0);" data-filter="car">News about Bandipur Cable Car</a></li>-->
 	         </ul>
        </div>
-       <div id="container" class="isotope"> 
+       <div id="container" class="isotope">
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/1.JPG">
+                   <img src="img/gallery_icon/lower-station/1.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/2.JPG">
+                   <img src="img/gallery_icon/lower-station/2.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/3.JPG">
+                   <img src="img/gallery_icon/lower-station/3.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/4.JPG">
+                   <img src="img/gallery_icon/lower-station/4.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/5.JPG">
+                   <img src="img/gallery_icon/lower-station/5.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/6.JPG">
+                   <img src="img/gallery_icon/lower-station/6.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/7.JPG">
+                   <img src="img/gallery_icon/lower-station/7.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="lower-station">
+               <a class="popupimg" href="img/gallery_icon/lower-station/8.JPG">
+                   <img src="img/gallery_icon/lower-station/8.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/1.JPG">
+                   <img src="img/gallery_icon/upper-station/1.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/2.JPG">
+                   <img src="img/gallery_icon/upper-station/2.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/3.JPG">
+                   <img src="img/gallery_icon/upper-station/3.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/4.JPG">
+                   <img src="img/gallery_icon/upper-station/4.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/5.JPG">
+                   <img src="img/gallery_icon/upper-station/5.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/6.JPG">
+                   <img src="img/gallery_icon/upper-station/6.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/7.JPG">
+                   <img src="img/gallery_icon/upper-station/7.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/8.JPG">
+                   <img src="img/gallery_icon/upper-station/8.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/9.JPG">
+                   <img src="img/gallery_icon/upper-station/9.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/10.JPG">
+                   <img src="img/gallery_icon/upper-station/10.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/11.JPG">
+                   <img src="img/gallery_icon/upper-station/11.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/12.JPG">
+                   <img src="img/gallery_icon/upper-station/12.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/13.JPG">
+                   <img src="img/gallery_icon/upper-station/13.JPG">
+               </a>
+           </div>
+           <div class="grid-item" data-filter="upper-station">
+               <a class="popupimg" href="img/gallery_icon/upper-station/14.JPG">
+                   <img src="img/gallery_icon/upper-station/14.JPG">
+               </a>
+           </div>
 		<div class="grid-item" data-filter="bandipur">
         <a class="popupimg" href="img/gallery_icon/egm/1.JPG">
           <img src="img/gallery_icon/egm/1.JPG">

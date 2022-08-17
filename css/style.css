@@ -840,13 +840,7 @@ ul.aboutus__points.swpf{
 #features{
   padding: 5rem 0;
 }
-/* .section-box-ten{
-  margin: 2rem 0 0 0;
-  height: 300px;
-  color: var(--bg-color);
-  position: relative;
-  overflow:hidden;
-} */
+
 .btn-viewmore{
   float: right;
   text-transform: capitalize;
@@ -1466,8 +1460,6 @@ h4.value_heading{
   width: 53px;
   height: 53px;
   line-height: 51px;
-  /* background-image: -webkit-linear-gradient(var(--gradient-angle, 90deg), #FF7800 0%, #FF7800 100%);
-  background-image: linear-gradient(var(--gradient-angle, 90deg), #FF7800 0%, #FF7800 100%); */
   border-radius: 50%;
   border: 2px solid var(--bg-color);
   font-family: var(--body-font);
@@ -1577,14 +1569,9 @@ img.ceo_img{
   font-size: 0.9rem;
   font-weight: 500
 }
- /* .accordion-button:hover {
-  background-color: #f8f8f8;
-} */
-
  .accordion-button:focus {
   box-shadow: none
 }
-
 .accordion-button.active{
   background-color: var(--theme-color);
   color: var(--bg-color);
@@ -1748,7 +1735,6 @@ img.ceo_img{
   max-width: 100%;
   height: 380px;
   overflow: hidden;
-  /* background-image: url(https://source.unsplash.com/collection/905011/1000x1000); */
   background-size: cover;
 }
 
@@ -1872,9 +1858,7 @@ img.ceo_img{
   width: 50px;
   /* margin-right: 12px; */
 }
-/* .tset.pdf{
-  min-height: 110px;
-  width: 43%;} */
+
   .card.investment_program{padding: 2rem 2rem 2rem 2rem; border-bottom: 4px solid var(--theme-color); }
   .card.investment_program:hover{ transform: scale(1.1);}
   h3.investment-heading{
@@ -1935,7 +1919,6 @@ img.ceo_img{
     text-align: var(--text-align-center);
   }
 
-  
   /* button panel start */
   #btn_panel {
     position: relative;
@@ -2007,8 +1990,7 @@ img.ceo_img{
 	border-radius: 10px;
 	z-index: 1;
 	background: var(--theme-color);
-	/*transition: all 0.8s ease-out;
-	overflow: hidden;*/
+
 }
 .skill_value{
 	position: absolute;
@@ -2519,9 +2501,7 @@ h3.process_heading{
 .thumb:hover .video-list h3 a{
   color: var(--secondary-color);
 }
-h3.video_heading{
-  font-size: 14px;
-}
+h3.video_heading{font-size: 14px;}
 .news_listing .thumb img:hover  .news_listing .details h3 a{
 color: var(--secondary-color);
 }
@@ -2905,7 +2885,6 @@ h3.video-heading{
   width: 100%; border-radius: var(--border-radius); height: 340px;
   object-fit: cover;
 }
-
 .content-details {
   position: absolute;
   text-align: var(--text-align-center);
@@ -2987,15 +2966,8 @@ h3.video-heading{
   transform: rotateY(360deg) scale(.9);
   color: var(--secondary-color);
 }
-.big_img{
-  width: 100%;
-  height: 350px;
-}
-.big_img img{
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-}
+.big_img{width: 100%;height: 350px;}
+.big_img img{width: 100%;height: 100%;object-fit: cover;}
 video {
   position: absolute;
   top: 0;
@@ -3548,9 +3520,6 @@ p.name{
 	padding: 0 20px 40px;
 }
 
-/**/
-/* main styles */
-/**/
 .pcss3t {
   max-width: 1320px;
 	text-align: var(--text-align-center);
@@ -3620,7 +3589,6 @@ h5.team_position{
   color: var(--secondary-color); text-transform: capitalize;
 }
 
-
 .pcss3t .typography a:hover {
 	text-decoration: var(--text-decoration);
 }
@@ -3653,7 +3621,6 @@ h5.team_position{
 }
 
 @media screen and (max-width: 980px) {	}
-
 
 /**/
 /* phone */
@@ -3993,9 +3960,7 @@ img.logo_panchase{
   transform:scale(1.15);
   border:  2px solid var(--secondary-color);
 }
-/* #award_details .card-flyer .text-box{
-  text-align: center;
-} */
+
 #award_details .card-flyer .text-box .text-container{
   padding: 30px 18px;
 }
@@ -4261,10 +4226,6 @@ p:not([class]):first-child {
 .time__month {
   margin-left: var(--timelineMounthMarginLeft, 0.25em);
 }
-
-/*
-skin
-*/
 
 .time {
   padding: var(--timePadding, 0.25rem 1.25rem 0.25rem);
@@ -4546,26 +4507,11 @@ body.modal-open {
   position: fixed;
 }
 
-#loader-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  z-index: 1000;
-}
+#loader-wrapper {position: fixed; top: 0;left: 0;width: 100%;height: 100%;z-index: 1000;}
 #loader {
-  display: block;
-  position: relative;
-  left: 50%;
-  top: 50%;
-  width: 150px;
-  height: 150px;
-  margin: -75px 0 0 -75px;
-  border-radius: 50%;
-  border: 3px solid transparent;
-  border-top-color: var(--theme-color);
-
+  display: block; position: relative; left: 50%;top: 50%;
+  width: 150px; height: 150px; margin: -75px 0 0 -75px;
+  border-radius: 50%;border: 3px solid transparent; border-top-color: var(--theme-color);
   -webkit-animation: spin 2s linear infinite; /* Chrome, Opera 15+, Safari 5+ */
   animation: spin 2s linear infinite; /* Chrome, Firefox 16+, IE 10+, Opera */
 
@@ -4704,11 +4650,9 @@ body.modal-open {
   *zoom: 1;
 }
 
-
 @media only screen and (min-width: 35em) {
   /* Style adjustments for viewports that meet the condition */
 }
-
 @media print,
      (-o-min-device-pixel-ratio: 5/4),
      (-webkit-min-device-pixel-ratio: 1.25),
