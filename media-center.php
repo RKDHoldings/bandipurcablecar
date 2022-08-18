@@ -31,25 +31,29 @@
           <div class="row main_media">
                   <div class="col-lg-4">
                      <div class="media_img" data-aos="fade-right" data-aos-duration="3000">
-                        <img src="img/news/ipo.jpg" class="w-100" alt="">
+                        <img src="img/news/q.png" class="w-100" alt="">
                      </div>
                   </div>
                   <div class="col-lg-8">
                      <div class="media_content_right" data-aos="fade-left" data-aos-duration="3000">
-                         <h2><a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno" target="_blank" title="">बन्दीपुर केबलकार र आइपिओ एकैसाथ खुल्ने</a></h2>
-                         <small>साउन १८ २०७९ | </small>
-                         <p><strong>तनहुँ, साउन १८: तनहुँको पर्यटकीय नगरी बन्दीपुरमा निर्माणाधीन अवस्थामा रहेको केबलकार र आइपिओ एकैसाथ खुल्ने भएको छ।</strong></p>
-                         <a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno" target="_blank" class=" media_more" title="Read more">Read more</a>
+                         <h2>
+                             <a href="https://risingnepaldaily.com/news/15515"
+                                target="_blank" title="">Cable car with a restaurant inside from next year in Bandipur
+                             </a>
+                         </h2>
+                         <small>18 August 2022 </small>
+                         <p>Bandipur, which has gained fame by the name of ‘Pahadki Rani,’ is set to add another feather in its cap: tourists visiting the place by cable car will be getting lodging and food facilities inside it come next year.</p>
+                         <a href="https://risingnepaldaily.com/news/15515" target="_blank" class=" media_more" title="Read more">Read more</a>
                      </div>
                   </div>          
           </div> 
-          <div class="row news_listing" data-aos="fade-up" data-aos-duration="2000">
+          <div class="row news_listing" data-aos="fade-up" data-aos-duration="800">
                <div class="col-lg-4">
-                  <div class="thumb"><a href="https://www.tourismmail.com/260-billion-investment-in-bandipur-cable-car-and-5-star-hotel" taget="_blank"><img src="img/news/main-news.jpg" alt="Bandipur cable car" ></a></div>
+                  <div class="thumb"><a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno" target="_blank"><img src="img/news/ipo.jpg" alt="Bandipur cable car IPO" ></a></div>
                   <div class="details">		
-	                  	<h3><a href="https://english.lokaantar.com/news/detail/24875/" title="">2.60 billion investment in Bandipur cable car and 5 star hotel</a></h3>
-                      <small>30th Jan, 2022 </small>
-	                   	<a href="https://www.tourismmail.com/260-billion-investment-in-bandipur-cable-car-and-5-star-hotel"target="_blank" class="media_more" title="Read more">Read more</a>
+	                  	<h3><a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno"target="_blank" title="Bandipur Cablecar & IPO to open">बन्दीपुर केबलकार र आइपिओ एकैसाथ खुल्ने</a></h3>
+                      <small>साउन १८ २०७९ | </small>
+	                   	<a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno"target="_blank" class="media_more" title="Read more">Read more</a>
 	                </div>
                </div>
                <div class="col-lg-4">
@@ -163,11 +167,6 @@
  <?php
  include('includes/footer.php');
  ?>
-
-<script>
-    feather.replace()
-  </script>
-
 
 
 

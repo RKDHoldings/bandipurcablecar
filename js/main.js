@@ -7,7 +7,7 @@ $(function() {
     nav:true,
     items: 1,
     smartSpeed: 3000,
-    autoplay: true,
+    autoplay: false,
     pauseOnHover: false,
     navText: ['<span class="icon-keyboard_arrow_left">', '<span class="icon-keyboard_arrow_right">']
 	})

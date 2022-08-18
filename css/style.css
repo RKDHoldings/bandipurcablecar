@@ -2464,8 +2464,7 @@ h3.process_heading{
   margin: 0 0 2rem 0; 
   font-family: var(--primary-font-family);
 }
-.media_img img{
-  padding: 2rem 0 0 2rem;  border-radius: 4px}
+.media_img img{padding: 2rem 0 0 2rem;  border-radius: 4px;height: 246px; object-fit: cover;}
 .news_listing{
   margin: 3rem 0 0 0 ;
   background-color: var(--bg-color);
