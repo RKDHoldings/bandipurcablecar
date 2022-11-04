@@ -13,7 +13,41 @@
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                 </div>
                <div class="modal-body">
-                    <img alt="" class="img-fluid" src="img/events/event-2.jpg" xss="removed">
+                    <!-- <img alt="" class="img-fluid" src="img/events/event-2.jpg" xss="removed"> -->
+                    <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');">
+
+		<div class=" d-flex justify-content-between p-3">
+			<!-- <div class="wrappic1 m-r-30 m-t-10 m-b-10">
+				<a href="#"><img src="img/withoutbg.png" width="85" alt="LOGO"></a>
+			</div> -->
+
+			<!-- <div class="flex-w m-t-10 m-b-10">
+				<a href="#" class="size3 flex-c-m how-social trans-04 m-r-6">
+					<i class="icon-facebook"></i>
+				</a>
+
+
+				<a href="#" class="size3 flex-c-m how-social trans-04 m-r-6">
+					<i class="icon-youtube-play"></i>
+				</a>
+			</div> -->
+		</div>
+
+		<div class="flex-w flex-sa p-r-200 respon1">
+			<div class="p-t-34 p-b-60 text-center">
+				<h2 class="section-title mt-5">
+					bandipur cablecar Coming Soon
+        </h2>
+
+
+        <div class="clock"></div>
+
+			</div>
+
+			
+		</div>
+	</div>
+ 
                </div>      
     </div>
   </div>
@@ -74,7 +108,6 @@
       </div>
   </div>       
 </section>
-
 <section id="marquee_section">
   <div class="marquee_container">
     <div class="row">
@@ -150,6 +183,15 @@
     </div>
        <div class="col-lg-6 col-sm-12 align-self-center">
         <div class="about-us-info-wrap">
+        <ul class="notification-drop">
+    <li class="item">
+      <i class="icon-bell-o notification-bell" aria-hidden="true"></i>
+       <span class="btn__badge pulse-button ">New</span>     
+      <ul>
+        <li>Bandipur Cablecar Lunching on (2023-04-14) </li>
+      </ul>
+    </li>
+  </ul>
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
