@@ -14,7 +14,7 @@
                 </div>
                <div class="modal-body">
                     <!-- <img alt="" class="img-fluid" src="img/events/event-2.jpg" xss="removed"> -->
-                    <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');">
+                    <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 500px;">
 
 		<div class=" d-flex justify-content-between p-3">
 			<!-- <div class="wrappic1 m-r-30 m-t-10 m-b-10">
@@ -115,14 +115,69 @@
             <div class="d-flex justify-content-between align-items-center breaking-news">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
                 <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                    <a href="">EGM( Extraordinary General Meeting) of Bandipur Cable Car Company (2079/04/07) </a><span class="dot"></span>  <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
+                <a href="impact-details1.php">Invitation for bids</a><span class="dot"></span> <a href="">EGM( Extraordinary General Meeting) of Bandipur Cable Car Company (2079/04/07) </a><span class="dot"></span>  <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
             </div>
         </div>
     </div>
   </div>
 </section>
-<!-- company intro start -->
 <section id="company__intro">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="col-lg-3 col-sm-12 lead-block">
+					<h6><span>Bandipur</span></h6>
+          <!-- <h2 class="section-title">Bandipur Cable Car and Queen Tower </h2> -->
+          <p>Bandipur Cable Car and Queen Tower are welcome tourist destinations for the joint investment and support of indigenous and expatriate Nepalis</p>
+				</div> <!-- .col-md-6 img-block -->
+				<div class="col-lg-9 col-sm-12 content-block">
+					
+					<div class="row feature-set">
+						<div class="col-lg-6 col-sm-12 col-xs-12">
+							<div class="item-wrapper">
+								<div class="icon-box">
+                   <img src="img/icon_pack/visitor.png" alt="">
+                </div>
+								<div class="content-wrapper">
+                    <h4 class="title__secondary">Yearly 5 Lakhs Visitors</h4>
+                    <p class="card-text mt-0">Bandipur Cable Car Expects atleast 5 lakhs vistors per annum visiting Bandipur village’s beauty.</p>
+								</div> <!-- .content-wrapper -->
+							</div> <!-- .item-wrapper -->
+						</div> <!-- .col-sm-6 -->
+						<div class="col-lg-6 col-sm-12 col-xs-12">
+							<div class="item-wrapper">
+								<div class="icon-box"> <img src="img/icon_pack/group.png" alt=""></div>
+								<div class="content-wrapper">
+                  <h4  class="title__secondary">500 Passenger Per Hour</h4>
+                  <p class="card-text mt-0">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
+								</div> <!-- .content-wrapper -->
+							</div> <!-- .item-wrapper -->
+						</div> <!-- .col-sm-6 -->
+						<div class="col-lg-6 col-sm-12 col-xs-12 mt-4">
+							<div class="item-wrapper">
+								<div class="icon-box">  <img src="img/icon_pack/vacation.png" alt=""></div>
+								<div class="content-wrapper">
+                  <h4 class="title__secondary">Complete Holiday Package</h4>
+                  <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
+								</div> <!-- .content-wrapper -->
+							</div> <!-- .item-wrapper -->
+						</div> <!-- .col-sm-6 -->
+						<div class="col-lg-6 col-sm-12 col-xs-12 mt-4">
+							<div class="item-wrapper">
+								<div class="icon-box"> <img src="img/icon_pack/cable-car.png" alt=""></div>
+								<div class="content-wrapper">
+                    <h4 class="title__secondary">South Asia Unique Cable Car</h4>
+                    <p class="card-text mt-0">Bandipur Cable Car land inside the hotel of Queen tower in Upper Station.</p>     
+								</div> <!-- .content-wrapper -->
+							</div> <!-- .item-wrapper -->
+						</div> <!-- .col-sm-6 -->
+					</div> <!-- .row -->
+				</div> <!-- .col-md-8 -->
+			</div> <!-- .row -->
+			
+		</div> <!-- .container -->
+	</section>
+<!-- company intro start -->
+<!-- <section id="company__intro">
    <div class="container-fluid"> 
       <div class="row">
          <div class="col-lg-3">          
@@ -141,7 +196,6 @@
               <div class="intro__details" data-aos="flip-left" data-aos-easing="ease-out-cubic" data-aos-duration="600">
                   <h5 class="title__secondary">Complete Holiday Package</h5>
                   <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall , Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur has to offer.</p>  
-                   <!-- <div class="go-corner" href="#"> <div class="go-arrow">  →</div></div>              -->
               </div>
         </div>
         <div class="col-lg-3">
@@ -153,7 +207,7 @@
       </div>
    </div>
 
-</section>
+</section> -->
 <!-- about us content starts -->
 <section id="about-us">
   <div class="container">

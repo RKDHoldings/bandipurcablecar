@@ -6,7 +6,7 @@
   --bg-color: #fff;
   --secondary-bg: #f3f9fa;
   --primary-font-color:#000;
-  --secondary-font-color: #343a40;
+  --secondary-font-color: #666;
   --primary-font-family:   'Philosopher', sans-serif; 
   --secondary-font-family: 'Quicksand', sans-serif;
   --border-radius: 4px;
@@ -469,11 +469,13 @@ h2 {
   }
    h6{
     color: var(--secondary-color);
-    font-weight:700 ;
-    text-transform: uppercase;
-    position: relative;
-    margin-left: 0.7rem;
+    font-weight:500 ;
+    text-transform: capitalize;
     margin-bottom: 10px;
+    display: inline-block;
+    padding: 5px 20px;
+    border-radius: 25px;
+    position: relative;
   }
   .media-29121 p{
     color: var(--bg-color);
@@ -481,13 +483,26 @@ h2 {
  /* left line before text*/
  /* .media-29121 */
   h6::before {
-  content:'';
+  /* content:'';
   position: absolute;
   background-color: var(--secondary-color);
   width: 3px;
   height: 65%;
   bottom: 4px;
-  left:-8px; 
+  left:-8px;  */
+  position: absolute;
+  content: "";
+  background-color: var(--secondary-color);
+  width: 100%;
+  height: 100%;
+  top: 50%;
+  right: 50%;
+  -webkit-transform: translateY(-50%) translateX(50%);
+  -ms-transform: translateY(-50%) translateX(50%);
+  transform: translateY(-50%) translateX(50%);
+  border-radius: 25px;
+  opacity: 0.1;
+
 }
 .news { width: 160px; background-color: var(--theme-color);}
 .news-scroll a {color: var(--bg-color);}
@@ -522,14 +537,10 @@ h2 {
 #company__intro .card{
   border: 0;
 }
-h5.title__secondary{
-  color: var(--secondary-color); transition: all 0.3s ease-out;
+h4.title__secondary{
+  font-family: 'Philosopher', sans-serif; transition: all 0.3s ease-out;
 }
-p{
-  color: var(--secondary-font-color);
-  margin: 1rem 0 1.5rem 0;
-  text-align: var(--text-align-justify);
-}
+p{  color: var(--secondary-font-color); margin: 1rem 0 1.5rem 0; text-align: var(--text-align-justify);}
 .intro__details{
   width: 100%;
   height: 100%;
@@ -567,6 +578,21 @@ p{
   background-color: var(--bg-color);
   padding:5rem 0 11.5rem 0;
 }
+
+.item-wrapper{display: flex; background: var(--bg-color); height: 100%;
+  padding: 1.5rem 1rem 1.5rem 1rem;  border-radius: var(--border-radius);
+  box-shadow: rgb(149 157 165 / 2%) 0px 8px 24px;}
+  .item-wrapper:hover{
+    transition: all 300ms linear;
+    transform: translateY(-7px) scale(1.01) !important; 
+  }
+  .item-wrapper:hover:before {
+    transform: scale(21);
+  }
+.content-wrapper {
+  margin-left: 25px;
+}
+.item-wrapper img{width: 45px;}
 img.about-img1{
   width: 470px;
   height: 491px;
@@ -603,7 +629,7 @@ img.about-img2:hover a.video{
   border-radius: 8px;
 }
 .fact-counter{
-  margin: 2.8rem 0 3rem 0;
+  margin: 0rem 0 2rem 0;
 }
 .fact-counter .value{
   color: var(--secondary-color);
@@ -4692,8 +4718,8 @@ body.modal-open {
 .flip-clock-wrapper ul li a div div.inn{background-color: #0d1629 !important  ; text-shadow: none !important; font-size: 60px !important;}
 .flip-clock-wrapper ul li a div.up:after{background-color: transparent !important;}
 .flip-clock-wrapper ul{width: 55px !important;}
+
 .notification-drop {
-  font-family: 'Ubuntu', sans-serif;
   color: #444;
 }
 .notification-drop .item {

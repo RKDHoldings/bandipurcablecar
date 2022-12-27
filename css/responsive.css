@@ -145,10 +145,12 @@
       }
   }
   @media screen and (max-width: 700px) {
-  
-    .info__one__topright{
-       margin: 0 auto; 
-    }
+    .info__one__topright{  margin: 0 auto;  }
+    .clock{width: 100% !important;}
+    .flip-clock-wrapper ul li a div div.inn{font-size: 40px !important;}
+    .flip-clock-wrapper ul{width: 55px !important; height: 90px !important; background-color: transparent !important;}
+    .flip-clock-wrapper .flip{box-shadow:  none !important;}
+.flip-clock-wrapper ul li{height: 80% !important;line-height: 80px;}
       #chart{width: 100%; height: auto;}
       #myChart, #myChart2{width: 100%;}
     #banner .owl-carousel .owl-nav button.owl-next, #banner .owl-carousel .owl-nav button.owl-prev, #banner .owl-carousel button.owl-dot{

@@ -29,14 +29,14 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="impact_details_left">
                             <div class="impact_details_img1">
-                                <img src="img/events/event-1.jpeg" width="100%" height="100%" alt="">
+                                <img src="img/bids.jpg" width="100%" height="100%" alt="">
                             </div>
                             <div class="impact_details_content">
                                 <p class="impact_details_sub_title">finance</p>
                                 <ul class="list-unstyled impact_details_meta">
-                                    <li><a href="" class="me-1"><i data-feather="clock"></i>09 Mangsir, 2077</a></li>
+                                    <li><a href="" class="me-1"><i data-feather="clock"></i>12 Poush, 2079</a></li>
                                 </ul>
-                                <h3 class="impact_details__title">International Invitation for E-bids</h3>
+                                <h3 class="impact_details__title">International Invitation for Bids</h3>
                             </div>
                             <div class="news-details__bottom">
                                 <p class="impact_details__tags">
@@ -117,32 +117,6 @@
                                                 <span class="sidebar__post-content-meta">  <i class="icon-clock-o"></i>20
                                                     Oct, 2021</span>
                                                 <a href="impact_details3.php">Bandipur Cable Car Financial Closure From Nepal SBI & NMB Bank</a>
-                                            </h3>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="sidebar__post-image">
-                                            <img src="img/about/about-img2.jpg" alt="">
-                                        </div>
-                                        <div class="sidebar__post-content">
-                                            <h3>
-                                                <span class="sidebar__post-content-meta"><i data-feather="clock"></i>20
-                                                    Oct, 2021</span>
-                                                <a href="blog-details.html">Integer tristique odio
-                                                    vitae lorem gra</a>
-                                            </h3>
-                                        </div>
-                                    </li>
-                                    <li>
-                                        <div class="sidebar__post-image">
-                                            <img src="img/about/about-img2.jpg" alt="">
-                                        </div>
-                                        <div class="sidebar__post-content">
-                                            <h3>
-                                                <span class="sidebar__post-content-meta"><i data-feather="clock"></i>20
-                                                    Oct, 2021</span>
-                                                <a href="blog-details.html">Integer tristique odio
-                                                    vitae lorem gra</a>
                                             </h3>
                                         </div>
                                     </li>

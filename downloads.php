@@ -28,6 +28,16 @@
          <div class="row">
              <h2 class="section-title"> Documents</h2>
              <div class="col-lg-3">
+                 <a href="img/bids.jpg" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">Bidding Invitation Document</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
                  <a href="img/downloads/mep.jpeg" target="_blank">
                     <div class="card">
                         <div class="card-body">
@@ -57,16 +67,7 @@
                      </div>
                   </a>
              </div>
-             <div class="col-lg-3">
-                 <a href="https://drive.google.com/file/d/1joXT4TeUL9U1xDF5_6hNfC9Y9Uqfd6rl/view" target="_blank" download>
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="heading_title">MEP Bidding Document</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
-                        </div>
-                    </div>
-                 </a>
-             </div>
+            
          </div>
          <!--row end  -->
          <!-- other document download row -->
@@ -102,6 +103,16 @@
                         </div>
                      </a>   
                  </div>
+                 <div class="col-lg-3">
+                 <a href="https://drive.google.com/file/d/1joXT4TeUL9U1xDF5_6hNfC9Y9Uqfd6rl/view" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">MEP Bidding Document</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
                 
               </div>
               <!-- row end -->

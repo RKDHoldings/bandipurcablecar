@@ -61,8 +61,8 @@
            <a href="impact-details1.php">
            <div class="card">
            <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="img/events/event-1.jpeg" alt="">
-                <div class="date"> <span class="day">09</span> <span class="month">Mangsir</span> <span class="year">2077</span> </div>
+            <div class="pic"> <img class="" src="img/bids.jpg" alt="">
+                <div class="date"> <span class="day">12</span> <span class="month">Poush</span> <span class="year">2079</span> </div>
             </div>
             <div class="content">
                <h4 class="impact_heading">International Invitation for E-bids</h4>
