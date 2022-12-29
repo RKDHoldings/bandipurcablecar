@@ -845,8 +845,7 @@
 </section>
 <section id="events">
    <div class="container"> 
-      <div class="row">
-      <div class="event-area">
+      <div class="event-area pb-5">
   <div class="row">
     <div class="col-md-12"> 
       <h2 class="section-title">Upcoming Events</h2>
@@ -854,33 +853,30 @@
     <div class="col-md-12">
       <div class="event-box d-flex">
         <div class="event-date text-center">
-          <p>25 March</p>
+             <i class="icon-long-arrow-right"></i>
         </div>
         <div class="event-details">
-          <h5><a href="/event-details">2020 admidion fair going on this week</a></h5>
+          <h5><a href="/event-details">SLDP Land Lottery Program</a></h5>
             <ul class="list-unstyled list-inline">
-              <li class="list-inline-item"><i class="icon-clock-o"></i>5:30pm - 7.00pm</li>
-              <li class="list-inline-item"><i class="icon-map-marker"></i>Newyork,NY.</li>
+              <li class="list-inline-item"><i class="icon-clock-o"></i>31st December 2022 (11:00 am)</li>
+              <li class="list-inline-item"><i class="icon-map-marker"></i>RKD Holdings Limited Building, Sabhagriha Chowk, Pokhara</li>
             </ul>
-            <p>Lorem ipsum dolor sit amet consectetur. Como Ssee hou</p>
           </div>
         </div>
         <div class="event-box d-flex">
           <div class="event-date text-center">
-            <p>25 March</p>
+             <i class="icon-long-arrow-right"></i>
           </div>
           <div class="event-details">
-            <h5><a href="/event-details">2020 admidion fair going on this week</a></h5>
+            <h5><a href="/event-details">5th Annual General Meeting of Panchase Cable Car and Tours Limited</a></h5>
             <ul class="list-unstyled list-inline">
-              <li class="list-inline-item"><i class="icon-clock-o"></i>5:30pm - 7.00pm</li>
-              <li class="list-inline-item"><i class="icon-map-marker"></i>Newyork,NY.</li>
+              <li class="list-inline-item"><i class="icon-clock-o"></i>13th January 2023 (11:00 am)</li>
+              <li class="list-inline-item"><i class="icon-map-marker"></i>Shantinagar Banquet (Near Baral Petrol Pump), Masbar, Pokhara</li>
             </ul>
-            <p>Lorem ipsum dolor sit amet consectetur. Como Ssee hou</p>
           </div>
         </div>
           </div>
         </div>
-      </div>
       </div>
    </div>
 </section>
