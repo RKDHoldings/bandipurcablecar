@@ -29,7 +29,7 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="impact_details_left">
                             <div class="impact_details_img1">
-                                <img src="img/bids.jpg" width="100%" height="100%" alt="">
+                                <img src="img/bids.png" width="100%" height="100%" alt="">
                             </div>
                             <div class="impact_details_content">
                                 <p class="impact_details_sub_title">finance</p>

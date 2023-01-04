@@ -772,14 +772,14 @@
            <a href="impact-details1.php">
            <div class="card">
            <div class="backgroundEffect"></div>
-            <div class="pic"> <img class="" src="img/bids.jpg" alt="">
+            <div class="pic"> <img class="" src="img/bids.png" alt="">
                 <div class="date"> <span class="day">12</span> <span class="month">Poush</span> <span class="year">2079</span> </div>
             </div>
             <div class="content">
                <h4 class="impact_heading">International Invitation for E-bids</h4>
                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                   <a href="impact-details1.php"> Read More</a>
-                    <a href="impact-details1.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
+                   <a href="https://epaper.nagariknetwork.com/nagarik/src/epaper.php?id=5541#page/3" target="_blank"> Read More</a>
+                    <a href="https://epaper.nagariknetwork.com/nagarik/src/epaper.php?id=5541#page/3"target="_blank" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
 
                 </div>
             </div>
@@ -852,17 +852,17 @@
     </div>
     <div class="col-md-12">
       <div class="event-box d-flex">
-        <div class="event-date text-center">
+        <!-- <div class="event-date text-center">
              <i class="icon-long-arrow-right"></i>
-        </div>
-        <div class="event-details">
+        </div> -->
+        <!-- <div class="event-details">
           <h5><a href="/event-details">SLDP Land Lottery Program</a></h5>
             <ul class="list-unstyled list-inline">
               <li class="list-inline-item"><i class="icon-clock-o"></i>31st December 2022 (11:00 am)</li>
               <li class="list-inline-item"><i class="icon-map-marker"></i>RKD Holdings Limited Building, Sabhagriha Chowk, Pokhara</li>
             </ul>
           </div>
-        </div>
+        </div> -->
         <div class="event-box d-flex">
           <div class="event-date text-center">
              <i class="icon-long-arrow-right"></i>
