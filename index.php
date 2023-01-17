@@ -9,45 +9,19 @@
       <div class="modal-dialog">
             <div class="modal-content" >
                 <div class="modal-header">
-                  <!-- <h5 class="modal-title" id="exampleModalLabel">Modal title</h5> -->
+            
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                 </div>
                <div class="modal-body">
-                    <!-- <img alt="" class="img-fluid" src="img/events/event-2.jpg" xss="removed"> -->
-                    <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 500px;">
-
-		<div class=" d-flex justify-content-between p-3">
-			<!-- <div class="wrappic1 m-r-30 m-t-10 m-b-10">
-				<a href="#"><img src="img/withoutbg.png" width="85" alt="LOGO"></a>
-			</div> -->
-
-			<!-- <div class="flex-w m-t-10 m-b-10">
-				<a href="#" class="size3 flex-c-m how-social trans-04 m-r-6">
-					<i class="icon-facebook"></i>
-				</a>
-
-
-				<a href="#" class="size3 flex-c-m how-social trans-04 m-r-6">
-					<i class="icon-youtube-play"></i>
-				</a>
-			</div> -->
-		</div>
-
-		<div class="flex-w flex-sa p-r-200 respon1">
-			<div class="p-t-34 p-b-60 text-center">
-				<h2 class="section-title mt-5">
-					bandipur cablecar Coming Soon
-        </h2>
-
-
-        <div class="clock"></div>
-
-			</div>
-
-			
-		</div>
-	</div>
- 
+                    <!-- <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 500px;">
+	                    	<div class="flex-w flex-sa p-r-200 respon1">
+	                     		<div class="p-t-34 p-b-60 text-center">
+			                    	<h2 class="section-title mt-5">	bandipur cablecar Coming Soon </h2>
+                                 <div class="clock"></div>
+                        	</div>		
+		                    </div>
+	                  </div> -->
+                    <img src="img/post-1.png" class="w-100" alt="">
                </div>      
     </div>
   </div>
