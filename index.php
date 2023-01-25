@@ -13,15 +13,15 @@
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                 </div>
                <div class="modal-body">
-                    <!-- <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 500px;">
-	                    	<div class="flex-w flex-sa p-r-200 respon1">
-	                     		<div class="p-t-34 p-b-60 text-center">
+                    <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 450px;">
+	                    	<div class="flex-w flex-sa p-r-200 respon1 align-items-center">
+	                     		<div class="pt-5 p-b-60 text-center">
 			                    	<h2 class="section-title mt-5">	bandipur cablecar Coming Soon </h2>
                                  <div class="clock"></div>
                         	</div>		
 		                    </div>
-	                  </div> -->
-                    <img src="img/post-1.png" class="w-100" alt="">
+	                  </div>
+                  
                </div>      
     </div>
   </div>
@@ -41,7 +41,7 @@
               <!--              </div>-->
           </div> <!-- .item -->
         <div class="media-29121 overlay">
-        <video autoplay muted loop playsinline preload="metadata" controls="controls">
+          <video autoplay muted loop playsinline preload="metadata" controls="controls">
 	            <source src="img/videos/lower_station.mp4"  type="video/mp4">
           </video>
           <div class="container">
@@ -817,7 +817,7 @@
         </div>     
     </div>
 </section>
-<section id="events">
+<!-- <section id="events">
    <div class="container"> 
       <div class="event-area pb-5">
   <div class="row">
@@ -826,17 +826,7 @@
     </div>
     <div class="col-md-12">
       <div class="event-box d-flex">
-        <!-- <div class="event-date text-center">
-             <i class="icon-long-arrow-right"></i>
-        </div> -->
-        <!-- <div class="event-details">
-          <h5><a href="/event-details">SLDP Land Lottery Program</a></h5>
-            <ul class="list-unstyled list-inline">
-              <li class="list-inline-item"><i class="icon-clock-o"></i>31st December 2022 (11:00 am)</li>
-              <li class="list-inline-item"><i class="icon-map-marker"></i>RKD Holdings Limited Building, Sabhagriha Chowk, Pokhara</li>
-            </ul>
-          </div>
-        </div> -->
+      
         <div class="event-box d-flex">
           <div class="event-date text-center">
              <i class="icon-long-arrow-right"></i>
@@ -853,7 +843,7 @@
         </div>
       </div>
    </div>
-</section>
+</section> -->
 <!-- <section id="coops_principle">
     <div class="container">
         <div class="row">
