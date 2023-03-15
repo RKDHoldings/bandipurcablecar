@@ -80,7 +80,12 @@
                  <div class="financial_reports mt-4">
                  <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation"> 
-                            <button class="nav-link active" id="faq_tab_1-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1" aria-selected="true">
+                            <button class="nav-link active" id="faq_1-tab" data-bs-toggle="tab" data-bs-target="#faq_1-tab" type="button" role="tab" aria-controls="faq_1-tab" aria-selected="true">
+                               <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>2078-2079</span> </div>
+                            </button> 
+                    </li>
+                    <li class="nav-item" role="presentation"> 
+                            <button class="nav-link " id="faq_tab_1-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1" aria-selected="true">
                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i> <span>2077-2078</span> </div>
                             </button> 
                     </li>
@@ -97,7 +102,24 @@
 
                 </ul>
                 <div class="tab-content" id="myTabContent">
-                    <div class="tab-pane fade active show" id="faq_tab_1" role="tabpanel" aria-labelledby="faq_tab_1-tab">
+                <div class="tab-pane fade active show" id="faq_1-tab" role="tabpanel" aria-labelledby="faq_1-tab">
+                        <div class="container">    
+                         <ul id="financial-statements" class="financial-reports list-pdf" style="">  
+                          <!--<div class="tab-container">
+	                      <ul id="financial-statements" class="financial-reports list-pdf">-->
+				            <li class="tset pdf">
+                               <div class="title">
+                                 <h3>
+                                    <span class="wrap-title">           
+                                       <a target="_blank" href="img/reports/finalbandipur.pdf"  title="Audit report" class="">Audit report of 2078-2079</a> 
+                                    </span>
+                                 </h3>
+                              </div>           
+                           </li> 
+                        </ul>                      
+                      </div>
+                    </div>
+                    <div class="tab-pane fade active" id="faq_tab_1" role="tabpanel" aria-labelledby="faq_tab_1-tab">
                         <div class="container">    
                          <ul id="financial-statements" class="financial-reports list-pdf" style="">  
                           <!--<div class="tab-container">
