@@ -742,6 +742,25 @@
            <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p> -->
            <!-- impact stories card column -->
             <div class="row">
+            <div class="col-lg-3">
+           <a href="impact-details1.php">
+           <div class="card">
+           <div class="backgroundEffect"></div>
+            <div class="pic"> <img class="" src="img/news/ipo.jpeg" alt="">
+                <div class="date"> <span class="day">15</span> <span class="month">Chaitra</span> <span class="year">2079</span> </div>
+            </div>
+            <div class="content">
+               <h4 class="impact_heading">बन्दीपुर केबलकार एण्ड टुरिजमको आईपिओ निष्कासनको बिक्री प्रबन्धकमा नेपाल एसबिआई मर्चेण्ड बैँकिङ्ग लिमिटेड नियुक्त</h4>
+                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
+                   <a href="https://gyanmandu.com/content/8790" target="_blank"> Read More</a>
+                    <a href="https://gyanmandu.com/content/8790"target="_blank" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
+
+                </div>
+            </div>
+           </div>    
+             <!--card end  -->        
+           </a>
+        </div>   
         <div class="col-lg-3">
            <a href="impact-details1.php">
            <div class="card">
@@ -797,24 +816,7 @@
              <!--card end  -->
           </a>          
         </div>
-        <div class="col-lg-3">
-            <a href="impact-details4.php">
-               <div class="card">
-                    <div class="backgroundEffect"></div>
-                    <div class="pic"> <img class="" src="img/events/event-4.jpg" alt="">
-                         <div class="date"> <span class="day">25</span> <span class="month">Magh</span> <span class="year">2076</span> </div>
-                    </div>
-                    <div class="content">
-                        <h4 class="impact_heading">5th Annual General Meeting Decision of Bandipur Cable Car</h4>
-                        <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                              <a href="impact-details4.php"> Read More</a>
-                              <a href="impact-details4.php" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>                          
-                        </div>
-                   </div>
-               </div>  
-                <!--card end  -->
-            </a>         
-        </div>     
+       
     </div>
 </section>
 <!-- <section id="events">

@@ -31,19 +31,19 @@
           <div class="row main_media">
                   <div class="col-lg-4">
                      <div class="media_img" data-aos="fade-right" data-aos-duration="3000">
-                        <img src="img/news/q.png" class="w-100" alt="">
+                        <img src="img/news/ipo.jpeg" class="w-100" alt="">
                      </div>
                   </div>
                   <div class="col-lg-8">
                      <div class="media_content_right" data-aos="fade-left" data-aos-duration="3000">
                          <h2>
-                             <a href="https://risingnepaldaily.com/news/15515"
-                                target="_blank" title="">Cable car with a restaurant inside from next year in Bandipur
+                             <a href="https://gyanmandu.com/content/8790"
+                                target="_blank" title="">बन्दीपुर केबलकार एण्ड टुरिजमको आईपिओ निष्कासनको बिक्री प्रबन्धकमा नेपाल एसबिआई मर्चेण्ड बैँकिङ्ग लिमिटेड नियुक्त
                              </a>
                          </h2>
-                         <small>18 August 2022 </small>
+                         <small>15 Chaitra 2079 </small>
                          <p>Bandipur, which has gained fame by the name of ‘Pahadki Rani,’ is set to add another feather in its cap: tourists visiting the place by cable car will be getting lodging and food facilities inside it come next year.</p>
-                         <a href="https://risingnepaldaily.com/news/15515" target="_blank" class=" media_more" title="Read more">Read more</a>
+                         <a href="https://gyanmandu.com/content/8790" target="_blank" class=" media_more" title="Read more">Read more</a>
                      </div>
                   </div>          
           </div> 
