@@ -13,15 +13,16 @@
                   <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                 </div>
                <div class="modal-body">
-                    <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 450px;">
+                    <!-- <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 450px;">
 	                    	<div class="flex-w flex-sa p-r-200 respon1 align-items-center">
 	                     		<div class="pt-5 p-b-60 text-center">
 			                    	<h2 class="section-title mt-5">	bandipur cablecar Coming Soon </h2>
                                  <div class="clock"></div>
                         	</div>		
 		                    </div>
-	                  </div>
-                  
+	                  </div> -->
+                  <h2 class="section-title text-center">IPO Agreement Ceremony</h2>
+                  <img src="img/news/ipo.jpeg" width="100%" alt="">
                </div>      
     </div>
   </div>
@@ -743,7 +744,7 @@
            <!-- impact stories card column -->
             <div class="row">
             <div class="col-lg-3">
-           <a href="impact-details1.php">
+           <a href="https://gyanmandu.com/content/8790" target="_blank">
            <div class="card">
            <div class="backgroundEffect"></div>
             <div class="pic"> <img class="" src="img/news/ipo.jpeg" alt="">

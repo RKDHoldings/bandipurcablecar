@@ -42,7 +42,7 @@
                              </a>
                          </h2>
                          <small>15 Chaitra 2079 </small>
-                         <p>Bandipur, which has gained fame by the name of ‘Pahadki Rani,’ is set to add another feather in its cap: tourists visiting the place by cable car will be getting lodging and food facilities inside it come next year.</p>
+                         <p>बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडले आई पिओ निष्कासन गर्न नेपाल एसबिआई मर्चेण्ड बैँकिङ्ग लिमिटेडलाई बिक्री प्रबन्धक नियुक्त गरेको छ ।</p>
                          <a href="https://gyanmandu.com/content/8790" target="_blank" class=" media_more" title="Read more">Read more</a>
                      </div>
                   </div>          
