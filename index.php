@@ -8,22 +8,25 @@
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
             <div class="modal-content" >
-                <div class="modal-header">
+               <a href="https://gyanmandu.com/content/8790" target="_blank">
+               <div class="modal-header">
             
-                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
-                </div>
-               <div class="modal-body">
-                    <!-- <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 450px;">
-	                    	<div class="flex-w flex-sa p-r-200 respon1 align-items-center">
-	                     		<div class="pt-5 p-b-60 text-center">
-			                    	<h2 class="section-title mt-5">	bandipur cablecar Coming Soon </h2>
-                                 <div class="clock"></div>
-                        	</div>		
-		                    </div>
-	                  </div> -->
-                  <h2 class="section-title text-center">IPO Agreement Ceremony</h2>
-                  <img src="img/news/ipo.jpeg" width="100%" alt="">
-               </div>      
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
+          </div>
+         <div class="modal-body">
+              <!-- <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 450px;">
+                  <div class="flex-w flex-sa p-r-200 respon1 align-items-center">
+                     <div class="pt-5 p-b-60 text-center">
+                      <h2 class="section-title mt-5">	bandipur cablecar Coming Soon </h2>
+                           <div class="clock"></div>
+                    </div>		
+                  </div>
+              </div> -->
+            <h2 class=" text-center">
+Nepal SBI Merchant Banking Limited has been appointed as the sales manager <br/> for the IPO issue of Bandipur Cable Car and Tourism.</h2>
+            <img src="img/news/ipo.jpeg" width="100%" alt="">
+         </div>      
+               </a>
     </div>
   </div>
 </div>
@@ -90,7 +93,8 @@
             <div class="d-flex justify-content-between align-items-center breaking-news">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
                 <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                <a href="impact-details1.php">Invitation for bids</a><span class="dot"></span> <a href="">EGM( Extraordinary General Meeting) of Bandipur Cable Car Company (2079/04/07) </a><span class="dot"></span>  <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
+               <a href="https://gyanmandu.com/content/8790" target="_blank">
+Nepal SBI Merchant Banking Limited has been appointed as the sales manager for the IPO issue of Bandipur Cable Car and Tourism. (2079/12/15)</a> <span class="dot"></span><a href="impact-details1.php">Invitation for bids</a><span class="dot"></span> <a href="">EGM( Extraordinary General Meeting) of Bandipur Cable Car Company (2079/04/07) </a><span class="dot"></span>  <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
             </div>
         </div>
     </div>
