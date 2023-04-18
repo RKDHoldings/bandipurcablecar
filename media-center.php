@@ -31,29 +31,30 @@
           <div class="row main_media">
                   <div class="col-lg-4">
                      <div class="media_img" data-aos="fade-right" data-aos-duration="3000">
-                        <img src="img/news/ipo.jpeg" class="w-100" alt="">
+                        <img src="img/news/tower.jpg" class="w-100" alt="">
                      </div>
                   </div>
                   <div class="col-lg-8">
                      <div class="media_content_right" data-aos="fade-left" data-aos-duration="3000">
                          <h2>
-                             <a href="https://gyanmandu.com/content/8790"
-                                target="_blank" title="">बन्दीपुर केबलकार एण्ड टुरिजमको आईपिओ निष्कासनको बिक्री प्रबन्धकमा नेपाल एसबिआई मर्चेण्ड बैँकिङ्ग लिमिटेड नियुक्त
+                             <a href="https://www.setopati.com/kinmel/tourism/299721?fbclid=IwAR3EjsYfgNGHSztq58njCyG2E-VkuGMKnRZQaQZRPdG2M3UuwEKUeIYsnMA"
+                                target="_blank" title="">यस्तो बन्दैछ बन्दिपुरको पहिलो पाँचतारे होटल
                              </a>
                          </h2>
-                         <small>15 Chaitra 2079 </small>
-                         <p>बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडले आई पिओ निष्कासन गर्न नेपाल एसबिआई मर्चेण्ड बैँकिङ्ग लिमिटेडलाई बिक्री प्रबन्धक नियुक्त गरेको छ ।</p>
-                         <a href="https://gyanmandu.com/content/8790" target="_blank" class=" media_more" title="Read more">Read more</a>
+                         <small>4 Baishakh 2080 </small>
+                         <p>यस्तो बन्दैछ बन्दिपुरको पहिलो पाँचतारे होटल</p>
+                         <a href="https://www.setopati.com/kinmel/tourism/299721?fbclid=IwAR3EjsYfgNGHSztq58njCyG2E-VkuGMKnRZQaQZRPdG2M3UuwEKUeIYsnMA" target="_blank" class=" media_more" title="Read more">Read more</a>
                      </div>
                   </div>          
           </div> 
           <div class="row news_listing" data-aos="fade-up" data-aos-duration="800">
                <div class="col-lg-4">
-                  <div class="thumb"><a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno" target="_blank"><img src="img/news/ipo.jpg" alt="Bandipur cable car IPO" ></a></div>
+                  <div class="thumb"><a href="https://gyanmandu.com/content/8790" target="_blank"><img src="img/news/ipo.jpeg" alt="Bandipur cable car IPO" ></a></div>
                   <div class="details">		
-	                  	<h3><a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno"target="_blank" title="Bandipur Cablecar & IPO to open">बन्दीपुर केबलकार र आइपिओ एकैसाथ खुल्ने</a></h3>
-                      <small>साउन १८ २०७९ | </small>
-	                   	<a href="https://www.setopati.com/kinmel/business/278615?fbclid=IwAR04AnzLrDTU0k9xuwBCpx7qiro1jZKST1up1tv09r9zzwsKkbpRb5Vnsno"target="_blank" class="media_more" title="Read more">Read more</a>
+	                  	<h3><a href="https://gyanmandu.com/content/8790"target="_blank" 
+                        title="Bandipur Cablecar & IPO to open">बन्दीपुर केबलकार एण्ड टुरिजमको आईपिओ निष्कासनको बिक्री </a></h3>
+                      <small>15 Chaitra 2079 | </small>
+	                   	<a href="https://gyanmandu.com/content/8790"target="_blank" class="media_more" title="Read more">Read more</a>
 	                </div>
                </div>
                <div class="col-lg-4">
