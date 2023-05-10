@@ -437,7 +437,7 @@
                               <div class="content-overlay"></div>
                               <img class="content-image" src="img/features/queen-tower.jpg">
                               <div class="content-details fadeIn-left">
-                                <h3>4 Star Queen Tower</h3>
+                                <h3>5 Star Queen Tower</h3>
                                 <!-- <p>This is a short description</p> -->
                               </div>
                        </a>
