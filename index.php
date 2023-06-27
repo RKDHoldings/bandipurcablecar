@@ -22,9 +22,8 @@
                     </div>		
                   </div>
               </div> -->
-            <h2 class=" text-center">
-Nepal SBI Merchant Banking Limited has been appointed as the issue manager <br/> for the IPO issue of Bandipur Cable Car and Tourism.</h2>
-            <img src="img/news/ipo.jpeg" width="100%" alt="">
+            <h2 class=" text-center">AGM of Bandipur Cablecar</h2>
+            <img src="img/agm.png" width="100%" alt="">
          </div>      
                </a>
     </div>

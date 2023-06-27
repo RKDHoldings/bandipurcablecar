@@ -573,7 +573,20 @@
       <div class="timeline-slider">
         <!-- <div class="timeline-slide" id="bandipur_start" style="background-image: url(img/project_process/1.jpg" data-year="२०७८"> <span class="timeline-year">२०७८</span>
           <div class="timeline-slide__content">
-            <h4 class="timeline-title">२०७८ फागुन १ गते </h4>
+            <h]
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            class="timeline-title">२०७८ फागुन १ गते </h4>
             <p class="timeline-text">रेष्ट्रो जोन सञ्चालनमा ल्याउने ।</p>
           </div>
         </div> -->

@@ -3684,8 +3684,12 @@ h5.team_position{
 	-webkit-transform: scale(0.1,0.1);
 }
 
-@media screen and (max-width: 980px) {	}
-
+@media screen and (max-width: 980px) {
+   .modal-content {  
+       width: 90% !important;
+	}
+}
+ 
 /**/
 /* phone */
 /**/
@@ -4571,7 +4575,7 @@ body.modal-open {
   position: fixed;
 }
 .modal-content{
-  width: 90%;
+  width: 50%;
   margin: auto;
 }
 .modal-content h2{
