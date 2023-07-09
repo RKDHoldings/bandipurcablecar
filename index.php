@@ -92,6 +92,7 @@
             <div class="d-flex justify-content-between align-items-center breaking-news">
                 <div class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news"><span class="d-flex align-items-center">&nbsp;General Notice</span></div>
                 <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+                <a href="img/new.jpeg" target="_blank"  download>Extensive discussion regarding 8th Annual General Meeting of Bandipur Cablecar & Tourism Limited </a><span class="dot"></span>
                <a href="#events">
 Nepal SBI Merchant Banking Limited has been appointed as the issue manager for the IPO issue of Bandipur Cable Car and Tourism. (2079/12/15)</a> <span class="dot"></span><a href="impact-details1.php">Invitation for bids</a><span class="dot"></span> <a href="">EGM( Extraordinary General Meeting) of Bandipur Cable Car Company (2079/04/07) </a><span class="dot"></span>  <a href="img/reports/bandipur book 2078 Final pdf" target="_blank">7th AGM(Annual General Meeting) of Bandipur Cable Car Company(2078/06/21) </a> <span class="dot"></span> <a href="#">Conversion from Private to Public Limited Company( 2078/05/13) </a> <span class="dot"></span> <a href="#">Registration of Chhimkeshwori Cablecar(2078/01/08) </a> </marquee>
             </div>
