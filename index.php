@@ -8,7 +8,7 @@
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
             <div class="modal-content" >
-               <a href="https://gyanmandu.com/content/8790" target="_blank">
+              
                <div class="modal-header">
             
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
@@ -22,10 +22,10 @@
                     </div>		
                   </div>
               </div> -->
-            <h2 class=" text-center">AGM of Bandipur Cablecar</h2>
-            <img src="img/agm.png" width="100%" alt="">
+            <h2 class=" text-center">Notice regarding AGM of Bandipur Cablecar</h2>
+            <img src="img/new.jpeg" width="100%" alt="">
          </div>      
-               </a>
+             
     </div>
   </div>
 </div>
