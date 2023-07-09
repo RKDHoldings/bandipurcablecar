@@ -28,6 +28,16 @@
          <div class="row">
              <h2 class="section-title"> Documents</h2>
              <div class="col-lg-3">
+                 <a href="img/reports/8thagm.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">8th AGM Report of Bandipur Cablecar & Tourism Limited</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
                  <a href="img/bids.jpg" target="_blank" download>
                     <div class="card">
                         <div class="card-body">
