@@ -90,9 +90,9 @@ button {
   z-index: 1;
   overflow: hidden; border-radius: var(--border-radius);
 }
-button:hover {
+/* button:hover {
   color:  var(--secondary-color);
-}
+} */
 button[class^="slide"]::after {
   content: "";
   background: var(--bg-color);
