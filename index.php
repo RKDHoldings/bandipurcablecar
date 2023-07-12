@@ -23,7 +23,7 @@
                   </div>
               </div> -->
             <h2 class=" text-center">Notice regarding AGM of Bandipur Cablecar</h2>
-            <img src="img/new.jpeg" width="100%" alt="">
+            <img src="img/agm-info.png" width="100%" alt="">
          </div>      
              
     </div>
@@ -52,7 +52,7 @@
             <div class="row  align-items-center">
               <div class="col-md-8">
                 <!-- <h6>Great Experience In Building. </h6> -->
-                <h2>7 YEARS <br> OF PROGRESS</h2>
+                <h2>8 YEARS <br> OF PROGRESS</h2>
                 
               </div>
             </div>
@@ -128,7 +128,7 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
 								<div class="icon-box"> <img src="img/icon_pack/group.png" alt=""></div>
 								<div class="content-wrapper">
                   <h4  class="title__secondary">500 Passenger Per Hour</h4>
-                  <p class="card-text mt-0">Cable Car expects to have 300 Passenger from different location in Bandipur Village.</p>       
+                  <p class="card-text mt-0">Cable Car expects to have 500 Passenger per hour from different location in Bandipur Village.</p>       
 								</div> <!-- .content-wrapper -->
 							</div> <!-- .item-wrapper -->
 						</div> <!-- .col-sm-6 -->
@@ -230,7 +230,7 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
                 <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal, Ministry of Industry, Company Registrar Office, Kathmandu on 2078.05.13 BS under 
-                  registration No. 270364/078/079 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
+                  registration No. 270364/078/079 and PAN-600918925 having its registered office at Bandipur Rural Muncipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun and Corporate office at Kuleshwor-14, Kathmandu. </p>
                    <!-- promoter structure share in percentage counter -->
                   <div class="fact-counter" data-aos="fade-left"data-aos-duration="1000">
                        <div class="row">
@@ -238,8 +238,8 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                            <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
                                <div class="inner">
                                   <div class="count-outer count-box counted">
-                                      <div class="value" akhi="61">0</div>  <span>%</span>
-                                         <h4 class="counter-title">RKD Tourism</h4>
+                                      <div class="value" akhi="54.09">0</div>  <span>%</span>
+                                         <h4 class="counter-title">RKD</h4>
                                   </div>
                                </div>
                            </div>
@@ -254,7 +254,7 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                            <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
                                <div class="inner">
                                   <div class="count-outer count-box counted">
-                                     <div class="value" akhi="14">0</div>  <span>%</span>
+                                     <div class="value" akhi="20.91">0</div>  <span>%</span>
                                         <h4 class="counter-title">others</h4>
                                   </div>
                                </div>
@@ -286,15 +286,15 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
               <div class="col-xs-12 col-sm-12 col-lg-5">
                   <div class="info__one__topright">
                       <div class="info__one__counter">
-                      <h5>As Per Audit 2077/78</h5>
+                      <h5>As Per Audit 2078/79</h5>
                           <ul class="info__one__counter__list list-unstyled">
                               <li class="info__one__counter-single">
-                                <div class="value" akhi="822">0</div> 
+                                <div class="value" akhi="3618">0</div> 
                                   <p class="info__one__counter__text">Promoter Share</p>
                               </li>
                               <li class="info__one__counter-single two">
-                                <div class="value" akhi="42">0</div> <span class="info__one__counter__text ms-1">Crore</span>  
-                                  <p class="info__one__counter__text">Total Paid Up Share Amount</p>
+                                <div class="value" akhi="55">0</div> <span class="info__one__counter__text ms-1"></span>  
+                                  <p class="info__one__counter__text">No. of employees</p>
                               </li>
                           </ul>
                       </div>
@@ -336,13 +336,13 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                                  <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                                     <!-- <h4 class="value_currency">NPR</h4> -->
                                     <div class="value" akhi="75">0 </div>
-                                    <h4 class="value_heading">crore</h4>
+                                    <h4 class="value_heading">Crore</h4>
                                  </div>
                             </div>                          
           </li>
           <li class="info__one__feature__single ">
                             <div class="info__one__feature__content">
-                                <h3 class="info__one__feature__title">total project assets
+                                <h3 class="info__one__feature__title">Paid-up share Capital
                               </h3>                             
                             </div>
                             <div class="info__one__feature__icon">
@@ -350,7 +350,7 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                                 <div class="counter-value"  data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                                 <!-- <h4 class="value_currency">NPR</h4> -->
                                   
-                                    <h4 class="value_heading">2 arba 50 crore</h4>
+                                    <h4 class="value_heading">20 Crore</h4>
                                  </div>
                             </div>                           
           </li>
@@ -408,7 +408,7 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                           </div>
                       </div>
                       <div class="back from-left">
-                         <h2>queen tower 13 storey</h2>
+                         <h2>queen tower 17 storey</h2>
                          <p class="des">पाँच  तारे होटल: १०० वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>    
                       </div>
                      </div>
@@ -524,30 +524,80 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
 	       	</div>
 	         <!--featured investment item seventh end -->
            <!--featured investment item eighth start -->
-						<!-- <div class="item">
+						<div class="item">
               <div class="column_for_feature">
                 <div class="card">
                   <div class="content">
                     <div class="front">
-                      <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/swimming-pool.jpg);">
+                      <div class="img d-flex align-items-end justify-content-center" style="background-image: url(img/features/skywalk.jpg);">
                           <div class="text w-100">
-											        <h3><a href="#">planetterum</a></h3>
+											        <h3><a href="#">Skywalk</a></h3>
 									      	</div>
                       </div>
                     </div>
                     <div class="back from-left">
-                       <h2>planetterum</h2>    
-                       <p class="des">टेलिस्कोप ग्लास जडित हुन्छ । जसले हिमालयल रेन्जलाई आँखै अगाडि महशुस हुने गरि अवलोकन गराउँछ । दश तला माथि स्वीमिङ् पुल यो नेपालमै नयाँ फिचर हो साथमा बुटिक रेष्ट्रो सुविधा राखिएको छ ।</p>    
+                       <h2>Skywalk</h2>    
+                       <p class="des"></p>    
                     </div>
                   </div>
                 </div>
               </div>
-	        </div> -->
+	        </div>
         <!--featured investment item eighth end -->
    	   </div>
      </div>
    </div>
 </div>
+</section>
+
+<!-- featured partners -->
+<section id="client-slider" class="subsidiary">
+  <div class="container">
+  <div class="row">
+   
+      <!-- <h6>who believed in us</h6> -->
+      <h2 class="section-title">Our Associate Companies</h2>
+      <!-- <p class=""> Our   Details</p> -->
+  <div class="col-lg-3">
+    <!-- client single item -->
+     <div class="single-logo" style="height:120px; border:1px solid #ff7800;">
+          <a href="" target="blank">
+             <h5 class="partner_type text-center">Budhima Chimkeshwori Darshan Pvt. Ltd. </h5>
+          </a>
+     </div>
+  </div>
+       <!-- client single item -->
+  <div class="col-lg-3"> 
+      <div class="single-logo" style="height:120px; border:1px solid #ff7800;">
+          <a href="" target="blank">
+             <h5 class="partner_type text-center">Bandipur Skywalk and Recreation Pvt. Ltd.</h5>
+             <img src="img/partner_company/skywalk.png" alt="Logo of Bandipur Skywalk and Recreation Pvt. Ltd.">
+           
+          </a>
+      </div>
+  </div>
+       <!-- client single item -->
+  <div class="col-lg-3">
+      <div class="single-logo" style="height:120px; border:1px solid #ff7800;">
+          <a href="" target="_blank">
+             <h5 class="partner_type text-center">Bandipur Banquet and Events Pvt. Ltd.</h5>
+             <!-- <img src="img/partner_company/sidda.png" alt="Logo of Bandipur Banquet and Events Pvt. Ltd."> -->
+          </a>
+      </div>
+  </div>
+       <!-- client single item -->
+  <div class="col-lg-3">
+  <div class="single-logo" style="height:120px; border:1px solid #ff7800;">
+          <a href="" target="_blank">
+             <h5 class="partner_type text-center">Siddha Gufa Ropeway Pvt. Ltd.</h5>
+             <img src="img/partner_company/sidda.png" alt="Logo of Bandipur Banquet and Events Pvt. Ltd.">
+          </a>
+     </div>
+  </div>
+    
+     
+    </div>
+  </div>
 </section>
 
 <!-- featured partners -->

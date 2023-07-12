@@ -43,7 +43,10 @@
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>बन्दीपुरको प्रोजेक्ट अगाडी बढिसकेको छ । कोभिडको कारण केबलकार संचालर्नको समय तालिका प्रभावित भएको छ । अब पनि भैपरी घटना सुजना नभएको खण्डमा असार सम्म परिक्षण संचालन र असोज सम्ममा व्यवसायिक संचालनमा ल्याउर्ने तयारी एबम योजना तर्जुुमा गरिएको छ  भने २०८० वैशाख १ गते फुलफेजमा परियोजना व्यवसायीक संचालनमा आउने छ ।</p></div>
+                        <div class="text">
+                           <p >कोभिड र राजनैतिक अस्थिरताका कारण यो वर्ष देशको आन्तरिक अवस्था पनि त्यति सहज देखिँदैन | तर आगामी वर्ष पर्यटनको नयाँ र उपलब्धिमूलक परिस्थिति सिर्जना हुने निश्चितप्रायः देखिएको छ |
+                           </p>
+                        </div>
                     </li>
                   
                    
@@ -129,6 +132,7 @@
                                  <li  class="nav-item"><a href="#future_features" class="nav-link">  वार्क भ्यु/सिसाको पुल     </a> </li>
                                  <li  class="nav-item"><a href="#future_features" class="nav-link">  स्काइ साइक्लिङ         </a> </li>
                                  <li  class="nav-item"><a href="#future_features" class="nav-link">  रानीवन जंगल रिर्सोट      </a> </li>
+                                 <li  class="nav-item"><a href="#future_features" class="nav-link">  स्काइवाक      </a> </li>
                                  <li  class="nav-item"><a href="#future_features" class="nav-link">  विविध पर्यटकीय फिचरहरु  </a> </li>
                               </ul>
                      </div>
@@ -517,6 +521,18 @@
                        </div>							
 						</div>
 					</div>
+               <!-- strategy Block -->
+					<div class="strategy_block col-lg-2 col-md-6 col-sm-12">
+						<div class="inner_box">
+							  <div class="icon_box">
+                          <img src="img/icon_pack/for_features/cycling.png" alt="">
+							  </div>
+                       <div class="heading_arrow d-flex justify-content-between">
+                           <h5><a href="">स्काइवाक</a></h5>      
+                       </div>							
+						</div>
+					</div>
+                    	<!-- strategy Block -->
                     	<!-- strategy Block -->
 					<div class="strategy_block col-lg-2 col-md-6 col-sm-12">
 						<div class="inner_box">

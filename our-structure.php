@@ -34,7 +34,14 @@
 					<!-- tab1 content -->
 				<ul>
 					<li class="tab-content tab-content-first typography">
-                    <div class="row">
+                  <div class="row">
+                     <div class="col-lg-12">
+                        <img src="img/directer_team/bod.jpg" class="w-100" alt="">
+
+                     </div>
+
+                  </div>
+                    <!-- <div class="row">
                           <div class="col-md-3 col-sm-6 col-xs-12">
                              <div class="single-team">
                                  <div class="img-area">
@@ -56,9 +63,7 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/shiva-sharma.webp" class="img-responsive" alt="">
                                          <div class="social">
-                                           <!-- <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                           </ul> -->
+                                         
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -72,9 +77,7 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/taranath.webp" class="img-responsive" alt="">
                                          <div class="social">
-                                              <!-- <ul class="list-inline">
-                                                 <li><a href="team_inner.php">more info</a></li>
-                                              </ul> -->
+                                            
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -88,9 +91,7 @@
                                   <div class="img-area">
                                        <img src="img/directer_team/krishnaraj-adhikari.webp" class="img-responsive" alt="">
                                        <div class="social">
-                                            <!-- <ul class="list-inline">
-                                               <li><a href="team_inner.php">more info</a></li>
-                                            </ul> -->
+                                           
                                        </div>
                                   </div>
                                 <div class="img-text">
@@ -99,19 +100,17 @@
                                 </div>
                               </div>
                          </div>
-                         <!-- col end -->                  
-                      </div>
+                                       
+                      </div> -->
 
                       <!-- new row -->
-                      <div class="row">
+                      <!-- <div class="row">
                           <div class="col-md-3 col-sm-6 col-xs-12">
                              <div class="single-team">
                                  <div class="img-area">
                                       <img src="img/directer_team/nawaraj.webp" class="img-responsive" alt="">
                                       <div class="social">
-                                         <!-- <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                         </ul> -->
+                                       
                                       </div>
                                   </div>
                                 <div class="img-text">
@@ -125,9 +124,7 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/haridatta-poudel.webp" class="img-responsive" alt="">
                                          <div class="social">
-                                              <!-- <ul class="list-inline">
-                                                 <li><a href="team_inner.php">more info</a></li>
-                                              </ul> -->
+                                           
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -141,9 +138,7 @@
                                    <div class="img-area">
                                          <img src="img/directer_team/harka-bahadur.webp" class="img-responsive" alt="">
                                          <div class="social">
-                                              <!-- <ul class="list-inline">
-                                                 <li><a href="team_inner.php">more info</a></li>
-                                              </ul> -->
+                                            
                                          </div>
                                    </div>
                                  <div class="img-text">
@@ -157,9 +152,7 @@
                                   <div class="img-area">
                                        <img src="img/directer_team/kiran-pokhrel.webp" class="img-responsive" alt="">
                                          <div class="social">
-                                           <!-- <ul class="list-inline">
-                                             <li><a href="team_inner.php">more info</a></li>
-                                           </ul> -->
+                                           
                                          </div>
                                   </div>
                                 <div class="img-text">
@@ -168,8 +161,8 @@
                                 </div>
                               </div>
                          </div>
-                         <!-- col end -->                  
-                      </div>
+                                       
+                      </div> -->
 					</li>
 						<!-- tab2 content -->
 					<li class="tab-content tab-content-2 typography">
@@ -388,7 +381,7 @@
                   <ul class="list-unstyled aboutus__points swpf ps-0">
                     <li>  
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"> <p>नीति विभाग</p> </div>
+                        <div class="text"> <p>नीति तथा योजना</p> </div>
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
@@ -396,8 +389,63 @@
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p> कानुनी व्यवस्थापन </p></div>
+                        <div class="text"><p> कानुनी तथा अनुपालन व्यवस्थापन </p></div>
                     </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text">
+                          <p> परियोजना व्यवस्थापन ( केबलकार सञ्चालन विभाग, होटल सञ्चालन विभाग, रेस्टुरेǔट
+                           सञ्चालन विभाग,साहायक कम्पनीहरू सञ्चालन)
+                         </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text">
+                          <p>अतिरिक्त
+                         </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text">
+                          <p>प्राविधिक व्यवस्थापन
+                         </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text">
+                          <p>सञ्चार एवं यातायात व्यवस्थापन 
+                         </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text">
+                          <p>सार्वजनिक सम्बन्ध व्यवस्थापन 
+                         </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text">
+                          <p>संस्थागत
+                         </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text">
+                          <p>सम्पर्क
+                         </p>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
+                        <div class="text"><p>  STU(Special Task Unit) </p></div>
+                    </li>
+                    
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
                         <div class="text"><p>लेखा परीक्षण </p></div>
@@ -412,36 +460,26 @@
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>  STU(Special Task Unit) </p></div>
+                        <div class="text">
+                          <p>E.R.T (Emergency Rescue Team)
+                         </p>
+                        </div>
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>  दुर्भाग्यवश बिचमा शेयरधनीको दुर्घटनामा परी मृत्यु भएमा अघिल्ला सबै किस्ता र व्याज मिनाहा हुन्छ । कम्पनीको शेयरमार्फत्परिवारले वोनस प्राप्त गरीरहन सक्नेछन्। </p></div>
+                        <div class="text">
+                          <p>I. R.O (International Relation Officer)
+                         </p>
+                        </div>
                     </li>
                     <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>  कम्पनीको ऋण भुक्तान गरिसकेपछि शेयरको प्रकारसमेत परिवर्तन गरिनेछ । जुनबाट कम्पनीले वितरण गर्ने वोनस अन्य शेयर सरह प्राप्त गरिनेछ । </p></div>
+                        <div class="text">
+                          <p>L.R.O (Local Relation Officers)
+                         </p>
+                        </div>
                     </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p> शेयरधनीको शेखपछि हकवालाले अन्य सरह सेवा सुविधा पाइरहनेछन्।  </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p> शेयरधनीले कर्जाको किस्ता तिर्न नसकेमा ब्रेक गर्न सक्नेछन्। ब्रेक गर्दा जति रकम भुक्तान गरेको छ त्यतिनै मात्र शेयर राखी बाँकी शेयर लिलामी गरिनेछ । यस्तो अवस्थामा जति रकम भुक्तान भएको छ त्यसलाई आधार मानी भुक्तान गरिसकेको वोनसमा बढी हुन जाने रकम जफत गरिनेछ ।  </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>स्वस्थ ढंगले कारोवार गरी १० वर्षमा ऋण भुक्तान गरेपछि कम्पनीले प्रोत्साहन र भविष्यको सुरक्षाका लागि ऋण लिएकोरकम बराबर नै थप एकमुष्ठ शेयर रकम बराबर कम्पनीको शेयर दिनेछ। </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p> यो सुविधामार्फत् शेयरधनीको कम्पनीमा स्किम प्याकेजको दोब्बर नेटवर्थ प्राप्त गर्ने सुनिश्चित आधार शेयरधनीलाई दिनेछ । </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p> समय सापेक्ष स्किम अझ परिस्कृत गर्दै लगिनेछ । विवादको अन्तिम निर्णय गर्ने सर्वाधिकार कम्पनीमा रहनेछ । </p></div>
-                    </li>
+          
                                   
                   </ul>
                 </div>

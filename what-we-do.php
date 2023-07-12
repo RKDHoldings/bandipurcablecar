@@ -259,7 +259,7 @@
    <div class="container">
       <div class="row">
 		  <h6>queen tower</h6>
-         <h2 class="section-title">queen tower 13 storey</h2>
+         <h2 class="section-title">queen tower 17 storey</h2>
 		 <p>We will operate 5 Star hotel named as “Queen Tower” Hotel.  It will have minimum of 84 and maximum of 100 rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and operation.</p>
 	       <!--inner contents of queen tower 13 storey  -->
          <div class="col-lg-4">   
@@ -283,6 +283,15 @@
               <div class='info'>
                    <h5 class="title">Queen Tower Swimming Pool</h5>
                    <p class='description'>People can enjoy the beautiful moments of Bandipur through the 13 storey Queen Tower even during swimming from the Swimming Pool.</p>
+              </div> 
+            </div>  
+         </div>
+
+         <div class="col-lg-4">   
+            <div class="card"  style="background-image:url('img/features/skywalk.jpg')">
+              <div class='info'>
+                   <h5 class="title">Skywalk</h5>
+                   <p class='description'>People can enjoy the beautiful moments of Bandipur through the skywalk .</p>
               </div> 
             </div>  
          </div>

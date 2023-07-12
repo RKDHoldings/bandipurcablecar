@@ -4,7 +4,7 @@
   --theme-color: #004f8a;
   --secondary-color: #ff7800;
   --bg-color: #fff;
-  --secondary-bg: #f3f9fa;
+  --secondary-bg: #25839326;
   --primary-font-color:#000;
   --secondary-font-color: #666;
   --primary-font-family:   'Philosopher', sans-serif; 
@@ -90,9 +90,9 @@ button {
   z-index: 1;
   overflow: hidden; border-radius: var(--border-radius);
 }
-/* button:hover {
+button:hover {
   color:  var(--secondary-color);
-} */
+}
 button[class^="slide"]::after {
   content: "";
   background: var(--bg-color);
@@ -918,6 +918,7 @@ blockquote{display: inline-block; font-weight: 700;}
     box-shadow: 0 0 1px rgb(0 0 0 / 10%);
    transition: all 0.3s ease-in-out;
     margin: 6px;   text-transform: capitalize;
+    text-align: center;
 }
 .single-logo:hover {
   border: 1px solid var(--secondary-color);
@@ -925,6 +926,9 @@ blockquote{display: inline-block; font-weight: 700;}
 }
 .single_client_img{
   margin: 1.4rem 0 0 0;
+}
+.subsidiary{
+  background-color: var(--secondary-bg) !important;
 }
 #client-slider img { width: 80px; margin: auto;  transform: scale(1);
   -webkit-transition: .3s ease-in-out;
@@ -3778,7 +3782,7 @@ img.logo_panchase{
 
 .pcss3t > ul,
 .pcss3t > ul > li {
-	height: 905px;
+	height: 1400px;
 }
 #investment_committee{
   padding: 6rem 0 6rem 0;
@@ -3956,7 +3960,7 @@ img.logo_panchase{
 }
 .pie_data_details{ border: 1px solid #e3e3e3; padding: 3rem;}
 #future_features{
-  padding:  6rem 0 6rem 0;
+  padding:  6rem 0 6rem 0; background: var(--bg-color);
 }
 #future_features .strategy_block .inner_box h5 {
   font-size: 1rem;
