@@ -23,7 +23,7 @@
                   </div>
               </div> -->
             <h2 class=" text-center">Notice regarding AGM of Bandipur Cablecar</h2>
-            <img src="img/agm-info.png" width="100%" alt="">
+            <img src="img/bandipur-agm.jpg" width="100%" alt="">
          </div>      
              
     </div>
