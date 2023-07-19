@@ -282,7 +282,7 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                       <h5>As Per Audit 2078/79</h5>
                           <ul class="info__one__counter__list list-unstyled">
                               <li class="info__one__counter-single">
-                                <div class="value" akhi="3618">0</div> 
+                                <div class="value" akhi="4500">0</div> 
                                   <p class="info__one__counter__text">Promoter Share</p>
                               </li>
                               <li class="info__one__counter-single two">
