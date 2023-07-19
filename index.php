@@ -5,7 +5,7 @@
  include('includes/navbar.php');
  ?>
 
-  <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
+  <!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
             <div class="modal-content" >
               
@@ -14,35 +14,18 @@
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
           </div>
          <div class="modal-body">
-              <!-- <div class="bg-img1 size1 overlay1 p-t-24" style="background-image: url('img/gallery_icon/project-4.jpg');background-repeat: no-repeat; height: 450px;">
-                  <div class="flex-w flex-sa p-r-200 respon1 align-items-center">
-                     <div class="pt-5 p-b-60 text-center">
-                      <h2 class="section-title mt-5">	bandipur cablecar Coming Soon </h2>
-                           <div class="clock"></div>
-                    </div>		
-                  </div>
-              </div> -->
+             
             <h2 class=" text-center">Notice regarding AGM of Bandipur Cablecar</h2>
             <img src="img/bandipur-agm.jpg" width="100%" alt="">
          </div>      
              
     </div>
   </div>
-</div>
+</div> -->
 
 <section id="banner">
   <div class="content">
       <div class="owl-carousel owl-1">
-          <!-- <div class="media-29121 overlay" style="background-image: url('img/egm.jpg');"> -->
-              <!--              <div class="container">-->
-              <!--                  <div class="row align-items-center">-->
-              <!--                      <div class="col-md-8">-->
-              <!--                          <h2>Bandipur Cable Car </h2>-->
-              <!--                          <a href="about-bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a>-->
-              <!--                      </div>-->
-              <!--                  </div>-->
-              <!--              </div>-->
-          <!-- </div> -->
            <!-- .item -->
         <div class="media-29121 overlay">
           <video autoplay muted loop playsinline preload="metadata" controls="controls">
@@ -82,6 +65,16 @@
             </div>
           </div>
         </div> <!-- .item -->
+        <div class="media-29121 overlay" style="background-image: url('img/slide-agm.webp');">
+                           <div class="container">
+                               <div class="row align-items-center">
+                                   <div class="col-md-8">
+                                       <!-- <h2>Bandipur Cable Car </h2> -->
+                                       <!-- <a href="about-bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a> -->
+                                   </div>
+                               </div>
+                           </div>
+          </div>
 
       </div>
   </div>       
@@ -217,15 +210,15 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
     </div>
        <div class="col-lg-6 col-sm-12 align-self-center">
         <div class="about-us-info-wrap">
-        <ul class="notification-drop">
-    <li class="item">
-      <i class="icon-bell-o notification-bell" aria-hidden="true"></i>
-       <span class="btn__badge pulse-button ">New</span>     
-      <ul>
+        <!-- <ul class="notification-drop">
+           <li class="item">
+              <i class="icon-bell-o notification-bell" aria-hidden="true"></i>
+              <span class="btn__badge pulse-button ">New</span>     
+        <ul>
         <li>Bandipur Cablecar Lunching on (2023-04-14) </li>
       </ul>
     </li>
-  </ul>
+  </ul> -->
             <div class="section-title-area ltn__section-title-2--- mb-20">
                 <h6 class="">About Us</h6>
                 <h2 class="section-title"> Cable Car With Tourism </h2 >
@@ -800,6 +793,25 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
            <!-- impact stories card column -->
             <div class="row" id="events">
             <div class="col-lg-3">
+           <a href="" target="_blank">
+           <div class="card">
+           <div class="backgroundEffect"></div>
+            <div class="pic"> <img class="" src="img/slide-agm.webp" alt="">
+                <div class="date"> <span class="day">29</span> <span class="month">Ashar</span> <span class="year">2080</span> </div>
+            </div>
+            <div class="content">
+               <h4 class="impact_heading">Bandipur Cable Car & Tourism Limited 2nd AGM (2078/79)</h4>
+                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
+                   <a href="impact-details.php" target="_blank"> Read More</a>
+                    <a href="impact-details.php"target="_blank" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
+
+                </div>
+            </div>
+           </div>    
+             <!--card end  -->        
+           </a>
+        </div> 
+            <div class="col-lg-3">
            <a href="https://gyanmandu.com/content/8790" target="_blank">
            <div class="card">
            <div class="backgroundEffect"></div>
@@ -818,7 +830,7 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
              <!--card end  -->        
            </a>
         </div>   
-        <div class="col-lg-3">
+        <!-- <div class="col-lg-3">
            <a href="impact-details1.php">
            <div class="card">
            <div class="backgroundEffect"></div>
@@ -834,9 +846,9 @@ Nepal SBI Merchant Banking Limited has been appointed as the issue manager for t
                 </div>
             </div>
            </div>    
-             <!--card end  -->        
+                
            </a>
-        </div>
+        </div> -->
         <div class="col-lg-3">
            <a href="impact-details2.php">
               <div class="card">

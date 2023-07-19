@@ -29,31 +29,30 @@
                     <div class="col-xl-8 col-lg-7">
                         <div class="impact_details_left">
                             <div class="impact_details_img">
-                                <img src="img/about/about-img1.jpg" width="100%" alt="">
+                                <img src="img/slide-agm.webp" width="100%" alt="">
                             </div>
                             <div class="impact_details_content">
-                                <p class="impact_details_sub_title">finance</p>
+                                <!-- <p class="impact_details_sub_title">finance</p> -->
                                 <ul class="list-unstyled impact_details_meta">
-                                    <li><a href=""><i data-feather="clock"></i> 20 Oct, 2021</a></li>
+                                    <li><a href=""><i data-feather="clock"></i> 14 July, 2023</a></li>
                                 </ul>
-                                <h3 class="impact_details__title">Accounting Support During the Exponential Growth</h3>
-                                <p class="news-details__text-1">There are not many of passages of lorem ipsum available
-                                    alteration in some form. Donec scelerisque dolor id nunc dictum, interdum gravida.
-                                    Te veritus tractatos delicatissimi qui, justo diceret mentitum ut sit. Qui sed reque
-                                    dicam, qui veri nullam vituperatoribus in. Tibique maiestatis sum quod sum ut
-                                    alienum nec et, summo possim persequeris vix mea. Adhuc quodsi qui, sit no tale
-                                    essent electram. Mei sum prodesset in pro, quo scripta feugait vidisse. Lorem ipsum
-                                    dolor sit amet, eu duo ferri labor. Mea ex modo reque senserit, et sed hinc dolor,
-                                    scaevola sum salutandi expetendis vix ne. Eros dicat his sum mel quod mundi
-                                    consequat sum. There are not many of passages of lorem ipsum available alteration in
-                                    some form. Donec scelerisque dolor id nunc dictum, interdum gravida.</p>
-                                <p class="news-details__text-2">Qui sed reque dicam, qui veri nullam vituperatoribus in.
-                                    Tibique maiestatis sum quod sum ut alienum nec et, summo possim persequeris vix mea.
-                                    Tibique maiestatis sum quod sum ut alienum nec et, summo possim persequeris vix mea.
-                                    Adhuc quodsi qui, sit no tale essent electram. Mei sum prodesset in pro, quo scripta
-                                    feugait vidisse. Lorem ipsum dolor sit amet, eu duo ferri labor.</p>
+                                <h3 class="impact_details__title">AGM(Annual General Meeting)</h3>
+                                <p class="news-details__text-1">Bandipur Cable Car and Tourism Limited conducted 2nd Annual
+                                     General Meeting 2078/79 at Bandipur Cable Car Upper Station. AGM started from 11:45 with the
+                                      presence of Shareholders of Bandipur Cable Car and Tourism Limited. AGM was conducted successfully and
+                                       pass on mainly 4 special agenda of the company i.e.
+                                </p>
+                                <p class="news-details__text-2">
+                                1. To make Authorized Capital 3 Arab, Paid Up Capital 2 Arab 55 crore.<br>
+                                2. Loan to keep 1 Arab 3 crore. <br>
+                                3. 12% IPO (30 Crore and 60 Lakh) where 2% for Local resident, Staff, Foreign People and Mutual Fund 2% and Normal Public 8%.  <br>
+                                4. 8% Sweat Equity for RKD Holdings Limited as Bandipur Cable Car Share. <br>
+                                </p>
+                                <p>
+                                The meeting was conducted online through zoom meeting and was livestreamed in Facebook as well where more than 100 shareholders had participated. 
+                                </p>
                             </div>
-                            <div class="news-details__bottom">
+                            <!-- <div class="news-details__bottom">
                                 <p class="impact_details__tags">
                                     <span>Tags</span>
                                     <a href="#">Consulting</a>
@@ -65,7 +64,7 @@
                                     <a href="#"><i class="fab fa-pinterest-p"></i></a>
                                     <a href="#"><i class="fab fa-instagram"></i></a>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- <div class="news-details__pagenation-box">
                                 <ul class="list-unstyled news-details__pagenation">
                                     <li>Vivamus mattis Tristique <br> Blandit vel Iaculis leo</li>
