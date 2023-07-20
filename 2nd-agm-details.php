@@ -134,8 +134,7 @@
                         </div>
                     </div>
                     
-                    <?php
-                    /*
+                    
                     <div class="col-xl-4 col-lg-5">
                         <div class="sidebar">
                             <!-- <div class="sidebar__single sidebar__search">
@@ -210,8 +209,7 @@
                             </div>
                         </div>
                     </div>
-                    */ 
-                    ?>
+                    
                 </div>
             </div>
 </section>

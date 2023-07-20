@@ -75,7 +75,7 @@
                             <!-- <h6>Great Experience In Building. </h6> -->
                             <h2>Investing in Tourism</h2>
                             <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                            <a href="investors-relation.php"> <button class="slide_from_left mt-3">explore
+                            <a href="downloads.php"> <button class="slide_from_left mt-3">explore
                                     more</button></a>
                         </div>
                     </div>

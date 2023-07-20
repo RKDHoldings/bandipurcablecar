@@ -51,7 +51,7 @@
                                         </div>
                                         <div class="testimonial">
                                             <small>investments</small>
-                                            <h3>NPR 2 Arba 50 Crore </h3> 
+                                            <h3>NPR 3 Arba 58 Crore </h3> 
                                             <p>*Attributable to the owner of the group</p>                       
                                         </div>
                                  </div>          
@@ -218,7 +218,7 @@
 <section id="investment_budget">
    <div class="container">
           <h2>फाइनान्सियल क्लोजरः</h2>
-          <p>Project Value 2,50,00,00,000/-</p>
+          <p>Project Value 3,58,00,00,000/-</p>
       <div class="pie_data_details">
       <div class="row text-center">
           <div class="col-lg-6">
@@ -256,7 +256,7 @@
                                <h5>लगानीको सिमा</h5>   
                                    <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>   
                             </div>
-							<div class="text">आम रुपमा ५ देखि ५० लाख रुपैयाँसम्म</div>
+							<div class="text">आम रुपमा १ देखि ५० लाख रुपैयाँसम्म</div>
 						</div>
 					</div>
 					
@@ -440,7 +440,7 @@ var myChart = new Chart(ctx, {
         "#004f8a",
         "#ff7800"
       ],
-      data: [ 61, 39]
+      data: [ 28.77, 71.23]
     }]
   }
 });
