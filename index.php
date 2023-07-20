@@ -95,8 +95,7 @@
                         class="d-flex flex-row flex-grow-1 flex-fill justify-content-center  py-2 text-white px-1 news">
                         <span class="d-flex align-items-center">&nbsp;General Notice</span>
                     </div>
-                    <marquee class="news-scroll" behavior="alternate" direction="left" onmouseover="this.stop();"
-                        onmouseout="this.start();">
+                    <marquee class="news-scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
                         <a href="img/reports/2ndAGM.pdf">2nd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2079/03/29) </a> <span class="dot"></span> <a href="#">Registration of Bandipur
                             SkyWalk and Recretion Pvt.Ltd( 2080/03/13) </a> <span class="dot"></span> <a
@@ -817,14 +816,22 @@
                 <div class="media_content mb-5">
                     <div class="row main_media">
                         <div class="col-lg-12">
-                            <div class="media_img" data-aos="fade-right" data-aos-duration="2000"
-                                style="height: 400px;">
+
+                            <img class="media_img" src="img/annual-meeting.jpg" alt="AGM-Bandipurcablecar" style="height: 400px; width: 100%;">
+
+                            <?php
+                         /*
+                          <div class="media_img" data-aos="fade-right" data-aos-duration="2000"
+                          style="height: 400px;">
                                 <video autoplay muted loop playsinline preload="metadata" controls="controls"
                                     height="100%">
                                     <source src="img/videos/agm.mp4" type="video/mp4">
                                 </video>
                                 <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
                             </div>
+*/
+                            ?>
+
                             <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="1200">
                                 <h2>Bandipur Cable Car & Tourism Limited 2nd AGM (2078/79)
                                 </h2>
@@ -874,18 +881,18 @@
             <!-- impact stories card column -->
             <div class="row" id="events">
                 <div class="col-lg-3">
-                    <a href="" target="_blank">
+                    <a href="2nd-agm-details.php" target="_blank">
                         <div class="card">
                             <div class="backgroundEffect"></div>
-                            <div class="pic"> <img class="" src="img/slide-agm.webp" alt="">
+                            <div class="pic"> <img class="" src="img/slide-agm.webp" alt="" >
                                 <div class="date"> <span class="day">29</span> <span class="month">Ashar</span> <span
                                         class="year">2080</span> </div>
                             </div>
                             <div class="content">
                                 <h4 class="impact_heading">Bandipur Cable Car & Tourism Limited 2nd AGM (2078/79)</h4>
                                 <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                                    <a href="impact-details.php" target="_blank"> Read More</a>
-                                    <a href="impact-details.php" target="_blank" class="impact_one_arrow"><i
+                                    <a href="2nd-agm-details.php" target="_blank"> Read More</a>
+                                    <a href="2nd-agm-details.php" target="_blank" class="impact_one_arrow"><i
                                             class="icon-long-arrow-right"></i></a>
 
                                 </div>
