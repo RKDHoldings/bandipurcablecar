@@ -561,6 +561,8 @@
     </div>
 </section>
 <!-- future work plan -->
+<?php
+/*
 <section id="work_timeline">
 <div class="container">
   <h6>our milestones</h6>
@@ -648,6 +650,8 @@
   </div>
 </div>
 </section>
+*/
+?>
 
 <?php
  include('includes/footer.php');

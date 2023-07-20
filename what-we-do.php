@@ -288,7 +288,7 @@
          </div>
 
          <div class="col-lg-4">   
-            <div class="card"  style="background-image:url('img/features/skywalk.jpg')">
+            <div class="card"  style="background-image:url('img/sky-walk.webp')">
               <div class='info'>
                    <h5 class="title">Skywalk</h5>
                    <p class='description'>People can enjoy the beautiful moments of Bandipur through the skywalk .</p>

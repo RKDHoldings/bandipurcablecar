@@ -29,14 +29,14 @@
 	<h2>Queen Tower</h2>
 	<div class="skill_row">
 		<div class="skill_view">
-			<span class="skill_value">75%</span>
+			<span class="skill_value">90%</span>
 		</div>
 	</div>
 	<br>
 	<h2>Bandipur Cablecar</h2>
 	<div class="skill_row">
 		<div class="skill_view">
-			<span class="skill_value">65%</span>
+			<span class="skill_value">98%</span>
 		</div>
 	</div>
 
@@ -44,7 +44,7 @@
 	<h2>Restro Zone</h2>
 	<div class="skill_row">
 		<div class="skill_view">
-			<span class="skill_value">25%</span>
+			<span class="skill_value">80%</span>
 		</div>
 	</div>
 
