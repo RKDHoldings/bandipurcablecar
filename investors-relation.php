@@ -1,10 +1,10 @@
 <?php
- include('includes/html_header.php');
- ?>
+include('includes/html_header.php');
+?>
 
 <?php
- include('includes/navbar.php');
- ?>
+include('includes/navbar.php');
+?>
 
 <!-- banner -->
 <section id="breadcrumb">
@@ -85,11 +85,12 @@
                 <div class="financial_reports mt-4">
                     <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link active" id="faq_1-tab" data-bs-toggle="tab"
-                                data-bs-target="#faq_1-tab" type="button" role="tab" aria-controls="faq_1-tab"
+                            <button class="nav-link active" id="faq_tab_0-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_0" type="button" role="tab" aria-controls="faq_tab_0"
                                 aria-selected="true">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
-                                    <span>2078-2079</span> </div>
+                                    <span>2078-2079</span>
+                                </div>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
@@ -97,32 +98,36 @@
                                 data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1"
                                 aria-selected="true">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
-                                    <span>2077-2078</span> </div>
+                                    <span>2077-2078</span>
+                                </div>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="faq_tab_2-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_2"
                                 type="button" role="tab" aria-controls="faq_tab_2" aria-selected="false">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i>
-                                    <span>2076-2077</span> </div>
+                                    <span>2076-2077</span>
+                                </div>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
                             <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3"
                                 type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i>
-                                    <span>2074-2075</span> </div>
+                                    <span>2074-2075</span>
+                                </div>
                             </button>
                         </li>
 
                     </ul>
+
                     <div class="tab-content" id="myTabContent">
-                        <div class="tab-pane fade active show" id="faq_1-tab" role="tabpanel"
-                            aria-labelledby="faq_1-tab">
+                        <div class="tab-pane fade active show" id="faq_tab_0" role="tabpanel"
+                            aria-labelledby="faq_tab_0-tab">
                             <div class="container">
                                 <ul id="financial-statements" class="financial-reports list-pdf" style="">
                                     <!--<div class="tab-container">
-	                      <ul id="financial-statements" class="financial-reports list-pdf">-->
+                          <ul id="financial-statements" class="financial-reports list-pdf">-->
                                     <li class="tset pdf">
                                         <div class="title">
                                             <h3>
@@ -141,7 +146,7 @@
                             <div class="container">
                                 <ul id="financial-statements" class="financial-reports list-pdf" style="">
                                     <!--<div class="tab-container">
-	                      <ul id="financial-statements" class="financial-reports list-pdf">-->
+                          <ul id="financial-statements" class="financial-reports list-pdf">-->
                                     <li class="tset pdf">
                                         <div class="title">
                                             <h3>
@@ -443,11 +448,11 @@
 </section>
 
 <?php
- include('includes/footer.php');
- ?>
+include('includes/footer.php');
+?>
 
 <script>
-feather.replace()
+    feather.replace()
 </script>
 <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
 
@@ -458,57 +463,57 @@ feather.replace()
 </script>
 
 <script>
-$(document).ready(function() {
-    $("#testimonial-slider").owlCarousel({
-        items: 1,
-        itemsDesktop: [1000, 1],
-        itemsDesktopSmall: [979, 1],
-        itemsTablet: [768, 1],
-        pagination: true,
-        navigation: false,
-        navigationText: ["", ""],
-        slideSpeed: 1000,
-        singleItem: true,
-        autoPlay: true
+    $(document).ready(function () {
+        $("#testimonial-slider").owlCarousel({
+            items: 1,
+            itemsDesktop: [1000, 1],
+            itemsDesktopSmall: [979, 1],
+            itemsTablet: [768, 1],
+            pagination: true,
+            navigation: false,
+            navigationText: ["", ""],
+            slideSpeed: 1000,
+            singleItem: true,
+            autoPlay: true
+        });
     });
-});
 </script>
 <!-- for pie chart -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.5/Chart.min.js"></script>
 
 <!--debt equity  -->
 <script>
-var ctx = document.getElementById("myChart").getContext('2d');
-var myChart = new Chart(ctx, {
-    type: 'pie',
-    data: {
-        labels: ["Debt % ", "Equity %"],
-        datasets: [{
-            backgroundColor: [
+    var ctx = document.getElementById("myChart").getContext('2d');
+    var myChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: ["Debt % ", "Equity %"],
+            datasets: [{
+                backgroundColor: [
 
-                "#004f8a",
-                "#ff7800"
-            ],
-            data: [28.77, 71.23]
-        }]
-    }
-});
+                    "#004f8a",
+                    "#ff7800"
+                ],
+                data: [28.77, 71.23]
+            }]
+        }
+    });
 </script>
 <script>
-var ctx = document.getElementById("myChart2").getContext('2d');
-var myChart = new Chart(ctx, {
-    type: 'pie',
-    data: {
-        labels: ["RKD Tourism % ", "Panchase %", "Others %"],
-        datasets: [{
-            backgroundColor: [
+    var ctx = document.getElementById("myChart2").getContext('2d');
+    var myChart = new Chart(ctx, {
+        type: 'pie',
+        data: {
+            labels: ["RKD Tourism % ", "Panchase %", "Others %"],
+            datasets: [{
+                backgroundColor: [
 
-                "#004f8a",
-                "#6dacdceb",
-                "#ff7800"
-            ],
-            data: [61, 25, 14]
-        }]
-    }
-});
+                    "#004f8a",
+                    "#6dacdceb",
+                    "#ff7800"
+                ],
+                data: [61, 25, 14]
+            }]
+        }
+    });
 </script>
