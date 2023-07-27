@@ -1,9 +1,9 @@
 <?php
- include('includes/html_header.php');
- ?>
+include('includes/html_header.php');
+?>
 <?php
- include('includes/navbar.php');
- ?>
+include('includes/navbar.php');
+?>
 
 <!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
@@ -816,24 +816,27 @@
                 <div class="media_content mb-5">
                     <div class="row main_media">
                         <div class="col-lg-12">
-
-                            <img class="media_img" src="img/annual-meeting.jpg" alt="AGM-Bandipurcablecar" style="height: 400px; width: 100%;">
+                            <a href="downloads.php">
+                                <img class="media_img" src="img/annual-meeting.jpg" alt="AGM-Bandipurcablecar"
+                                    style="height: 400px; width: 100%;"></a>
 
                             <?php
-                         /*
-                          <div class="media_img" data-aos="fade-right" data-aos-duration="2000"
-                          style="height: 400px;">
-                                <video autoplay muted loop playsinline preload="metadata" controls="controls"
-                                    height="100%">
-                                    <source src="img/videos/agm.mp4" type="video/mp4">
-                                </video>
-                                <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
-                            </div>
-*/
+                            /*
+                             <div class="media_img" data-aos="fade-right" data-aos-duration="2000"
+                             style="height: 400px;">
+                                   <video autoplay muted loop playsinline preload="metadata" controls="controls"
+                                       height="100%">
+                                       <source src="img/videos/agm.mp4" type="video/mp4">
+                                   </video>
+                                   <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
+                               </div>
+   */
                             ?>
 
                             <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="1200">
-                                <h2>Bandipur Cable Car & Tourism Limited 2nd AGM (2078/79)
+                                <a href="downloads.php">
+                                    <h2>Bandipur Cable Car & Tourism Limited 2nd AGM (2078/79)
+                                </a>
                                 </h2>
                                 <small>29th Ashad, 2080 </small>
                                 <!-- wp:paragraph -->
@@ -884,7 +887,7 @@
                     <a href="2nd-agm-details.php" target="_blank">
                         <div class="card">
                             <div class="backgroundEffect"></div>
-                            <div class="pic"> <img class="" src="img/slide-agm.webp" alt="" >
+                            <div class="pic"> <img class="" src="img/slide-agm.webp" alt="">
                                 <div class="date"> <span class="day">29</span> <span class="month">Ashar</span> <span
                                         class="year">2080</span> </div>
                             </div>
@@ -1036,42 +1039,42 @@
 </section> -->
 
 <?php
- include('includes/footer.php');
- ?>
+include('includes/footer.php');
+?>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.css">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lity/2.4.0/lity.min.js"></script>
 <script>
-feather.replace()
+    feather.replace()
 </script>
 
 <script src="js/popper.min.js"></script>
 <script src="js/main2.js"></script>
 <script>
-// counter js
-const counters = document.querySelectorAll('.value');
-const speed = 200;
+    // counter js
+    const counters = document.querySelectorAll('.value');
+    const speed = 200;
 
-counters.forEach(counter => {
-    const animate = () => {
-        const value = +counter.getAttribute('akhi');
-        const data = +counter.innerText;
+    counters.forEach(counter => {
+        const animate = () => {
+            const value = +counter.getAttribute('akhi');
+            const data = +counter.innerText;
 
-        const time = value / speed;
-        if (data < value) {
-            counter.innerText = Math.ceil(data + time);
-            setTimeout(animate, 1);
-        } else {
-            counter.innerText = value;
+            const time = value / speed;
+            if (data < value) {
+                counter.innerText = Math.ceil(data + time);
+                setTimeout(animate, 1);
+            } else {
+                counter.innerText = value;
+            }
+
         }
 
-    }
-
-    animate();
-});
+        animate();
+    });
 </script>
 <!-- <script>
-			$(function (){
+            $(function (){
 
         $(function (){
 
@@ -1082,5 +1085,5 @@ createMarquee({
 
 });
 
-		</script>
+        </script>
  -->
