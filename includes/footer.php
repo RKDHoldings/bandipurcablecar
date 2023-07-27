@@ -19,14 +19,14 @@
                            <li class="last leaf"><a href="gallery.php" target="_blank" title="Gallery"> Gallery</a></li>
                        </ul>
                     </div>
-                    <a class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive"> sitemap</a>
+                    <!-- <a class="accordion-button collapsed border-0" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive"> sitemap</a> -->
                   </div>
    </div>
 </section>
 <section id="footer-collapse">
   <div class="container">
      <div class="accordion-body p-0">
-        <div id="flush-collapseFive" class="accordion-collapse collapse border-0" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
+        <div id="flush-collapseFive" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
           <div class="sitemap-wrap"> 
           <div class="row"> 
                <div class="col">
