@@ -75,7 +75,7 @@
                             <!-- <h6>Great Experience In Building. </h6> -->
                             <h2>Investing in Tourism</h2>
                             <!-- <p>It is a long established fact that a reader will be distracted by the readable content of a</p> -->
-                            <a href="downloads.php"> <button class="slide_from_left mt-3">explore
+                            <a href="investors-relation.php"> <button class="slide_from_left mt-3">explore
                                     more</button></a>
                         </div>
                     </div>
@@ -96,7 +96,7 @@
                         <span class="d-flex align-items-center">&nbsp;General Notice</span>
                     </div>
                     <marquee class="news-scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                        <a href="https://bandipurcablecar.com.np/downloads.php">2nd AGM(Annual General Meeting) of Bandipur Cable Car
+                        <a href="downloads.php">2nd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2079/03/29) </a> <span class="dot"></span> <a href="#">Registration of Bandipur
                             SkyWalk and Recretion Pvt.Ltd( 2080/03/13) </a> <span class="dot"></span> <a
                             href="#">Registration of Bandipur Banquet &amp; Events Pvt.Ltd (2080/03/13) </a> <span
