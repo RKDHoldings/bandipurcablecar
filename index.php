@@ -96,7 +96,7 @@
                         <span class="d-flex align-items-center">&nbsp;General Notice</span>
                     </div>
                     <marquee class="news-scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                        <a href="img/reports/2ndAGM.pdf">2nd AGM(Annual General Meeting) of Bandipur Cable Car
+                        <a href="https://bandipurcablecar.com.np/downloads.php">2nd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2079/03/29) </a> <span class="dot"></span> <a href="#">Registration of Bandipur
                             SkyWalk and Recretion Pvt.Ltd( 2080/03/13) </a> <span class="dot"></span> <a
                             href="#">Registration of Bandipur Banquet &amp; Events Pvt.Ltd (2080/03/13) </a> <span
