@@ -1,47 +1,47 @@
 <?php
- include('includes/html_header.php');
- ?>
- <?php
- include('includes/navbar.php');
- ?>
- <!-- banner -->
- <section id="breadcrumb">
- <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
-         <div class="container">
-            <div class="row">
-               <div class="col-sm-12">
-                  <h2 class="breadcrumb-title">our structure</h2>
-                  <nav aria-label="breadcrumb">
-                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">our structure</li>
-                     </ol>
-                  </nav>
-               </div>
-            </div>
-         </div>
+include('includes/html_header.php');
+?>
+<?php
+include('includes/navbar.php');
+?>
+<!-- banner -->
+<section id="breadcrumb">
+  <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <h2 class="breadcrumb-title">our structure</h2>
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">our structure</li>
+          </ol>
+        </nav>
+      </div>
+    </div>
+  </div>
 </section>
 
 <section id="directors_team">
-    <div class="container">
-         	<!-- tab1 -->
-       <div class="pcss3t pcss3t-effect-scale pcss3t-theme-1">
-				<input type="radio" name="pcss3t" checked  id="tab1"class="tab-content-first">
-				<label for="tab1">board of directors</label>
-				  	<!-- tab1 -->
-				<input type="radio" name="pcss3t" id="tab2" class="tab-content-2">
-				<label for="tab2">our chairman</label>
-					<!-- tab1 content -->
-				<ul>
-					<li class="tab-content tab-content-first typography">
-                  <div class="row">
-                     <div class="col-lg-12">
-                        <img src="img/directer_team/bod.jpg" class="w-100" alt="">
+  <div class="container">
+    <!-- tab1 -->
+    <div class="pcss3t pcss3t-effect-scale pcss3t-theme-1">
+      <input type="radio" name="pcss3t" checked id="tab1" class="tab-content-first">
+      <label for="tab1">board of directors</label>
+      <!-- tab1 -->
+      <input type="radio" name="pcss3t" id="tab2" class="tab-content-2">
+      <label for="tab2">our chairman</label>
+      <!-- tab1 content -->
+      <ul>
+        <li class="tab-content tab-content-first typography">
+          <div class="row">
+            <div class="col-lg-12">
+              <img src="img/directer_team/bod.jpg" class="w-100" alt="">
 
-                     </div>
+            </div>
 
-                  </div>
-                    <!-- <div class="row">
+          </div>
+          <!-- <div class="row">
                           <div class="col-md-3 col-sm-6 col-xs-12">
                              <div class="single-team">
                                  <div class="img-area">
@@ -103,8 +103,8 @@
                                        
                       </div> -->
 
-                      <!-- new row -->
-                      <!-- <div class="row">
+          <!-- new row -->
+          <!-- <div class="row">
                           <div class="col-md-3 col-sm-6 col-xs-12">
                              <div class="single-team">
                                  <div class="img-area">
@@ -163,50 +163,60 @@
                          </div>
                                        
                       </div> -->
-					</li>
-						<!-- tab2 content -->
-					<li class="tab-content tab-content-2 typography">
-                <div class="row">
-                    <div class="col-lg-5">
-                       <img src="img/directer_team/chairman.webp" class="ceo_img"  width="100%" alt="">
-                          <div class="exp-box">
-                               <h4 class="exp-box_title">Representative of Panchase Cablecar & Tourism</h4>
-                               <img src="img/partner_company/panchase-logo.png" class="logo_panchase" alt="">
-                          </div>
-                    </div>
-                    <div class="col-lg-7">
-                      <h6>our president</h6>
-                      <h2 class="section-title">Mesage from President</h2>
-                      <p>बन्दीपुर केवलकार एण्ड टुरिजम लिमिटेडका सातौँ साधारण सभाका प्रमुख अतिथिज्यू, विशिष्ट अतिथिज्यूहरु, अतिथिज्यूहरु, कम्पनीका निर्देशकज्यूहरु,
-                         OCU समूह, जग्गादाताज्यूहरु, पत्रकार मित्रहरु, उपस्थित शेयरधनीहरु र कर्मचारीहरुप्रति हार्दिक अभिवादन व्यक्त गर्दछु र कम्पनीका तत्कालीन निर्देशक
-                         दिवंगत स्वर्गीय राम प्रसाद शर्मा प्रति भावपूर्ण श्रद्धाञ्जली अर्पण गर्दछु ।
-                      </p>
-                      <p>नेपाल कला, संस्कृति, धार्मिक र ऐतिहासिक विरासतयुक्त देश हो । बन्दीपुर नेपाली पहिचानलाई अभिव्यक्त गर्ने ऐतिहासिक गन्तव्य हो । पहाडकी रानी उपमाले प्रसिद्ध यसको महिमा संसारभरका पर्यटकहरुका लागि सुप्रचारित छ । हरेक पर्यटकीय गन्तव्यहरुले
-                         ऐतिहासिक विरासतको मौलिक विकास गरेर यसको सौन्र्दयता र महिमामार्फत् समाज विकासको विशिष्टतालाई चित्रण गर्नु पर्दछ भन्ने कम्पनी दृष्टिकोण हो । तसर्थः बन्दीपुरको पर्यटनलाई नयाँ शिराका साथ आधुनिक ढङ्गबाट
-                         संसारभरिका पर्यटकलाई आकर्षित गर्न आधुनिक पर्यटन पूर्वाधारहरुको जरुरत पर्दछ । त्यसको आपूर्ति बन्दीपुरमा बनिरहेको, “पर्यटन पूर्वाधारयुक्त केवलकार परियोजना” को निर्विकल्प एजेण्डाले मात्र गर्दछ। यो परियोजना दक्षिण
-                         एसियाकै आश्चर्यजनक पर्यटकीय पूर्वाधारको श्रेणीमा भिन्न र अनुपम छ ।
-                      </p>
+        </li>
+        <!-- tab2 content -->
+        <li class="tab-content tab-content-2 typography">
+          <div class="row">
+            <div class="col-lg-5">
+              <img src="img/directer_team/chairman.webp" class="ceo_img" width="100%" alt="">
+              <div class="exp-box">
+                <h4 class="exp-box_title">Representative of Panchase Cablecar & Tourism</h4>
+                <img src="img/partner_company/panchase-logo.png" class="logo_panchase" alt="">
+              </div>
+            </div>
+            <div class="col-lg-7">
+              <h6>our president</h6>
+              <h2 class="section-title">Mesage from President</h2>
+              <p>बन्दीपुर केवल कार एण्ड टुरिजम लिमिटेडको दास्रो साधारणसभाका
+                प्रमुख अतिथिज्यू, विशिष्ट अतिथिज्यूहरू, अतिथिज्यूहरू, कम्पनीका
+                निर्देशकज्यूहरू, ब्ःन् समूह, इऋग् समूह, सेयरधनीहरू,
+                जग्गादाताज्यूहरू, कर्मचारीहरू, पत्रकार मित्रहरू तथा उपस्थित सम्पूर्ण
+                महानुभावहरू प्रति हार्दिक अभिवादन व्यक्त गर्दछु ।
+              </p>
+              <p>नेपाल कला, संस्कृति, धार्मिक र ऐतिहासिक विरासतले भरिपूर्ण देश
+                हो भन्ने कुरा निःसन्देह छ । बन्दीपुर नेपाली पहिचानलाई अभिव्यक्त
+                गर्ने ऐतिहासिक सम्पदाले भरिपूर्ण क्षेत्र हो भन्ने कुरामा पनि कुनै विमति
+                छैन । ‘पहाडकी रानी’ उपनामले प्रसिद्ध यो ठाउँको महिमा संसारभर
+                का पर्यटकका लागि सुपरिचित छ । सक्षात् भगवती खड्गदेवी माईको
+                छत्रछाँया र आलिंगनले जुनसुकै धर्मावलम्बि पर्यटकका साथै भक्तहरूका
+                लागि आलौकिक तथा यादगार गराउन सक्ने सामथ्र्य रहेको विधितै
+                छ । यस्तो भगवतीको दर्शानार्थ समेत अत्याधिक सेवा सुविधा सहित यस
+                बन्दीपुर केवल कार एण्ड टुरिजम लिमिटेड परियोजना पस्कन गइरहेका
+                छौँ ।
+              </p>
               <div class="btn_wrapper mb-4">
-                 <a href="chairman-message.php" target="_blank">  <button class="slide_from_left">Read More</button> </a>
-                    <div class="video-main">
-                             <div class="promo-video">  </div>
-                             <a href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=135s&ab_channel=BandipurCablecar" target="_blank" class="video video-popup mfp-iframe" data-lity><i class="icon-play"></i></a>
-                             <span class="text">View Our Story</span>
-                    </div>
+                <a href="chairman-message.php" target="_blank"> <button class="slide_from_left">Read More</button> </a>
+                <div class="video-main">
+                  <div class="promo-video"> </div>
+                  <a href="https://www.youtube.com/watch?v=NJ_GYRPHIeY&t=135s&ab_channel=BandipurCablecar"
+                    target="_blank" class="video video-popup mfp-iframe" data-lity><i class="icon-play"></i></a>
+                  <span class="text">View Our Story</span>
+                </div>
 
-              </div>      
+              </div>
               <div class="about-quote">
-                    <p class="about-quote_text">“ स्वदेशी र प्रवासी नेपालीहरुको संयुक्त लगानी एवं सम्भार स्वागत पर्यटकीय गन्तव्य बन्दीपुर केवलकार र क्वीनटावर ”</p>
-                    <span class="about-quote_author">ram chandra sharma</span>
-              </div>  
-               
+                <p class="about-quote_text">“ स्वदेशी र प्रवासी नेपालीहरुको संयुक्त लगानी एवं सम्भार स्वागत पर्यटकीय
+                  गन्तव्य बन्दीपुर केवलकार र क्वीनटावर ”</p>
+                <span class="about-quote_author">ram chandra sharma</span>
+              </div>
+
+            </div>
           </div>
-        </div>
-				</li>		
-			</ul>
-		</div>
-			<!--/ tabs -->   
+        </li>
+      </ul>
     </div>
+    <!--/ tabs -->
+  </div>
 </section>
 <!-- investment comittee -->
 <!-- <section id="investment_committee">
@@ -364,178 +374,198 @@
 </section> -->
 <!-- governance -->
 <section id="governance-info">
-   <div class="container">
-        <div class="row">
-            <div class="col-lg-9">
-            <h6>governance</h6>
-           <!-- <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit</h2> -->
-           <h2 class="section-title"> our committes</h2> 
-            <p> कम्पनीले संस्थागत सुशाासन नै भावी दिशा फराकिलो र विश्वसनीय बनाउने कडी हो भन्ने कुरालाई गम्भीर 
-रुपमा बुझेको छ । सुशासनको अनुभूति व्यवहारिक रुपमा नै अनुभूति हुने गरी प्रर्दशन गर्नु कम्पनीको संस्कृति 
-बनेको छ । कम्पनीले आफूलाई पारदर्शी, चुस्त, दुरुस्त राख्नका लागि कम्पनीको Management मा निरन्तर 
-अद्यावधिक गर्ने नीति लिएर हरेक कार्यलाई व्यवस्थापन गरिरहेको छ । सञ्चालक समितिको कार्य अवधारणा 
-म्याप, योजना कार्यान्वयनमा केन्द्रित गरिएको छ । </p>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9">
+        <h6>governance</h6>
+        <!-- <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit</h2> -->
+        <h2 class="section-title"> our committes</h2>
+        <p> कम्पनीले संस्थागत सुशाासन नै भावी दिशा फराकिलो र विश्वसनीय बनाउने कडी हो भन्ने कुरालाई गम्भीर
+          रुपमा बुझेको छ । सुशासनको अनुभूति व्यवहारिक रुपमा नै अनुभूति हुने गरी प्रर्दशन गर्नु कम्पनीको संस्कृति
+          बनेको छ । कम्पनीले आफूलाई पारदर्शी, चुस्त, दुरुस्त राख्नका लागि कम्पनीको Management मा निरन्तर
+          अद्यावधिक गर्ने नीति लिएर हरेक कार्यलाई व्यवस्थापन गरिरहेको छ । सञ्चालक समितिको कार्य अवधारणा
+          म्याप, योजना कार्यान्वयनमा केन्द्रित गरिएको छ । </p>
 
-<div class="double-check-list font-title mb-xxl-5">
-                 <h3></h3>
-                  <ul class="list-unstyled aboutus__points swpf ps-0">
-                    <li>  
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"> <p>नीति तथा योजना</p> </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>आर्थिक व्यवस्थापन </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p> कानुनी तथा अनुपालन व्यवस्थापन </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p> परियोजना व्यवस्थापन ( केबलकार सञ्चालन विभाग, होटल सञ्चालन विभाग, रेस्टुरेǔट
-                           सञ्चालन विभाग,साहायक कम्पनीहरू सञ्चालन)
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>अतिरिक्त
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>प्राविधिक व्यवस्थापन
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>सञ्चार एवं यातायात व्यवस्थापन 
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>सार्वजनिक सम्बन्ध व्यवस्थापन 
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>संस्थागत
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>सम्पर्क
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>  STU(Special Task Unit) </p></div>
-                    </li>
-                    
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>लेखा परीक्षण </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p>मानव संसाधन व्यवस्थापन </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text"><p> इन्जिनियरिङ विभाग </p></div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>E.R.T (Emergency Rescue Team)
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>I. R.O (International Relation Officer)
-                         </p>
-                        </div>
-                    </li>
-                    <li>
-                        <div class="icon"><i class="icon-long-arrow-right"></i></div>
-                        <div class="text">
-                          <p>L.R.O (Local Relation Officers)
-                         </p>
-                        </div>
-                    </li>
-          
-                                  
-                  </ul>
-                </div>
-            <!-- committees list end -->
+        <div class="double-check-list font-title mb-xxl-5">
+          <h3></h3>
+          <ul class="list-unstyled aboutus__points swpf ps-0">
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>नीति तथा योजना</p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>आर्थिक व्यवस्थापन </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p> कानुनी तथा अनुपालन व्यवस्थापन </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p> परियोजना व्यवस्थापन ( केबलकार सञ्चालन विभाग, होटल सञ्चालन विभाग, रेस्टुरेǔट
+                  सञ्चालन विभाग,साहायक कम्पनीहरू सञ्चालन)
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>अतिरिक्त
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>प्राविधिक व्यवस्थापन
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>सञ्चार एवं यातायात व्यवस्थापन
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>सार्वजनिक सम्बन्ध व्यवस्थापन
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>संस्थागत
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>सम्पर्क
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p> STU(Special Task Unit) </p>
+              </div>
+            </li>
 
-    </div>
-    <div class="col-lg-3">
-                <nav class="sidebar card py-2 mb-4">
-                         <div class="sidebar_news1">
-                            <h4>our structure</h4>
-                              <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="our-structure.php#directors-team" target="_blank">Board of Directors </a></li>
-                                 <li class="nav-item"><a class="nav-link" href="chairman-message.php" target="_blank">leadership message </a></li>
-                              </ul>
-                         </div>
-                         <div class="sidebar_news1">
-                           <h4>Govenance</h4>
-                              <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="#governance-info" target="_blank">Committee </a></li>
-                                 <li class="nav-item"><a class="nav-link" href="#operating_model" target="_blank">operating model </a></li>
-                              </ul>
-                         </div>
-                         <div class="sidebar_news1">
-                           <h4>financial calender</h4>
-                              <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly calender</a></li>
-                              </ul>
-                         </div>
-                         <div class="sidebar_news1">
-                           <h4>contact us</h4>
-                              <ul class="nav flex-column" id="nav_accordion">
-                                 <li class="nav-item">  <p class="sidebar-desc">For further queries, please contact us on <a href="mailto:info@bandipurcablecar.com.np" target="_blank"> info@bandipurcablecar.com.np </a></p></li>
-                              </ul>
-                         </div>                           
-                 </nav>                    
-          
-             </div>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>लेखा परीक्षण </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>मानव संसाधन व्यवस्थापन </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p> इन्जिनियरिङ विभाग </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>E.R.T (Emergency Rescue Team)
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>I. R.O (International Relation Officer)
+                </p>
+              </div>
+            </li>
+            <li>
+              <div class="icon"><i class="icon-long-arrow-right"></i></div>
+              <div class="text">
+                <p>L.R.O (Local Relation Officers)
+                </p>
+              </div>
+            </li>
+
+
+          </ul>
+        </div>
+        <!-- committees list end -->
+
+      </div>
+      <div class="col-lg-3">
+        <nav class="sidebar card py-2 mb-4">
+          <div class="sidebar_news1">
+            <h4>our structure</h4>
+            <ul class="nav flex-column" id="nav_accordion">
+              <li class="nav-item"><a class="nav-link" href="our-structure.php#directors-team" target="_blank">Board of
+                  Directors </a></li>
+              <li class="nav-item"><a class="nav-link" href="chairman-message.php" target="_blank">leadership message
+                </a></li>
+            </ul>
+          </div>
+          <div class="sidebar_news1">
+            <h4>Govenance</h4>
+            <ul class="nav flex-column" id="nav_accordion">
+              <li class="nav-item"><a class="nav-link" href="#governance-info" target="_blank">Committee </a></li>
+              <li class="nav-item"><a class="nav-link" href="#operating_model" target="_blank">operating model </a></li>
+            </ul>
+          </div>
+          <div class="sidebar_news1">
+            <h4>financial calender</h4>
+            <ul class="nav flex-column" id="nav_accordion">
+              <li class="nav-item"><a class="nav-link" href="img/reports/final-calender.pdf" target="_blank">yearly
+                  calender</a></li>
+            </ul>
+          </div>
+          <div class="sidebar_news1">
+            <h4>contact us</h4>
+            <ul class="nav flex-column" id="nav_accordion">
+              <li class="nav-item">
+                <p class="sidebar-desc">For further queries, please contact us on <a
+                    href="mailto:info@bandipurcablecar.com.np" target="_blank"> info@bandipurcablecar.com.np </a></p>
+              </li>
+            </ul>
+          </div>
+        </nav>
+
+      </div>
     </div>
   </div>
 </section>
 
 <!--  -->
 <section id="operating_model">
-    <div class="container">
-       <div class="row">
-         <h2 class="section-title">chain of command </h2>
-       <img src="img/about/model.png" alt="Operating Model">
-       </div>
+  <div class="container">
+    <div class="row">
+      <h2 class="section-title">chain of command </h2>
+      <img src="img/about/model.png" alt="Operating Model">
     </div>
+  </div>
 </section>
 
 <?php
- include('includes/footer.php');
- ?>
+include('includes/footer.php');
+?>
 
- <!-- <script>
+<!-- <script>
     const portfolio = document.querySelector('.portfolio-gallery'),
       portfolioItems = portfolio.querySelectorAll('.portfolio-item'),
       portfolioCats = document.querySelectorAll('.portfolio-cats > li');
