@@ -5,7 +5,7 @@
  include('includes/navbar.php');
  ?>
 
-  <!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
             <div class="modal-content" >
               
@@ -13,15 +13,17 @@
             
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
           </div>
-         <div class="modal-body">
-             
-            <h2 class=" text-center">Notice regarding AGM of Bandipur Cablecar</h2>
-            <img src="img/bandipur-agm.jpg" width="100%" alt="">
-         </div>      
+            <div class="modal-body">
+             <a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4" target="_blank">
+             <h2 class=" text-center">बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रारमा नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड</h2>
+             <img src="img/news/bandipur.jpeg" width="100%" alt="">
+             </a>
+ 
+            </div>      
              
     </div>
   </div>
-</div> -->
+</div>
 
 <section id="banner">
   <div class="content">
@@ -764,23 +766,20 @@
             <div class="media_content mb-5">
                 <div class="row main_media">
                     <div class="col-lg-12">
-                        <div class="media_img" data-aos="fade-right" data-aos-duration="2000" style="height: 300px;">
-                            <video autoplay muted loop playsinline preload="metadata" controls="controls" height="100%">
+                        <div class="media_img" data-aos="fade-right" data-aos-duration="2000" >
+                            <!-- <video autoplay muted loop playsinline preload="metadata" controls="controls" height="100%">
                                 <source src="img/videos/egm.mp4"  type="video/mp4" >
-                            </video>
+                            </video> -->
+                            <img src="img/news/bandipur.jpeg" alt="" class="w-100" style="height: 470px;">
 <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
                         </div>
                         <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="1200">
-                            <h2>EGM (Extraordinary General Meeting)</h2>
-                            <small>7th Shrawan, 2079 </small>
-                            <p>RKD Holdings Limited held an EGM (Extraordinary General Meeting) at Red House, Bandipur
-                                    4, Tundhikhel on Shrawan 7, Monday. The programs main motive was about RKD Business
-                                    Strategic Assembly. It focused on theme such as CM Boss, Salami, Ilami and upcoming projects
-                                    of Bandipur Cable Car. The speech and presentation was given by the directors, Mr. Ramchandra
-                                    Sharma, Mr. Shiva Prasad Sharma, Mr. Chintamani Sharma, Mr. Kiran Pokhrel, and many more.
-                                    The assembly went smooth and was very effective among the individuals. The program also
-                                    conducted interaction activities between the shareholders which helped to bring out the result in
-                                    a systematic and effective manner.</p>
+                            <h2>बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रारमा नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड</h2>
+                            <small>16 Ashoj, 2080 </small>
+                            <p>बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेड र नेपाल एसबिअइ मर्चेण्ट बैंकिङ्ग लिमिटेड बिच शेयर रजिष्ट्रार सम्बन्धी 
+                           कार्य गर्न सम्झौता पत्रमा हस्ताक्षर भएको छ । आज एक कार्यक्रमका बिच सम्झौता पत्रमा बन्दीपुर केबलकार एण्ड टुरिजम
+                            लिमिटेडको तर्फबाट सञ्चालक शिव प्रसाद शर्मा र नेपाल एसबिआइ मर्चेण्ट बैंकिङ्गको तर्फबाट प्रबन्ध सञ्चालक तथा प्रमुख कार्यकारी अधिकृत लेख नाथ पोखरेलले हस्ताक्षर गर्नुभएको हो । 
+                           सम्झौतासँगै अब बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रार सम्बन्धी सम्पूर्ण कार्य नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड मार्फत हुनेछ ।</p>
                         </div>
 
                     </div>
