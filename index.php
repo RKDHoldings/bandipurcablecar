@@ -815,7 +815,6 @@ include('includes/navbar.php');
                 <h6>latest events</h6>
                 <h2 class="section-title">Latest Events</h2>
 
-<<<<<<< HEAD
             <div class="media_content mb-5">
                 <div class="row main_media">
                     <div class="col-lg-12">
@@ -834,14 +833,6 @@ include('includes/navbar.php');
                             लिमिटेडको तर्फबाट सञ्चालक शिव प्रसाद शर्मा र नेपाल एसबिआइ मर्चेण्ट बैंकिङ्गको तर्फबाट प्रबन्ध सञ्चालक तथा प्रमुख कार्यकारी अधिकृत लेख नाथ पोखरेलले हस्ताक्षर गर्नुभएको हो । 
                            सम्झौतासँगै अब बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रार सम्बन्धी सम्पूर्ण कार्य नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड मार्फत हुनेछ ।</p>
                         </div>
-=======
-                <div class="media_content mb-5">
-                    <div class="row main_media">
-                        <div class="col-lg-12">
-                            <a href="downloads.php">
-                                <img class="media_img" src="img/annual-meeting.jpg" alt="AGM-Bandipurcablecar"
-                                    style="height: 400px; width: 100%;"></a>
->>>>>>> c0467858d893828dc7f990b0f3d72dfd373cb769
 
                             <?php
                             /*
@@ -856,48 +847,6 @@ include('includes/navbar.php');
    */
                             ?>
 
-                            <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="1200">
-                                <a href="downloads.php">
-                                    <h2>Bandipur Cable Car & Tourism Limited 2nd AGM (2078/79)
-                                </a>
-                                </h2>
-                                <small>29th Ashad, 2080 </small>
-                                <!-- wp:paragraph -->
-                                <p>AGM(Annual General Meeting)</p>
-                                <!-- /wp:paragraph -->
-
-                                <!-- wp:paragraph -->
-                                <p>Bandipur Cable Car and Tourism Limited conducted 2nd Annual General Meeting 2078/79
-                                    at Bandipur Cable Car Upper Station. AGM started from 11:45 with the presence of
-                                    Shareholders of Bandipur Cable Car and Tourism Limited. AGM was conducted
-                                    successfully&nbsp;and pass on mainly 4 special agenda of the company i.e.<br>1) To
-                                    make Authorized Capital 3 Arab, Paid Up Capital 2 Arab 55 crore.<br>2) Loan to keep
-                                    1 Arab 3 crore.<br>3) 12% IPO (30 Crore and 60 Lakh) where 2% for Local resident,
-                                    Staff, Foreign People and Mutual Fund 2% and Normal Public 8%.<br>4) 8% Sweat Equity
-                                    for RKD Holdings Limited as Bandipur Cable Car Share.</p>
-                                <!-- /wp:paragraph -->
-
-                                <!-- wp:paragraph -->
-                                <p>The meeting was conducted online through zoom meeting and was livestreamed in
-                                    Facebook as well where more than 100 shareholders had participated. </p>
-                                <!-- /wp:paragraph -->
-
-                                <!-- wp:paragraph -->
-                                <p>Zoom Meeting Link:<br></p>
-                                <!-- /wp:paragraph -->
-
-                                <!-- wp:paragraph -->
-                                <p><a href="https://zoom.us/j/7570234438...">https://zoom.us/j/7570234438...</a></p>
-                                <!-- /wp:paragraph -->
-
-                                <!-- wp:paragraph -->
-                                <p><a></a>Meeting ID: 757 023 4438</p>
-                                <!-- /wp:paragraph -->
-
-                                <!-- wp:paragraph -->
-                                <p>Passcode: meeting12$</p>
-                                <!-- /wp:paragraph -->
-                            </div>
 
                         </div>
                     </div>
