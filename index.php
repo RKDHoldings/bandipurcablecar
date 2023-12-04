@@ -14,10 +14,10 @@ include('includes/navbar.php');
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
           </div>
             <div class="modal-body">
-             <a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4" target="_blank">
-             <h2 class=" text-center">बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रारमा नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड</h2>
-             <img src="img/news/bandipur.jpeg" width="100%" alt="">
-             </a>
+          
+            
+             <img src="img/newagm.png" width="100%" alt="">
+           
  
             </div>      
              
@@ -855,6 +855,27 @@ include('includes/navbar.php');
             <!-- <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum sit sapiente rerum qui numquam. Cumque quo in esse, adipisci ducimus eaque ea vitae, praesentium facilis molestiae error dolorem modi iusto.</p> -->
             <!-- impact stories card column -->
             <div class="row" id="events">
+            <div class="col-lg-3">
+                    <a href="3rdagm.php" target="_blank">
+                        <div class="card">
+                            <div class="backgroundEffect"></div>
+                            <div class="pic"> <img class="" src="img/slide-agm.webp" alt="">
+                                <div class="date"> <span class="day">14</span> <span class="month">Poush</span> <span
+                                        class="year">2080</span> </div>
+                            </div>
+                            <div class="content">
+                                <h4 class="impact_heading">Bandipur Cable Car & Tourism Limited 3rd AGM </h4>
+                                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
+                                    <a href="3rdagm.php" target="_blank"> Read More</a>
+                                    <a href="3rdagm.php" target="_blank" class="impact_one_arrow"><i
+                                            class="icon-long-arrow-right"></i></a>
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--card end  -->
+                    </a>
+                </div>
                 <div class="col-lg-3">
                     <a href="2nd-agm-details.php" target="_blank">
                         <div class="card">
@@ -938,27 +959,7 @@ include('includes/navbar.php');
                         <!--card end  -->
                     </a>
                 </div>
-                <div class="col-lg-3">
-                    <a href="impact-details3.php">
-                        <div class="card">
-                            <div class="backgroundEffect"></div>
-                            <div class="pic"> <img class="" src="img/events/event-3.jpg" alt="">
-                                <div class="date"> <span class="day">09</span> <span class="month">Mangsir</span> <span
-                                        class="year">2077</span> </div>
-                            </div>
-                            <div class="content">
-                                <h4 class="impact_heading">Bandipur Cable Car financial closure from Nepal SBI & NMB
-                                    Bank</h4>
-                                <div class="d-flex align-items-center justify-content-between mt-3 pb-3">
-                                    <a href="impact-details3.php"> Read More</a>
-                                    <a href="impact-details3.php" class="impact_one_arrow"><i
-                                            class="icon-long-arrow-right"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <!--card end  -->
-                    </a>
-                </div>
+               
 
             </div>
 </section>
