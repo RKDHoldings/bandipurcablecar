@@ -9,27 +9,27 @@ include('includes/navbar.php');
       <div class="modal-dialog">
             <div class="modal-content" >
               
-               <div class="modal-header">
-            
+               <div class="modal-header text-center">
+               <h4>Bandipur Cablecar AGM new notice</h4>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
           </div>
             <div class="modal-body">
           
-            
-             <img src="img/newagm.png" width="100%" alt="">
+          
+             <img src="img/poush-agm.jpg" width="100%" alt="">
            
  
             </div>      
              
     </div>
   </div>
-</div>
+  </div>
 
 <section id="banner">
     <div class="content">
         <div class="owl-carousel owl-1">
             <!-- .item -->
-            <div class="media-29121 overlay" style="background-image: url('img/slide-agm.webp');">
+            <div class="media-29121 overlay" style="background-image: url('img/agm-new.png');">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-8">
@@ -98,6 +98,8 @@ include('includes/navbar.php');
                         <span class="d-flex align-items-center">&nbsp;General Notice</span>
                     </div>
                     <marquee class="news-scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+                    <a href="">3rd AGM(Annual General Meeting) of Bandipur Cable Car
+                            Company(2080/09/28) </a> <span class="dot"></span>
                         <a href="downloads.php">2nd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2079/03/29) </a> <span class="dot"></span> <a href="#">Registration of Bandipur
                             SkyWalk and Recretion Pvt.Ltd( 2080/03/13) </a> <span class="dot"></span> <a
@@ -256,27 +258,35 @@ include('includes/navbar.php');
                         <div class="fact-counter" data-aos="fade-left" data-aos-duration="1000">
                             <div class="row">
                                 <h2 class="mb-4 mt-4">Promoter Structure Percentage (%)</h2>
-                                <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
+                                <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
                                     <div class="inner">
                                         <div class="count-outer count-box counted">
-                                            <div class="value" akhi="54.09">0</div> <span>%</span>
+                                            <div class="value" akhi="20.9">0</div> <span>%</span>
                                             <h4 class="counter-title">RKD</h4>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
+                                <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
                                     <div class="inner">
                                         <div class="count-outer count-box counted">
-                                            <div class="value" akhi="25">0</div> <span>%</span>
+                                            <div class="value" akhi="3.99">0</div> <span>%</span>
                                             <h4 class="counter-title">panchase</h4>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="column counter-column col-lg-4 col-md-4 col-sm-12">
+                                <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
                                     <div class="inner">
                                         <div class="count-outer count-box counted">
-                                            <div class="value" akhi="20.91">0</div> <span>%</span>
-                                            <h4 class="counter-title">others</h4>
+                                            <div class="value" akhi="4.59">0</div> <span>%</span>
+                                            <h4 class="counter-title">TIFL</h4>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
+                                    <div class="inner">
+                                        <div class="count-outer count-box counted">
+                                            <div class="value" akhi="3.99">0</div> <span>%</span>
+                                            <h4 class="counter-title">SLIC</h4>
                                         </div>
                                     </div>
                                 </div>
@@ -306,10 +316,10 @@ include('includes/navbar.php');
                 <div class="col-xs-12 col-sm-12 col-lg-5">
                     <div class="info__one__topright">
                         <div class="info__one__counter">
-                            <h5>As Per Audit 2078/79</h5>
+                            <h5>As Per Audit 2080/81</h5>
                             <ul class="info__one__counter__list list-unstyled">
                                 <li class="info__one__counter-single">
-                                    <div class="value" akhi="3618">0</div>
+                                    <div class="value" akhi="4600">0</div>
                                     <p class="info__one__counter__text">Promoter Share</p>
                                 </li>
                                 <li class="info__one__counter-single two">

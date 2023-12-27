@@ -36,7 +36,7 @@ include('includes/navbar.php');
         <li class="tab-content tab-content-first typography">
           <div class="row">
             <div class="col-lg-12">
-              <img src="img/directer_team/bod.jpg" class="w-100" alt="">
+              <img src="img/directer_team/new-bod.jpg" class="w-100" alt="">
 
             </div>
 
