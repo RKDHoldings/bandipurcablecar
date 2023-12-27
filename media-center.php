@@ -31,28 +31,34 @@
           <div class="row main_media">
                   <div class="col-lg-4">
                      <div class="media_img" data-aos="fade-right" data-aos-duration="3000">
-                        <img src="img/news/bandipur.jpeg" class="w-100" alt="">
+                        <img src="img/news-agm.png" class="w-100" alt="">
                      </div>
                   </div>
                   <div class="col-lg-8">
                      <div class="media_content_right" data-aos="fade-left" data-aos-duration="3000">
                          <h2>
-                             <a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4"
-                                target="_blank" title="">बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रारमा नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड
+                             <a href=""
+                                target="_blank" title="">Bandipur Cablecar new notice regarding AGM
                              </a>
                          </h2>
                          <small>16 Ashoj 2080 </small>
-                         <p>बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेड र नेपाल एसबिअइ मर्चेण्ट बैंकिङ्ग लिमिटेड बिच शेयर रजिष्ट्रार सम्बन्धी 
-                           कार्य गर्न सम्झौता पत्रमा हस्ताक्षर भएको छ । आज एक कार्यक्रमका बिच सम्झौता पत्रमा बन्दीपुर केबलकार एण्ड टुरिजम
-                            लिमिटेडको तर्फबाट सञ्चालक शिव प्रसाद शर्मा र नेपाल एसबिआइ मर्चेण्ट बैंकिङ्गको तर्फबाट प्रबन्ध सञ्चालक तथा प्रमुख कार्यकारी अधिकृत लेख नाथ पोखरेलले हस्ताक्षर गर्नुभएको हो । 
-                           सम्झौतासँगै अब बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रार सम्बन्धी सम्पूर्ण कार्य नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड मार्फत हुनेछ ।
-                        </p>
-                         <a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4" target="_blank" class=" media_more" title="Read more">Read more</a>
+                        
+                         <a href="img/news-agm.png" target="_blank" class=" media_more" title="Read more">Read more</a>
                      </div>
                   </div>          
           </div> 
           <div class="row news_listing" data-aos="fade-up" data-aos-duration="800">
           <div class="col-lg-4">
+                  <div class="thumb"><a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4" 
+                  target="_blank"><img src="img/news/bandipur.jpeg" alt="Bandipur cable car IPO" ></a></div>
+                  <div class="details">		
+	                  	<h3><a href="https://www.setopati.com/kinmel/tourism/299721?fbclid=IwAR3EjsYfgNGHSztq58njCyG2E-VkuGMKnRZQaQZRPdG2M3UuwEKUeIYsnMA"target="_blank" 
+                        title="Bandipur Cablecar ">बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रारमा नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड </a></h3>
+                      <small>16 Ashoj 2080 | </small>
+	                   	<a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4"target="_blank" class="media_more" title="Read more">Read more</a>
+	                </div>
+               </div>
+               <div class="col-lg-4">
                   <div class="thumb"><a href="https://www.setopati.com/kinmel/tourism/299721?fbclid=IwAR3EjsYfgNGHSztq58njCyG2E-VkuGMKnRZQaQZRPdG2M3UuwEKUeIYsnMA" 
                   target="_blank"><img src="img/news/tower.jpg" alt="Bandipur cable car IPO" ></a></div>
                   <div class="details">		
@@ -71,14 +77,7 @@
 	                   	<a href="https://gyanmandu.com/content/8790"target="_blank" class="media_more" title="Read more">Read more</a>
 	                </div>
                </div>
-               <div class="col-lg-4">
-                  <div class="thumb"><a href="https://english.lokaantar.com/news/detail/24875/" taget="_blank">  <img src="img/news/news-1.jpg" alt="Bandipur cable car project reports 95% progress" title="Bandipur cable car project reports 95% progress" class="img-responsive"></a></div>
-                     <div class="details">		
-	                    	<h3><a href="https://english.lokaantar.com/news/detail/24875/" title="">Bandipur cable car project reports 95% progress</a></h3>
-                        <small> FEBRUARY 4, 2022</small>
-	                    	<a href="https://english.lokaantar.com/news/detail/24875/" class="media_more" title="Read more">Read more</a>
-	                   </div>
-                </div> 
+               
                      
           </div>
           </div>

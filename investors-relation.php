@@ -84,8 +84,17 @@ include('includes/navbar.php');
                 <!-- financial reports -->
                 <div class="financial_reports mt-4">
                     <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
-                        <li class="nav-item" role="presentation">
+                    <li class="nav-item" role="presentation">
                             <button class="nav-link active" id="faq_tab_0-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_0" type="button" role="tab" aria-controls="faq_tab_0"
+                                aria-selected="true">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
+                                    <span>2079-2080</span>
+                                </div>
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link " id="faq_tab_0-tab" data-bs-toggle="tab"
                                 data-bs-target="#faq_tab_0" type="button" role="tab" aria-controls="faq_tab_0"
                                 aria-selected="true">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
