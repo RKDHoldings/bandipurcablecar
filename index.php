@@ -350,7 +350,7 @@ include('includes/navbar.php');
                         <img src="img/icon_pack/capital/capital.png" alt="">
                         <div class="counter-value" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                             <!-- <h4 class="value_currency">NPR</h4> -->
-                            <div class="value" akhi="1">0 </div>
+                            <div class="value" akhi="3">0 </div>
                             <h4 class="value_heading">Arba</h4>
                         </div>
                     </div>
@@ -366,8 +366,8 @@ include('includes/navbar.php');
                         <img src="img/icon_pack/capital/coin.png" alt="">
                         <div class="counter-value" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                             <!-- <h4 class="value_currency">NPR</h4> -->
-                            <div class="value" akhi="75">0 </div>
-                            <h4 class="value_heading">Crore</h4>
+                            <div class="value" akhi="2">0 </div>
+                            <h4 class="value_heading">Arba 55 Crore</h4>
                         </div>
                     </div>
                 </li>
@@ -381,7 +381,21 @@ include('includes/navbar.php');
                         <div class="counter-value" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                             <!-- <h4 class="value_currency">NPR</h4> -->
 
-                            <h4 class="value_heading">20 Crore</h4>
+                            <h4 class="value_heading">1 Arba 25 Crore</h4>
+                        </div>
+                    </div>
+                </li>
+                <li class="info__one__feature__single ">
+                    <div class="info__one__feature__content">
+                        <h3 class="info__one__feature__title">Advance Capital
+                        </h3>
+                    </div>
+                    <div class="info__one__feature__icon">
+                        <img src="img/icon_pack/capital/value.png" alt="">
+                        <div class="counter-value" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
+                            <!-- <h4 class="value_currency">NPR</h4> -->
+
+                            <h4 class="value_heading">1 Arba 25 Crore</h4>
                         </div>
                     </div>
                 </li>
