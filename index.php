@@ -98,7 +98,7 @@ include('includes/navbar.php');
                         <span class="d-flex align-items-center">&nbsp;General Notice</span>
                     </div>
                     <marquee class="news-scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                    <a href="">3rd AGM(Annual General Meeting) of Bandipur Cable Car
+                    <a href="img/downloads/3rd.pdf">3rd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2080/09/28) </a> <span class="dot"></span>
                         <a href="downloads.php">2nd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2079/03/29) </a> <span class="dot"></span> <a href="#">Registration of Bandipur
