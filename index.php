@@ -10,7 +10,8 @@ include('includes/navbar.php');
             <div class="modal-content" >
               
                <div class="modal-header text-center">
-               <h4>New Bid Notice</h4>
+               <h4>AGM Notices
+               </h4>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
           </div>
             <div class="modal-body">        
