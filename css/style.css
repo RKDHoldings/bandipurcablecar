@@ -4240,7 +4240,8 @@ color: var(--secondary-color);
 
 /* downloads */
 #download_reports{padding: 6rem 0;}
-#download_reports .card{padding: 1rem; height: 100%;}
+#download_reports .card{padding: 1rem; height: 200px;
+  margin-bottom: 2rem;}
 img.download_icon{width: 15%;}
 .download-two{margin: 2rem 0 0 0;}
 h5.heading_title{

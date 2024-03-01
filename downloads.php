@@ -28,6 +28,26 @@
          <div class="row">
              <h2 class="section-title"> Documents</h2>
              <div class="col-lg-3">
+                 <a href="img/downloads/rkd-new.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">RKD share Form</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
+                     <a target="_blank" href="img/downloads/bandipur-new.pdf" title=" Report" download>
+                       <div class="card">
+                            <div class="card-body">
+                               <h5 class="heading_title">Bandipur Cable Car Share Form</h5>
+                               <img src="img/icon-document.svg" class="download_icon" alt="">
+                            </div>
+                       </div>
+                     </a>
+                 </div>
+             <div class="col-lg-3">
                  <a href="img/downloads/3rd.pdf" target="_blank" download>
                     <div class="card">
                         <div class="card-body">
@@ -83,16 +103,6 @@
          <!-- other document download row -->
          <div class="download-two"> 
               <div class="row">
-                 <div class="col-lg-3">
-                     <a target="_blank" href="img/downloads/shareform-new.pdf" title=" Report" download>
-                       <div class="card">
-                            <div class="card-body">
-                               <h5 class="heading_title">Bandipur Cable Car Share Form</h5>
-                               <img src="img/icon-document.svg" class="download_icon" alt="">
-                            </div>
-                       </div>
-                     </a>
-                 </div>
                  <div class="col-lg-3">
                      <a target="_blank" href="img/reports/book78.pdf" target="_blank" title=" Report" download> 
                          <div class="card">

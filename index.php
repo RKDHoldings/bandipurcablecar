@@ -10,11 +10,11 @@ include('includes/navbar.php');
             <div class="modal-content" >
               
                <div class="modal-header text-center">
-               <h4>New Notice</h4>
+               <h4>Shivaratri Special</h4>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
           </div>
             <div class="modal-body">        
-              <img src="img/newpop.jpg" width="100%" alt="">         
+              <img src="img/shivratri-post.png" width="100%" alt="">         
             </div>      
              
     </div>
