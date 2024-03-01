@@ -113,6 +113,7 @@
               </div>
             </li>
             <li><a href="progress-stories.php">progress stories</a>  </li>
+            <li><a href="downloads.php">Downloads</a>  </li>
 		      	<li><a href="media-center.php">media center</a></li>
             <li><a href="contact.php">contact</a></li>
           </ul>
