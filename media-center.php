@@ -31,36 +31,37 @@
           <div class="row main_media">
                   <div class="col-lg-4">
                      <div class="media_img" data-aos="fade-right" data-aos-duration="3000">
-                        <img src="img/news-agm.png" class="w-100" alt="">
+                        <img src="img/news/shiva.jpg" class="w-100" alt="">
                      </div>
                   </div>
                   <div class="col-lg-8">
                      <div class="media_content_right" data-aos="fade-left" data-aos-duration="3000">
                          <h2>
-                             <a href=""
-                                target="_blank" title="">Bandipur Cablecar new notice regarding AGM
+                             <a href="https://www.setopati.com/kinmel/others/323952"
+                                target="_blank" title="">बन्दीपुरमा भगवान् शिवको मूर्तिको प्राण प्रतिष्ठा हुने
                              </a>
                          </h2>
-                         <small>16 Ashoj 2080 </small>
+                         <small>20 Falgun 2080 </small>
+                         <p>फागुन २४ गतेदेखि विशेष पूजा सुरू गरी फागुन २६ गते बिहान सम्पूर्ण विधि पूजा गरी पूजा सम्पन्न गर्ने कार्यक्रम रहेको तथा नियमित भक्तजन एवं धार्मिक पर्यटकले २६ गतेदेखि नै दर्शन गर्न सक्ने समेत समितिले जनाएको छ।</p>
                         
-                         <a href="img/news-agm.png" target="_blank" class=" media_more" title="Read more">Read more</a>
+                         <a href="https://www.setopati.com/kinmel/others/323952" target="_blank" class=" media_more" title="Read more">Read more</a>
                      </div>
                   </div>          
           </div> 
           <div class="row news_listing" data-aos="fade-up" data-aos-duration="800">
           <div class="col-lg-4">
-                  <div class="thumb"><a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4" 
+                  <div class="thumb"><a href="news-agm.png" 
                   target="_blank"><img src="img/news/bandipur.jpeg" alt="Bandipur cable car IPO" ></a></div>
                   <div class="details">		
-	                  	<h3><a href="https://www.setopati.com/kinmel/tourism/299721?fbclid=IwAR3EjsYfgNGHSztq58njCyG2E-VkuGMKnRZQaQZRPdG2M3UuwEKUeIYsnMA"target="_blank" 
-                        title="Bandipur Cablecar ">बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रारमा नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड </a></h3>
+	                  	<h3><a href="img/news/bandipur.jpeg"target="_blank" 
+                        title="Bandipur Cablecar ">Bandipur Cablecar new notice regarding AGM </a></h3>
                       <small>16 Ashoj 2080 | </small>
-	                   	<a href="https://gyanmandu.com/content/10144?fbclid=IwAR2ePqQp7jH9RoduHYg1XR74WFalE2Iq0zq2mVvAkg93DmCTH75_v95vEG4"target="_blank" class="media_more" title="Read more">Read more</a>
+	                   	<a href="img/news/bandipur.jpeg"target="_blank" class="media_more" title="Read more">Read more</a>
 	                </div>
                </div>
                <div class="col-lg-4">
                   <div class="thumb"><a href="https://www.setopati.com/kinmel/tourism/299721?fbclid=IwAR3EjsYfgNGHSztq58njCyG2E-VkuGMKnRZQaQZRPdG2M3UuwEKUeIYsnMA" 
-                  target="_blank"><img src="img/news/tower.jpg" alt="Bandipur cable car IPO" ></a></div>
+                  target="_blank"><img src="img/news/bandipur.jpeg" alt="Bandipur cable car IPO" ></a></div>
                   <div class="details">		
 	                  	<h3><a href="https://www.setopati.com/kinmel/tourism/299721?fbclid=IwAR3EjsYfgNGHSztq58njCyG2E-VkuGMKnRZQaQZRPdG2M3UuwEKUeIYsnMA"target="_blank" 
                         title="Bandipur Cablecar ">यस्तो बन्दैछ बन्दिपुरको पहिलो पाँचतारे होटल </a></h3>
