@@ -28,6 +28,36 @@
          <div class="row">
              <h2 class="section-title"> Documents</h2>
              <div class="col-lg-3">
+                 <a href="img/audit/rkd.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">RKD AGM 2080</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
+                 <a href="img/audit/tifl.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">TIFL AGM 2080</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
+                 <a href="img/audit/panchase.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">PANCHASE AGM 2080</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
                  <a href="img/downloads/rkd-new.pdf" target="_blank" download>
                     <div class="card">
                         <div class="card-body">
