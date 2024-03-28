@@ -148,7 +148,7 @@
                      <a target="_blank" href="img/reports/book78.pdf" target="_blank" title=" Report" download> 
                          <div class="card">
                             <div class="card-body">
-                                <h5 class="heading_title"> Bandipur Cable Car 7th Annual General Meeting 2077/78(2078/06/21)</h5>
+                                <h5 class="heading_title"> Bandipur Cable Car 7th AGM 2077/78(2078/06/21)</h5>
                                 <img src="img/icon-document.svg" class="download_icon" alt="">
                             </div>
                          </div>
