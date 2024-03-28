@@ -69,7 +69,7 @@
               <div class="col">
                 <h4 class="footer_heading">quick links</h4>
                     <ul class="contact p-0">
-                        <li><a href="https://rkdrealestate.com.np/" target="_blank"> <i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
+                        <li><a href="https://rkdholdings.com.np/" target="_blank"> <i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
                         <li><a href="https://tifl.com.np/"          target="_blank"> <i class="icon-angle-double-right"></i> Tourism Investment Fund</a> </li>
                         <li><a href="https://bizbazar.com.np/"      target="_blank"> <i class="icon-angle-double-right"></i>  Bizbazar</a> </li>
                     </ul>        
