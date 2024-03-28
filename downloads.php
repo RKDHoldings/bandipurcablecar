@@ -26,7 +26,27 @@
 <section id="download_reports">
     <div class="container">
          <div class="row">
-             <h2 class="section-title"> Documents</h2>
+             <h2 class="section-title">Bandipur Cablecar Documents</h2>
+             <div class="col-lg-3">
+                 <a href="img/audit/audit Report079.80.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">Audit Report 079/80 </h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
+                 <a href="img/downloads/3rd.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">3rd AGM Report of Bandipur Cablecar & Tourism Limited</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                        </div>
+                    </div>
+                 </a>
+             </div>
              <div class="col-lg-3">
                  <a href="img/audit/rkd.pdf" target="_blank" download>
                     <div class="card">
@@ -57,7 +77,7 @@
                     </div>
                  </a>
              </div>
-             <div class="col-lg-3">
+             <!-- <div class="col-lg-3">
                  <a href="img/downloads/rkd-new.pdf" target="_blank" download>
                     <div class="card">
                         <div class="card-body">
@@ -66,7 +86,7 @@
                         </div>
                     </div>
                  </a>
-             </div>
+             </div> -->
              <div class="col-lg-3">
                      <a target="_blank" href="img/downloads/bandipur-new.pdf" title=" Report" download>
                        <div class="card">
@@ -77,16 +97,7 @@
                        </div>
                      </a>
                  </div>
-             <div class="col-lg-3">
-                 <a href="img/downloads/3rd.pdf" target="_blank" download>
-                    <div class="card">
-                        <div class="card-body">
-                            <h5 class="heading_title">3rd AGM Report of Bandipur Cablecar & Tourism Limited</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
-                        </div>
-                    </div>
-                 </a>
-             </div>
+             
              <div class="col-lg-3">
                  <a href="img/bids.jpg" target="_blank" download>
                     <div class="card">
