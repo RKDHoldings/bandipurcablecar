@@ -1042,6 +1042,7 @@ blockquote{display: inline-block; font-weight: 700;}
   background: var(--theme-color);
   /* padding: 1.5rem 0 1.5rem 0; */
   color: var(--bg-color); position: relative;
+  border-radius: 40px 0;
 }
 #footer p{
   color: var(--bg-color); font-weight: 700; margin: 0 0 0 1rem;
