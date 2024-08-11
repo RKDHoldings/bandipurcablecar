@@ -6,7 +6,7 @@
                         <div class="topbar__menu">
                             <ul class="ps-0">
                                 <li><a href="mailto:info@bandipurcablecar.com.np" target="_blank"><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
-                                <li><a href="contact.php" target="_blank "><i class="icon-clock-o"></i> Sunday – Friday 10 AM – 5 PM</a></li>
+                                <li><a href="contact.php" target="_blank "><i class="icon-clock-o"></i> Sunday – Friday 9:00 AM – 6:45 PM</a></li>
                             </ul>
                         </div>
                     </div>
