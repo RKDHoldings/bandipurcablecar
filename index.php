@@ -13,7 +13,7 @@ include('includes/navbar.php');
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                   </div>
                   <div class="modal-body">        
-                       <img src="img/offer.png" width="100%" alt="">         
+                       <img src="img/teej.jpg" width="100%" alt="">         
                   </div>    
              
             </div>
