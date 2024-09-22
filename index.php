@@ -5,11 +5,10 @@ include('includes/html_header.php');
 include('includes/navbar.php');
 ?>
 
-  <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
+  <!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
             <div class="modal-content" >
                   <div class="modal-header text-center">
-                        <!-- <h4>Heartfelt Invitation</h4> -->
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                   </div>
                   <div class="modal-body">        
@@ -18,7 +17,7 @@ include('includes/navbar.php');
              
             </div>
        </div>
-  </div>
+  </div> -->
 
 <section id="banner">
     <div class="content">
