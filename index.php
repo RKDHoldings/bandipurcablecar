@@ -9,9 +9,11 @@ include('includes/navbar.php');
       <div class="modal-dialog">
             <div class="modal-content" >
                   <div class="modal-header text-center">
+                  <h4>Heartfelt Invitation</h4>  
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                   </div>
-                  <div class="modal-body">        
+                  <div class="modal-body">    
+                      
                        <img src="img/dashain.JPG" width="100%" alt="">         
                   </div>    
              
@@ -23,7 +25,7 @@ include('includes/navbar.php');
     <div class="content">
         <div class="owl-carousel owl-1">
             <!-- .item -->
-            <div class="media-29121 overlay" style="background-image: url('img/agm-new.png');">
+            <div class="media-29121 overlay" style="background-image: url('img/dashain-post.jpeg');">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-8">
