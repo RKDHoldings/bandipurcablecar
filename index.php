@@ -14,7 +14,7 @@ include('includes/navbar.php');
                   </div>
                   <div class="modal-body">    
                       
-                       <img src="img/notice-new.jpg" width="100%" alt="">         
+                       <img src="img/notice-new.JPG" width="100%" alt="">         
                   </div>    
              
             </div>
