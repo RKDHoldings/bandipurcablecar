@@ -9,12 +9,12 @@ include('includes/navbar.php');
       <div class="modal-dialog">
             <div class="modal-content" >
                   <div class="modal-header text-center">
-                  <h4>Heartfelt Invitation</h4>  
+                  <h4>Important Notice</h4>  
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                   </div>
                   <div class="modal-body">    
                       
-                       <img src="img/dashain.JPG" width="100%" alt="">         
+                       <img src="img/notice-new.jpg" width="100%" alt="">         
                   </div>    
              
             </div>
