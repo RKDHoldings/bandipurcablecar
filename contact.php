@@ -148,7 +148,8 @@
                                  <div class="media-body">
                                   <p class="info-media_text"><a href="">Head Office:</a></p>
                                   <p class="info-media_text"><a href="">Thuldhunga, Bandipur Tanahun</a></p>
-                                  <p class="info-media_text"><a href="tel: 065-580457">	065-580457</a></p>
+                                  <p class="info-media_text"><a href="tel: 065-580457">	065-580457 </a>
+                                     <a href="tel: 977-9802815792">9802815792</a></p>
                                  </div>
                                </div>
                                 
