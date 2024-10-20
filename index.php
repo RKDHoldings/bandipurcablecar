@@ -9,12 +9,12 @@ include('includes/navbar.php');
       <div class="modal-dialog">
             <div class="modal-content" >
                   <div class="modal-header text-center">
-                  <h4>Important Notice</h4>  
+                  <h4>Heartfelt Invitation</h4>  
                         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button>
                   </div>
                   <div class="modal-body">    
                       
-                       <img src="img/notice-new.JPG" width="100%" alt="">         
+                       <img src="img/fest-post.jpg" width="100%" alt="">         
                   </div>    
              
             </div>
@@ -25,16 +25,15 @@ include('includes/navbar.php');
     <div class="content">
         <div class="owl-carousel owl-1">
             <!-- .item -->
-            <div class="media-29121 overlay" style="background-image: url('img/dashain-post.jpeg');">
+            <!-- <div class="media-29121 overlay" style="background-image: url('img/dashain-post.jpeg');">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-8">
-                            <!-- <h2>Bandipur Cable Car </h2> -->
-                            <!-- <a href="about-bandipur.php">  <button class="slide_from_left mt-3">explore more</button> </a> -->
+                           
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             <!-- .item -->
             <div class="media-29121 overlay">
                 <video autoplay muted loop playsinline preload="metadata" controls="controls">
@@ -838,20 +837,26 @@ include('includes/navbar.php');
             <div class="media_content mb-5">
                 <div class="row main_media">
                     <div class="col-lg-12">
+                        <a href="https://devghatonline.com/news/24630" target="_blank">
                         <div class="media_img" data-aos="fade-right" data-aos-duration="2000" >
                             <!-- <video autoplay muted loop playsinline preload="metadata" controls="controls" height="100%">
                                 <source src="img/videos/egm.mp4"  type="video/mp4" >
                             </video> -->
-                            <img src="img/news/bandipur.jpeg" alt="" class="w-100" style="height: 470px;">
+                            <img src="img/fest-post.jpg" alt="" class="w-100" style="height: 470px;">
 <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
                         </div>
+                        </a>
+                        
                         <div class="media_content_right ps-3 pe-3" data-aos="fade-left" data-aos-duration="1200">
-                            <h2>बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रारमा नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड</h2>
-                            <small>16 Ashoj, 2080 </small>
-                            <p>बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेड र नेपाल एसबिअइ मर्चेण्ट बैंकिङ्ग लिमिटेड बिच शेयर रजिष्ट्रार सम्बन्धी 
-                           कार्य गर्न सम्झौता पत्रमा हस्ताक्षर भएको छ । आज एक कार्यक्रमका बिच सम्झौता पत्रमा बन्दीपुर केबलकार एण्ड टुरिजम
-                            लिमिटेडको तर्फबाट सञ्चालक शिव प्रसाद शर्मा र नेपाल एसबिआइ मर्चेण्ट बैंकिङ्गको तर्फबाट प्रबन्ध सञ्चालक तथा प्रमुख कार्यकारी अधिकृत लेख नाथ पोखरेलले हस्ताक्षर गर्नुभएको हो । 
-                           सम्झौतासँगै अब बन्दीपुर केबलकार एण्ड टुरिजम लिमिटेडको शेयर रजिष्ट्रार सम्बन्धी सम्पूर्ण कार्य नेपाल एसबिआइ मर्चेण्ट बैंकिङ्ग लिमिटेड मार्फत हुनेछ ।</p>
+                            <h2>बन्दिपुर हिलमा देउसी भैलो प्रतियोगिता हुने, प्रथम पुरस्कार १ लाख</h2>
+                            <small>कार्तिक १, २०८१</small>
+                            <p>पर्यटन पूर्वाधारयुक्त केवलकार परियोजना बन्दिपुर हिलमा नेपालीहरुको दोश्रो मुख्य चाड तिहारको अवसरमा देउसी भैलो प्रतियोगिता हुने भएको छ । 
+                                ‘संगीतमा झुम्दै, खानपिनमा रम्दै, चाडपर्व मनाऔं, चाडपर्व उत्सव–२०८१ मा सहभागी बनौं’ भन्ने नारा सहित बन्दिपुर केवलकारको प्रबद्र्धक कम्पनी
+                                 बन्दिपुर हिलले ख्याती प्राप्त कलाकारहरुको सांगीतिक कार्यक्रमका साथ यहि कार्तिक ९ देखि १५ गतेसम्म बन्दिपुर केबलकारको लोअर स्टेसन्, केवलकार 
+                                 चोकमा देउसी–भैलो प्रतियोगिता, टिकटक प्रतियोगिता, फन पार्क, रमाईलो मेला, फुड फेष्टिबल र स्थानिय हाटबजार कार्यक्रम सन्चालन हुने बन्दिपुर हिलले
+                                  जनाएको छ ।
+                            </p>
+                           
                         </div>
 
                             <?php
