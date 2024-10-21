@@ -246,5 +246,38 @@ $(document).ready(function() {
 });
 
 </script>
+<script>
+  // Function to open a modal by ID
+  function openModal(modalId) {
+    document.getElementById(modalId).style.display = "block";
+  }
+
+  // Function to close a modal
+  function closeModal(modal) {
+    modal.style.display = "none";
+  }
+
+  // Automatically open the modals sequentially
+  window.onload = function() {
+    const modals = document.querySelectorAll('.modal');
+    let currentModalIndex = 0;
+
+    function showNextModal() {
+      if (currentModalIndex < modals.length) {
+        openModal(modals[currentModalIndex].id);
+
+        // Get the close button of the current modal
+        const closeButton = modals[currentModalIndex].querySelector('.close');
+        closeButton.onclick = function() {
+          closeModal(modals[currentModalIndex]);
+          currentModalIndex++;
+          showNextModal();  // Trigger the next modal
+        };
+      }
+    }
+
+    showNextModal();  // Start showing the first modal
+  };
+</script>
 </body>
 </html>
