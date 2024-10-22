@@ -872,7 +872,7 @@ include('includes/navbar.php');
                             <!-- <video autoplay muted loop playsinline preload="metadata" controls="controls" height="100%">
                                 <source src="img/videos/egm.mp4"  type="video/mp4" >
                             </video> -->
-                            <img src="img/fest-post.jpg" alt="" class="w-100" style="height: 470px;">
+                            <img src="img/fest-news.avif" alt="" class="w-100" style="height: 470px;">
 <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
                         </div>
                         </a>
