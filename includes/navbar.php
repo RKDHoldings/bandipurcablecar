@@ -2,7 +2,7 @@
 <div class="top__header">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-7 col-sm-12">
+                    <div class="col-lg-6 col-sm-12">
                         <div class="topbar__menu">
                             <ul class="ps-0">
                                 <li><a href="mailto:info@bandipurcablecar.com.np" target="_blank"><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
@@ -10,12 +10,12 @@
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-5 col-sm-12">                                               
-                                <ul class="text-end">
+                    <div class="col-lg-6 col-sm-12">                                               
+                                <ul class="text-end p-0">
                                     <li>
                                       <!--social-media -->
                                         <div class="topbar__social-media">
-                                           <ul>
+                                           <ul class="p-0">
                                               <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
                                                <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="Youtube"><i class="icon-youtube"></i></a></li>                                               
                                            </ul>

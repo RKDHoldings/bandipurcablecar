@@ -176,7 +176,7 @@ include('includes/navbar.php');
                             <div class="icon-box"> <img src="img/icon_pack/vacation.png" alt=""></div>
                             <div class="content-wrapper">
                                 <h4 class="title__secondary">Complete Holiday Package</h4>
-                                <p class="card-text mt-0">Not Just Cable car we offer Restro Zone , Shopping Mall ,
+                                <p class="card-text mt-0">We also offer Restro Zone , Shopping Mall ,
                                     Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur
                                     has to offer.</p>
                             </div> <!-- .content-wrapper -->
@@ -872,7 +872,7 @@ include('includes/navbar.php');
                             <!-- <video autoplay muted loop playsinline preload="metadata" controls="controls" height="100%">
                                 <source src="img/videos/egm.mp4"  type="video/mp4" >
                             </video> -->
-                            <img src="img/fest-news.avif" alt="" class="w-100" style="height: 470px;">
+                            <img src="img/fest-news.avif" alt="" class="w-100 fest-img" style="height: 470px;">
 <!--                            <h2 class="breadcrumb-title"> bandipur</h2>-->
                         </div>
                         </a>
@@ -881,10 +881,7 @@ include('includes/navbar.php');
                             <h2>बन्दिपुर हिलमा देउसी भैलो प्रतियोगिता हुने, प्रथम पुरस्कार १ लाख</h2>
                             <small>कार्तिक १, २०८१</small>
                             <p>पर्यटन पूर्वाधारयुक्त केवलकार परियोजना बन्दिपुर हिलमा नेपालीहरुको दोश्रो मुख्य चाड तिहारको अवसरमा देउसी भैलो प्रतियोगिता हुने भएको छ । 
-                                ‘संगीतमा झुम्दै, खानपिनमा रम्दै, चाडपर्व मनाऔं, चाडपर्व उत्सव–२०८१ मा सहभागी बनौं’ भन्ने नारा सहित बन्दिपुर केवलकारको प्रबद्र्धक कम्पनी
-                                 बन्दिपुर हिलले ख्याती प्राप्त कलाकारहरुको सांगीतिक कार्यक्रमका साथ यहि कार्तिक ९ देखि १५ गतेसम्म बन्दिपुर केबलकारको लोअर स्टेसन्, केवलकार 
-                                 चोकमा देउसी–भैलो प्रतियोगिता, टिकटक प्रतियोगिता, फन पार्क, रमाईलो मेला, फुड फेष्टिबल र स्थानिय हाटबजार कार्यक्रम सन्चालन हुने बन्दिपुर हिलले
-                                  जनाएको छ ।
+                               
                             </p>
                            
                         </div>

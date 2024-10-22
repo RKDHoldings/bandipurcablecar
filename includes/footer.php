@@ -29,7 +29,7 @@
         <div id="flush-collapseFive" aria-labelledby="flush-headingOne" data-bs-parent="#myAccordion">
           <div class="sitemap-wrap"> 
           <div class="row"> 
-               <div class="col">
+               <div class="col-lg-3 col-sm-12">
                   <ul class="menu">
                       <a href="who_we_are.php"> <h4 class="footer_heading">Who we are</h4> </a>               
                       <li class=""><a href="about-bandipur.php" target="_blank" title="About Bandipur">About Bandipur</a></li>
@@ -40,14 +40,14 @@
                       <li class=""> <a href="award-recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
               </div>  
-              <div class="col">
+              <div class="col-lg-3 col-sm-12">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
                             <li class="first leaf"> <a href="what-we-do.php#features_queentower" target="_blank" title="About queen tower">queen tower</a></li>
                             <li class="leaf">       <a href="what-we-do.php#features_cablecar" target="_blank" title="Bandipur Cablecar">bandipur cablecar</a></li>
                    </ul>  
                </div>  
-               <div class="col">
+               <div class="col-lg-3 col-sm-12">
                     <ul class="menu">
                          <a href="investors_relation.php"> <h4 class="footer_heading">investors relation</h4> </a>         
                          <li class=""> <a href="investors-relation.php#financial_report" title="financial Reports">financial reports</a></li>
@@ -56,23 +56,20 @@
                          <li><a href="investors-relation.php#management_team">Risk Management</a></li>                                                                   
                     </ul>  
                </div>  
-               <div class="col">                   
-                    <ul class="menu">
-                         <h4 class="footer_heading">Others</h4>
-                         <li class=""><a href="progress-stories.php" target="_blank" title="Progress Stories">progress stories</a></li>
-                         <li class=""><a href="media-center.php" target="_blank" title="Media Menter">media center</a></li>
-                         <li class=""><a href="downloads.php" target="_blank" title="Download Documents">downloads</a></li>
-                         <li class=""><a href="events.php" target="_blank"  title="">events</a></li> 
-                         <li class=""><a href="gallery.php"  target="_blank" title="">Gallery</a></li>                      
-                    </ul>
-              </div>
-              <div class="col">
-                <h4 class="footer_heading">quick links</h4>
+               <div class="col-lg-3 col-sm-12">   
+                    <h4 class="footer_heading">quick links</h4>
                     <ul class="contact p-0">
                         <li><a href="https://rkdholdings.com.np/" target="_blank"> <i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
                         <li><a href="https://tifl.com.np/"          target="_blank"> <i class="icon-angle-double-right"></i> Tourism Investment Fund</a> </li>
                         <li><a href="https://bizbazar.com.np/"      target="_blank"> <i class="icon-angle-double-right"></i>  Bizbazar</a> </li>
-                    </ul>        
+                    </ul>                   
+                 
+                <!-- <h4 class="footer_heading">quick links</h4>
+                    <ul class="contact p-0">
+                        <li><a href="https://rkdholdings.com.np/" target="_blank"> <i class="icon-angle-double-right"></i>  RKD Holdings </a> </li>
+                        <li><a href="https://tifl.com.np/"          target="_blank"> <i class="icon-angle-double-right"></i> Tourism Investment Fund</a> </li>
+                        <li><a href="https://bizbazar.com.np/"      target="_blank"> <i class="icon-angle-double-right"></i>  Bizbazar</a> </li>
+                    </ul>         -->
               </div>                      
              </div>                
            </div>  
