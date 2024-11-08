@@ -22,12 +22,11 @@ include('includes/navbar.php');
   </div> -->
 
   <!-- Modal 1 -->
-<div id="modal1" class="modal">
+<!-- <div id="modal1" class="modal">
 <div class="modal-content" >
                   <div class="modal-header text-center">
                   <h4>Heartfelt Invitation</h4>  
-                        <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button> -->
-                        <span class="close">&times;</span>
+                  <span class="close">&times;</span>
                   </div>
                   <div class="modal-body">    
                       
@@ -35,22 +34,21 @@ include('includes/navbar.php');
                   </div>    
              
             </div>
-</div>
+</div> -->
 
 <!-- Modal 2 -->
-<div id="modal2" class="modal">
+<!-- <div id="modal2" class="modal">
   <div class="modal-content">
   <div class="modal-header text-center">
                   <h4>Heartfelt Invitation</h4>  
-                        <!-- <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close" title="Close"></button> -->
-                        <span class="close">&times;</span>
+                  <span class="close">&times;</span>
                   </div>
     <div class="modal-body">    
                       
                       <img src="img/tiktok.JPG" width="100%" alt="">         
                  </div>   
   </div>
-</div>
+</div> -->
 <section id="banner">
     <div class="content">
         <div class="owl-carousel owl-1">
