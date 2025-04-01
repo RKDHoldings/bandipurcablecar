@@ -2,15 +2,16 @@
 <div class="top__header">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-6 col-sm-12">
+                    <div class="col-lg-9 col-sm-12">
                         <div class="topbar__menu">
                             <ul class="ps-0">
                                 <li><a href="mailto:info@bandipurcablecar.com.np" target="_blank"><i class="icon-envelope-o"></i> 	info@bandipurcablecar.com.np</a></li>
-                                <li><a href="contact.php" target="_blank "><i class="icon-clock-o"></i>Everyday 9:00 AM – 6:45 PM</a></li>
+                                <li><a href="#" target="_blank "><i class="icon-clock-o"></i>Sun-Thu: 9:00 AM – 6:00 PM</a></li>
+                                <li><a href="#" target="_blank "><i class="icon-clock-o"></i>Fri-Sat: 8:30 AM – 6:00 PM</a></li>
                             </ul>
                         </div>
                     </div>
-                    <div class="col-lg-6 col-sm-12">                                               
+                    <div class="col-lg-3 col-sm-12">                                               
                                 <ul class="text-end p-0">
                                     <li>
                                       <!--social-media -->
