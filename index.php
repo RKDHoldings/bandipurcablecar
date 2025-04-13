@@ -121,7 +121,9 @@ include('includes/navbar.php');
                         <span class="d-flex align-items-center">&nbsp;General Notice</span>
                     </div>
                     <marquee class="news-scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                    <a href="img/downloads/3rd.pdf">3rd AGM(Annual General Meeting) of Bandipur Cable Car
+                    <a href="img/downloads/4th.pdf">4th AGM(Annual General Meeting) of Bandipur Cable Car
+                            Company(2082/01/06) </a> <span class="dot"></span>
+                            <a href="img/downloads/3rd.pdf">3rd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2080/09/28) </a> <span class="dot"></span>
                         <a href="downloads.php">2nd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2079/03/29) </a> <span class="dot"></span> <a href="#">Registration of Bandipur
@@ -274,9 +276,8 @@ include('includes/navbar.php');
                         <h2 class="section-title"> Cable Car With Tourism </h2>
                         <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal,
                             Ministry of Industry, Company Registrar Office, Kathmandu on 2078.05.13 BS under
-                            registration No. 270364/078/079 and PAN-600918925 having its registered office at Bandipur
-                            Rural Muncipality, Bandipur -4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun and
-                            Corporate office at Kuleshwor-14, Kathmandu. </p>
+                            registration No. 270364/078/079 and PAN-600918925 having its registered office at Kalimati - 13, Kathmandu and
+                            Corporate office at Bandipur Rural Muncipality, Bandipur - 4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
                         <!-- promoter structure share in percentage counter -->
                         <div class="fact-counter" data-aos="fade-left" data-aos-duration="1000">
                             <div class="row">
@@ -342,11 +343,11 @@ include('includes/navbar.php');
                             <h5>As Per Audit 2080/81</h5>
                             <ul class="info__one__counter__list list-unstyled">
                                 <li class="info__one__counter-single">
-                                    <div class="value" akhi="4600">0</div>
+                                    <div class="value" akhi="5670">0</div>
                                     <p class="info__one__counter__text">Promoter Share</p>
                                 </li>
                                 <li class="info__one__counter-single two">
-                                    <div class="value" akhi="55">0</div> <span
+                                    <div class="value" akhi="74">0</div> <span
                                         class="info__one__counter__text ms-1"></span>
                                     <p class="info__one__counter__text">No. of employees</p>
                                 </li>
@@ -404,11 +405,11 @@ include('includes/navbar.php');
                         <div class="counter-value" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
                             <!-- <h4 class="value_currency">NPR</h4> -->
 
-                            <h4 class="value_heading">1 Arba 25 Crore</h4>
+                            <h4 class="value_heading">2 Arba 24 Crore</h4>
                         </div>
                     </div>
                 </li>
-                <li class="info__one__feature__single ">
+                <!-- <li class="info__one__feature__single ">
                     <div class="info__one__feature__content">
                         <h3 class="info__one__feature__title">Advance Capital
                         </h3>
@@ -416,12 +417,12 @@ include('includes/navbar.php');
                     <div class="info__one__feature__icon">
                         <img src="img/icon_pack/capital/value.png" alt="">
                         <div class="counter-value" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000">
-                            <!-- <h4 class="value_currency">NPR</h4> -->
+                             <h4 class="value_currency">NPR</h4> 
 
                             <h4 class="value_heading">1 Arba 25 Crore</h4>
                         </div>
                     </div>
-                </li>
+                </li> -->
             </ul>
         </div>
     </div>
