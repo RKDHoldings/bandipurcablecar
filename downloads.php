@@ -28,11 +28,21 @@
          <div class="row">
              <h2 class="section-title">Bandipur Cablecar Documents</h2>
              <div class="col-lg-3">
+                 <a href="img/downloads/4th.pdf" target="_blank" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">4th AGM Report of Bandipur Cablecar & Tourism Limited</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="4th AGM Report of Bandipur Cablecar & Tourism Limited">
+                        </div>
+                    </div>
+                 </a>
+             </div>
+             <div class="col-lg-3">
                  <a href="img/audit/audit Report079.80.pdf" target="_blank" download>
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">Audit Report 079/80 </h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="Audit Report 079/80">
                         </div>
                     </div>
                  </a>
@@ -42,7 +52,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">3rd AGM Report of Bandipur Cablecar & Tourism Limited</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="3rd AGM Report of Bandipur Cablecar & Tourism Limited">
                         </div>
                     </div>
                  </a>
@@ -52,7 +62,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">RKD AGM 2080</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="RKD AGM 2080">
                         </div>
                     </div>
                  </a>
@@ -62,7 +72,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">TIFL AGM 2080</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="TIFL AGM 2080">
                         </div>
                     </div>
                  </a>
@@ -72,7 +82,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">PANCHASE AGM 2080</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="PANCHASE AGM 2080">
                         </div>
                     </div>
                  </a>
@@ -92,7 +102,7 @@
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">Bandipur Cable Car Share Form</h5>
-                               <img src="img/icon-document.svg" class="download_icon" alt="">
+                               <img src="img/icon-document.svg" class="download_icon" alt="Bandipur Cable Car Share Form">
                             </div>
                        </div>
                      </a>
@@ -103,7 +113,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">Bidding Invitation Document</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="Bidding Invitation Document">
                         </div>
                     </div>
                  </a>
@@ -113,7 +123,7 @@
                     <div class="card">
                         <div class="card-body">
                            <h5 class="heading_title"> MEP E-Bid Invitation</h5>
-                           <img src="img/icon-document.svg" class="download_icon" alt="">
+                           <img src="img/icon-document.svg" class="download_icon" alt="MEP E-Bid Invitation">
                         </div>
                     </div>
                  </a>
@@ -123,7 +133,7 @@
                     <div class="card">
                          <div class="card-body">
                              <h5 class="heading_title"> MEPBIDDOC Technical Specification</h5>
-                             <img src="img/icon-document.svg" class="download_icon" alt="">
+                             <img src="img/icon-document.svg" class="download_icon" alt="MEPBIDDOC Technical Specification">
                          </div>
                     </div>
                  </a>
@@ -133,7 +143,7 @@
                      <div class="card">
                          <div class="card-body">
                             <h5 class="heading_title">BOQ of MEP Upper Station</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="BOQ of MEP Upper Station">
                          </div>
                      </div>
                   </a>
@@ -149,7 +159,7 @@
                          <div class="card">
                             <div class="card-body">
                                 <h5 class="heading_title"> Bandipur Cable Car 7th AGM 2077/78(2078/06/21)</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="">
+                                <img src="img/icon-document.svg" class="download_icon" alt="Bandipur Cable Car 7th AGM 2077/78(2078/06/21)">
                             </div>
                          </div>
                      </a>
@@ -159,7 +169,7 @@
                         <div class="card">
                              <div class="card-body">
                                 <h5 class="heading_title">Bandipur Cable Car 5th Annual  2075/76( 2076-10-25)</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="">               
+                                <img src="img/icon-document.svg" class="download_icon" alt="Bandipur Cable Car 5th Annual  2075/76( 2076-10-25">               
                              </div>
                         </div>
                      </a>   
@@ -169,7 +179,7 @@
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">MEP Bidding Document</h5>
-                            <img src="img/icon-document.svg" class="download_icon" alt="">
+                            <img src="img/icon-document.svg" class="download_icon" alt="MEP Bidding Document">
                         </div>
                     </div>
                  </a>
@@ -186,7 +196,7 @@
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">CARE-NP BB</h5>
-                               <img src="img/icon-document.svg" class="download_icon" alt="">
+                               <img src="img/icon-document.svg" class="download_icon" alt="CARE-NP BB">
                             </div>
                        </div>
                      </a>
@@ -202,7 +212,7 @@
                        <div class="card">
                             <div class="card-body">
                                   <h5 class="heading_title">Work Schedule Of Bandipur Cablecar Project</h5>
-                               <img src="img/icon-document.svg" class="download_icon" alt="">
+                               <img src="img/icon-document.svg" class="download_icon" alt="Work Schedule Of Bandipur Cablecar Project">
                             </div>
                        </div>
                      </a>
@@ -212,7 +222,7 @@
                          <div class="card">
                             <div class="card-body">
                                 <h5 class="heading_title">Work Schedule</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="">
+                                <img src="img/icon-document.svg" class="download_icon" alt="Work Schedule">
                             </div>
                          </div>
                      </a>
