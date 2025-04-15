@@ -4916,3 +4916,27 @@ body.modal-open {
 .notification-text span{
   float: right;
 }
+
+.company-table{
+  border: 2px solid darkblue;
+  border-collapse: collapse;
+  padding: 3px;
+  width: 100%;
+  background-color: rgb(250, 228, 221);
+}
+
+th, td{
+  border: 2px solid darkblue;
+  border-collapse: collapse;
+  padding: 3px;
+}
+
+.table-title{
+  font-weight: 600;   
+  color: rgb(245, 161, 4);
+}
+
+.table-details, .table-details a{
+  /* font-weight: 600;    */
+  color: rgb(2, 76, 187);
+}
