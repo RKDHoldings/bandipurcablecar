@@ -105,43 +105,72 @@
 <section id="award_details">
     <div class="container">
         <div class="row">
-           <h6>Capital Structure</h6>
-           
-           <p>Bandipur Cable Car & Tourism Limited not only focus on business, company also works for betterment of society. Company has taken following steps to fulfill It's corporate social responsibility:  </p>       
-           <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                    <a href="award-details.php">
-                        <div class="card-flyer">
-                            <div class="text-box">
-                                <div class="image-box">
-                                    <img src="img/news/award/startup.jpg" alt="" />
-                                </div>
-                                <div class="text-container">
-                                    <h5>बन्दीपुर केवलकार पर्यटन एवं उद्यमशील पत्रकारिता पुरस्कार तथा हार्दिक सम्मान</h5>
-                                    <!-- <p>कम्पनीले बन्दीपुर केवलकार पर्यटन एवं उद्यमशील पत्रकारिता पुरस्कार–२०७६ स्थापना गरेको थियो ।</p> -->
-                                </div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
-                    <a href="award-details2.php">
-                        <div class="card-flyer">
-                            <div class="text-box">
-                                <div class="image-box">
-                                    <img src="img/news/award/award.jpg" alt="" />
-                                </div>
-                                <div class="text-container">                                    
-                                     <h5> लाइफ टाइम फेयर टिकट बिक्री</h5>
-                                    <!-- <p>कम्पनीले स्थानीय बासिन्दाका लागि केवलकारमा सवार गरेवापत् जीवन भरीका लागिसुरुवातमा १० वर्षको अवधि रहने गरी लाइफ टाईम फेयर घोषणा गरको छ ।</p> -->
-                                </div>
-                            </div>
-                        </div>
-                    </a>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h6>Capital Structure</h6>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <h6>Proposed Share Holding Pattern</h6>
+            </div>     
+           <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                <canvas id="barGraph" ></canvas>
+                <p>Note: Total Capital = 2 Arba 55 Crore (Promoter + Public)
+                </p>
+            </div>
+                <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+                    <canvas id="pieChart"></canvas>
                 </div>              
         </div>
     </div>  
 </section>
 
+<script>
+    var xValues = ["Authorized", "Issued", "Promoter", "Public"];
+    var yValues = [300.00, 255.00, 224.40, 30.60];
+    var barColors = ["#004f8a", "#004f8a","#004f8a","#004f8a"];
+
+    new Chart("barGraph", {
+        type: "bar",
+        data: {
+            labels: xValues,
+            datasets: [{
+            backgroundColor: barColors,
+            data: yValues
+            }]
+        },
+        options: {
+            legend: {display: false},
+            title: {
+            display: true,
+            text: "Capital Structure (NPR Crore)"
+            },
+        }
+    });
+</script>
+<script>
+    var xValues = ["Promoter", "Public (IPO)"];
+    var yValues = [88, 12];
+    var barColors = [
+    "#004f8a",
+    "#ff7800"
+    ];
+
+    new Chart("pieChart", {
+        type: "pie",
+        data: {
+            labels: xValues,
+            datasets: [{
+            backgroundColor: barColors,
+            data: yValues
+            }]
+        },
+        options: {
+            title: {
+            display: true,
+            text: "World Wide Wine Production 2018"
+            }
+        }
+    });
+</script>
 <?php
  include('includes/footer.php');
  ?>

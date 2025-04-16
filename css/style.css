@@ -4918,25 +4918,25 @@ body.modal-open {
 }
 
 .company-table{
-  border: 2px solid darkblue;
+  border: 2px solid #004f8a;
   border-collapse: collapse;
   padding: 3px;
   width: 100%;
-  background-color: rgb(250, 228, 221);
+  background-color: rgb(252, 242, 239);
 }
 
 th, td{
-  border: 2px solid darkblue;
+  border: 2px solid #004f8a;
   border-collapse: collapse;
-  padding: 3px;
+  padding: 0.7rem;
 }
 
 .table-title{
   font-weight: 600;   
-  color: rgb(245, 161, 4);
+  color: #ff7800;
 }
 
 .table-details, .table-details a{
-  /* font-weight: 600;    */
-  color: rgb(2, 76, 187);
+  font-weight: 500;   
+  color: #004f8a;
 }
