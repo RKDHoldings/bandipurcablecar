@@ -64,7 +64,8 @@
                             <!-- <li><a href="#">investment strategy</a></li>                                 -->
                          </ul>
                       <!-- <li><a href="about_bandipur.php">our mission vision & values</a></li> -->
-                      <li><a href="award-recognition.php">Award & recognition</a></li>            
+                      <li><a href="award-recognition.php">Award & recognition</a></li>      
+                      <li><a href="company-snapshot.php">Company Snapshot</a></li>            
                   </ul>
                 </li>
                     <li><a href="#">partnership</a></li>
