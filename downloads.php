@@ -205,29 +205,43 @@
         
           <!-- care_rating end -->
         
-          <div class="row  mt-5"> 
+        <div class="row  mt-5"> 
              <h2 class="section-title">Project Flow</h2>            
-         <div class="col-lg-3">
-                     <a target="_blank" href="img/reports/graph_talika.pdf" title=" Report" download>
-                       <div class="card">
-                            <div class="card-body">
-                                  <h5 class="heading_title">Work Schedule Of Bandipur Cablecar Project</h5>
-                               <img src="img/icon-document.svg" class="download_icon" alt="Work Schedule Of Bandipur Cablecar Project">
-                            </div>
-                       </div>
-                     </a>
-                 </div>
-                 <div class="col-lg-3">
-                     <a target="_blank" href="img/reports/work_talika.pdf" title=" Report" download> 
-                         <div class="card">
-                            <div class="card-body">
-                                <h5 class="heading_title">Work Schedule</h5>
-                                <img src="img/icon-document.svg" class="download_icon" alt="Work Schedule">
-                            </div>
-                         </div>
-                     </a>
-                 </div>                    
-         </div>
+            <div class="col-lg-3">
+                <a target="_blank" href="img/reports/graph_talika.pdf" title=" Report" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">Work Schedule Of Bandipur Cablecar Project</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="Work Schedule Of Bandipur Cablecar Project">
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-lg-3">
+                <a target="_blank" href="img/reports/work_talika.pdf" title=" Report" download> 
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">Work Schedule</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="Work Schedule">
+                        </div>
+                    </div>
+                </a>
+            </div>                    
+        </div>
+        
+        <div class="row  mt-5"> 
+             <h2 class="section-title">Form</h2>            
+            <div class="col-lg-3">
+                <a target="_blank" href="img/form/proxy.pdf" title="Proxy Form" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">Proxy Form</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="Proxy Form">
+                        </div>
+                    </div>
+                </a>
+            </div>                
+        </div>
     </div>
 </section>
 
