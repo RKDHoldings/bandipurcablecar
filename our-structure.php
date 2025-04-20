@@ -28,15 +28,19 @@ include('includes/navbar.php');
     <div class="pcss3t pcss3t-effect-scale pcss3t-theme-1">
       <input type="radio" name="pcss3t" checked id="tab1" class="tab-content-first">
       <label for="tab1">board of directors</label>
-      <!-- tab1 -->
+    <!-- tab2 -->
       <input type="radio" name="pcss3t" id="tab2" class="tab-content-2">
-      <label for="tab2">our chairman</label>
+      <label for="tab2">Management Committee</label>
+      <!-- tab3 -->
+       <!-- To add new tab please add new unique class in style.css file in line 3638. If not added new tab with new class or another class other than these three class will not be visible. -->
+      <input type="radio" name="pcss3t" id="tab3" class="tab-content-last">
+      <label for="tab3">our chairman</label>
       <!-- tab1 content -->
       <ul>
         <li class="tab-content tab-content-first typography">
           <div class="row">
             <div class="col-lg-12">
-              <img src="img/directer_team/new-bod.jpg" class="w-100" alt="">
+              <img src="img/directer_team/directors-3.png" class="w-100" alt="">
 
             </div>
 
@@ -166,6 +170,14 @@ include('includes/navbar.php');
         </li>
         <!-- tab2 content -->
         <li class="tab-content tab-content-2 typography">
+          <div class="row">
+            <div class="col-lg-12">
+              <img src="img/directer_team/management-3.png" class="w-100" alt="">
+            </div>
+          </div>
+        </li>
+        <!-- tab3 content -->
+        <li class="tab-content tab-content-last typography">
           <div class="row">
             <div class="col-lg-5">
               <img src="img/directer_team/chairman.webp" class="ceo_img" width="100%" alt="">
