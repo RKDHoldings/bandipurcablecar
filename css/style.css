@@ -4940,3 +4940,22 @@ th, td{
   font-weight: 500;   
   color: #004f8a;
 }
+
+.chairman-message, .chairman_text p{
+  color: #004f8a;
+  font-size: 18px; 
+}
+
+.chairman_message_text blockquote{
+  color: #ff7800;
+  font-size: 18px; 
+}
+
+.chairman-message strong{
+  color: #ff7800;
+  font-size: 18px; 
+}
+
+.chairman_text h2{
+  color: #ff7800; 
+}
