@@ -653,6 +653,7 @@ include('includes/navbar.php');
                 <div class="single-logo" style="height:120px; border:1px solid #ff7800;">
                     <a href="" target="blank">
                         <h5 class="partner_type text-center">Budhima Chimkeshwori Darshan Pvt. Ltd. </h5>
+                        <img src="img/partner_company/budima.png" alt="Logo of Budhima Chimkeshwori Darshan Pvt. Ltd.">
                     </a>
                 </div>
             </div>
@@ -672,7 +673,7 @@ include('includes/navbar.php');
                 <div class="single-logo" style="height:120px; border:1px solid #ff7800;">
                     <a href="" target="_blank">
                         <h5 class="partner_type text-center">Bandipur Banquet and Events Pvt. Ltd.</h5>
-                        <!-- <img src="img/partner_company/sidda.png" alt="Logo of Bandipur Banquet and Events Pvt. Ltd."> -->
+                        <img src="img/partner_company/banquet.png" alt="Logo of Bandipur Banquet and Events Pvt. Ltd.">
                     </a>
                 </div>
             </div>
