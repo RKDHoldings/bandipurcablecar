@@ -1,3 +1,6 @@
+<?php
+   $page = "progress_stories";
+?>
 
 <?php
  include('includes/html_header.php');

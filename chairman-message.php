@@ -1,4 +1,7 @@
 <?php
+   $page = "about_us";
+?>
+<?php
 include('includes/html_header.php');
 ?>
 <?php

@@ -1,4 +1,7 @@
 <?php
+   $page = "service";
+?>
+<?php
  include('includes/html_header.php');
  ?>
 

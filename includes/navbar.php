@@ -35,7 +35,7 @@
         <!-- Logo section -->
         <div class="nav-header">
           <a class="nav-brand" href="/">
-			       <img src="img/logo-new.png" width="70" alt="">
+			       <img src="img/logo-new.png" width="70" alt="Logo">
 		      </a>
           <div class="nav-toggle"></div>
         </div>
@@ -43,12 +43,12 @@
         <!-- Main Menus Wrapper -->
         <div class="nav-menus-wrapper">
           <ul class="nav-menu align-to-right">
-            <li><a href="who-we-are.php" class="active">Who We Are</a>
+            <li><a href="who-we-are.php" class="<?php if($page == 'about_us') { echo 'active'; } ?>">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
-                      <img src="img/about/building.webp" class="nav_img" alt="">
+                      <img src="img/about/building.webp" class="nav_img" alt="Building">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  
@@ -74,7 +74,7 @@
                 </div>
               </div>
             </li>
-            <li><a href="what-we-do.php">What we do</a>
+            <li><a href="what-we-do.php" class="<?php if($page == 'service') { echo 'active'; } ?>">What we do</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
@@ -95,7 +95,7 @@
                 </div>
               </div>
             </li>
-            <li><a href="investors-relation.php">investors relation</a>
+            <li><a href="investors-relation.php" class="<?php if($page == 'investors') { echo 'active'; } ?>">investors relation</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4">
@@ -114,10 +114,10 @@
                 </div>
               </div>
             </li>
-            <li><a href="progress-stories.php">progress stories</a>  </li>
-            <li><a href="downloads.php">Downloads</a>  </li>
-		      	<li><a href="media-center.php">media center</a></li>
-            <li><a href="contact.php">contact</a></li>
+            <li><a href="progress-stories.php" class="<?php if($page == 'progress_stories') { echo 'active'; } ?>">progress stories</a>  </li>
+            <li><a href="downloads.php" class="<?php if($page == 'downloads') { echo 'active'; } ?>">Downloads</a>  </li>
+		      	<li><a href="media-center.php" class="<?php if($page == 'media_center') { echo 'active'; } ?>">media center</a></li>
+            <li><a href="contact.php" class="<?php if($page == 'contact') { echo 'active'; } ?>">contact</a></li>
           </ul>
         </div>
       </nav>

@@ -1,4 +1,7 @@
 <?php
+   $page = "media_center";
+?>
+<?php
  include('includes/html_header.php');
  ?>
  <?php

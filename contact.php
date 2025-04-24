@@ -1,4 +1,7 @@
 <?php
+   $page = "contact";
+?>
+<?php
  include('includes/html_header.php');
  ?>
  <?php

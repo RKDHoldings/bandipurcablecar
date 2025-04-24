@@ -1,4 +1,7 @@
 <?php
+   $page = "investors";
+?>
+<?php
 include('includes/html_header.php');
 ?>
 
