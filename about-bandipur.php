@@ -634,6 +634,17 @@ include('includes/navbar.php');
       </div>
    </div>
 </section>
+
+<!-- other_features -->
+<section id="future_features">
+   <div class="container"> 
+      <h2 class="section-title">Our Services</h2>
+      <img src="img/about/upper1.png" alt="Upper Station" width="100%">
+      <img src="img/about/lower1.png" alt="Lower Station" width="100%">
+      <img src="img/about/lower2.png" alt="Lower Station" width="100%">
+      <img src="img/about/lower3.png" alt="Lower Station" width="100%">
+   </div>
+</section>
 <!-- future work plan -->
 <?php
 /*
