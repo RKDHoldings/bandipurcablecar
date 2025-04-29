@@ -9,7 +9,7 @@
                     <div class="footer_right float-end">
                     <div class="nav-social">
 	                    <ul class="menu">
-                         <li class="first leaf"><a href="https://www.facebook.com/bandipurcablecar" title="Facebook"  target="_blank"><i class="icon-facebook"></i></a></li>
+                         <li class="first leaf"><a href="https://www.facebook.com/bandipurhill" title="Facebook"  target="_blank"><i class="icon-facebook"></i></a></li>
                          <li class="leaf"><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" title="Youtube" class="yt" target="_blank"><i class="icon-youtube"></i></a></li>
                       </ul>
                     </div>  
@@ -43,8 +43,7 @@
               <div class="col-lg-3 col-sm-12">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
-                            <li class="first leaf"> <a href="what-we-do.php#features_queentower" target="_blank" title="About queen tower">queen tower</a></li>
-                            <li class="leaf">       <a href="what-we-do.php#features_cablecar" target="_blank" title="Bandipur Cablecar">bandipur cablecar</a></li>
+                            <li class="leaf"><a href="cablecar-and-hotel.php" target="_blank" title="Bandipur Cablecar">Cablecar and Hotel</a></li>
                    </ul>  
                </div>  
                <div class="col-lg-3 col-sm-12">

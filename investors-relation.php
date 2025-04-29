@@ -82,7 +82,7 @@ include('includes/navbar.php');
                         Company performs internal & external audit Annually.</p>
                 </div>
                 <div class="investor_info_block text-center">
-                    <h2 class="text-capitalize">Bandipur cablecar and tourism limited(powered by RKD Holdings)</h2>
+                    <h2 class="text-capitalize">Audit Report of Bandipur Cable Car</h2>
                 </div>
                 <!-- financial reports -->
                 <div class="financial_reports mt-4">
@@ -355,7 +355,7 @@ include('includes/navbar.php');
             </tbody>
         </table>   
         
-        <h2 class="section-title">वित्तीय विवरण तुलना तालिका</h2>
+        <!-- <h2 class="section-title">वित्तीय विवरण तुलना तालिका</h2>
         <table class="investment-table">
             <thead>
                 <tr>
@@ -383,32 +383,32 @@ include('includes/navbar.php');
                 <tr><td>१३</td><td>कुल खर्च</td><td>५४२</td><td>४१२</td><td>१३०</td><td>३१.५२</td></tr>
                 <tr><td>१४</td><td>करअघिक मुनाफ़ा</td><td>(१३)</td><td>(४८८)</td><td>३७५</td><td>(७७.७५)</td></tr>
             </tbody>
-        </table>
+        </table> -->
 
         <p><strong>कम्पनीको आषाढ ३१, २०१ तथा पौष २९, २०१ सम्मको आर्थिक विवरण देहाय बमोजिम रहेको छ। </strong></p>
         <table class="investment-table">
             <thead>
                 <tr>
                     <th>विवरण</th>
-                    <th>आषाढ ३१, २०७१</th>
-                    <th>पुष २९, २०७१</th>
+                    <th>आषाढ ३१, २०८१</th>
+                    <th>पुष २९, २०८१</th>
                 </tr>
             </thead>
             <tbody>
                 <tr><td>अधिकृत शेयर पूँजी</td><td>३,००,००,००,०००/-</td><td>३,००,००,००,०००/-</td></tr>
                 <tr><td>जारी शेयर पूँजी</td><td>२,५५,००,००,०००/-</td><td>२,५५,००,००,०००/-</td></tr>
-                <tr><td>चुक्ता शेयर पूँजी</td><td>२,४५,४०,००,०००/-</td><td>२,४५,४०,००,०००/-</td></tr>
-                <tr><td>ब्रिज व्याप लोन</td><td>१५,७१,००,०००/-</td><td>९,१०,०३,५५२/-</td></tr>
-                <tr><td>बैंक ऋण (आवधिक र हायर पर्चेज)</td><td>१२,१८,१३,५४७/-</td><td>१२,१५,४६,८७८/-</td></tr>
-                <tr><td>अन्य चालु सम्पत्ति</td><td>३२,४०,१७,४४७/-</td><td>३३,२७,०६,७१३/-</td></tr>
-                <tr><td>चालु तथा अन्य दायित्व</td><td>२२,२८,५६,००९/-</td><td>२४,२८,६०,१२५/-</td></tr>
-                <tr><td>सम्पत्ति, प्लान्ट र उपकरण</td><td>१,४७,४०,५२,४७८/-</td><td>१,४०,७१,७१,०७८/-</td></tr>
-                <tr><td>अमूर्त सम्पत्ति</td><td>१,७८,१३,७३३/-</td><td>१,३०,२८,२००/-</td></tr>
-                <tr><td>क्यापिटल वर्क इन प्रोग्रेस (WIP)</td><td>१,२८,५२,२५,४७५/-</td><td>१,३२,१८,४७,७१६/-</td></tr>
+                <tr><td>चुक्ता शेयर पूँजी</td><td>२,२४,४०,००,०००/-</td><td>२,२४,४०,००,०००/-</td></tr>
+                <tr><td>ब्रिज व्याप लोन</td><td>१५,८१,००,०००/-</td><td>९,९०,०३,५५२/-</td></tr>
+                <tr><td>बैंक ऋण (आवधिक र हायर पर्चेज)</td><td>९१,९८,९३,५४७/-</td><td>९९,९५,४६,७८८/-</td></tr>
+                <tr><td>अन्य चालु सम्पत्ति</td><td>३९,४०,१७,४७४/-</td><td>३३,२७,०६,२१३/-</td></tr>
+                <tr><td>चालु तथा अन्य दायित्व</td><td>२२,८९,७६,००९/-</td><td>२४,८२,६०,९२५/-</td></tr>
+                <tr><td>सम्पत्ति, प्लान्ट र उपकरण</td><td>१,४१,४०,५९,४१८/-</td><td>१,४०,५१,५१,०८८/-</td></tr>
+                <tr><td>अमूर्त सम्पत्ति</td><td>१,८४,९३,७३३/-</td><td>१,७०,८९,२००/-</td></tr>
+                <tr><td>क्यापिटल वर्क इन प्रोग्रेस (WIP)</td><td>१,२८,५९,२५,४७५/-</td><td>१,३२,१८,४७,७१६/-</td></tr>
                 <tr><td>नगद र बैंक ब्यालेन्स</td><td>६३,३५,०८८/-</td><td>१,००,७४,१६५/-</td></tr>
-                <tr><td>अन्य वित्तीय सम्पत्ति</td><td>३१,१०,१५,०००/-</td><td>३७,०००/-</td></tr>
-                <tr><td>मौज्दात</td><td>६३,७३,७१७/-</td><td>५६,२०,३५५/-</td></tr>
-                <tr><td>लगानी</td><td>-</td><td>३३,२०,२५,०००/-</td></tr>
+                <tr><td>अन्य वित्तीय सम्पत्ति</td><td>३१,९०,१५,०००/-</td><td>३७,०००/-</td></tr>
+                <tr><td>मौज्दात</td><td>६३,७३,७७१/-</td><td>५६,२०,३५५/-</td></tr>
+                <tr><td>लगानी</td><td>-</td><td>३३,९०,२५,०००/-</td></tr>
             </tbody>
         </table>
         <p>
@@ -448,7 +448,7 @@ include('includes/navbar.php');
             <tfoot>
                 <tr>
                     <td>**जम्मा**</td>
-                    <td>३,९५,३७,३००/-</td>
+                    <td>३,१५,३७,३००/-</td>
                 </tr>
             </tfoot>
         </table>
@@ -465,17 +465,17 @@ include('includes/navbar.php');
             <tbody>
                 <tr>
                     <td>संचालन आयआर्जन</td>
-                    <td>३१,३१,७५०/-</td>
+                    <td>३१,३१,१५०/-</td>
                 </tr>
                 <tr>
                     <td>अन्य आम्दानी</td>
-                    <td>४,२४,६६,७५४/-</td>
+                    <td>४,२४,६१,७५४/-</td>
                 </tr>
             </tbody>
             <tfoot>
                 <tr>
                     <td>जम्मा</td>
-                    <td>४,५५,९८,५०४/-</td>
+                    <td>४,५५,९२,९०४/-</td>
                 </tr>
             </tfoot>
         </table>
