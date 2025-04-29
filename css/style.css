@@ -1365,6 +1365,8 @@ h4.value_heading{
   background-attachment: fixed;
   background-repeat: no-repeat;
   opacity: 1;
+  background-size: cover;
+  background-position: center;
 }
 .pt-opacity4 {
   opacity: 1;
@@ -5013,4 +5015,13 @@ tfoot{
   color: #004f8a;
   font-size: 16px;
   font-weight: 600;
+}
+
+.associate-img{
+  width: 100%;
+}
+
+.associate-title{
+  color: #ff7800;
+  font-size: 24px;
 }

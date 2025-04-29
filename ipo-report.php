@@ -19,7 +19,7 @@ include('includes/navbar.php');
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">IPO Details</li>
+                        <li class="breadcrumb-item active" aria-current="page">IPO</li>
                     </ol>
                 </nav>
             </div>
@@ -30,7 +30,7 @@ include('includes/navbar.php');
 <!--ipo reports  -->
 <section id="investment_budget">
     <div class="container">
-    <h6>IPO Report</h6>
+    <h6>IPO</h6>
     <h2 class="section-title">निष्काशन पछिको चुक्त  पुँजी  </h2>
         <table class="investment-table">
             <thead>
@@ -148,60 +148,4 @@ include('includes/footer.php');
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css" />
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js">
-</script>
-
-<script>
-    $(document).ready(function () {
-        $("#testimonial-slider").owlCarousel({
-            items: 1,
-            itemsDesktop: [1000, 1],
-            itemsDesktopSmall: [979, 1],
-            itemsTablet: [768, 1],
-            pagination: true,
-            navigation: false,
-            navigationText: ["", ""],
-            slideSpeed: 1000,
-            singleItem: true,
-            autoPlay: true
-        });
-    });
-</script>
-<!-- for pie chart -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.5/Chart.min.js"></script>
-
-<!--debt equity  -->
-<script>
-    var ctx = document.getElementById("myChart").getContext('2d');
-    var myChart = new Chart(ctx, {
-        type: 'pie',
-        data: {
-            labels: ["Debt % ", "Equity %"],
-            datasets: [{
-                backgroundColor: [
-
-                    "#004f8a",
-                    "#ff7800"
-                ],
-                data: [28.77, 71.23]
-            }]
-        }
-    });
-</script>
-<script>
-    var ctx = document.getElementById("myChart2").getContext('2d');
-    var myChart = new Chart(ctx, {
-        type: 'pie',
-        data: {
-            labels: ["RKD Tourism % ", "Panchase %", "Others %"],
-            datasets: [{
-                backgroundColor: [
-
-                    "#004f8a",
-                    "#6dacdceb",
-                    "#ff7800"
-                ],
-                data: [61, 25, 14]
-            }]
-        }
-    });
 </script>
