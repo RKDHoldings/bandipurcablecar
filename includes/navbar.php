@@ -60,7 +60,7 @@
                              <li><a href="our-structure.php#directors-team">board of directors</a></li>
                        <!-- <li><a href="#">investment committee</a></li>         -->
                        <!-- <li><a href="#">operating model</a></li>  -->
-                            <li><a href="co-operative-governance.php">co-operative governance</a></li>
+                            <li><a href="corporate-governance.php">corporate governance</a></li>
                             <!-- <li><a href="#">investment strategy</a></li>                                 -->
                          </ul>
                       <!-- <li><a href="about_bandipur.php">our mission vision & values</a></li> -->

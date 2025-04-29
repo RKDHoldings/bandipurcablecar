@@ -36,7 +36,7 @@
                       <li class=""> <a href="who-we-are.php#our_history" target="_blank" title="Our History">Our History</a></li>
                       <li class=""> <a href="our-structure.php" target="_blank" title="Our Structure">Our Structure</a></li>
                       <li class=""> <a href="our-structure.php#directors_team" target="_blank" title="Board of Directors">Board of Directors</a></li> 
-                      <li class=""> <a href="co-operative-governance.php" title="Co-operative governance">co-operative governance</a></li>                        
+                      <li class=""> <a href="corporate-governance.php" title="Corporate governance">corporate governance</a></li>                        
                       <li class=""> <a href="award-recognition.php" target="_blank" title="Awards and Recognition">Awards and Recognition</a></li>
                   </ul>  
               </div>  

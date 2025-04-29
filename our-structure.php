@@ -190,8 +190,8 @@ include('includes/navbar.php');
               </div>
             </div>
             <div class="col-lg-7">
-              <h6>our president</h6>
-              <h2 class="section-title">Message from President</h2>
+              <h6>our chairman</h6>
+              <h2 class="section-title">Message from Chairman</h2>
               <p>आदरणीय चौथो वार्षिक साधारण सभामा उपस्थीत प्रमुख
                      अतिथि, विशिष्ट अतिथिहरू, सञ्चालक सहकर्मीहरु,
                      शेयरधनीहरू, कर्मचारीहरू, सरोकारवालाहरू, पत्रकार
