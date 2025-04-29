@@ -436,7 +436,7 @@ include('includes/navbar.php');
                 <h2 class="section-title">Featured Investments</h2>
             </div>
             <div class="col-lg-6">
-                <a href="what_we_do.php" class=" btn btn-viewmore d-flex">view all <i
+                <a href="what-we-do.php" class=" btn btn-viewmore d-flex">view all <i
                         class="icon-long-arrow-right d-flex align-items-center"></i></a>
             </div>
         </div>

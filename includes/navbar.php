@@ -85,12 +85,11 @@
                   <ul class="megamenu-list list-col-3">
                   <h4 class="nav_title">what we do</h4>              
                     <ul class="nav-dropdown">
-                      <li><a href="what-we-do.php#features-cablecar">Bandipur Cablecar</a></li>
-                      <li><a href="what-we-do.php#features-queentower">queen tower</a>             
+                      <li><a href="cablecar-and-hotel.php">Cablecar and Hotel</a></li>     
                     </ul>
                 </li>
-                    <li><a href="#">partnership</a></li>
-                    <li><a href="#">Award & recognition</a></li>
+                    <!-- <li><a href="#">partnership</a></li>
+                    <li><a href="#">Award & recognition</a></li> -->
                   </ul>
                 </div>
               </div>

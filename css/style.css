@@ -5025,3 +5025,19 @@ tfoot{
   color: #ff7800;
   font-size: 24px;
 }
+
+.full_message h5{
+  color: #ff7800;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.full_message p{
+  color:#004f8a;
+  font-size: 18px;
+  text-align: justify;
+}
+
+.full_message p strong{
+  font-weight: 600;
+}

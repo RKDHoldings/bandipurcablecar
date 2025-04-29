@@ -43,8 +43,7 @@
               <div class="col-lg-3 col-sm-12">
                    <ul class="menu">
                          <a href="what_we_do.php"> <h4 class="footer_heading">what we do</h4> </a>  
-                            <li class="first leaf"> <a href="what-we-do.php#features_queentower" target="_blank" title="About queen tower">queen tower</a></li>
-                            <li class="leaf">       <a href="what-we-do.php#features_cablecar" target="_blank" title="Bandipur Cablecar">bandipur cablecar</a></li>
+                            <li class="leaf"><a href="cablecar-and-hotel.php" target="_blank" title="Bandipur Cablecar">Cablecar and Hotel</a></li>
                    </ul>  
                </div>  
                <div class="col-lg-3 col-sm-12">
