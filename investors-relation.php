@@ -82,7 +82,7 @@ include('includes/navbar.php');
                         Company performs internal & external audit Annually.</p>
                 </div>
                 <div class="investor_info_block text-center">
-                    <h2 class="text-capitalize">Bandipur cablecar and tourism limited(powered by RKD Holdings)</h2>
+                    <h2 class="text-capitalize">Audit Report of Bandipur Cable Car</h2>
                 </div>
                 <!-- financial reports -->
                 <div class="financial_reports mt-4">
