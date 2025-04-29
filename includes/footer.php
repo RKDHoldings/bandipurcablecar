@@ -9,7 +9,7 @@
                     <div class="footer_right float-end">
                     <div class="nav-social">
 	                    <ul class="menu">
-                         <li class="first leaf"><a href="https://www.facebook.com/bandipurcablecar" title="Facebook"  target="_blank"><i class="icon-facebook"></i></a></li>
+                         <li class="first leaf"><a href="https://www.facebook.com/bandipurhill" title="Facebook"  target="_blank"><i class="icon-facebook"></i></a></li>
                          <li class="leaf"><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" title="Youtube" class="yt" target="_blank"><i class="icon-youtube"></i></a></li>
                       </ul>
                     </div>  

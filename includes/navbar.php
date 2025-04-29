@@ -17,7 +17,7 @@
                                       <!--social-media -->
                                         <div class="topbar__social-media">
                                            <ul class="p-0">
-                                              <li><a href="https://www.facebook.com/bandipurcablecar" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
+                                              <li><a href="https://www.facebook.com/bandipurhill" target="_blank" title="Facebook"><i class="icon-facebook"></i></a></li>
                                                <li><a href="https://www.youtube.com/channel/UCxh0z_rSb870U6gZ235uOmQ" target="_blank"  title="Youtube"><i class="icon-youtube"></i></a></li>                                               
                                            </ul>
                                         </div>
