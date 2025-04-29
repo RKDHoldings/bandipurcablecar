@@ -115,6 +115,7 @@
               </div>
             </li>
             <li><a href="progress-stories.php" class="<?php if($page == 'progress_stories') { echo 'active'; } ?>">progress stories</a>  </li>
+            <li><a href="associated-companies.php" class="<?php if($page == 'associated_companies') { echo 'active'; } ?>">Associates</a>  </li>
             <li><a href="downloads.php" class="<?php if($page == 'downloads') { echo 'active'; } ?>">Downloads</a>  </li>
 		      	<li><a href="media-center.php" class="<?php if($page == 'media_center') { echo 'active'; } ?>">media center</a></li>
             <li><a href="contact.php" class="<?php if($page == 'contact') { echo 'active'; } ?>">contact</a></li>
