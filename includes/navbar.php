@@ -106,9 +106,9 @@
                   <ul class="megamenu-list list-col-3">  
                     <h4 class="nav_title">Investors Relation</h4>   
                     <li><a href="investors-relation.php#financial-report">financial Reports</a></li>          
-			          		<li><a href="investors-relation.php#investment-budget">share structure</a></li>
-                    <li><a href="investors-relation.php#investment-strategy">Investment strategy</a></li>
-                    <li><a href="investors-relation.php#management-team">Risk Management</a></li>
+			          		<li><a href="ipo-report.php">IPO Report</a></li>
+                    <!-- <li><a href="investors-relation.php#investment-strategy">Investment strategy</a></li> -->
+                    <!-- <li><a href="investors-relation.php#management-team">Risk Management</a></li> -->
                   </ul>
                  
                 </div>

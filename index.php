@@ -275,9 +275,9 @@ include('includes/navbar.php');
                         <h6 class="">About Us</h6>
                         <h2 class="section-title"> Cable Car With Tourism </h2>
                         <p>Bandipur Cable Car & Tourism Ltd. is a limited company registered with Government of Nepal,
-                            Ministry of Industry, Company Registrar Office, Kathmandu on 2078.05.13 BS under
-                            registration No. 270364/078/079 and PAN-600918925 having its registered office at Kalimati - 13, Kathmandu and
-                            Corporate office at Bandipur Rural Muncipality, Bandipur - 4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
+                            Ministry of Industry, Company Registrar Office, Kathmandu on 2078.05.17 BS under
+                            registration No. 270364/078/079 and PAN-600918925 having its corporate office at Kalimati - 13, Kathmandu and
+                            field office at Bandipur Rural Muncipality, Bandipur - 4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
                         <!-- promoter structure share in percentage counter -->
                         <div class="fact-counter" data-aos="fade-left" data-aos-duration="1000">
                             <!-- <div class="row">

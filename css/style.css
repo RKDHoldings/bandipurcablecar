@@ -1843,6 +1843,7 @@ img.ceo_img{
 }
 #investment_budget{
   padding:  0 6rem;
+  margin-top: 15px;
 }
 #chart {
   height: 400px;
@@ -5006,4 +5007,10 @@ thead th{
 tbody tr td{
   font-weight: 500;   
   color: #004f8a;
+}
+
+tfoot{
+  color: #004f8a;
+  font-size: 16px;
+  font-weight: 600;
 }
