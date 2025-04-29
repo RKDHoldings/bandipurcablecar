@@ -31,7 +31,7 @@
          <div class="row">
              <h2 class="section-title">Bandipur Cablecar Documents</h2>
              <div class="col-lg-3">
-                 <a href="img/downloads/4th.pdf" target="_blank" download>
+                 <a href="https://rkdholdingsltd.sharepoint.com/sites/RKDHoldingsLimited/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FRKDHoldingsLimited%2FShared%20Documents%2FGeneral%2FCompany%2FBandipur%20Cable%20Car%20and%20Tours%20Limited%2FAGM%2FBCCTL%20Annual%20Report%202081%2Epdf&parent=%2Fsites%2FRKDHoldingsLimited%2FShared%20Documents%2FGeneral%2FCompany%2FBandipur%20Cable%20Car%20and%20Tours%20Limited%2FAGM&p=true&ga=1" target="_blank" download>
                     <div class="card">
                         <div class="card-body">
                             <h5 class="heading_title">4th AGM Report of Bandipur Cablecar & Tourism Limited</h5>
@@ -208,7 +208,7 @@
         
           <!-- care_rating end -->
         
-        <div class="row  mt-5"> 
+        <!-- <div class="row  mt-5"> 
              <h2 class="section-title">Project Flow</h2>            
             <div class="col-lg-3">
                 <a target="_blank" href="img/reports/graph_talika.pdf" title=" Report" download>
@@ -230,7 +230,7 @@
                     </div>
                 </a>
             </div>                    
-        </div>
+        </div> -->
         
         <div class="row  mt-5"> 
              <h2 class="section-title">Form</h2>            

@@ -149,8 +149,8 @@
                                  <div class="info-media">
                                    <div class="info-media_icon"> <i class="icon-phone"></i> </div>
                                  <div class="media-body">
-                                  <p class="info-media_text"><a href="">Head Office:</a></p>
-                                  <p class="info-media_text"><a href="">Thuldhunga, Bandipur Tanahun</a></p>
+                                  <p class="info-media_text"><a href="#">Head Office:</a></p>
+                                  <p class="info-media_text"><a href="#">Bandipur-4, Thuldhunga, Tanahun</a></p>
                                   <p class="info-media_text"><a href="tel: 065-580457">	065-580457 </a>
                                      <a href="tel: 977-9802815792">9802815792</a></p>
                                  </div>
@@ -183,9 +183,9 @@
                                  <div class="info-media">
                                    <div class="info-media_icon"> <i class="icon-phone"></i> </div>
                                  <div class="media-body">
-                                  <p class="info-media_text"><a href="">Corporate Office:</a></p>
-                                  <p class="info-media_text"><a href="">Sabhagriha Chowk, Pokhara</a></p>
-                                  <p class="info-media_text"><a href="tel: 061-541430">061-541430</a></p>
+                                  <p class="info-media_text"><a href="#">Corporate Office:</a></p>
+                                  <p class="info-media_text"><a href="#">Kalimati 13, Kathmandu</a></p>
+                                  <p class="info-media_text"><a href="tel: 01-5924251">01-5924251</a></p>
                                  </div>
                                </div>
                                 

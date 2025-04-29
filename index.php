@@ -280,7 +280,7 @@ include('includes/navbar.php');
                             Corporate office at Bandipur Rural Muncipality, Bandipur - 4, Tanahun formerly Bandipur VDC Ward no.3, Tanahun. </p>
                         <!-- promoter structure share in percentage counter -->
                         <div class="fact-counter" data-aos="fade-left" data-aos-duration="1000">
-                            <div class="row">
+                            <!-- <div class="row">
                                 <h2 class="mb-4 mt-4">Promoter Structure Percentage (%)</h2>
                                 <div class="column counter-column col-lg-3 col-md-4 col-sm-12">
                                     <div class="inner">
@@ -314,7 +314,7 @@ include('includes/navbar.php');
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                         </div>
                         <a href="about-bandipur.php"> <button class="slide_from_left">explore more</button></a>
                     </div>

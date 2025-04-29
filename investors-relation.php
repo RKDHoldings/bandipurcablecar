@@ -92,13 +92,22 @@ include('includes/navbar.php');
                                 data-bs-target="#faq_tab_0" type="button" role="tab" aria-controls="faq_tab_0"
                                 aria-selected="true">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
+                                    <span>2080-2081</span>
+                                </div>
+                            </button>
+                        </li>
+                    <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="faq_tab_1-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1"
+                                aria-selected="true">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
                                     <span>2079-2080</span>
                                 </div>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link " id="faq_tab_0-tab" data-bs-toggle="tab"
-                                data-bs-target="#faq_tab_0" type="button" role="tab" aria-controls="faq_tab_0"
+                            <button class="nav-link " id="faq_tab_2-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_2" type="button" role="tab" aria-controls="faq_tab_2"
                                 aria-selected="true">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
                                     <span>2078-2079</span>
@@ -106,8 +115,8 @@ include('includes/navbar.php');
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link " id="faq_tab_1-tab" data-bs-toggle="tab"
-                                data-bs-target="#faq_tab_1" type="button" role="tab" aria-controls="faq_tab_1"
+                            <button class="nav-link " id="faq_tab_3-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_3" type="button" role="tab" aria-controls="faq_tab_3"
                                 aria-selected="true">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
                                     <span>2077-2078</span>
@@ -115,16 +124,16 @@ include('includes/navbar.php');
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="faq_tab_2-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_2"
-                                type="button" role="tab" aria-controls="faq_tab_2" aria-selected="false">
+                            <button class="nav-link" id="faq_tab_4-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_4"
+                                type="button" role="tab" aria-controls="faq_tab_4" aria-selected="false">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i>
                                     <span>2076-2077</span>
                                 </div>
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button class="nav-link" id="faq_tab_3-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_3"
-                                type="button" role="tab" aria-controls="faq_tab_3" aria-selected="false">
+                            <button class="nav-link" id="faq_tab_5-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_5"
+                                type="button" role="tab" aria-controls="faq_tab_5" aria-selected="false">
                                 <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i>
                                     <span>2074-2075</span>
                                 </div>
@@ -134,8 +143,42 @@ include('includes/navbar.php');
                     </ul>
 
                     <div class="tab-content" id="myTabContent">
-                        <div class="tab-pane fade active show" id="faq_tab_0" role="tabpanel"
+                    <div class="tab-pane fade active show" id="faq_tab_0" role="tabpanel"
                             aria-labelledby="faq_tab_0-tab">
+                            <div class="container">
+                                <ul id="financial-statements" class="financial-reports list-pdf" style="">
+                                    <li class="tset pdf">
+                                        <div class="title">
+                                            <h3>
+                                                <span class="wrap-title">
+                                                    <a target="_blank" href="img/reports/audit-bandipur-80-81.pdf"
+                                                        title="Audit report" class="">Audit report of 2080-2081</a>
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    <div class="tab-pane fade" id="faq_tab_1" role="tabpanel"
+                            aria-labelledby="faq_tab_1-tab">
+                            <div class="container">
+                                <ul id="financial-statements" class="financial-reports list-pdf" style="">
+                                    <li class="tset pdf">
+                                        <div class="title">
+                                            <h3>
+                                                <span class="wrap-title">
+                                                    <a target="_blank" href="img/audit/audit Report079.80.pdf"
+                                                        title="Audit report" class="">Audit report of 2079-2080</a>
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="faq_tab_2" role="tabpanel"
+                            aria-labelledby="faq_tab_2-tab">
                             <div class="container">
                                 <ul id="financial-statements" class="financial-reports list-pdf" style="">
                                     <!--<div class="tab-container">
@@ -153,8 +196,8 @@ include('includes/navbar.php');
                                 </ul>
                             </div>
                         </div>
-                        <div class="tab-pane fade active" id="faq_tab_1" role="tabpanel"
-                            aria-labelledby="faq_tab_1-tab">
+                        <div class="tab-pane fade" id="faq_tab_3" role="tabpanel"
+                            aria-labelledby="faq_tab_3-tab">
                             <div class="container">
                                 <ul id="financial-statements" class="financial-reports list-pdf" style="">
                                     <!--<div class="tab-container">
@@ -172,7 +215,7 @@ include('includes/navbar.php');
                                 </ul>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="faq_tab_2" role="tabpanel" aria-labelledby="faq_tab_2-tab">
+                        <div class="tab-pane fade" id="faq_tab_4" role="tabpanel" aria-labelledby="faq_tab_4-tab">
                             <div class="container">
                                 <div class="d-flex justify-content-between align-items-center">
                                     <ul id="financial-statements" class="financial-reports list-pdf" style="">
@@ -191,7 +234,7 @@ include('includes/navbar.php');
                                 </div>
                             </div>
                         </div>
-                        <div class="tab-pane fade" id="faq_tab_3" role="tabpanel" aria-labelledby="faq_tab_3-tab">
+                        <div class="tab-pane fade" id="faq_tab_5" role="tabpanel" aria-labelledby="faq_tab_5-tab">
                             <div class="container">
                                 <ul id="financial-statements" class="financial-reports list-pdf" style="">
                                     <li class="tset pdf">
