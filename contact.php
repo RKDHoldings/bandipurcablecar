@@ -133,7 +133,7 @@
                         <!-- Nav tabs -->
                         <ul class="nav nav-tabs bg-light" role="tablist">
                             <li class="nav-item">
-                                <a class="nav-link active" data-bs-toggle="tab" href="#basic"><b>Head office</b></a>
+                                <a class="nav-link active" data-bs-toggle="tab" href="#basic"><b>Field office</b></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" data-bs-toggle="tab" href="#standard"><b>corporate office</b></a>
@@ -149,7 +149,7 @@
                                  <div class="info-media">
                                    <div class="info-media_icon"> <i class="icon-phone"></i> </div>
                                  <div class="media-body">
-                                  <p class="info-media_text"><a href="#">Head Office:</a></p>
+                                  <p class="info-media_text"><a href="#">Field Office:</a></p>
                                   <p class="info-media_text"><a href="#">Bandipur-4, Thuldhunga, Tanahun</a></p>
                                   <p class="info-media_text"><a href="tel: 065-580457">	065-580457 </a>
                                      <a href="tel: 977-9802815792">9802815792</a></p>
@@ -205,7 +205,7 @@
                                 <hr>
                                 <div class="contact-details__inner">
                             <div class="contact-details__map-box">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d225013.48935377697!2d83.7035110328125!3d28.2123018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3995954eb23ff771%3A0x18dba0b1c6d00f1c!2sBandipur%20Cable%20Car%20and%20Tourism%20Limited%20Corporate%20Office!5e0!3m2!1sen!2snp!4v1659247568608!5m2!1sen!2snp" width="100%"  style="border:0;" class="contact-details__map" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4346.794785777838!2d85.29408607611347!3d27.69772882591436!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb192127b3c65f%3A0x74214133f9a1fd7d!2sKalimati%20Trade%20Centre!5e1!3m2!1sen!2snp!4v1745916558267!5m2!1sen!2snp" class="contact-details__map" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                          </div>
                                 <hr/>
