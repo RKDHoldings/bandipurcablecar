@@ -4946,6 +4946,7 @@ th, td{
 .chairman-message, .chairman_text p{
   color: #004f8a;
   font-size: 18px; 
+  text-align: justify !important;
 }
 
 .chairman_message_text blockquote{
@@ -5035,7 +5036,7 @@ tfoot{
 .full_message p{
   color:#004f8a;
   font-size: 18px;
-  text-align: justify;
+  text-align: justify !important;
 }
 
 .full_message p strong{
