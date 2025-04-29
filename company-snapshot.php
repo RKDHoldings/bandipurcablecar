@@ -9,15 +9,15 @@
  ?>
   <!-- banner -->
  <section id="breadcrumb">
-         <div class="bg-overlay pt-opacity4" style="background-image: url('img/service4-bg.webp');"></div>
+         <div class="bg-overlay pt-opacity4" style="background-image: url('img/who-we-are.webp'); background-size: cover; background-position: bottom;"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
-                  <h2 class="breadcrumb-title">award and recognition</h2>
+                  <h2 class="breadcrumb-title">Who we are</h2>
                   <nav aria-label="breadcrumb">
                      <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.php"><i data-feather="home"></i>Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">award and recognition</li>
+                        <li class="breadcrumb-item active" aria-current="page">Who we are</li>
                      </ol>
                   </nav>
                </div>

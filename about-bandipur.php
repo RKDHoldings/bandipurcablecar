@@ -174,465 +174,352 @@ include('includes/navbar.php');
       </div>
    </div>
 </section>
-<!--why choose us  -->
-<section id="trusted_one">
-   <div class="container">
-      <div class="trusted-one__inner">
-         <div class="trusted-one__left">
-            <h3 class="trusted-one__content">मोनोकेवल डिटाचेवल रोटेटिङ गोण्डोला सिस्टम</h3>
-         </div>
-         <div class="trusted-one__right">
-            <ul class="list-unstyled trusted-one__content-box">
-               <!-- <li class="trusted one__single" data-aos="fade-right" data-aos-easing="linear"  data-aos-duration="1500">
-                                <div class="trusted-one__icon">
-                                    <span class="icon-briefcase"></span>
-                                </div>
-                                <h3 class="trusted-one__title"><a href="">रोटेटिङ गोण्डोला सिस्टम</a></h3>
-                                <p class="trusted-one__text">Morbi nec finibus misd</p>
-                            </li> -->
-               <li class="trusted one__single" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
-                  <div class="trusted-one__icon">
-                     <span class="icon-person_add"></span>
-                  </div>
-                  <h3 class="trusted-one__title"><a href="">५००+</a></h3>
-                  <p class="trusted-one__text">५०० यात्रु प्रति घण्टा</p>
-               </li>
-               <li class="trusted one__single" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500">
-                  <div class="trusted-one__icon">
-                     <span class="icon-server"></span>
-                  </div>
-                  <h3 class="trusted-one__title"><a href="">१६+</a></h3>
-                  <p class="trusted-one__text">१६ घण्टा माथि सेवा दिन सक्ने</p>
-               </li>
-            </ul>
-         </div>
-      </div>
-   </div>
-</section>
-<!-- tabular content -->
-<section id="tabular_structure">
-   <div class="container">
-      <div class="row">
-         <div class="col-lg-12">
-            <div class="table_details" id="lower_station" data-aos="fade-up" data-aos-duration="1000">
-               <h3 class="secondary_heading">कम्पनीले तल उल्लखित विवरणको जग्गा खरिद गरेको छ ।</h3>
-               <!-- <p>Valuation report of land</p> -->
-               <table class="rwd-table">
-                  <tr>
-                     <th>क्र.स</th>
-                     <th>जिल्ला</th>
-                     <th>गा.पा</th>
-                     <th>नक्सा नं.</th>
-                     <th>कित्ता नं.</th>
-                     <th>क्षेत्रफल</th>
-                     <th>परित मिति</th>
-                     <th>जग्गा विक्रेता</th>
-                  </tr>
-                  <tr>
-                     <td data-th="number">१.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ४ क</td>
-                     <td data-th="kitta_no">१३  </td>
-                     <td data-th="area">१६–५–१–१</td>
-                     <td data-th="registered_date">२०७४/१२/०८</td>
-                     <td data-th="price">काजीराम पिया</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">२</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ४ ग</td>
-                     <td data-th="kitta_no">५९४  </td>
-                     <td data-th="area">५–०–०–०</td>
-                     <td data-th="registered_date">२०७०/०६/१०</td>
-                     <td data-th="price">शम्भुलाल थापा</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">३.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ४ ग</td>
-                     <td data-th="kitta_no">८५९  </td>
-                     <td data-th="area">४–९–२–०</td>
-                     <td data-th="registered_date">२०७६/०९/२५</td>
-                     <td data-th="price">टिकाराम/नविन अधिकारी</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">४.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ४ ग</td>
-                     <td data-th="kitta_no">५९७  </td>
-                     <td data-th="area">१–१२–१–०</td>
-                     <td data-th="registered_date">२०७०/०७/०५</td>
-                     <td data-th="price">रेवती माया मगर</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">५.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ४ ग</td>
-                     <td data-th="kitta_no">८१६  </td>
-                     <td data-th="area">३–०–३–०</td>
-                     <td data-th="registered_date">२०७६/०९/१८</td>
-                     <td data-th="price">रेवती माया मगर</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">६.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ४ क</td>
-                     <td data-th="kitta_no">१३६  </td>
-                     <td data-th="area">०–८–०–०</td>
-                     <td data-th="registered_date">२०७६/११/२०</td>
-                     <td data-th="price">दिलमाया चुमी मगर</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">७.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ४ ग</td>
-                     <td data-th="kitta_no">८८३ </td>
-                     <td data-th="area">४–०–०–०</td>
-                     <td data-th="registered_date">२०७८/०३/२८</td>
-                     <td data-th="price">टिकाराम/नविन अधिकारी</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">८.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ५</td>
-                     <td data-th="kitta_no">५</td>
-                     <td data-th="area">१–४–३–०</td>
-                     <td data-th="registered_date">२०७५/०४/२७</td>
-                     <td data-th="price">ओम कुमार पिया</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">९.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ५</td>
-                     <td data-th="kitta_no">४</td>
-                     <td data-th="area">२–१२–२–०</td>
-                     <td data-th="registered_date">२०७५/०९/२८</td>
-                     <td data-th="price">टिकाराम अधिकारी</td>
-                  </tr>
-                  <tr>
-                     <td data-th="number">१०.</td>
-                     <td data-th="district">तनहुँ</td>
-                     <td data-th="municipality">बन्दीपुर</td>
-                     <td data-th="map_no">LPT ५</td>
-                     <td data-th="kitta_no">४६३ </td>
-                     <td data-th="area">१–०–०–०</td>
-                     <td data-th="registered_date">२०७६/०५/११</td>
-                     <td data-th="price">राज कुमार पिया</td>
-                  </tr>
-               </table>
-            </div>
-         </div>
-      </div>
-      <!-- row end -->
-      <!-- new row start -->
-      <!-- <div class="row mt-5">
-            <div class="col-lg-12">
-               <div class="table_details" id="upper_station" data-aos="fade-up" data-aos-duration="1000">
-                  <h3 class="secondary_heading">Upper Station (Valuation report of land)</h3>
-               <table class="rwd-table">
-                     <tr>
-                        <th>क्र.स</th>
-                        <th>जिल्ला</th>
-                        <th>गा.पा</th>
-                        <th>नक्सा नं.</th>
-                        <th>कित्ता नं.</th>
-                        <th>क्षेत्रफल</th>
-                        <th>परित मिति</th>
-                        <th>मूल्य</th>
-                     </tr>
-                     <tr>
-                        <td data-th="Movie Title">१.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">५</td>
-                        <td data-th="Gross"> ४</td>
-                        <td data-th="Gross">२–१२–२–०</td>
-                        <td data-th="Gross">२०७५/०९/२८</td>
-                        <td data-th="Gross">१८,००,००० /- प्रति आना</td>
-                     </tr>
-                     <tr>
-                        <td data-th="Movie Title">२</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">५</td>
-                        <td data-th="Gross">५</td>
-                        <td data-th="Gross"> १–४–३–० </td>
-                        <td data-th="Gross">२०७५/०४/२७</td>
-                        <td data-th="Gross">१८,००,००० /- प्रति आना</td>
-                     </tr>
-                     <tr>
-                        <td data-th="Movie Title">३.</td>
-                        <td data-th="Genre">तनहुँ</td>
-                        <td data-th="Year">बन्दीपुर</td>
-                        <td data-th="Gross">५</td>
-                        <td data-th="Gross"> ४६३</td>
-                        <td data-th="Gross">१–०–०–०</td>
-                        <td data-th="Gross">२०७६/०५/११</td>
-                        <td data-th="Gross">१८,००,०००  /- प्रति आना</td>
-                     </tr>
-                    
-                </table>
-              </div>
-          </div>
-       </div> -->
-      <!-- new row -->
-      <div class="row">
-         <div class="col-lg-12">
-            <div class="table_details mt-5" id="land_details" data-aos="fade-up" data-aos-duration="1000">
-               <h3 class="secondary_heading">बन्दीपुर केवलकारले नेपाल सरकारलाई वन उपभोग गरेवापत् दिएको जग्गाको विवरणः
-               </h3>
-               <table class="rwd-table">
-                  <tr>
-                     <th>क्र.स</th>
-                     <th>जिल्ला</th>
-                     <th>गा.पा</th>
-                     <th>नक्सा नं.</th>
-                     <th>कित्ता नं.</th>
-                     <th>क्षेत्रफल</th>
-                     <th>परित मिति</th>
 
-                  </tr>
-                  <tr>
-                     <td data-th="Movie Title">१.</td>
-                     <td data-th="Genre">तनहुँ</td>
-                     <td data-th="Year">रूपाटार–१, राम्जाकोट</td>
-                     <td data-th="Gross"> १ ट</td>
-                     <td data-th="Gross"> १</td>
-                     <td data-th="Gross">२५–०५–०३–०२</td>
-                     <td data-th="Gross">२०७५/०५/०७</td>
-                  </tr>
-               </table>
-            </div>
-         </div>
-      </div>
-      <!-- row end -->
-      <!-- new row start -->
-      <div class="row">
-         <div class="col-lg-12">
-            <div class="table_details mt-5" data-aos="fade-up" data-aos-duration="1000">
-               <h3 class="secondary_heading">बन्दीपुर केवलकारले नेपाल सरकारलाई वन उपभोग गरेवापत् दिएको जग्गाको विवरणः
-               </h3>
-
-               <table class="rwd-table">
-                  <tr>
-                     <th>क्र.स</th>
-                     <th>ठेगाना</th>
-                     <th>नाम</th>
-                     <th>कित्ता नं.</th>
-                     <th>क्षेत्रफल</th>
-                     <th>लिज मिति</th>
-                     <th>स्थान</th>
-                  </tr>
-                  <tr>
-                     <td data-th="Movie Title">१.</td>
-                     <td data-th="Genre">बन्दीपुर–४, तनहुँ</td>
-                     <td data-th="Year">रेवतीमाया मगर </td>
-                     <td data-th="Gross">८१७</td>
-                     <td data-th="Gross"> ३–०–०–०</td>
-                     <td data-th="Gross">२०७६/०८/१९</td>
-                     <td data-th="Gross">Lower terminal point</td>
-                  </tr>
-                  <tr>
-                     <td data-th="Movie Title">२.</td>
-                     <td data-th="Genre">बन्दीपुर–४, तनहुँ</td>
-                     <td data-th="Year"> राजकुमार पिया </td>
-                     <td data-th="Gross">४६४</td>
-                     <td data-th="Gross">४–६–०–०</td>
-                     <td data-th="Gross">२०७६/०६/१५</td>
-                     <td data-th="Gross">Upper terminal point</td>
-                  </tr>
-                  <tr>
-                     <td data-th="Movie Title">३.</td>
-                     <td data-th="Genre">बन्दीपुर–४, तनहुँ</td>
-                     <td data-th="Year"> चिरन पिया समेत </td>
-                     <td data-th="Gross">७</td>
-                     <td data-th="Gross">१–८–०–०</td>
-                     <td data-th="Gross">२०७६/०९/०८</td>
-                     <td data-th="Gross">Lower terminal point</td>
-                  </tr>
-                  <tr>
-                     <td data-th="Movie Title">४.</td>
-                     <td data-th="Genre">बन्दीपुर–४, तनहुँ</td>
-                     <td data-th="Year">माउन्टेन रिसोर्ट प्रा.लि.</td>
-                     <td data-th="Gross">३</td>
-                     <td data-th="Gross">०–१२–१–१</td>
-                     <td data-th="Gross">२०७६/०४/१० </td>
-                     <td data-th="Gross">Upper terminal point</td>
-                  </tr>
-               </table>
-            </div>
-         </div>
-      </div>
-      <p>
-         नोटः माउन्टेन रिर्सोट प्रा. लि. को जग्गा कित्ता न. ३ बाट ३ वटा पोल र एलाइमेन्टमा पर्ने मापदण्डको जग्गा लिजमा
-         लिइएको । यसले ४ रोपनी बराबरको क्षेत्रफललाई प्रभावमा राख्दछ ।
-      </p>
-   </div>
-</section>
-<!--features of bandipur cablecar  -->
-<section id="features_cablecar_about">
-   <div class="container">
-      <div class="row">
-         <h2 class="section-title">Special features of bandipur cablecar</h2>
-         <p>Bandipur Cablecar & Tourism Limited Company focus on Cablecar with Tourism. Company has Asia Unique Cablecar
-            and has different projects with it some of the special Features includes: </p>
-         <div class="col-lg-4">
-            <div class="content_bandipur">
-               <a href="" target="_blank">
-                  <div class="content-overlay"></div>
-                  <img class="content-image " src="img/hero_1.webp">
-                  <div class="content-details fadeIn-left">
-                     <h3>Transparent Cablecar</h3>
-                     <!-- <p>This is a short description</p> -->
-                  </div>
-               </a>
-            </div>
-         </div>
-         <div class="col-lg-4">
-            <div class="content_bandipur">
-               <a href="" target="_blank">
-                  <div class="content-overlay"></div>
-                  <img class="content-image" src="img/features/queen-tower.jpg">
-                  <div class="content-details fadeIn-left">
-                     <h3>5 Star Queen Tower</h3>
-                     <!-- <p>This is a short description</p> -->
-                  </div>
-               </a>
-            </div>
-         </div>
-         <div class="col-lg-4">
-            <div class="content_bandipur">
-               <a href="" target="_blank">
-                  <div class="content-overlay"></div>
-                  <img class="content-image" src="img/features/3d-cover.jpeg">
-                  <div class="content-details fadeIn-left">
-                     <h3>Cablecar Restro Zone</h3>
-                     <!-- <p>This is a short description</p> -->
-                  </div>
-               </a>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-
-<!-- other_features -->
-<section id="future_features">
-   <div class="container">
-      <div class="row">
-         <h2 class="section-title">Other Potential Investment Infrastructure</h2>
-         <p>बन्दीपुर परियोजनालाई व्यवसायिक हिसाबले थप बल पुग्ने कोणबाट अन्य सहयोगी पूर्वाधारहरु निर्माण गरिने छ । तर ती
-            पूर्वाधारहरु अन्य कम्पनी खोली तेस्रो पक्षको संयुक्त उद्यममा कम्पनीलाई फाइदा पुग्ने गरी निर्माण गरिने छ ।</p>
-         <div class="inner_container">
-            <div class="row g-0">
-
-               <!-- strategy Block -->
-               <div class="strategy_block col-lg-2 col-md-6 col-sm-12">
-                  <div class="inner_box">
-                     <div class="icon_box">
-                        <img src="img/icon_pack/for_features/zip-line.png" alt="">
-                     </div>
-                     <div class="heading_arrow d-flex justify-content-between">
-                        <h5><a href="">जिप लाइन</a></h5>
-
-                     </div>
-
-                  </div>
-               </div>
-
-               <!-- strategy Block -->
-               <div class="strategy_block col-lg-2 col-md-6 col-sm-12">
-                  <div class="inner_box">
-                     <div class="icon_box">
-                        <img src="img/icon_pack/for_features/cable-car.png" alt="">
-                     </div>
-                     <div class="heading_arrow d-flex justify-content-between">
-                        <h5><a href="">सिद्ध गुफा केवलकार</a></h5>
-                     </div>
-                  </div>
-               </div>
-
-               <!-- strategy Block -->
-               <div class="strategy_block col-lg-2 col-md-6 col-sm-12">
-                  <div class="inner_box">
-                     <div class="icon_box">
-                        <img src="img/icon_pack/for_features/golden-gate-bridge.png" alt="">
-                     </div>
-                     <div class="heading_arrow d-flex justify-content-between">
-                        <h5><a href="">टुडिखेल वार्क भ्यु/सिसाको पुल</a></h5>
-                     </div>
-                  </div>
-               </div>
-
-               <!-- strategy Block -->
-               <div class="strategy_block col-lg-2 col-md-6 col-sm-12">
-                  <div class="inner_box">
-                     <div class="icon_box">
-                        <img src="img/icon_pack/for_features/cycling.png" alt="">
-                     </div>
-                     <div class="heading_arrow d-flex justify-content-between">
-                        <h5><a href="">स्काइ साइक्लिङ/ साइकल सेवा</a></h5>
-                     </div>
-                  </div>
-               </div>
-               <!-- strategy Block -->
-               <div class="strategy_block col-lg-2 col-md-6 col-sm-12">
-                  <div class="inner_box">
-                     <div class="icon_box">
-                        <img src="img/icon_pack/for_features/cycling.png" alt="">
-                     </div>
-                     <div class="heading_arrow d-flex justify-content-between">
-                        <h5><a href="">स्काइवाक</a></h5>
-                     </div>
-                  </div>
-               </div>
-               <!-- strategy Block -->
-               <!-- strategy Block -->
-               <div class="strategy_block col-lg-2 col-md-6 col-sm-12">
-                  <div class="inner_box">
-                     <div class="icon_box">
-                        <img src="img/icon_pack/for_features/resort.png" alt="">
-                     </div>
-                     <div class="heading_arrow d-flex justify-content-between">
-                        <h5><a href=""> रानीवन चियर लिफ्ट जंगल रिर्सोट</a></h5>
-                     </div>
-                  </div>
-               </div>
-               <!-- strategy Block -->
-               <div class="strategy_block col-lg-2 col-md-6 col-sm-12">
-                  <div class="inner_box">
-                     <div class="icon_box">
-                        <img src="img/icon_pack/for_features/site-seeing-place.png" alt="">
-                     </div>
-                     <div class="heading_arrow d-flex justify-content-between">
-                        <h5><a href=""> विविध साहसिक पर्यटकीय फिचरहरु</a></h5>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</section>
-
-<!-- Major Attraction 
+<!-- Major Attraction  -->
 <section id="future_features">
    <div class="container"> 
       <h2 class="section-title">Major Attraction of Bandipur</h2>
-      <div class="row">
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Khadgadevi Temple.jpg" class="attraction-img" alt="Khadka Devi Mandir">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               KHADGA DEVI MANDIR
+            </div>
+            <hr>
+            <p>
+            Set on the hillside, it is easy to
+            mistake this temple for a house.
+            Built by the Newari Community, it
+            has the venerated the sword of
+            Mukunda Sen, the 16th-century
+            king. The sword is said to be a gift
+            from the Hindu deity Shiva, and a
+            symbol of shakti. Khadga Devi
+            literally means “goddess of the
+            sword”. You can enjoy majestic
+            views of the mountains and
+            Bandipur village from here.
+            </p>
+         </div>
+      </div>
 
+      
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Old Bandipur Bazaar.jpg" class="attraction-img" alt="OLD BANDIPUR BAZAAR">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               OLD BANDIPUR BAZAAR
+            </div>
+            <hr>
+            <p>
+            Often referred as a living museum of
+            Newari culture, Bandipur is a hilltop
+            settlement and a municipality in
+            Tanahun District, located in central
+            Nepal. This picturesque town is
+            perched on a ridge with stunning views
+            of the Himalayas and the Marshyangdi
+            Valley.
+            Bandipur is famous for its wellpreserved cultural heritage, traditional
+            Newari architecture, and a serene,
+            traffic-free environment. The town
+            offers a unique blend of history,
+            culture, and nature, making it an ideal
+            destination for travelers seeking an
+            authentic Nepalese experience.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Tundikhel.jpg" class="attraction-img" alt="TUNDIKHEL">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               TUNDIKHEL
+            </div>
+            <hr>
+            <p>
+            Tundikhel is a large former parade
+            ground set on a man-made plateau
+            near Bandipur Bazaar. Once used as
+            a gathering place for traders to
+            haggle for goods from India and
+            Tibet, it is now a popular picnic spot
+            and view point. <br>
+            The location offers stunning view s of
+            the surrounding hills and valleys,
+            providing an ideal backdrop for
+            photography and relaxation. Its
+            central position ensures easy
+            accessibility from different parts of
+            Bandipur, making it a convenient
+            meeting point for residents and
+            visitors.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Thani Mai Mandir.jpg" class="attraction-img" alt="THANIMAI MANDIR">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               THANIMAI MANDIR
+            </div>
+            <hr>
+            <p>
+            Thani Mai Temple, located on Gurungche Hill in Bandipur, Nepal, is a revered religious site dedicated to Goddess Durga.
+             Offering panoramic views of the Annapurna and Dhaulagiri ranges and the Marshyangdi Valley, it is a popular spot for both spiritual pilgrims and tourists. <br>
+              The temple is central to the local Newar community's religious life, especially during Dashain and Tihar festivals. 
+              A short 15–20 minute hike from Bandipur Bazaar, it is well-known for its sunrise and sunset views and tranquil atmosphere.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Siddhababa Gufa (Siddha Cave).jpg" class="attraction-img" alt="SIDDHABABA GUFA">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               SIDDHABABA GUFA
+            </div>
+            <hr>
+            <p>
+            Said to be the largest cave in Nepal, Siddha Cave is 50 m high and 437 m deep. 
+            Its interiors are full of stalactites and stalagmites, as well as hundreds of bats. <br>
+             Most people hike to the cave from Bandipur, which is just an hour and a half trek away, 
+             but you can also get there via Bimalnagar on the Prithvi Highway. 
+             This natural limestone cave is home to a fascinating ecosystem, including bats.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Goat Farm.jpg" class="attraction-img" alt="GOAT FARM">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               GOAT FARM
+            </div>
+            <hr>
+            <p>
+            The Goat Farm in Bandipur is a growing attraction that highlights the region's commitment 
+            to sustainable livestock farming and organic agriculture. <br>
+            The farm focuses on rearing various breeds of goats, 
+            including local and hybrid varieties, for milk and meat production. 
+            Visitors can observe modern goat farming techniques, learn about milking and cheese-making, and experience the rural lifestyle firsthand.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Tindhara.jpg" class="attraction-img" alt="TINDHARA">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               TINDHARA
+            </div>
+            <hr>
+            <p>
+            Tindhara is a serene spot in
+            Bandipur, Nepal, known for its
+            natural beauty and three water
+            springs (the name "Tindhara"
+            means "three springs" in Nepali).
+            It offers a peaceful environment,
+            ideal for nature walks and
+            relaxation. <br>
+            Located a short hike or drive
+            from central Bandipur, it
+            provides stunning view s and
+            cultural significance. Although
+            less known, Tindhara is perfect
+            for those seeking a tranquil
+            experience.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Bee Farm.jpg" class="attraction-img" alt="BEE FARM">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               BEE FARM
+            </div>
+            <hr>
+            <p>
+            The Bee Farm in Bandipur offers a
+            unique experience for visitors
+            interested in organic farming and
+            sustainable beekeeping. Located just
+            a short distance from the town, the
+            farm promotes environmentally
+            friendly practices while producing a
+            variety of organic honey products,
+            including raw honey and beeswax.
+            Visitors can take guided tours to
+            learn about the beekeeping process,
+            from hive maintenance to honey
+            extraction, while gaining insight into
+            the vital role bees play in pollination
+            and ecological balance.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Silkworm Farm.jpg" class="attraction-img" alt="SILKWORM FARM">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               SILKWORM FARM
+            </div>
+            <hr>
+            <p>
+            The Silkworm Farm in Bandipur is
+            a silk production factory that
+            shows you the fascinating process
+            of how silk is produced. It also
+            encompasses an orchard of
+            mulberry plants, which are fed to
+            the silkworms. You can visit
+            throughout the years but keep in
+            mind that the silkworms are
+            usually reared from August to
+            December and from March to
+            May.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Raniban, Bandipur.jpg" class="attraction-img" alt="RANIBAN">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               RANIBAN
+            </div>
+            <hr>
+            <p>
+            Raniban in Bandipur, Nepal, is a
+            spiritual site nestled in a peaceful
+            forest, offering scenic views of the
+            Himalayas. We can found seven
+            pilgrims in the top of the
+            mountain like Manakamana,
+            Chhimkeshwori, Akala and etc . It's
+            popular for meditation, prayers,
+            and nature walks, attracting
+            visitors seeking tranquility and
+            spiritual connection.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Bandipur Rock Face.jpg" class="attraction-img" alt="BANDIPUR ROCK FACE">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               BANDIPUR ROCK FACE
+            </div>
+            <hr>
+            <p>
+            Climbing Areas and Crags
+            Bandipur, a paradise for rock
+            climbing enthusiasts. Bandipur
+            boasts several renow ned
+            climbing areas and crags that
+            cater to climbers of all skill levels.
+            One popular spot is the Bandipur
+            Rock Face, known for its
+            challenging routes and
+            spectacular views.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Ramkot Village Hike.jpg" class="attraction-img" alt="RAMKOT VILLAGE HIKE">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+              RAMKOT VILLAGE HIKE
+            </div>
+            <hr>
+            <p>
+            The hike to Ramkot Village from
+            Bandipur is a scenic 2-3 hour trek
+            through terraced fields and
+            traditional villages. Ramkot offers
+            stunning Himalayan views and an
+            authentic glimpse of rural Nepali
+            life, with its mud houses and
+            peaceful atmosphere. It’s a
+            rewarding hike for nature and
+            culture enthusiasts.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Bandipur to Chimkeswari Hike.jpg" class="attraction-img" alt="BANDIPUR TO CHIMKESWARI HIKE">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               BANDIPUR TO CHIMKESWARI HIKE
+            </div>
+            <hr>
+            <p>
+            Chimkeswari Temple, located
+            atop the highest hill near
+            Bandipur, is dedicated to
+            Goddess Chimkeswari and
+            considered to be the sister of
+            Manakamana. The Bandipur to
+            Chimkeswari hike is a 4-5 hour
+            trek through forests and villages,
+            offering stunning views of the
+            Annapurna and Manaslu ranges.
+            At the summit, you'll find a
+            temple and breathtaking
+            panoramic scenery, making it a
+            rewarding adventure.
+            </p>
+         </div>
+      </div>
+      <div class="row my-4">
+         <div class="col-md-8">
+            <img src="img/attractions/Mini Great Wall.jpg" class="attraction-img" alt="MINI GREAT WALL">
+         </div>
+         <div class="col-md-4 attraction-details">
+            <div class="attraction-title">
+               MINI GREAT WALL
+            </div>
+            <hr>
+            <p>
+            The four-kilometer Mini-Great
+            Wall constructed from Thanimai
+            Temple in Bandipur. It connects
+            to the Mani Mukundha Sen
+            Durbar. From Dhaulagiri in the
+            west to Annapurna,
+            Machhapuchhre, Manaslu,
+            Buddha Himal in the east, Ganesh
+            Himal and Langtang, hundreds of
+            peaks of the mountain range can
+            be seen from the path.
+            </p>
+         </div>
       </div>
    </div>
-</section> -->
+</section>
 
 <!-- other_features -->
 <section id="future_features">

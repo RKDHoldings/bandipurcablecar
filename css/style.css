@@ -1365,7 +1365,6 @@ h4.value_heading{
   background-attachment: fixed;
   background-repeat: no-repeat;
   opacity: 1;
- 
 }
 .pt-opacity4 {
   opacity: 1;
@@ -4958,4 +4957,33 @@ th, td{
 
 .chairman_text h2{
   color: #ff7800; 
+}
+
+.attraction-img{
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.attraction-details{
+  text-align: right;
+  color: #004f8a;
+}
+
+.attraction-details p{
+  text-align: justify;
+  color: #004f8a;
+  font-size: 18px;
+}
+
+.attraction-details hr{
+  margin-left: auto;
+  width: 50%;
+  border: 5px solid #ff7800;
+  /* background-color: #ff7800; */
+}
+
+.attraction-title{
+  font-size: 24px;
+  font-weight: 500;
 }

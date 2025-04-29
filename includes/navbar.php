@@ -43,7 +43,7 @@
         <!-- Main Menus Wrapper -->
         <div class="nav-menus-wrapper">
           <ul class="nav-menu align-to-right">
-            <li><a href="who-we-are.php" class="<?php if($page == 'about_us') { echo 'active'; } ?>">Who We Are</a>
+            <li><a href="company-snapshot.php" class="<?php if($page == 'about_us') { echo 'active'; } ?>">Who We Are</a>
               <div class="megamenu-panel">
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
@@ -65,7 +65,7 @@
                          </ul>
                       <!-- <li><a href="about_bandipur.php">our mission vision & values</a></li> -->
                       <li><a href="award-recognition.php">Award & recognition</a></li>      
-                      <li><a href="company-snapshot.php">Company Snapshot</a></li>            
+                      <!-- <li><a href="company-snapshot.php">Company Snapshot</a></li>             -->
                   </ul>
                 </li>
                     <li><a href="#">partnership</a></li>

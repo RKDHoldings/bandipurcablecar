@@ -11,15 +11,29 @@
 
  <!-- banner -->
  <section id="breadcrumb">
-   <div class="container">
-   <video autoplay muted loop playsinline preload="metadata" controls="controls">
+ <div class="bg-overlay pt-opacity4" style="background-image: url('img/what-we-do-bg.png'); background-size: cover; background-position: center;"></div>
+         <div class="container">
+            <div class="row">
+               <div class="col-sm-12">
+                  <h2 class="breadcrumb-title">What we do</h2>
+                  <nav aria-label="breadcrumb">
+                     <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="index.php"><i data-feather="home"></i>Home</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">What we do</li>
+                     </ol>
+                  </nav>
+               </div>
+            </div>
+         </div>
+   <!-- <div class="container"> -->
+   <!-- <video autoplay muted loop playsinline preload="metadata" controls="controls">
 	  <source src="img/videos/queen_tower.mp4"  type="video/mp4">
-  </video>
+  </video> -->
    <!-- <div id="fashion zoom-gallery">
       <a class="video-play" href="" title="Play">Play</a>
    </div> -->
-   <h2 class="breadcrumb-title">queen tower</h2>
-   </div>
+   <!-- <h2 class="breadcrumb-title">queen tower</h2> -->
+   <!-- </div> -->
 </section>
  
 <!--fearured investments  -->
