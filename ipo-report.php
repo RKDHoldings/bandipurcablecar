@@ -19,7 +19,7 @@ include('includes/navbar.php');
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">IPO Details</li>
+                        <li class="breadcrumb-item active" aria-current="page">IPO</li>
                     </ol>
                 </nav>
             </div>
@@ -30,7 +30,7 @@ include('includes/navbar.php');
 <!--ipo reports  -->
 <section id="investment_budget">
     <div class="container">
-    <h6>IPO Report</h6>
+    <h6>IPO</h6>
     <h2 class="section-title">निष्काशन पछिको चुक्त  पुँजी  </h2>
         <table class="investment-table">
             <thead>

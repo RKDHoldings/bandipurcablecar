@@ -51,9 +51,7 @@
                     <ul class="menu">
                          <a href="investors_relation.php"> <h4 class="footer_heading">investors relation</h4> </a>         
                          <li class=""> <a href="investors-relation.php#financial_report" title="financial Reports">financial reports</a></li>
-                         <li class=""> <a href="investors-relation.php#investment_budget" title="">share structure</a></li>
-                         <li><a href="investors-relation.php#investment_strategy">Investment strategy</a></li>
-                         <li><a href="investors-relation.php#management_team">Risk Management</a></li>                                                                   
+                         <li class=""> <a href="ipo-report.php" title="">IPO</a></li>                                                                   
                     </ul>  
                </div>  
                <div class="col-lg-3 col-sm-12">   

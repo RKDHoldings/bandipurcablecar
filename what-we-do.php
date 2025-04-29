@@ -11,7 +11,7 @@
 
  <!-- banner -->
  <section id="breadcrumb">
- <div class="bg-overlay pt-opacity4" style="background-image: url('img/what-we-do-bg.png'); background-size: cover; background-position: center;"></div>
+ <!-- <div class="bg-overlay pt-opacity4" style="background-image: url('img/what-we-do-bg.png'); background-size: cover; background-position: center;"></div>
          <div class="container">
             <div class="row">
                <div class="col-sm-12">
@@ -24,16 +24,16 @@
                   </nav>
                </div>
             </div>
-         </div>
-   <!-- <div class="container"> -->
-   <!-- <video autoplay muted loop playsinline preload="metadata" controls="controls">
+         </div> -->
+   <div class="container">
+   <video autoplay muted loop playsinline preload="metadata" controls="controls">
 	  <source src="img/videos/queen_tower.mp4"  type="video/mp4">
-  </video> -->
+  </video>
    <!-- <div id="fashion zoom-gallery">
       <a class="video-play" href="" title="Play">Play</a>
    </div> -->
-   <!-- <h2 class="breadcrumb-title">queen tower</h2> -->
-   <!-- </div> -->
+   <h2 class="breadcrumb-title">queen tower</h2>
+   </div>
 </section>
  
 <!--fearured investments  -->

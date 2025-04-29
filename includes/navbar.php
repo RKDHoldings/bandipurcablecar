@@ -48,7 +48,7 @@
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
 				              <div class="inner_nav">
-                      <img src="img/about/building.webp" class="nav_img" alt="Building">
+                      <img src="img/who-we-are.webp" class="nav_img" alt="Building">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">  
@@ -79,7 +79,7 @@
                 <div class="megamenu-lists">
                   <ul class="megamenu-list list-col-4 ">
                       <div class="inner_nav">
-                             <img src="img/features/3d-cover.jpeg" class="nav_img" alt="">
+                             <img src="img/what-we-do.webp" class="nav_img" alt="">
                       </div>
                   </ul>
                   <ul class="megamenu-list list-col-3">
@@ -106,7 +106,7 @@
                   <ul class="megamenu-list list-col-3">  
                     <h4 class="nav_title">Investors Relation</h4>   
                     <li><a href="investors-relation.php#financial-report">financial Reports</a></li>          
-			          		<li><a href="ipo-report.php">IPO Report</a></li>
+			          		<li><a href="ipo-report.php">IPO</a></li>
                     <!-- <li><a href="investors-relation.php#investment-strategy">Investment strategy</a></li> -->
                     <!-- <li><a href="investors-relation.php#management-team">Risk Management</a></li> -->
                   </ul>
