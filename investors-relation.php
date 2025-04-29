@@ -28,7 +28,7 @@ include('includes/navbar.php');
 </section>
 
 <!-- share information -->
-<section id="share_info">
+<!-- <section id="share_info">
     <div class="container">
         <div class="row">
             <div class="col-lg-12">
@@ -49,9 +49,9 @@ include('includes/navbar.php');
                             <div id="testimonial-slider" class="owl-carousel">
                                 <div class="testimonial">
                                     <small>Promoter Share</small>
-                                    <h3>822 </h3>
+                                    <h3>822 </h3> -->
                                     <!-- <p>US $230 billion</p> -->
-                                </div>
+                                <!-- </div>
                                 <div class="testimonial">
                                     <small>Total Paid Up Share Amount</small>
                                     <h3>42 crore</h3>
@@ -63,18 +63,18 @@ include('includes/navbar.php');
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--share_invest end d -->
-                    <div>
+                    <!-- <div>
                     </div>
                 </div>
             </div>
         </div>
-</section>
+</section> -->
 <section id="financial_report">
     <div class="container">
         <div class="row">
-            <div class="col-lg-9">
+            <div class="col-lg-12">
                 <div class="share_info_details">
                     <h6>financial info</h6>
                     <h2 class="section-title">Financial information and reports</h2>
@@ -253,7 +253,7 @@ include('includes/navbar.php');
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3">
+            <!-- <div class="col-lg-3">
                 <nav class="sidebar card py-2 mb-4">
                     <div class="sidebar_news1">
                         <h4>financial Reports</h4>
@@ -301,206 +301,65 @@ include('includes/navbar.php');
                         </ul>
                     </div>
                 </nav>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
 <!--ivestment budget  -->
 <section id="investment_budget">
     <div class="container">
-        <h2>फाइनान्सियल क्लोजरः</h2>
-        <p>Project Value 3,58,00,00,000/-</p>
-        <div class="pie_data_details">
-            <div class="row text-center">
-                <div class="col-lg-6">
-                    <div id="chart">
-                        <canvas id="myChart" width="300" height="300"></canvas>
-                        <h3 class="secondary_heading mt-1">Investment Stucture</h3>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div id="chart">
-                        <canvas id="myChart2" width="300" height="300"></canvas>
-                        <h3 class="secondary_heading mt-1">Promoter Share Structure</h3>
-                    </div>
-                </div>
-            </div>
-        </div>
+    <h6>investment</h6>
+    <h2 class="section-title">परियोजनाको वित्तीय विवरण</h2>
+        <table class="investment-table">
+            <thead>
+                <th>विवरण </th>
+                <th>मान </th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>परियोजनाको कुल लागत </td>
+                    <td>रु. ३,८३,००,००,०००/-</td>
+                </tr>
+                <tr>
+                    <td>प्रक्षेपित लागत दर</td>
+                    <td>९.८७ %</td>
+                </tr>
+                <tr>
+                    <td>आन्तरिक प्रतिफल दर (IRR)</td>
+                    <td>२८.५७ %</td>
+                </tr>
+                <tr>
+                    <td>परियोजनाको शुद्ध वर्तमान मूल्य (NPV)</td>
+                    <td>रु. १२,१६,०३,४४,५०४</td>
+                </tr>
+                <tr>
+                    <td>स्वपुँजीमा आन्तरिक प्रतिफल दर (Equity IRR)</td>
+                    <td>२५.३० %</td>
+                </tr>
+                <tr>
+                    <td>स्वपुँजीमा शुद्ध वर्तमान मूल्य (Equity NPV)</td>
+                    <td>रु. ८,४२,५७,४९,९३९/-</td>
+                </tr>
+                <tr>
+                    <td>बट्ट दर (Discount Factor)</td>
+                    <td>९.८७ %</td>
+                </tr>
+                <tr>
+                    <td>साधारण लगानी फिर्ता हुने अवधि</td>
+                    <td>८.२६ वर्ष</td>
+                </tr>
+                <tr>
+                    <td>लगानी फिर्ता हुने अवधि</td>
+                    <td>१०.०४ वर्ष</td>
+                </tr>
+            </tbody>
+        </table>        
     </div>
 </section>
 <!-- investment strategy -->
-<section id="investment_strategy">
-    <div class="container">
-        <div class="row">
-            <h6>investment theme</h6>
-            <h2 class="section-title">investment strategy</h2>
-            <p>Best Solutions For Your Business</p>
-            <div class="inner_container">
-                <div class="row g-0">
-                    <!-- strategy Block -->
-                    <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-                        <div class="inner_box">
-                            <div class="icon_box">
-                                <img src="img/icon_pack/loan.png" alt="">
-                            </div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                                <h5>लगानीको सिमा</h5>
-                                <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
-                            </div>
-                            <div class="text">आम रुपमा १ देखि ५० लाख रुपैयाँसम्म</div>
-                        </div>
-                    </div>
-
-                    <!-- strategy Block -->
-                    <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-                        <div class="inner_box">
-                            <div class="icon_box">
-                                <img src="img/icon_pack/welfare.png" alt="">
-                            </div>
-                            <div class="heading_arrow d-flex justify-content-between">
-                                <h5>सुविधा</h5>
-                                <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
-                            </div>
-                            <div class="text">परियोजना सञ्चालन पछाडि आएको नाफा नियमपूर्वक वितरण गर्ने नीति</div>
-                        </div>
-                    </div>
-
-                    <!-- strategy Block -->
-                    <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-                        <a href="swpf.php" target="_blank" title="SWPF">
-                            <div class="inner_box">
-                                <div class="icon_box">
-                                    <img src="img/icon_pack/shareholder.png" alt="">
-                                </div>
-                                <div class="heading_arrow d-flex justify-content-between">
-                                    <h5><a href="swpf.php" target="_blank" title="SWPF">शेयरधनी कल्याणकारी अग्राधिकार
-                                            कोष</a></h5>
-                                    <a href="" class="impact_one_arrow"><i class="icon-long-arrow-right"></i></a>
-                                </div>
-                                <div class="text">आजको शेयर धनी १० वर्ष पछाडि तेब्बर शेयरको मालिक</div>
-                            </div>
-                        </a>
-                    </div>
-
-                    <!-- strategy Block -->
-                    <div class="strategy_block col-lg-3 col-md-6 col-sm-12">
-                        <a href="raid.php" target="_blank" title="RAID">
-                            <div class="inner_box">
-                                <div class="icon_box">
-                                    <img src="img/icon_pack/raid.png" alt="RAID">
-                                </div>
-                                <div class="heading_arrow d-flex justify-content-between">
-                                    <h5><a href="raid.php" target="_blank">RAID</a></h5>
-                                    <a href="raid.php" target="_blank" class="impact_one_arrow"><i
-                                            class="icon-long-arrow-right"></i></a>
-                                </div>
-                                <div class="text">शेयरधनीहरुको हरेक अप्ठ्यारामा सहयोग र राहत दिनकालागि आर.के.डी. सहयोग
-                                    कार्यक्रम</div>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section id="share_calculator">
-
-</section>
 
 <!-- financial analysis -->
-<section id="management_team">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-9" data-aos="fade-up" data-aos-duration="2000">
-                <h6>risk management</h6>
-                <h2 class="section-title">जोखिम व्यवस्थापन</h2>
-                <p>पूर्वाधार निर्माण, व्यवस्थापन र सञ्चालनको दौरान अत्याधिक जोखिमहरुसँग कम्पनी जोडिरहेको हुन्छ ।
-                    जोखिम नियन्त्रणका लागि निम्नअनुरुपको नीति अख्तियार गरिरहेको छ ।</p>
-                <div class="accordion accordion-flush" id="faqlist">
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button  collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#content-accordion-1">
-                                Insurance Policy
-                            </button>
-                        </h2>
-                        <div id="content-accordion-1" class="accordion-collapse collapse active"
-                            data-bs-parent="#faqlist">
-                            <div class="accordion-body">
-                                प्रत्येक संरचना, काम, पूर्वाधार, PPB, OCU, कर्मचारी, कन्ट्रयाक्टर र मजदुरहरुको पूर्ण
-                                विमा गर्ने नीति कार्यान्वयन गरेको छ ।
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#content-accordion-2"> Transparency </button>
-                        </h2>
-                        <div id="content-accordion-2" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                            <div class="accordion-body">
-                                अभिभाज्य वित्तीय व्यवस्थापन प्रणालीअन्तर्गत एकद्धार विधि अपनाइ वित्त परिचालन नीतिको
-                                अधीनमा रहेर कम्पनीलाई पारदर्शी एवं चुस्त, दुरुस्त राखेको छ ।
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#content-accordion-3">
-                                इमर्जेन्सी रेस्क्यु टिम (ERT)
-                            </button>
-                        </h2>
-                        <div id="content-accordion-3" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                            <div class="accordion-body">
-                                परियोजना निर्माणको क्रममा अप्रत्यासित रूपमा लागत Escalation हुन सक्छ । आकस्मिक आर्थिक
-                                दुर्घटनाहरु निम्तिन सक्छन् भन्ने सोचेर जुनसुकै परिवेशको सामना गर्न सक्ने गरी परियोजनालाई
-                                विना रोकावट समयमा सम्पन्न गर्न पुँजीको जोहो गर्नका लागि “Back up reserve force” को रुपमा
-                                सम्भावित लगानीकर्ताहरुको टिम बनाएर राखेको छ । स्थानीयहरुलाई
-                                छुट्याइएको रकम उनीहरुले लगानी गर्नका लागि भरपुर चासो देखाएर लगानी लगाउने प्रतिवद्धता
-                                जनाई रहेको र कार्यान्वयन समेत गरिरहेकाले ERT को पूर्णरुपमा प्रयोग गर्नु नपर्ने राम्रो
-                                संकेत
-                                बनेको छ ।
-                            </div>
-                        </div>
-                    </div>
-                    <div class="accordion-item">
-                        <h2 class="accordion-header">
-                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                                data-bs-target="#content-accordion-4">
-                                स्पेशल टास्क युनिट (STU)
-                            </button>
-                        </h2>
-                        <div id="content-accordion-4" class="accordion-collapse collapse" data-bs-parent="#faqlist">
-                            <div class="accordion-body">
-                                निर्माणको दौरान प्राविधिक जटिलता र असहजताको व्यवस्थापन गर्न, विवादहरुको सामान्यीकरण
-                                गर्न, पूर्वाधारको संरक्षण गरेर कम्पनीमा पूर्णतया सुरक्षाको प्रत्याभूत गराउन, विभिन्न
-                                क्षेत्रबाट
-                                हुने हस्तक्षेप र आक्रमणलाई नियन्त्रणमा राख्नुका साथै परियोजना समयमा सञ्चालनमा ल्याउने
-                                वातावरण बनाउने जिम्मेवारी STU लाई हस्तान्तरण गरी व्यवस्थापन गरिएको छ । परियोजनामा
-                                अप्ठयारो पर्ने खालको कुनै अवरोध सिर्जना भएका छैनन् । STU व्यवस्थित रुपले कोभिडको
-                                अवरोधलाई किनारा लगाउँदै आफ्नो कर्तव्य निर्वाह गरेको छ र परियोजना निरन्तर निर्माणमा
-                                जान सकेको छ ।
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 ">
-                <div class="side-menu" data-aos="fade-up" data-aos-duration="3000">
-                    <ul>
-                        <li> <a href="#financial_report">Financial Reports</a> </li>
-                        <li><a href="img/reports/final-calender.pdf" target="_blank">financial calender</a></li>
-                    </ul>
-                    <div class="clear"></div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <?php
 include('includes/footer.php');

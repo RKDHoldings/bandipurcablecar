@@ -78,22 +78,22 @@ include('includes/navbar.php');
                 </div>
             </div>
             <!-- .item -->
-            <div class="media-29121 overlay">
-                <video autoplay muted loop playsinline preload="metadata" controls="controls">
+            <div class="media-29121 overlay" style="background-image: url('img/banner-1.jpeg');">
+                <!-- <video autoplay muted loop playsinline preload="metadata" controls="controls">
                     <source src="img/videos/lower_station.mp4" type="video/mp4">
-                </video>
+                </video> -->
                 <div class="container">
                     <div class="row  align-items-center">
                         <div class="col-md-8">
                             <!-- <h6>Great Experience In Building. </h6> -->
-                            <h2>8 YEARS <br> OF PROGRESS</h2>
+                            <h2>City Above Cloud</h2>
 
                         </div>
                     </div>
                 </div>
             </div>
             <!-- .item -->
-            <div class="media-29121 overlay" style="background-image: url('img/hero_1.webp');">
+            <div class="media-29121 overlay" style="background-image: url('img/banner-2.jpeg');">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-8">

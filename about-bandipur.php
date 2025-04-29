@@ -24,7 +24,7 @@ include('includes/navbar.php');
 <section id="bandipur_single">
    <div class="container">
       <div class="row">
-         <div class="col-lg-9">
+         <div class="col-lg-12">
             <div class="more_about-bandipur">
                <h2 class="section-title">बन्दीपुर केवलकार परियोजना</h2>
                <p class="">ऐतिहासिक सम्पदाले भरिपूर्ण बन्दीपुर, विगतमा भारत र तिब्बत जोड्ने प्राचिन व्यापार मार्गको प्रमुख व्यापारिक केन्द्र रहँदै आएको थियो।
@@ -36,7 +36,7 @@ include('includes/navbar.php');
                   <strong>शान्त वातावरण :</strong> बन्दीपुरको ट्राफिकमुक्त मुख्य सडक र शान्त पहाडी स्थानले यसलाई विश्राम र ऊर्जा पुनः प्राप्तिका लागि उपयुक्त गन्तव्य बनाएको छ, जसले पर्यटकहरूलाई विशेष आकर्षित गर्दछ। 
                   संस्कृति, प्रकृति र साहसिक यात्राको अनुपम संयोजनले बन्दीपुरलाई हरेक प्रकारका पर्यटकहरूका लागि उपयुक्त गन्तव्य बनाएको छ। 
                </p>
-               <div class="double-check-list font-title mb-xxl-5">
+               <!-- <div class="double-check-list font-title mb-xxl-5">
                   <ul class="list-unstyled aboutus__points">
                      <li>
                         <div class="icon"><i class="icon-long-arrow-right"></i></div>
@@ -62,10 +62,10 @@ include('includes/navbar.php');
 
 
                   </ul>
-               </div>
-               <div class="company_stats d-flex">
+               </div> -->
+               <!-- <div class="company_stats d-flex"> -->
                   <!-- about bandipur stats -->
-                  <a href="contact.php" target="_blank">
+                  <!-- <a href="contact.php" target="_blank">
                      <div class="more_stats">
                         <div class="about_who_icon">
                            <div class="field-item even">
@@ -78,11 +78,11 @@ include('includes/navbar.php');
                               <p>Offices</p>
                            </div>
                         </div>
-                     </div>
+                     </div> -->
 
-                  </a>
+                  <!-- </a> -->
                   <!--2nd stats  -->
-                  <a href="what-we-do.php#features" target="_blank">
+                  <!-- <a href="what-we-do.php#features" target="_blank">
                      <div class="more_stats">
                         <div class="about_who_icon">
                            <div class="field-item even">
@@ -96,9 +96,9 @@ include('includes/navbar.php');
                            </div>
                         </div>
                      </div>
-                  </a>
+                  </a> -->
                   <!-- 3rd stats -->
-                  <a href="investors_relation.php#share_info" target="_blank">
+                  <!-- <a href="investors_relation.php#share_info" target="_blank">
                      <div class="more_stats">
                         <div class="about_who_icon">
                            <div class="field-item even">
@@ -113,11 +113,11 @@ include('includes/navbar.php');
                            </div>
                         </div>
                      </div>
-                  </a>
-               </div>
+                  </a> -->
+               <!-- </div> -->
             </div>
          </div>
-         <div class="col-lg-3">
+         <!-- <div class="col-lg-3">
             <div class="sidebar d-flex flex-column align-items-center align-items-sm-start px-3 pt-2">
                <div class="sidebar_news1">
                   <h4>about bandipur</h4>
@@ -170,7 +170,7 @@ include('includes/navbar.php');
                   </ul>
                </div>
             </div>
-         </div>
+         </div> -->
       </div>
    </div>
 </section>
@@ -522,7 +522,7 @@ include('includes/navbar.php');
 </section>
 
 <!-- other_features -->
-<section id="future_features">
+<!-- <section id="future_features">
    <div class="container"> 
       <h2 class="section-title">Our Services</h2>
       <img src="img/about/upper1.png" alt="Upper Station" width="100%">
@@ -530,7 +530,7 @@ include('includes/navbar.php');
       <img src="img/about/lower2.png" alt="Lower Station" width="100%">
       <img src="img/about/lower3.png" alt="Lower Station" width="100%">
    </div>
-</section>
+</section> -->
 <!-- future work plan -->
 <?php
 /*
