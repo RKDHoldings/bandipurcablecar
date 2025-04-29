@@ -452,16 +452,15 @@ include('includes/navbar.php');
                                 <div class="content">
                                     <div class="front">
                                         <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/hero_1.webp);">
+                                            style="background-image: url(img/features/sky_cycling.png);">
                                             <div class="text w-100">
-                                                <h3><a href="#">Transparent Cable Car Box</a></h3>
+                                                <h3><a href="#">Sky Cycling</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="back from-left">
-                                        <h2>Transparent Cable Car Box</h2>
-                                        <p class="des">पारदर्शी क्याविन २ वटा रहन्छ । जसमा यात्रा गर्दा हावामा उडेको
-                                            महसुस गराउदँछ । यो दक्षिण एसियाकै पहिलो साहसिक पर्यटकिय फिचर हो ।</p>
+                                        <h2>Sky Cycling</h2>
+                                        <p class="des">Sky Cycling is an exciting activity where you pedal a specially designed bike along a high-wire track, suspended above the ground.</p>
                                     </div>
                                 </div>
                             </div>
@@ -475,16 +474,15 @@ include('includes/navbar.php');
                                 <div class="content">
                                     <div class="front">
                                         <div class="img d-flex align-items-end"
-                                            style="background-image: url(img/features/queen-tower3.png);">
+                                            style="background-image: url(img/features/zipline.png);">
                                             <div class="text w-100">
-                                                <h3><a href="#">5 star queen tower</a></h3>
+                                                <h3><a href="#">Zipline</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="back from-left">
-                                        <h2>queen tower 17 storey</h2>
-                                        <p class="des">पाँच तारे होटल: १०० वटा पूर्ण व्यवसायिक कोठाहरु रहेका छन् । जुन
-                                            भवनमा सिधै केवलकार प्रवेश गर्छ । यो दक्षिण एसियाकै पहिलो फिचर हो ।</p>
+                                        <h2>Zipline</h2>
+                                        <p class="des">Ziplining is a fun and exciting activity where you slide down a rope from a high place and enjoy amazing views.</p>
                                     </div>
                                 </div>
                             </div>
@@ -498,15 +496,15 @@ include('includes/navbar.php');
                                 <div class="content">
                                     <div class="front">
                                         <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/features/wax-museum.jpg);">
+                                            style="background-image: url(img/features/mahadev.png);">
                                             <div class="text w-100">
-                                                <h3><a href="#">wax museum</a></h3>
+                                                <h3><a href="#">Mahadev Statue</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="back from-left">
-                                        <h2>wax museum</h2>
-                                        <p class="des">मैन मुर्ति संग्राहलय</p>
+                                        <h2>Mahadev Statue</h2>
+                                        <p class="des">The Mahadev Statue in Bandipur stands as a peaceful symbol of Lord Shiva, offering spiritual charm and scenic views.</p>
                                     </div>
                                 </div>
                             </div>
@@ -520,120 +518,21 @@ include('includes/navbar.php');
                                 <div class="content">
                                     <div class="front">
                                         <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/features/mirror-maze.jpg);">
+                                            style="background-image: url(img/features/Cablecar.png);">
                                             <div class="text w-100">
-                                                <h3><a href="#">mirror maze house</a></h3>
+                                                <h3><a href="#">Cablecar</a></h3>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="back from-left">
-                                        <h2>mirror maze house</h2>
-                                        <p class="des">सुन्दर आकर्शक होटेल भित्र सिशाको घर</p>
+                                        <h2>Cablecar</h2>
+                                        <p class="des">Enjoy a scenic ride to the hilltop with the Bandipur Cable Car, blending adventure, comfort, and stunning mountain views.</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <!--featured investment item fourth end -->
-                    <!--featured investment item fifth start -->
-                    <div class="item">
-                        <div class="column_for_feature">
-                            <div class="card">
-                                <div class="content">
-                                    <div class="front">
-                                        <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/features/3d-cover.jpeg);">
-                                            <div class="text w-100">
-                                                <h3><a href="#">cable car restro service</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="back from-left">
-                                        <h2>cable car restro service</h2>
-                                        <p class="des">कम्पनीले हरेक कुरालाई भिन्न र अनुपम ढङ्गबाट पस्किन खोज्नुपर्दछ ।
-                                            यसै मुताविक दक्षिण एसियामा नै भिन्न स्वाद पस्कन खोजिरहेको छ । केवलकारभित्र
-                                            रेष्ट्रोको सुविधा प्रत्येक आकर्षण र हट प्रडक्ट बन्दछ।
-                                            प्रत्येक दिनको अफ आवर साँझ ५ बजेदेखि ९ बजेसम्म यो सेवा पस्कने तयारीमा कम्पनी
-                                            लागेको छ ।
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--featured investment item fifth end -->
-                    <!--featured investment item sixth start -->
-                    <div class="item">
-                        <div class="column_for_feature">
-                            <div class="card">
-                                <div class="content">
-                                    <div class="front">
-                                        <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/features/waterfall.jpg);">
-                                            <div class="text w-100">
-                                                <h3><a href="#">landscaping & artificial waterfall</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="back from-left">
-                                        <h2>landscaping & artificial waterfall</h2>
-                                        <p class="des">परियोजनाको बटमस्टेशनलाई त्यगचष्कत कोर्टको रुपमा पूर्ण प्रयोगमा
-                                            ल्याउनु पर्नेछ । यसलाई अझ पर्यटकीय र प्रतिफलमूलक आकर्षण ल्याउनका लागि
-                                            प्राकृतिक ढुङगाहरुलाई कुदेर आकर्षण डिजाईन दिइनेछ। जमिनलाई पूर्णत
-                                            पर्यटनमैत्री समय व्यवस्थित गर्न स्ट्रेको रुपमा आकर्षक बनाइनेछ ।</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--featured investment item sixth end -->
-                    <!--featured investment item seventh start -->
-                    <div class="item">
-                        <div class="column_for_feature">
-                            <div class="card">
-                                <div class="content">
-                                    <div class="front">
-                                        <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/features/water_funpark.jpg);">
-                                            <div class="text w-100">
-                                                <h3><a href="#">water funpark</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="back from-left">
-                                        <h2>water funpark</h2>
-                                        <p class="des">वटम स्टेशन नजिक सिद्धगुफा केवलकारको प्रस्तावित बटम स्टेशनमा
-                                            कम्पनीको नाममा रहेको जग्गामा आकर्षक वाटरपार्क एवं आधुनिक फनपार्क निर्माणका
-                                            लागि डि.पि.आर तयार गरी पर्यटकहरुलाई भुलाउने अवस्था बनाउन टुरिस्ट प्वाइन्टहरु
-                                            निर्माण गरिने योजना बनाइएको छ ।</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--featured investment item seventh end -->
-                    <!--featured investment item eighth start -->
-                    <div class="item">
-                        <div class="column_for_feature">
-                            <div class="card">
-                                <div class="content">
-                                    <div class="front">
-                                        <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/sky-walk.webp);">
-                                            <div class="text w-100">
-                                                <h3><a href="#">Skywalk</a></h3>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="back from-left">
-                                        <h2>Skywalk</h2>
-                                        <p class="des"></p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!--featured investment item eighth end -->
                 </div>
             </div>
         </div>
