@@ -157,9 +157,9 @@ include('includes/navbar.php');
        <!--  <p> हाम्रो केवलकार मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टममा आधारित १९ गोण्डोला मार्फत् (मेटेरियल क्यावीन
             सहित) प्रति घण्टा ३०० यात्रीहरु बोक्न सक्ने क्षमतामा रहेको थियो । बजारको माग र चापका कारण यसलाई विस्तारित
             गर्दै २५ वटा गोण्डोला मेटेरियल क्यावीन सहित) प्रति घण्टा ५०० यात्रीहरु बोक्ने र दैनिक १६ घण्टा माथि सेवा दिन
-            सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ । </p><!--
-         <!--inner contents of queen tower 13 storey  -->
-         <div class="col-lg-4">
+            सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ । </p>
+            inner contents of queen tower 13 storey  -->
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/owl_statue.png')">
                <div class='info'>
                   <h5 class="title">Owl Statue</h5>
@@ -167,7 +167,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/baba_bishwokarma.png')">
                <div class='info'>
                   <h5 class="title">Baba Bishowkarma</h5>
@@ -175,7 +175,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/floating_kettle.png')">
                <div class='info'>
                   <h5 class="title">Floating Kettle</h5>
@@ -185,7 +185,7 @@ include('includes/navbar.php');
          </div>
 
 
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/sky_cycling.png')">
                <div class='info'>
                   <h5 class="title">Sky Cycling</h5>
@@ -193,7 +193,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/zipline.png')">
                <div class='info'>
                   <h5 class="title">Zip Line</h5>
@@ -201,7 +201,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/mahadev.png')">
                <div class='info'>
                   <h5 class="title">Mahadev</h5>
@@ -211,7 +211,7 @@ include('includes/navbar.php');
          </div>
 
 
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/parking.png')">
                <div class='info'>
                   <h5 class="title">Parking Area</h5>
@@ -219,7 +219,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/baal.png')">
                <div class='info'>
                   <h5 class="title">Baal Bagaichaa</h5>
@@ -227,7 +227,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/terminal.png')">
                <div class='info'>
                   <h5 class="title">Terminal Building</h5>
@@ -237,7 +237,7 @@ include('includes/navbar.php');
          </div>
 
 
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/dive.png')">
                <div class='info'>
                   <h5 class="title">Drive inn Resturant</h5>
@@ -245,7 +245,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/golo.png')">
                <div class='info'>
                   <h5 class="title">Golo Ghar</h5>
@@ -253,7 +253,7 @@ include('includes/navbar.php');
                </div>
             </div>
          </div>
-         <div class="col-lg-4">
+         <div class="col-lg-4 img-card">
             <div class="card" style="background-image:url('img/features/eatery.png')">
                <div class='info'>
                   <h5 class="title">Eatery</h5>
