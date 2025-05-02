@@ -518,7 +518,7 @@ include('includes/navbar.php');
                                 <div class="content">
                                     <div class="front">
                                         <div class="img d-flex align-items-end justify-content-center"
-                                            style="background-image: url(img/features/Cablecar.png);">
+                                            style="background-image: url(img/features/cablecar.png);">
                                             <div class="text w-100">
                                                 <h3><a href="#">Cablecar</a></h3>
                                             </div>
