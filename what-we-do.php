@@ -272,7 +272,6 @@ include('includes/navbar.php');
       <div class="row">
          <h6>Bandipur Cablecar</h6>
          <h2 class="section-title">Upper Station</h2>
-         <p>We will operate  “Queen Tower” Hotel of  80 rooms which will consists of KIng Twin=16, Queen Twin=25, King Bed=28 and Queen Bed=11.</p>
          <!--inner contents of queen tower 13 storey  -->
          <div class="col-lg-4">
             <div class="card" style="background-image:url('img/features/mock.png')">
