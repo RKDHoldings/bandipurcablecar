@@ -42,10 +42,7 @@ include('includes/navbar.php');
       <div class="row">
          <h6>our recent work</h6>
          <h2 class="section-title">Featured Investments</h2>
-         <p>कम्पनीले छैठौँ साधारण सभासम्म परियोजनालाई स्थानीय आवश्यकता राष्ट्रिय आवश्यकता र थप पर्यटकीय प्रवर्धनको
-            दृष्टिकोणमा आधारित रहेर निरन्तर परिष्कृत र विकसित गर्दै अगाडि बढेको छ र प्रविधिको निरन्तर विकास र मागसँगै
-            कम्पनी सदैव आफूलाई अद्यावधिक गर्न चाहन्छ । यसै मान्यताको आधारमा परियोजनामा सँघारका कार्यक्रमहरु प्रस्तुत
-            गरिएको छ ।</p>
+        
          <!-- <div class="featured-carousel owl-carousel"> -->
          <div class="col-lg-3">
             <a href="#features-cablecar">
@@ -129,7 +126,7 @@ include('includes/navbar.php');
                      <div class="content">
                         <div class="front">
                            <div class="img d-flex align-items-end justify-content-center"
-                              style="background-image: url(img/features/Cablecar.png);">
+                              style="background-image: url(img/features/cablecar.png);">
                               <div class="text w-100">
                                  <h3><a href="#">Cablecar</a></h3>
                               </div>
@@ -157,10 +154,10 @@ include('includes/navbar.php');
       <div class="row">
          <h6>bandipur cablecar</h6>
          <h2 class="section-title">Bottom Station</h2>
-         <p> हाम्रो केवलकार मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टममा आधारित १९ गोण्डोला मार्फत् (मेटेरियल क्यावीन
+       <!--  <p> हाम्रो केवलकार मोनोकेवल डिटाचवेल रोटेटिङ गोण्डोला सिस्टममा आधारित १९ गोण्डोला मार्फत् (मेटेरियल क्यावीन
             सहित) प्रति घण्टा ३०० यात्रीहरु बोक्न सक्ने क्षमतामा रहेको थियो । बजारको माग र चापका कारण यसलाई विस्तारित
             गर्दै २५ वटा गोण्डोला मेटेरियल क्यावीन सहित) प्रति घण्टा ५०० यात्रीहरु बोक्ने र दैनिक १६ घण्टा माथि सेवा दिन
-            सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ । </p>
+            सक्ने गरी अत्याधुनिक प्रविधि जडान गरी पूर्वाधार समेत थप गर्ने निष्कर्षमा पुगेको छ । </p><!--
          <!--inner contents of queen tower 13 storey  -->
          <div class="col-lg-4">
             <div class="card" style="background-image:url('img/features/owl_statue.png')">
@@ -275,9 +272,7 @@ include('includes/navbar.php');
       <div class="row">
          <h6>Bandipur Cablecar</h6>
          <h2 class="section-title">Upper Station</h2>
-         <p>We will operate 5 Star hotel named as “Queen Tower” Hotel. It will have minimum of 84 and maximum of 100
-            rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and
-            operation.</p>
+         <p>We will operate  “Queen Tower” Hotel of  80 rooms which will consists of KIng Twin=16, Queen Twin=25, King Bed=28 and Queen Bed=11.</p>
          <!--inner contents of queen tower 13 storey  -->
          <div class="col-lg-4">
             <div class="card" style="background-image:url('img/features/mock.png')">
@@ -314,7 +309,7 @@ include('includes/navbar.php');
       <div class="row">
         <h6>wax museum</h6>
          <h2 class="section-title">wax museum</h2>
-       <p>We will operate 4 Star hotel named as “Queen Tower” Hotel.  It will have minimum of 84 and maximum of 100 rooms. Company is planning to enhance the hotel to 5 star hotel after few years of it’s management and operation.</p>
+       <p>We will operate  “Queen Tower” Hotel of  80 rooms which will consists of KIng Twin=16, Queen Twin=25, King Bed=28 and Queen Bed=11. </p>
 =         <div class="card col-lg-4">
             <div class="face face1">
                 <div class="content">

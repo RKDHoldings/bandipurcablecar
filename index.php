@@ -86,7 +86,7 @@ include('includes/navbar.php');
                     <div class="row  align-items-center">
                         <div class="col-md-8">
                             <!-- <h6>Great Experience In Building. </h6> -->
-                            <h2>City Above Cloud</h2>
+                          <!--  <h2>City Above Cloud</h2> -->
 
                         </div>
                     </div>
@@ -176,8 +176,7 @@ include('includes/navbar.php');
                             <div class="icon-box"> <img src="img/icon_pack/vacation.png" alt=""></div>
                             <div class="content-wrapper">
                                 <h4 class="title__secondary">Complete Holiday Package</h4>
-                                <p class="card-text mt-0">We also offer Restro Zone , Shopping Mall ,
-                                    Heritage Garden ,Sky way ,banquet hall and much more natural beauty which Bandipur
+                                <p class="card-text mt-0">We also offer Sky cycling, Zip Line, Drive-inn Resturant, Golghar, Bal Bagaicha, Eatery and many other entertaintment services and much more natural beauty which Bandipur
                                     has to offer.</p>
                             </div> <!-- .content-wrapper -->
                         </div> <!-- .item-wrapper -->
@@ -602,24 +601,7 @@ include('includes/navbar.php');
             </div>
         </div>
         <div class="brand-carousel owl-carousel">
-            <!-- client single item -->
-            <div class="single-logo">
-                <a href="" target="blank">
-                    <h5 class="partner_type text-center">organised company</h5>
-                    <p class="partner_name text-center">Bandipur cablecar & tourism limited</p>
-                    <img src="img/logo-new.png" alt="Logo of Bandipur cablecar & tourism limited">
-                </a>
-            </div>
-            <!-- client single item -->
-            <div class="single-logo">
-                <a href="" target="blank">
-                    <h5 class="partner_type text-center">Holding company</h5>
-                    <p class="partner_name text-center">RKD Holdings Limited</p>
-                    <div class="single_client_img">
-                        <img src="img/partner_company/rkd_logo.png" alt="Logo of RKD Holdings Limited">
-                    </div>
-                </a>
-            </div>
+            
             <!-- client single item -->
             <div class="single-logo">
                 <a href="" target="_blank">
@@ -628,14 +610,7 @@ include('includes/navbar.php');
                     <img src="img/partner_company/panchase-logo.png" alt="Logo of Panchase Cable Car & Tours Limited ">
                 </a>
             </div>
-            <!-- client single item -->
-            <div class="single-logo">
-                <a href="" target="_blank">
-                    <h5 class="partner_type text-center">Associate Company</h5>
-                    <p class="partner_name text-center">Tourism Investment Fund limited</p>
-                    <img src="img/partner_company/tourism_logo.png" alt="Logo of Tourism Investment Fund limited ">
-                </a>
-            </div>
+           
             <!-- client single item -->
             <div class="single-logo">
                 <a href="" target="_blank">
@@ -706,8 +681,8 @@ include('includes/navbar.php');
             </div>
             <!-- client single item -->
             <div class="single-logo">
-                <a href="" target="_blank">
-                    <h5 class="partner_type text-center">event and entire management</h5>
+                <a href="https://rkdholdings.com.np" target="_blank">
+                    <h5 class="partner_type text-center">Event and Entire management</h5>
                     <p class="partner_name text-center">RKD Holdings Limited</p>
                     <div class="single_client_img">
                         <img src="img/partner_company/rkd_logo.png" alt="Logo of RKD Holdings Limited ">
@@ -716,32 +691,15 @@ include('includes/navbar.php');
             </div>
             <!-- client single item -->
             <div class="single-logo">
-                <a href="" target="_blank">
-                    <h5 class="partner_type text-center">finance management</h5>
+                <a href="https://tifl.com.np" target="_blank">
+                    <h5 class="partner_type text-center">Finance management</h5>
                     <p class="partner_name text-center">tourism investment fund limited</p>
                     <img src="img/partner_company/tourism_logo.png" alt="Logo of Tourism Investment Fund Limited">
                 </a>
             </div>
-            <!-- client single item -->
-            <div class="single-logo">
-                <a href="" target="_blank">
-                    <h5 class="partner_type text-center">management bheting</h5>
-                    <p class="partner_name text-center">policy planning beauro</p>
-                    <!-- <div class="single_client_img">
-               <img src="img/partner_company/bandipur_rural.png" alt="">
-            </div> -->
-                </a>
-            </div>
-            <!-- client single item -->
-            <div class="single-logo">
-                <a href="" target="_blank">
-                    <h5 class="partner_type text-center">focal management</h5>
-                    <p class="partner_name text-center">on time completion unit (OCU)</p>
-                    <!-- <div class="single_client_img">
-              <img src="img/partner_company/focal_management_logo.jpg" alt="">
-           </div> -->
-                </a>
-            </div>
+           
+            
+            
             <!-- client single item -->
             <div class="single-logo">
                 <a href="" target="_blank">

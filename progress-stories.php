@@ -105,53 +105,69 @@
       <div class="filters filter-button-group">
        	<ul>
 		      <li class="active"><a href="javascript:void(0);" data-filter="*">All</a></li>
-		      <li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar Project</a></li>
-            <li><a href="javascript:void(0);" data-filter="bus">Queen Tower</a></li>
+		      <li><a href="javascript:void(0);" data-filter="bike">Bandipur Cablecar & Lower station</a></li>
+            <li><a href="javascript:void(0);" data-filter="bus">Drive-inn Resturant</a></li>
+            <li><a href="javascript:void(0);" data-filter="Queentower">Queen Tower</a></li>
+            
+            
 	      </ul>
       </div>
       <div id="container" class="isotope"> 
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="img/project_process/cablecar-tower.jpg">
-          <img src="img/project_process/cablecar-tower.jpg">
+        <a class="popupimg" href="img/features/parking.png">
+          <img src="img/features/parking.png">
         </a>
         <div class="portfolio_info">
-              <h4>Bandipur Cablecar</h4>
+              <h4>Parking</h4>
         </div>
       </div>
             
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="img/project_process/cablecar-bg.jpg">
-          <img src="img/project_process/cablecar-bg.jpg">
+        <a class="popupimg" href="img/features/terminal.png">
+          <img src="img/features/terminal.png">
         </a>
         <div class="portfolio_info">
-              <h4>Bandipur Cablecar</h4>
+              <h4>Terminal</h4>
         </div>
       </div>   
-
-      <div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="img/project_process/queen-tower.jpg">
-          <img src="img/project_process/queen-tower.jpg" alt="Queen Tower">
+      
+      <div class="grid-item" data-filter="bike">
+        <a class="popupimg" href="img/features/eatery.png">
+          <img src="img/features/eatery.png" alt="Eatery">
         </a>
         <div class="portfolio_info">
-              <h4>Queen Tower</h4>
+              <h4>Eatery</h4>
         </div>
-      </div>
+      </div>   
+      
+      
+      <div class="grid-item" data-filter="bike">
+        <a class="popupimg" href="img/features/floating_kettle.png">
+          <img src="img/features/floating_kettle.png" alt="Floating Kettle">
+        </a>
+        <div class="portfolio_info">
+              <h4>Floating Kettle</h4>
+        </div>
+      </div>   
+      
+
+    
     
 		<div class="grid-item" data-filter="bike">
-        <a class="popupimg" href="img/project_process/station.webp" alt="Lower Station">
-          <img src="img/project_process/station.webp">
+        <a class="popupimg" href="img/features/owl_statue.png">
+          <img src="img/features/owl_statue.png">
         </a>
         <div class="portfolio_info">
-              <h4>Lower Station</h4>
+              <h4>Owl Statue</h4>
         </div>
       </div> 
 
-      <div class="grid-item" data-filter="bus">
-        <a class="popupimg" href="img/project_process/q1.jpeg" alt="Queen Tower">
-          <img src="img/project_process/q1.jpeg">
+      <div class="grid-item" data-filter="bike">
+        <a class="popupimg" href="img/features/cablecar.png" alt="Cable Car">
+          <img src="img/features/cablecar.png">
         </a>
         <div class="portfolio_info">
-              <h4>Queen Tower</h4>
+              <h4>Cable Car</h4>
         </div>
       </div>
                 
