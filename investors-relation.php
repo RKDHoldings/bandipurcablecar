@@ -143,7 +143,7 @@ include('includes/navbar.php');
                     </ul>
 
                     <div class="tab-content" id="myTabContent">
-                    <div class="tab-pane fade active show" id="faq_tab_0" role="tabpanel"
+                        <div class="tab-pane fade active show" id="faq_tab_0" role="tabpanel"
                             aria-labelledby="faq_tab_0-tab">
                             <div class="container">
                                 <ul id="financial-statements" class="financial-reports list-pdf" style="">
@@ -160,7 +160,7 @@ include('includes/navbar.php');
                                 </ul>
                             </div>
                         </div>
-                    <div class="tab-pane fade" id="faq_tab_1" role="tabpanel"
+                        <div class="tab-pane fade" id="faq_tab_1" role="tabpanel"
                             aria-labelledby="faq_tab_1-tab">
                             <div class="container">
                                 <ul id="financial-statements" class="financial-reports list-pdf" style="">
@@ -250,6 +250,179 @@ include('includes/navbar.php');
                                 </ul>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+
+                <div class="investor_info_block text-center">
+                    <h2 class="text-capitalize">AGM Report of Bandipur Cable Car</h2>
+                </div>
+
+                <div class="financial_reports mt-4">
+                    <ul class="nav nav-tabs nav-fill" id="myTab" role="tablist">
+                    <li class="nav-item" role="presentation">
+                            <button class="nav-link active" id="faq_tab_a_0-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_a_0" type="button" role="tab" aria-controls="faq_tab_a_0"
+                                aria-selected="true">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
+                                    <span>2080-2081</span>
+                                </div>
+                            </button>
+                        </li>
+                    <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="faq_tab_a_1-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_a_1" type="button" role="tab" aria-controls="faq_tab_a_1"
+                                aria-selected="true">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
+                                    <span>2079-2080</span>
+                                </div>
+                            </button>
+                        </li>
+                        <!-- <li class="nav-item" role="presentation">
+                            <button class="nav-link " id="faq_tab_a_2-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_a_2" type="button" role="tab" aria-controls="faq_tab_a_2"
+                                aria-selected="true">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
+                                    <span>2078-2079</span>
+                                </div>
+                            </button>
+                        </li> -->
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link " id="faq_tab_a_3-tab" data-bs-toggle="tab"
+                                data-bs-target="#faq_tab_a_3" type="button" role="tab" aria-controls="faq_tab_a_3"
+                                aria-selected="true">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-plane-alt'></i>
+                                    <span>2077-2078</span>
+                                </div>
+                            </button>
+                        </li>
+                        <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="faq_tab_a_4-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_a_4"
+                                type="button" role="tab" aria-controls="faq_tab_a_4" aria-selected="false">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bxs-shopping-bag'></i>
+                                    <span>2075-2076</span>
+                                </div>
+                            </button>
+                        </li>
+                        <!-- <li class="nav-item" role="presentation">
+                            <button class="nav-link" id="faq_tab_a_5-tab" data-bs-toggle="tab" data-bs-target="#faq_tab_a_5"
+                                type="button" role="tab" aria-controls="faq_tab_a_5" aria-selected="false">
+                                <div class="d-flex flex-column lh-lg"> <i class='bx bx-check-circle'></i>
+                                    <span>2074-2075</span>
+                                </div>
+                            </button>
+                        </li> -->
+
+                    </ul>
+
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade active show" id="faq_tab_a_0" role="tabpanel"
+                            aria-labelledby="faq_tab_a_0-tab">
+                            <div class="container">
+                                <ul id="financial-statements" class="financial-reports list-pdf" style="">
+                                    <li class="tset pdf">
+                                        <div class="title">
+                                            <h3>
+                                                <span class="wrap-title">
+                                                    <a target="_blank" href="https://rkdholdingsltd.sharepoint.com/sites/RKDHoldingsLimited/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FRKDHoldingsLimited%2FShared%20Documents%2FGeneral%2FCompany%2FBandipur%20Cable%20Car%20and%20Tours%20Limited%2FAGM%2FBCCTL%20Annual%20Report%202081%2Epdf&parent=%2Fsites%2FRKDHoldingsLimited%2FShared%20Documents%2FGeneral%2FCompany%2FBandipur%20Cable%20Car%20and%20Tours%20Limited%2FAGM&p=true&ga=1"
+                                                        title="AGM report" class="">AGM report of 2080-2081</a>
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="faq_tab_a_1" role="tabpanel"
+                            aria-labelledby="faq_tab_a_1-tab">
+                            <div class="container">
+                                <ul id="financial-statements" class="financial-reports list-pdf" style="">
+                                    <li class="tset pdf">
+                                        <div class="title">
+                                            <h3>
+                                                <span class="wrap-title">
+                                                    <a target="_blank" href="img/downloads/3rd.pdf"
+                                                        title="AGM report" class="">AGM report of 2079-2080</a>
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- <div class="tab-pane fade" id="faq_tab_a_2" role="tabpanel"
+                            aria-labelledby="faq_tab_a_2-tab">
+                            <div class="container">
+                                <ul id="financial-statements" class="financial-reports list-pdf" style=""> -->
+                                    <!--<div class="tab-container">
+                          <ul id="financial-statements" class="financial-reports list-pdf">-->
+                                    <!-- <li class="tset pdf">
+                                        <div class="title">
+                                            <h3>
+                                                <span class="wrap-title">
+                                                    <a target="_blank" href="#"
+                                                        title="AGM report" class="">AGM report of 2078-2079</a>
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div> -->
+                        <div class="tab-pane fade" id="faq_tab_a_3" role="tabpanel"
+                            aria-labelledby="faq_tab_a_3-tab">
+                            <div class="container">
+                                <ul id="financial-statements" class="financial-reports list-pdf" style="">
+                                    <!--<div class="tab-container">
+                          <ul id="financial-statements" class="financial-reports list-pdf">-->
+                                    <li class="tset pdf">
+                                        <div class="title">
+                                            <h3>
+                                                <span class="wrap-title">
+                                                    <a target="_blank" href="img/reports/book78.pdf"
+                                                        title="AGM report" class="">AGM report of 2077-2078</a>
+                                                </span>
+                                            </h3>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="tab-pane fade" id="faq_tab_a_4" role="tabpanel" aria-labelledby="faq_tab_a_4-tab">
+                            <div class="container">
+                                <div class="d-flex justify-content-between align-items-center">
+                                    <ul id="financial-statements" class="financial-reports list-pdf" style="">
+                                        <li class="tset pdf">
+                                            <div class="title">
+                                                <h3>
+                                                    <span class="wrap-title">
+                                                        <a target="_blank" href="https://drive.google.com/file/d/1WbEX4ftOlxHlAZ_KGZe3Yvxd73WKzmIK/view"
+                                                            title="AGM Report" class="">AGM report of 2075-2076</a>
+                                                    </span>
+                                                </h3>
+                                            </div>
+                                        </li>
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="tab-pane fade" id="faq_tab_a_5" role="tabpanel" aria-labelledby="faq_tab_a_5-tab">
+                            <div class="container">
+                                <ul id="financial-statements" class="financial-reports list-pdf" style="">
+                                    <li class="tset pdf">
+                                        <div class="title">
+                                            <h3>
+                                                <span class="wrap-title">
+                                                    <a target="_blank" href="img/reports/2074-75 Audit Report.pdf"
+                                                        title="Half Year 2021 Consolidated Financial Statements"
+                                                        class="">Audit report of 2074-2075</a> </span>
+                                            </h3>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
