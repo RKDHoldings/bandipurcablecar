@@ -324,7 +324,8 @@ include('includes/navbar.php');
                                         <div class="title">
                                             <h3>
                                                 <span class="wrap-title">
-                                                    <a target="_blank" href="https://rkdholdingsltd.sharepoint.com/sites/RKDHoldingsLimited/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FRKDHoldingsLimited%2FShared%20Documents%2FGeneral%2FCompany%2FBandipur%20Cable%20Car%20and%20Tours%20Limited%2FAGM%2FBCCTL%20Annual%20Report%202081%2Epdf&parent=%2Fsites%2FRKDHoldingsLimited%2FShared%20Documents%2FGeneral%2FCompany%2FBandipur%20Cable%20Car%20and%20Tours%20Limited%2FAGM&p=true&ga=1"
+                                                    <a target="_blank" href="
+                                                    https://bandipurcablecar.com.np/img/reports/208081AGM.pdf"
                                                         title="AGM report" class="">AGM report of 2080-2081</a>
                                                 </span>
                                             </h3>
