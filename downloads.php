@@ -243,6 +243,16 @@
                         </div>
                     </div>
                 </a>
+            </div>  
+            <div class="col-lg-3">
+                <a target="_blank" href="img/form/proxy-for-special-agm.pdf" title="Proxy Form For Special AGM" download>
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="heading_title">Proxy Form For Special AGM</h5>
+                            <img src="img/icon-document.svg" class="download_icon" alt="Proxy Form For Special AGM">
+                        </div>
+                    </div>
+                </a>
             </div>                
         </div>
     </div>
