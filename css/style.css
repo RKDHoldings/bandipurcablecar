@@ -4599,6 +4599,15 @@ p:not([class]):first-child {
       width: 50%;
     }
 
+    /* Modal content */
+    .modal-content-1 {
+      background-color: #fefefe;
+      margin:  auto;
+      padding: 15px;
+      border: 1px solid #888;
+      width: 30%;
+    }
+
     /* Close button */
     .close {
       color: #aaa;

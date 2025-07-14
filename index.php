@@ -4,7 +4,20 @@ include('includes/html_header.php');
 <?php
 include('includes/navbar.php');
 ?>
-
+  <!-- Modal 1 -->
+<div id="modal1" class="modal">
+<div class="modal-content-1" >
+                  <div class="modal-header text-center">
+                  <h4>Service Notice</h4>  
+                  <span class="close">&times;</span>
+                  </div>
+                  <div class="modal-body">    
+                      
+                       <img src="img/service-notice.jpeg" width="100%" alt="Service Notice">         
+                  </div>    
+             
+            </div>
+</div>
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
             <div class="modal-content" >
@@ -25,21 +38,9 @@ include('includes/navbar.php');
             </div>
        </div>
   </div>
+  
 
-  <!-- Modal 1 -->
-<!-- <div id="modal1" class="modal">
-<div class="modal-content" >
-                  <div class="modal-header text-center">
-                  <h4>Heartfelt Invitation</h4>  
-                  <span class="close">&times;</span>
-                  </div>
-                  <div class="modal-body">    
-                      
-                       <img src="img/fest-post.JPG" width="100%" alt="">         
-                  </div>    
-             
-            </div>
-</div> -->
+
 
 <!-- Modal 2 -->
 <!-- <div id="modal2" class="modal">
