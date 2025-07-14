@@ -5,7 +5,7 @@ include('includes/html_header.php');
 include('includes/navbar.php');
 ?>
 
-  <!-- <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">
             <div class="modal-content" >
                   <div class="modal-header text-center">
@@ -14,12 +14,17 @@ include('includes/navbar.php');
                   </div>
                   <div class="modal-body">    
                       
-                       <img src="img/notice.png" width="100%" alt="notice">         
-                  </div>    
+                       <img src="img/ipo-notice.png" width="100%" alt="notice">         
+                  </div>   
+                  <div class="model-footer" style="margin-left: auto;margin-right: 0;">
+                    <a href="img/news/ipo-invitation.pdf" target="_blank">
+                        <button class="slide_from_left">Read More</button>
+                    </a>
+                  </div> 
              
             </div>
        </div>
-  </div> -->
+  </div>
 
   <!-- Modal 1 -->
 <!-- <div id="modal1" class="modal">
