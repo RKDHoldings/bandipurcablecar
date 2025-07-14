@@ -191,6 +191,22 @@
               </div>
               <!-- row end -->
          </div>
+         
+         <!-- download-two end -->
+         <div class="row care_rating mt-5"> 
+             <h2 class="section-title">IPO Notices</h2>            
+         <div class="col-lg-3">
+                     <a target="_blank" href="img/news/ipo-invitation.pdf" title="IPO Invitation" download>
+                       <div class="card">
+                            <div class="card-body">
+                               <h5 class="heading_title">IPO Invitation</h5>
+                               <img src="img/icon-document.svg" class="download_icon" alt="IPO Invitation">
+                            </div>
+                       </div>
+                     </a>
+                 </div>
+         </div>
+
          <!-- download-two end -->
          <div class="row care_rating mt-5"> 
              <h2 class="section-title">CARE Ratings</h2>            
