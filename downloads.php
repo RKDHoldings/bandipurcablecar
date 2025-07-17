@@ -196,7 +196,7 @@
          <div class="row care_rating mt-5"> 
              <h2 class="section-title">IPO Notices</h2>            
          <div class="col-lg-3">
-                     <a target="_blank" href="img/news/ipo-invitation.pdf" title="IPO Invitation" download>
+                     <a target="_blank" href="img/news/local-ipo-notice.pdf" title="IPO Invitation" download>
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">IPO Invitation</h5>

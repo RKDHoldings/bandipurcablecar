@@ -30,7 +30,7 @@ include('includes/navbar.php');
                        <img src="img/ipo-notice.png" width="100%" alt="notice">         
                   </div>   
                   <div class="model-footer" style="margin-left: auto;margin-right: 0;">
-                    <a href="img/news/ipo-notice.pdf" target="_blank">
+                    <a href="img/news/local-ipo-notice.pdf" target="_blank">
                         <button class="slide_from_left">Read More</button>
                     </a>
                   </div> 
