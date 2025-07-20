@@ -8,12 +8,12 @@ include('includes/navbar.php');
 <div id="modal1" class="modal">
 <div class="modal-content-1" >
                   <div class="modal-header text-center">
-                  <h4>Service Notice</h4>  
+                  <h4>Notice</h4>  
                   <span class="close">&times;</span>
                   </div>
                   <div class="modal-body">    
                       
-                       <img src="img/prospectus.png" width="100%" alt="Service Notice">         
+                       <img src="img/prospectus.png" width="100%" alt="Notice">         
                   </div>  
                   <div class="model-footer" style="margin-left: auto;margin-right: 0;">
                     <a href="img/news/Approved Prospectus.pdf" target="_blank">
