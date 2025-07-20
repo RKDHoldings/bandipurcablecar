@@ -13,8 +13,13 @@ include('includes/navbar.php');
                   </div>
                   <div class="modal-body">    
                       
-                       <img src="img/service-notice.jpeg" width="100%" alt="Service Notice">         
-                  </div>    
+                       <img src="img/prospectus.png" width="100%" alt="Service Notice">         
+                  </div>  
+                  <div class="model-footer" style="margin-left: auto;margin-right: 0;">
+                    <a href="img/news/Approved Prospectus.pdf" target="_blank">
+                        <button class="slide_from_left">Read More</button>
+                    </a>
+                  </div>   
              
             </div>
 </div>

@@ -205,8 +205,8 @@
                        </div>
                      </a>
                  </div>            
-         <div class="col-lg-3">
-                     <a target="_blank" href="img/news/local-ipo.pdf" title="IPO Invitation" download>
+                <div class="col-lg-3">
+                    <a target="_blank" href="img/news/local-ipo.pdf" title="IPO Invitation" download>
                        <div class="card">
                             <div class="card-body">
                                <h5 class="heading_title">Project affected(Local) Ipo</h5>
@@ -214,7 +214,17 @@
                             </div>
                        </div>
                      </a>
-                 </div>
+                </div>         
+                <div class="col-lg-3">
+                    <a target="_blank" href="img/news/Approved Prospectus.pdf" title="Approved Prospectus" >
+                       <div class="card">
+                            <div class="card-body">
+                               <h5 class="heading_title">Approved Prospectus</h5>
+                               <img src="img/icon-document.svg" class="download_icon" alt="Approved Prospectus">
+                            </div>
+                       </div>
+                    </a>
+                </div>
          </div>
 
          <!-- download-two end -->
