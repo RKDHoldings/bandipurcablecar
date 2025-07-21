@@ -6,22 +6,21 @@ include('includes/navbar.php');
 ?>
   <!-- Modal 1 -->
 <div id="modal1" class="modal">
-<div class="modal-content-1" >
-                  <div class="modal-header text-center">
-                  <h4>Notice</h4>  
-                  <span class="close">&times;</span>
-                  </div>
-                  <div class="modal-body">    
-                      
-                       <img src="img/prospectus.png" width="100%" alt="Notice">         
-                  </div>  
-                  <div class="model-footer" style="margin-left: auto;margin-right: 0;">
-                    <a href="img/news/Approved Prospectus.pdf" target="_blank">
-                        <button class="slide_from_left">Read More</button>
-                    </a>
-                  </div>   
+    <div class="modal-content-1" >
+        <div class="modal-header text-center">
+            <h4>Notice</h4>  
+            <button type="button" class="modal-btn" onclick="closeModelCustom()">&times;</button>
+        </div>
+        <div class="modal-body">          
+            <img src="img/prospectus.png" width="100%" alt="Notice">         
+        </div>  
+        <div class="model-footer" style="margin-left: auto;margin-right: 0;">
+            <a href="img/news/Approved Prospectus.pdf" target="_blank">
+                <button class="slide_from_left">Read More</button>
+            </a>
+        </div>   
              
-            </div>
+    </div>
 </div>
   <div class="modal fade" id="exampleModalCenter" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true" data-toggle="modal">
       <div class="modal-dialog">

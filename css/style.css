@@ -4622,6 +4622,23 @@ p:not([class]):first-child {
       text-decoration: none;
       cursor: pointer;
     }
+    .modal-btn {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      background-color: transparent;
+      border-color: transparent;
+    }
+    
+    .modal-btn:hover {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      background-color: transparent;
+      border-color: transparent;
+    }
 body.modal-open {
   position: fixed;
 }

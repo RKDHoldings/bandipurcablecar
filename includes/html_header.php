@@ -255,7 +255,9 @@ $(document).ready(function() {
   function openModal(modalId) {
     document.getElementById(modalId).style.display = "block";
   }
-
+function closeModelCustom(){
+  document.getElementById('modal1').style.display = "none";
+}
   // Function to close a modal
   function closeModal(modal) {
     modal.style.display = "none";
