@@ -131,11 +131,13 @@ include('includes/navbar.php');
                         <span class="d-flex align-items-center">&nbsp;General Notice</span>
                     </div>
                     <marquee class="news-scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-                    <a href="img/downloads/4th.pdf">4th AGM(Annual General Meeting) of Bandipur Cable Car
+                     <a href="img/news/Approved Prospectus.pdf" target="_blank">Approved Prospectus </a>
+                     <span class="dot"></span> <a href="img/news/local-ipo-notice.pdf" target="_blank">Local IPO Notice (Invitation Letter) </a>
+                     <span class="dot"></span> <a href="img/downloads/4th.pdf" target="_blank">4th AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2082/01/06) </a> <span class="dot"></span>
-                            <a href="img/downloads/3rd.pdf">3rd AGM(Annual General Meeting) of Bandipur Cable Car
+                            <a href="img/downloads/3rd.pdf" target="_blank">3rd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2080/09/28) </a> <span class="dot"></span>
-                        <a href="downloads.php">2nd AGM(Annual General Meeting) of Bandipur Cable Car
+                        <a href="downloads.php" target="_blank">2nd AGM(Annual General Meeting) of Bandipur Cable Car
                             Company(2079/03/29) </a> <span class="dot"></span> <a href="#">Registration of Bandipur
                             SkyWalk and Recretion Pvt.Ltd( 2080/03/13) </a> <span class="dot"></span> <a
                             href="#">Registration of Bandipur Banquet &amp; Events Pvt.Ltd (2080/03/13) </a> <span
